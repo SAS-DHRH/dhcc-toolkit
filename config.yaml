@@ -1,0 +1,47 @@
+title: 'DHCC'
+
+# hugo-book theme settings
+theme: "hugo-book"
+disablePathToLower: false
+enableGitInfo: true
+
+params:
+  bookLogo: 'DCHH_FINAL_HAZARD.png'
+  BookRepo: 'https://github.com/SAS-DHRH/dhcc-toolkit'
+  BookSection: 'toolkit'
+  BookCommitPath: 'commit'
+  BookEditPath: 'edit/master'
+  BookSearch: false
+  BookComments: false
+
+
+# Site menu (add items to generated menu)
+menu:
+  # before: []
+  after:
+    - name: "About DHCC ->"
+      url: "https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition"
+      weight: 10
+    - name: "Github"
+      url: "https://github.com/SAS-DHRH/dhcc-toolkit"
+      weight: 20
+
+
+# Tidy up some default hugo site settings
+uglyurls: true
+relativeurls: true
+canonifyURLs: true
+disableHugoGeneratorInject: true
+publishDir: docs
+languageCode: 'en-uk'
+# googleanalytics: ''
+disableKinds:
+  - RSS
+  - taxonomy
+  - taxonomyTerm
+languages:
+  en:
+    languageName: English
+staticDir:
+  - static
+
