@@ -30,7 +30,7 @@ The toolkit has multiple pathways, here is one suggestion if you are a policy-ty
 
 And if you're eco-anxious, try this route:
 
-- [Introduction]({{< relref path="./docs/introduction.md" >}})
+- [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - Read section H
 - Read section E
 - Read section L
