@@ -345,10 +345,10 @@ We have come up with seven more:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
+![alt_text](images/image5.png "image_tooltip")
 
 
 The incentives to greenwash or to delay are set to rise as the global economy decarbonises. As the false forest begins to sprout around us, how do we make sure we don’t get lost in it? There are no easy answers, but this certainly seems to be a space where the arts and humanities can usefully intervene through research, education, and activism. Close reading of green claims, distant reading of large corpori, collaboration with cultural heritage institutions and other trusted sources of information, and innovative approaches to cultivating truthfulness in the public sphere.
