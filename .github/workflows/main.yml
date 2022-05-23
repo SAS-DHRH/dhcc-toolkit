@@ -17,7 +17,8 @@ jobs:
     steps:
       - name: Git checkout
         uses: actions/checkout@v3
-        submodules: 'recursive'
+        with:
+          submodules: 'recursive'
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
