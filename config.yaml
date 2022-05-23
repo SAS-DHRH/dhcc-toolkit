@@ -32,7 +32,7 @@ uglyurls: true
 relativeurls: true
 canonifyURLs: true
 disableHugoGeneratorInject: true
-publishDir: ./docs
+publishDir: ./public
 languageCode: 'en-uk'
 # googleanalytics: ''
 disableKinds:

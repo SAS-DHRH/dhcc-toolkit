@@ -23,7 +23,7 @@ Themes: \
 
 The toolkit has multiple pathways, here is one suggestion if you are a policy-type thinking person:
 
-- [Introduction]({{< relref path="./docs/introduction.md" >}})
+- [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - Read section X1
 - Read section X2
 - Read section X3
