@@ -1,0 +1,34 @@
+# Build hugo into the ./docs dir and deploy to github pages
+name: 🧱 Publish to Github pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Whatcha doing?'     
+        required: true
+        default: '🧱 Building the site again 🎉'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Git checkout
+        uses: actions/checkout@v2
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build hugo site (incl. drafts and future)
+        env:
+          HUGO_BASE_URL: './'
+        run: hugo -DF --minify ${HUGO_BASE_URL}
+
+      - name: Deploy ./docs to gh-pages branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
