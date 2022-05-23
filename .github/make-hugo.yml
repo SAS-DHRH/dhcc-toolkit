@@ -10,7 +10,13 @@ on:
         default: '🧱 Building the site again 🎉'
 
 jobs:
-  deploy:
+  printInputs:
+    runs-on: ubuntu-20.04
+    steps:
+    - run: |
+        echo "Log level: ${{ github.event.inputs.logLevel }}"
+
+  hugo-build:
     runs-on: ubuntu-20.04
     steps:
       - name: Git checkout
