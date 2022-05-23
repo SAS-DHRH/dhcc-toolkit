@@ -25,7 +25,7 @@ jobs:
       - name: Build hugo site (incl. drafts and future)
         env:
           HUGO_BASE_URL: './'
-        run: hugo -DF --minify ${HUGO_BASE_URL}
+        run: hugo -DF --minify
 
       - name: Deploy ./docs to gh-pages branch
         uses: peaceiris/actions-gh-pages@v3
