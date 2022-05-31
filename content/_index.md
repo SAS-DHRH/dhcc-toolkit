@@ -11,7 +11,7 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 {{< columns >}}
 ## DH Benelux 2022 Workshop (Luxembourg)
 
-The DHCC hosted an afternoon workshop on 31 May 2022 for the DH Benelux workshop.
+The DHCC hosted an afternoon workshop on 31 May 2022 for the [DH Benelux conference](https://2022.dhbenelux.org/).
 
 Themes: \
 (a) decarbonising our research and teaching,\
