@@ -17,7 +17,7 @@ _Knowledge will never be able to replace respect in man's dealings with ecologic
 
 Our institutions are taking action. Most European universities have now set net zero targets and milestones, as part of broader sustainability strategies. They are integrating climate risks and opportunities into governance and strategy, and embedding climate change across their curriculums. Within institutions like these, advocacy is not about putting climate change on the agenda.
 
-Despite this, the HEI sector is not where it needs to be. In ten points, here is our view on the state of the sector in 2022. This is based on conversations rather than rigorous analysis. But they should be enough, if you work at a HEI, to get a rough sense of where your institution is at.
+Despite this, the Higher Education sector is not where it needs to be. In ten points, here is our view on the state of the sector in 2022. This is based on conversations rather than rigorous analysis. But they should be enough, if you work at a Higher Education Institution, to get a rough sense of where your institution is at.
 
 
 
@@ -76,7 +76,7 @@ Some procurement-related links:
 
 Approved supplier lists can also take decisions away from researchers. You may have someone who you know would be good to work with, but you need to get them on the approved suppliers list. This may take a prohibitively long time, or may get blocked altogether. It is easy to get discouraged. However, researchers should avoid pushing responsibility onto techs or sysadmins, and engage actively in discussion to find workarounds and push for change.
 
-Given the ethical imperatives of climate justice, there are also many educators and researchers who. (Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
+(Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
 
 
 ### **Question the Cloud**
@@ -340,7 +340,7 @@ _"Solutionists deploy technology to avoid politics; they advocate ‘post-ideolo
 
 –– [Evgeny Mozorov](https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt)
 
-Techno-optimism might could as a form of greenwashing, or a discourse of delay, but it also deserves its own special category. It is of special significance to arts and humanities researchers who work on and with technology (e.g. the Digital Humanities).
+Techno-optimism could be seen as a form of greenwashing, or a discourse of delay, but it also deserves its own special category. It is of special significance to arts and humanities researchers who work on and with technology (e.g. the Digital Humanities).
 
 Techno-optimism in relation to climate change means putting disproportionate trust in Negative Emissions Technologies, geoengineering, or other emerging or proposed technologies, that either (a) are unproven; (b) are unproven at scale; (c) have potential negative side-effects; (d) have potential negative implications for climate justice; and/or (e) are dependent on political, social and economic conditions in ways that might reasonably undermine their benefits.
 
