@@ -29,8 +29,7 @@ What can researchers do to resist techno-utopian, carbon-intensive technological
 
 Minimal computing is a set of practices that aims to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions. As [Jentery Sayers](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) has written:
 
-
-    > a minimal approach reduces the need for not only substantial storage and processing power but also a reliance on middleware, databases, peripherals, and substantial pieces of hardware. Such reduction should increase access while decreasing technology’s environmental effects (e.g., by reducing waste and energy consumption).
+> a minimal approach reduces the need for not only substantial storage and processing power but also a reliance on middleware, databases, peripherals, and substantial pieces of hardware. Such reduction should increase access while decreasing technology’s environmental effects (e.g., by reducing waste and energy consumption).
 
 The label ‘low tech’ or ‘frugal’ does not mean unsophisticated—it means efficient and more accessible. By sharing content without bells and whistles (such as software dependencies that the content doesn’t really need), minimalist approaches offer a better chance that content will be accessible to most users. Low-tech solutions can significantly reduce data transfer in comparison to regular, database-driven websites. As Tim Frick has said, bad UX design is not just bad for users, it trashes the planet (see Frick’s book _[Designing for Sustainability](https://www.oreilly.com/library/view/designing-for-sustainability/9781491935767/)_, 2016).
 
@@ -40,7 +39,7 @@ Our aim here is not to give black-and-white instructions. Oftentimes there is no
 
 
 
-Minimal web design for absolute beginners
+## Minimal web design for absolute beginners
 
 
 
@@ -58,7 +57,7 @@ A static website has fixed content which appears the same to every user (until i
 
 
 
-* A **dynamic **site uses server-side programming languages and technologies to pull information from a database and show it on your browser. All project data and content is stored in a content management system (CMS), which allows for bespoke, personalised, and automated changes to websites. Dynamic sites tend to be content-heavy and user-driven (that is to say the users are interacting with the content in specific ways).
+* A **dynamic** site uses server-side programming languages and technologies to pull information from a database and show it on your browser. All project data and content is stored in a content management system (CMS), which allows for bespoke, personalised, and automated changes to websites. Dynamic sites tend to be content-heavy and user-driven (that is to say the users are interacting with the content in specific ways).
 * A **static** site consists of a directory of files that lives on the server. This means that when you are accessing web content, you are directly accessing a file in the site directory rather than making a request to a database or CMS for content. Pages are therefore accessed as-is, and changes need to be made page-by-page (unlike dynamic sites).
 * A **hybrid** web site uses both elements of dynamic and static content.
 
@@ -77,13 +76,15 @@ The benefit from a static site is a little more blurred nowadays, because of the
 
 ### Static site generators and minimal Content Management Systems {#static-site-generators-and-minimal-content-management-systems}
 
-Use a static site where possible. You can do so using a **static site generator** such as [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/). Jekyll has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)). Hugo, which runs on the Go programming language, has fewer dependencies and attractive templates (this tool-kit runs on Hugo, by the way). Another good option is [GitHub Pages](https://pages.github.com/), and there are [many more](https://github.com/myles/awesome-static-generators). If you are accustomed to building websites with tools like SquareSpace, Wix, or Wordpress, there may be a bit of a learning curve. But it is probably not as steep as it looks, and well worth investing the time.
+Use a static site where possible. You can do so using a **static site generator** such as [Jekyll](https://jekyllrb.com/) or [Hugo](https://gohugo.io/).
+- Jekyll has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)).
+- Hugo, which runs on the Go programming language, has fewer dependencies and attractive templates (this tool-kit runs on Hugo, by the way). Another good option is [GitHub Pages](https://pages.github.com/), and there are [many more](https://github.com/myles/awesome-static-generators).
 
-For those of you who are using digital collections, consider also using a stripped-down digital collection platform. Many people use Omeka or Drupal, but consider using instead the [Wax platform](https://minicomp.github.io/wax/), which is 'producing digital exhibitions focused on longevity, low costs, and flexibility'.
+If you are accustomed to building websites with tools like SquareSpace, Wix, or Wordpress, there may be a bit of a learning curve. But it is probably not as steep as it looks, and well worth investing the time.
+
+For those of you who are creating **digital collections**, consider also using a stripped-down digital collection platform. Many people use [Omeka](https://omeka.org/) or [Drupal](https://www.drupal.org/), but consider using instead the [Wax platform](https://minicomp.github.io/wax/), which is 'producing digital exhibitions focused on longevity, low costs, and flexibility'.
 
 Static sites won’t be suitable for everything. A **content management system** (CMS) is a tool that helps you create a dynamic website without coding. WordPress and Drupal are well-known examples, but there are lightweight alternatives you can use instead:
-
-
 
 * [Strapi](https://strapi.io/): An open-source modern [headless CMS](https://www.contentful.com/r/knowledgebase/what-is-headless-cms/) alternative to WordPress.
 * [Ghost](https://ghost.org/): A lightweight headless CMS designed for content creators.
@@ -142,10 +143,6 @@ Here are some ways you might apply minimal computing principles in service of en
 Python, the go-to language of choice for many Digital Humanities researchers, can be observed in the following table (Pereira_ _et. al. 2017) comparing the energy and time factors of Python. Note that ‘time’ in this context means compute time, which is the time the computer takes to run the scripts, and not the time it takes to learn to write the language (although learning time is an important cost of labour factor, it is not a direct environmental factor of _computational_ research activity):
 
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
 ![alt_text](images/image1.png "image_tooltip")
 
 
@@ -157,116 +154,41 @@ Specifying full minimal stack containers/machines.
 
 **Minimal consumption**
 
-
-
 * Serverless instances which only consume compute time on demand. However, these require an understanding of the research and technical side to coordinate and operate.
 * Shared libraries at the operating system levels, between the disk sharing and network sharing all add costs. The big providers use lots of memory, which is cheaper than hitting disk, but the consequence is you need big hardware and large scale data centres.
 
 **Minimal maintenance**
 
-Why are you still running it?
+- Why are you still running it?
 
-On demand infrastructure.
+- On demand infrastructure.
 
-Having cost models
+- Creating cost models
 
-Infrastructure is declared - a knowledge system to load the YAML file into to get your emissions costs back would be great - instead of the calculators.
+- Infrastructure is declared - a knowledge system to load the YAML file into to get your emissions costs back would be great - instead of the calculators.
 
-Get the ICT service catalogue to update with emissions/costs.
+- Get the ICT service catalogue to update with emissions/costs.
 
 
 
 * Minimal barriers, Minimal internet, Minimal externals, Minimal automation, Minimal space,
 
-Minimal ephemerality, Minimal visibility
-
-
+**Minimal ephemerality, Minimal visibility**
 
 * Maximum access, Maximum accessibility, Maximum impact, Maximum mobility, Maximising your resource
 
-[Exercise for readers:
-
-**Applying minimising principles to my project**
-
-Project name:
-
-Project personas: e.g. Engineer, Researcher, Secondary School teacher
-
-
-<table>
-  <tr>
-   <td>What to minimise?
-   </td>
-   <td>Your thoughts about how to define, assess and minimise
-   </td>
-  </tr>
-  <tr>
-   <td>Minimal barriers
-   </td>
-   <td>e.g. This suggests accessibility, but not just accommodating those people with disabilities, but also thinking about the knowledge and experience people need to use your research. Do they need to understand Linked Open Data and SPARQL query language? That might be a barrier for some persons.
-   </td>
-  </tr>
-  <tr>
-   <td>Minimal space
-   </td>
-   <td>e.g. Let’s not keep everything we download or every file, but selectively keep the important and necessary data files to minimise the data storage space costs - in short and long term.
-   </td>
-  </tr>
-  <tr>
-   <td>Maximum build
-   </td>
-   <td>e.g. DevOps are going to be used, and will continuously run and build processes over and over again. Triggering compilers to keep building things is a horrendous amount of CPU time. Our software architecture and operational designs need to keep this hidden CPU time in mind.
-   </td>
-  </tr>
-  <tr>
-   <td>……………    ………………..
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>……………    ………………..
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>……………    ………………..
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>……………    ………………..
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>……………    ………………..
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
 ## Minimal computing, critical design, and system change
 
-Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html) _seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
+Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
 
 
-    In order to purchase the book, the Amazon website forces the customer to go through twelve different interfaces composed of large amounts of code, which is normally invisible to the average user. This code carries out all sorts of operations, such as organizing and styling the site’s content, allowing interactivity, and recording the user’s activity. Overall, I was able to track 1,307 different requests to all sort of scripts and documents, totaling 8,724 A4 pages worth of printed code, adding up to 87.33MB of information. The amount of energy needed to load each of the twelve web interfaces, along with each one’s endless fragments of code, was approximately 30 wh.
-
-
-    ([Moll 2019](https://www.janavirgin.com/AMZ/))
+> In order to purchase the book, the Amazon website forces the customer to go through twelve different interfaces composed of large amounts of code, which is normally invisible to the average user. This code carries out all sorts of operations, such as organizing and styling the site’s content, allowing interactivity, and recording the user’s activity. Overall, I was able to track 1,307 different requests to all sort of scripts and documents, totaling 8,724 A4 pages worth of printed code, adding up to 87.33MB of information. The amount of energy needed to load each of the twelve web interfaces, along with each one’s endless fragments of code, was approximately 30 wh. ([Moll 2019](https://www.janavirgin.com/AMZ/))
 
 Do we really have to burn coal so that every user can get personalised recommendations whether they want them or not? Yet these maximalist approaches are pervasive. This means minimal computing can sometimes feel like fighting a losing battle. So how do we also work toward larger structural change? We need to do two things:
 
 
 
-* Adopt and promote **behaviour change **(such as Minimal computing)**,** and
+* Adopt and promote **behaviour change** (such as minimal computing), and
 * advocate for **deeper structural changes** to support those changes in the longer term.
 
 Although the first point is vital, on its own it is not enough. E.g. a review of interventions at the household level concludes that: “taken in isolation, behavioural interventions have a very small positive effect on climate change mitigation behaviours while the intervention is in place. Once the intervention stops, there is no evidence that such interventions produce lasting positive changes” (Nisa et al., 2019). Rather, lasting positive changes come when there are structures that support and encourage them.
