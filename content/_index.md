@@ -24,7 +24,7 @@ Themes: \
 The toolkit has multiple pathways, here is one suggestion if you are a policy-type thinking person:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
-- [Minimal Computing]({{< relref path="./toolkit/minicomp.md" >}})
+- [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
