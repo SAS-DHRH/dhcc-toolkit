@@ -32,7 +32,8 @@ The toolkit has multiple pathways, here is one suggestion if you are a policy-ty
 {{< /columns >}}
 
 
-### a manifesto
+### A Manifesto
+
 [Digital Humanities and the Climate Crisis](https://dhc-barnard.github.io/envdh/)
 
 “The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.”
