@@ -27,8 +27,8 @@ The toolkit has multiple pathways, here is one suggestion if you are a policy-ty
 - [Minimal Computing]({{< relref path="./toolkit/minicomp.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
-- [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}}) 
-- [Decision Tree]({{< relref path="./toolkit/decision-tree.md" >}})
+- [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
+- [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
 {{< /columns >}}
 
 
