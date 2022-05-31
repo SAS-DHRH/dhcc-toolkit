@@ -24,7 +24,7 @@ Themes: \
 The toolkit has multiple pathways, here is one suggestion if you are a policy-type thinking person:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
-- Read section X1
+- [Minimal Computing]({{< relref path="./toolkit/minicomp.md" >}})
 - Read section X2
 - Read section X3
 
