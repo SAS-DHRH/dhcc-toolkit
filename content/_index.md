@@ -2,14 +2,14 @@
 title: Introduction
 type: docs
 bookToc: false
-description: 'The Digital Humanities Climate Coalition toolkit for Climate Justice in humanitites research.'
+description: 'The Digital Humanities Climate Coalition toolkit for Climate Justice in humanities research.'
 ---
 
 ![The Digital Humanities Climate Coalition](DCHH_FINAL_LOWER_CASE_HAZARD.png)
 
 
 {{< columns >}}
-## Benelux Workshop
+## DH Benelux 2022 Workshop
 
 Themes: \
 (a) decarbonising our research and teaching,\
