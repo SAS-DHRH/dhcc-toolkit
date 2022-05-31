@@ -31,8 +31,8 @@ The toolkit has multiple pathways, here is one suggestion to navigate through th
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
-{{< /columns >}}
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
+{{< /columns >}}
 
 
 ### A Manifesto
