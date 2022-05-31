@@ -10,7 +10,7 @@ slug: 'dh-benelux-workshop-2022'
 
 ![jambourd](./images/dh-benelux-jambourd.png)
 
-The action-items on the group [Jamboard](https://jamboard.google.com/d/1XfFs1dEdQ_vOWfpuybf7H4dKCQbglgGhv3u6tkZTMmM/viewer?f=0).
+The action-items on the group [Jamboard](https://jamboard.google.com/d/1XfFs1dEdQ_vOWfpuybf7H4dKCQbglgGhv3u6tkZTMmM/viewer?f=0) after the workshop finished (31 May 2022).
 
 ## Description
 
