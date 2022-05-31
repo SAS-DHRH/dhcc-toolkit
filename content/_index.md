@@ -9,7 +9,9 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 
 
 {{< columns >}}
-## DH Benelux 2022 Workshop
+## DH Benelux 2022 Workshop (Luxembourg)
+
+In this workshop we will underscore that as humanities researchers it is our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions. Moreover, given the immense and monopolistic power wielded by the global tech sector, and the critiques of this power that are part of the Digital Humanities, this community is well positioned to create change and demonstrate to our colleagues and collaborators how change can happen. Our use of technology and infrastructure should be informed by the ways corporate economic, cultural, and scientific power perpetuates and exacerbates the crisis. Choosing a hardware or hosting provider, for example, should mean considering direct environmental impacts, broader environmental policies and record of the provider, and more broadly still, the kinds of collective future that such a collaborative encounter presupposes. We should be able to candidly explore the complex and sometimes contradictory nature of our ecological impact: we should be able to measure and model where possible, while also creating context around our measurements, flagging uncertainties, and advocating for transforming wider conditions.
 
 Themes: \
 (a) decarbonising our research and teaching,\
@@ -21,7 +23,7 @@ Themes: \
 <--->
 ## Toolkit
 
-The toolkit has multiple pathways, here is one suggestion if you are a policy-type thinking person:
+The toolkit has multiple pathways, here is one suggestion to navigate through the chapters:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
