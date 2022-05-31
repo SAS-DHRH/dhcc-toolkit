@@ -32,7 +32,7 @@ The toolkit has multiple pathways, here is one suggestion to navigate through th
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
 {{< /columns >}}
-- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md >}})
+- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
 
 
 ### A Manifesto

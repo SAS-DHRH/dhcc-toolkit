@@ -1,12 +1,12 @@
 ---
-title: "Climate Change FAQ"
+title: "Climate Change FAQs"
 date: 2022-05-31
 draft: false
 weight: 2
 slug: 'climate-change-faqs'
 ---
 
-# Climate Change FAQ
+# Climate Change FAQs
 
 1.  **How does climate change work?** Carbon and other greenhouse gases are released into the atmosphere (especially from burning fossil fuels like oil, gas, and coal). Some emissions are then safely removed again (e.g. absorbed by trees), but some hang around in the atmosphere. This traps the sun's energy in our planetary climate, causing average planetary temperatures to rise (called [global warming]{.ul} or global heating). The consequences already include wildfires, droughts, loss of soil moisture, famines, disease, heatwaves, loss of arctic ice and rising sea levels, ocean acidification, storms, floods, wildlife extinction, and more.
 
