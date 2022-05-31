@@ -25,8 +25,8 @@ The toolkit has multiple pathways, here is one suggestion if you are a policy-ty
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minicomp.md" >}})
-- Read section X2
-- Read section X3
+- [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
+- [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
 
 And if you're eco-anxious, try this route:
 
