@@ -27,14 +27,7 @@ The toolkit has multiple pathways, here is one suggestion if you are a policy-ty
 - [Minimal Computing]({{< relref path="./toolkit/minicomp.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
-
-And if you're eco-anxious, try this route:
-
-- [Introduction]({{< relref path="./toolkit/introduction.md" >}})
-- Read section H
-- Read section E
-- Read section L
-- Read section P
+- [Advocating Within Your Institution](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html)
 
 {{< /columns >}}
 
