@@ -18,7 +18,7 @@ Themes: \
 (b) working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,\
 (c) transforming DH (and knowledge institutions) within broader transformations of society.
 
-For more information, see the workshop page.
+For more information, see the [workshop page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html).
 
 ![DHCC.jpg](DCHH_FINAL_HAZARD.png)
 
