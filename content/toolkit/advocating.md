@@ -333,7 +333,7 @@ We have come up with seven more:
 
 The incentives to greenwash or to delay are set to rise as the global economy decarbonises. As the false forest begins to sprout around us, how do we make sure we don’t get lost in it? There are no easy answers, but this certainly seems to be a space where the arts and humanities can usefully intervene through research, education, and activism. Close reading of green claims, distant reading of large corpori, collaboration with cultural heritage institutions and other trusted sources of information, and innovative approaches to cultivating truthfulness in the public sphere.
 
-Techno-optimism
+## Techno-optimism
 
 
 _"Solutionists deploy technology to avoid politics; they advocate ‘post-ideological’ measures that keep the wheels of global capitalism turning.”_
@@ -350,7 +350,7 @@ Here are a few angles on techno-optimism, including pointers to where to find ou
 
 
 
-* It is useful to **historicise **emerging climate technologies and energy technologies. One recent history identifies an “overall dynamic which should give climate scientists and policy makers pause for thought before pursuing yet another round of technological promises without social transformation in the hope of averting dangerous climate change” [(McLaren and Markusson 2020)](https://www.zotero.org/google-docs/?c6AoRd).
+* It is useful to **historicise** emerging climate technologies and energy technologies. One recent history identifies an “overall dynamic which should give climate scientists and policy makers pause for thought before pursuing yet another round of technological promises without social transformation in the hope of averting dangerous climate change” [(McLaren and Markusson 2020)](https://www.zotero.org/google-docs/?c6AoRd).
 * _[After Geoengineering](https://www.versobooks.com/books/3091-after-geoengineering)_ (2019) by Holly Jean Buck is a sympathetic-but-critical exploration of climate engineering technologies. It emphasises how such technologies might have very different impacts on the climate depending on how they are governed, and in whose interests.
 * In _[Experiment Earth: Responsible Innovation in Geoengineering](https://www.routledge.com/Experiment-Earth-Responsible-innovation-in-geoengineering/Stilgoe/p/book/9781138691940)_ (2016), Jack Stilgoe writes, “My aim in this book is to draw attention away from risk assessment towards uncertainties: the things we don’t know, that we can’t calculate and that may remain incalculable.”
 * [Geoengineering Watch](https://www.geoengineeringwatch.org/) is a campaign site with an emphasis on Solar Radiation Management.
@@ -359,10 +359,10 @@ Here are a few angles on techno-optimism, including pointers to where to find ou
 * Using the language of **uncertainty** can be a good way to move beyond a crude pro-tech vs. anti-tech impasse. Uncertainty is part of all good science. Often uncertainty can be quantified in ways that are useful for decision-making. Some uncertainty (sometimes described as “deep uncertainty”) is difficult or impossible to quantify or model, but can still be factored into decisions made about technology.
 * **Epistemological Luddism** See
   - Langdon Winner’s 1977 _[Autonomous Technology](https://mitpress.mit.edu/books/autonomous-technology)_
-  - Steven E. Jones, [*Against Technology: From the Luddites to Neo-Luddism* (Routledge, 2006)](https://www.taylorfrancis.com/books/mono/10.4324/9780203960455/technology-steven-jones)
+  - Steven E. Jones, [*Against Technology: From the Luddites to Neo-Luddism* (2006)](https://www.taylorfrancis.com/books/mono/10.4324/9780203960455/technology-steven-jones)
   - Lachney and Dotson’s 2018 ‘[Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles](https://doi.org/10.1080/02691728.2018.1476603)’.
 * **Conviviality** is an approach to technology Ivan Illich’s 1973 _[Tools for Conviviality](https://en.wikipedia.org/wiki/Tools_for_Conviviality)_. Illich’s approach is based around building tools that improve autonomy, and he seeks to understand autonomy in a relational and egalitarian way. [Vetter (2018)](https://doi.org/10.1016/j.jclepro.2017.02.195) explores links between conviviality and degrowth.
-* **Questions.** Stephanie Mills’ _[Turning Away from Technology](https://archive.org/details/turningawayfromt00step) _(1997) includes a useful list of ‘78 Reasonable Questions to Ask About Any Technology’ ([findable online too](https://blog.p2pfoundation.net/78-questions-to-ask-about-any-technology/2019/02/26)). For example, "Does it preserve or destroy biodiversity? Does it preserve or reduce ecosystem integrity?"
+* **Questions.** Stephanie Mills’ _[Turning Away from Technology](https://archive.org/details/turningawayfromt00step)_ (1997) includes a useful list of ‘78 Reasonable Questions to Ask About Any Technology’ ([findable online tool](https://blog.p2pfoundation.net/78-questions-to-ask-about-any-technology/2019/02/26)). For example, "Does it preserve or destroy biodiversity? Does it preserve or reduce ecosystem integrity?"
 * _[Don’t Look Up](https://en.wikipedia.org/wiki/Don%27t_Look_Up)_ (2021) is a movie about science communication and techno-optimism.
 * Some climate-related techno-optimism is not about decarbonisation directly, but rather about the use of **Artificial Intelligence** to squeeze more efficiency from constrained resources, and/or develop deep adaptations for a much less hospitable climate. The overlapping fields of Critical Data Studies, Critical Internet Studies, [Critical Algorithm Studies](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/), Critical Digital Studies, and [Science and Technology Studies](https://en.wikipedia.org/wiki/Science_and_technology_studies) more broadly, offer useful perspectives on AI imaginaries. Arts and humanities researchers can play a role in interrogating the hopes invested in AI, as well as in its development, deployment and governance.
 
