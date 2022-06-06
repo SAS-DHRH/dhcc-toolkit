@@ -10,7 +10,7 @@ params:
   BookRepo: 'https://github.com/SAS-DHRH/dhcc-toolkit'
   BookSection: 'toolkit'
   BookCommitPath: 'commit'
-  BookEditPath: 'edit/master'
+  BookEditPath: 'edit/main'
   BookSearch: false
   BookComments: false
 
