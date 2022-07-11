@@ -8,22 +8,26 @@ slug: 'minimal-computing'
 
 # Minimal computing  {#2-minimal-computing}
 
-
+{{< hint info >}}
 _‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
 
 [GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
+{{< /hint >}}
 
 
+{{< hint info >}}
 _As a society we need to start treating computational resources as finite and precious, to be utilised only when necessary, and as effectively as possible. We need frugal computing: achieving the same results for less energy._
 
-
 [Wim Vanderbauwhede](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
+{{< /hint >}}
 
 
+{{< hint info >}}
 _‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
 
-
 [Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
+{{< /hint >}}
+
 
 What can researchers do to resist techno-utopian, carbon-intensive technological traps? How can we support environmentally responsible design—even if software filled with cool unnecessary features may forever tug on our heartstrings? **Minimal computing** has at least some of the answers.
 
@@ -39,39 +43,22 @@ Our aim here is not to give black-and-white instructions. Oftentimes there is no
 
 
 
-## Minimal web design for absolute beginners
-
-
-
-* Use fewer videos and images. Make the ones you do use really count!
-* Shrink your images using a tool like [Squoosh](https://squoosh.app/).
-* Use the newer WebP image format (instead of JPEG or PNG).
-* Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
-* Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
-* Use a tool such as [Ecograder](https://ecograder.com/) to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
-
-
 ## Static versus dynamic websites {#static-versus-dynamic-websites}
 
 A static website has fixed content which appears the same to every user (until it is manually updated). A dynamic website is generated “on the fly” and is more associated with interactivity. Social media sites are dynamic websites, since they are woven together from a variety of user generated content. More technically:
-
-
 
 * A **dynamic** site uses server-side programming languages and technologies to pull information from a database and show it on your browser. All project data and content is stored in a content management system (CMS), which allows for bespoke, personalised, and automated changes to websites. Dynamic sites tend to be content-heavy and user-driven (that is to say the users are interacting with the content in specific ways).
 * A **static** site consists of a directory of files that lives on the server. This means that when you are accessing web content, you are directly accessing a file in the site directory rather than making a request to a database or CMS for content. Pages are therefore accessed as-is, and changes need to be made page-by-page (unlike dynamic sites).
 * A **hybrid** web site uses both elements of dynamic and static content.
 
 
-### Why might you choose one or the other (or both)? {#why-might-you-choose-one-or-the-other-or-both}
+*Why might you choose one or the other (or both)?*
 
 There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact.
 
-**Although, it’s a little more complicated**
+*Although, it’s a little more complicated*
 
 The benefit from a static site is a little more blurred nowadays, because of the way data gets cached. Browsers store certain data to speed up repeat visits. The browser may send the website an ETag to quickly check if a piece of content has changed. If not, it uses its cached copy. Service providers have similar caching techniques. This means it is not always clear what parts of your backend infrastructure are being hit when you use a dynamic site. A good proportion of the content might actually already be stored on your device.
-
-
-## Tips for creating sustainable websites {#tips-for-creating-sustainable-websites}
 
 
 ### Static site generators and minimal Content Management Systems {#static-site-generators-and-minimal-content-management-systems}
@@ -90,6 +77,22 @@ Static sites won’t be suitable for everything. A **content management system**
 * [Ghost](https://ghost.org/): A lightweight headless CMS designed for content creators.
 * [Gatsby](https://www.gatsbyjs.com/): Good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
 * [Mukurtu](https://mukurtu.org/): A grassroots CMS project aiming to empower communities to manage, share, narrate, and exchange their digital heritage in culturally relevant and ethically-minded ways.
+
+
+## Tips for creating sustainable websites {#tips-for-creating-sustainable-websites}
+
+
+{{< hint warning >}}
+**Minimal web design for absolute beginners**
+
+* Use fewer videos and images. Make the ones you do use really count!
+* Shrink your images using a tool like [Squoosh](https://squoosh.app/).
+* Use the newer WebP image format (instead of JPEG or PNG).
+* Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
+* Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
+* Use a tool such as [Ecograder](https://ecograder.com/) to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
+
+{{< /hint >}}
 
 
 ### Images and Lazy Loading {#images-and-lazy-loading}
@@ -207,13 +210,14 @@ In this way, the everyday use of digital systems (for research and other purpose
 
 ## Minimal computing case studies
 
-
-
+{{< hint info >}}
 * _[Low-tech Magazine](https://www.lowtechmagazine.com/)_: This magazine runs a static website on a solar panel. In 2018, they outlined how they built a low-carbon website, ‘[How to Build a Low-tech Website?](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)’ which offers some practical suggestions for digital publishing.
 * [Solar Protocol](http://solarprotocol.net/): A platform of small solar-powered servers across different global locations. “The network routes internet traffic according to the logic of the sun, where page requests are sent to whichever server is enjoying the most sunlight at the time.”
 * [Making and Knowing Project](https://www.makingandknowing.org/): this project published a static digital critical edition of [BnF MS Fr. 640](https://edition640.makingandknowing.org/#/), which uses minimal computing principles. See the ‘[Digital Development](https://edition640.makingandknowing.org/#/content/about)’ section of the site for more information.
 * [Herman Melville Electronic Library](https://melville.electroniclibrary.org/): This project is a good example of a hybrid site; it has minimised its dependencies by hosting most of its web components on a static Jekyll site served through GitHub and Netlify, but it also has a bespoke dynamic tool called [TextLab](https://melville.electroniclibrary.org/textlab.html) rendered through Heroku app. For more information on this process, see [this seminar recording](https://www.youtube.com/watch?v=c0B5RFAjsi0&list=PLSTJ8CQ1p25BM4NF249Gy2ImFKCnKG2ft).
 * [Fast Familiar](https://workroom.fastfamiliar.com/we-made-our-first-carbon-neutral-project/) are a group of artists creating socially and environmentally inclusive artworks and projects. They have written blog posts detailing how they have improved the carbon consumption of their website and projects: ‘[We Made Our First Carbon Neutral Project](https://workroom.fastfamiliar.com/we-made-our-first-carbon-neutral-project/)’ and ‘[How We Made Our Website Use 50% Less Energy](https://workroom.fastfamiliar.com/how-we-made-our-website-use-50-less-energy/).’
+
+{{< /hint >}}
 
 
 ## Further reading on Minimal Computing

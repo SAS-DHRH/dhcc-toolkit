@@ -8,10 +8,12 @@ slug: advocating-within-your-institution
 
 # Advocating within your institution
 
+{{< hint info >}}
+_Knowledge will never be able to replace\
+respect in man's dealings with ecological systems._
 
-_Knowledge will never be able to replace respect in man's dealings with ecological systems._
-
-– Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)
+Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)
+{{< /hint >}}
 
 ## Put your institution in context {#put-your-institution-in-context}
 
@@ -21,16 +23,16 @@ Despite this, the Higher Education sector is not where it needs to be. In ten po
 
 
 
-1. **Comparisons are hard right now.** Net Zero target dates are not easily comparable across different institutions because of different methodologies and assumptions. League tables are challenging to assemble. Interpreting your institution’s ranking requires careful research.
-2. **Definitions matter.** The terms ‘carbon neutral’, ‘climate neutral’, and ‘Net Zero’ tend to mean different things (and also get defined in different ways). Make sure your institution’s commitment covers Scope 1, Scope 2, and Scope 3 emissions.
-3. **Pathways matter.** Emissions en route to Net Zero are as important as the Net Zero date itself. It is vital to make as much progress as early on possible. Make sure your institution has ambitious milestones along the way. If bringing your Net Zero date forward is challenging, you may find more traction bringing forward milestones.
-4. **Offsets are problematic.** Net Zero poses significant greenwashing temptations, especially around the use of carbon offsetting. Not all offsets are equal, and institutions are taking very different approaches to them, and to what counts as an ‘unavoidable emission.’ Make sure your institution also sets an Absolute Zero target date.
-5. **Benchmarks are seldom science-based.** Institutions naturally tend to pick their Net Zero dates by asking, ‘What is feasible for us, given our business model, and given what others in the sector are doing?’ But to have a good chance* of achieving 1.5 degrees, global emissions need to roughly halve by 2030, and reach Net Zero by 2050. Global North countries have ethical and practical obligations to reach these milestones even sooner (e.g. China’s current Net Zero date is 2060, India’s current Net Zero date is 2070).
-6. **SBTi are pretty busy right now.** The Science-Based Targets initiative has yet to expand its work to universities, but a few universities are nonetheless aligning themselves; all should do so. Also, some universities that aim (and claim) to be SBTi aligned are not aligned with the latest recommendations.
-7. **Institutional policies and messaging are often inconsistent.** If you work for a relatively well-resourced institution in the Global North, it needs to be achieving Net Zero well ahead of the planetary target date (2050) to be consistent with a 1.5 degree target. Some institutions have already reached Net Zero.
-8. **Implementation details are being worked out.** Many institutions have Net Zero commitments that they do not yet know how to deliver. There is a risk of backsliding as the challenges and costs emerge.
-9. **Risk management is unreflective of the scale of climate crisis.** There are opportunities to realise more co-benefits across sustainability and risk management. Some traditional risk management methodologies may not really be suitable for dealing with climate crisis (e.g. around “deep uncertainty” and “tipping points”). Adaptation needs to be transformative.
-10. **Don’t expect an even picture throughout the institution.** In particular, many larger universities have decentralised governance structures, and different parts of the university may be very out of step with each other.
+1. **Comparisons are hard right now**. Net Zero target dates are not easily comparable across different institutions because of different methodologies and assumptions. League tables are challenging to assemble. Interpreting your institution’s ranking requires careful research.
+2. **Definitions matter**. The terms ‘carbon neutral’, ‘climate neutral’, and ‘Net Zero’ tend to mean different things (and also get defined in different ways). Make sure your institution’s commitment covers Scope 1, Scope 2, and Scope 3 emissions.
+3. **Pathways matter**. Emissions en route to Net Zero are as important as the Net Zero date itself. It is vital to make as much progress as early on possible. Make sure your institution has ambitious milestones along the way. If bringing your Net Zero date forward is challenging, you may find more traction bringing forward milestones.
+4. **Offsets are problematic**. Net Zero poses significant greenwashing temptations, especially around the use of carbon offsetting. Not all offsets are equal, and institutions are taking very different approaches to them, and to what counts as an ‘unavoidable emission.’ Make sure your institution also sets an Absolute Zero target date.
+5. **Benchmarks are seldom science-based**. Institutions naturally tend to pick their Net Zero dates by asking, ‘What is feasible for us, given our business model, and given what others in the sector are doing?’ But to have a good chance* of achieving 1.5 degrees, global emissions need to roughly halve by 2030, and reach Net Zero by 2050. Global North countries have ethical and practical obligations to reach these milestones even sooner (e.g. China’s current Net Zero date is 2060, India’s current Net Zero date is 2070).
+6. **SBTi are pretty busy right now**. The Science-Based Targets initiative has yet to expand its work to universities, but a few universities are nonetheless aligning themselves; all should do so. Also, some universities that aim (and claim) to be SBTi aligned are not aligned with the latest recommendations.
+7. **Institutional policies and messaging are often inconsistent**. If you work for a relatively well-resourced institution in the Global North, it needs to be achieving Net Zero well ahead of the planetary target date (2050) to be consistent with a 1.5 degree target. Some institutions have already reached Net Zero.
+8. **Implementation details are being worked out**. Many institutions have Net Zero commitments that they do not yet know how to deliver. There is a risk of backsliding as the challenges and costs emerge.
+9. **Risk management is unreflective of the scale of climate crisis**. There are opportunities to realise more co-benefits across sustainability and risk management. Some traditional risk management methodologies may not really be suitable for dealing with climate crisis (e.g. around “deep uncertainty” and “tipping points”). Adaptation needs to be transformative.
+10. **Don’t expect an even picture throughout the institution**. In particular, many larger universities have decentralised governance structures, and different parts of the university may be very out of step with each other.
 
 “A good chance”: There is intrinsic uncertainty in climate science modelling. Things may be better or worse.
 
@@ -39,18 +41,16 @@ Despite this, the Higher Education sector is not where it needs to be. In ten po
 
 Advocacy will look different in different institutions. It may often involve:
 
-
-
-1. **Visibility and accountability.** Building coalitions and keeping sustainability and climate justice high on the agenda. Holding the leadership and other internal stakeholders accountable.
-2. **Translation for decision-makers.** Working to make sustainability and climate justice expertise more legible within business cases and institutional strategy.
-3. **Translation for stakeholders.** Interpreting and curating your institutions’ targets and methodologies and making them more accessible.
-4. **Up-to-dateness.** Making sure that institutional strategy keeps evolving, given the rapidity with which climate issues evolve. Reviewing sustainability strategies and actions in light of the latest science and policy.
-5. **Diving into complexity.** Scrutinising more opaque areas such as procurement, pensions and endowments.
-6. **Tools.** Scrutinising the methodologies and assumptions embedded in your institution’s sustainability tools. Creating accessible and open source alternatives to commercial tools and knowledge bases.
-7. **Anchoring.** Strengthening your institution as a green ‘anchor institution’ within the local economy and community. Creating collaborations and synergies, both inside and outside your institution.
-8. **Sectoral work.** Sharing best practice across the sector, or questioning the framings that are common across the sector.
-9. **Revolutions.** Exploring possibilities for more radical, innovative, and disruptive approaches.
-10. **Just being you.** For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
+1. **Visibility and accountability**. Building coalitions and keeping sustainability and climate justice high on the agenda. Holding the leadership and other internal stakeholders accountable.
+2. **Translation for decision-makers**. Working to make sustainability and climate justice expertise more legible within business cases and institutional strategy.
+3. **Translation for stakeholders**. Interpreting and curating your institutions’ targets and methodologies and making them more accessible.
+4. **Up-to-dateness**. Making sure that institutional strategy keeps evolving, given the rapidity with which climate issues evolve. Reviewing sustainability strategies and actions in light of the latest science and policy.
+5. **Diving into complexity**. Scrutinising more opaque areas such as procurement, pensions and endowments.
+6. **Tools**. Scrutinising the methodologies and assumptions embedded in your institution’s sustainability tools. Creating accessible and open source alternatives to commercial tools and knowledge bases.
+7. **Anchoring**. Strengthening your institution as a green ‘anchor institution’ within the local economy and community. Creating collaborations and synergies, both inside and outside your institution.
+8. **Sectoral work**. Sharing best practice across the sector, or questioning the framings that are common across the sector.
+9. **Revolutions**. Exploring possibilities for more radical, innovative, and disruptive approaches.
+10. **Just being you**. For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
 
 
 ## Get involved in supply decisions {#get-involved-in-supply-decisions}
@@ -81,189 +81,65 @@ Approved supplier lists can also take decisions away from researchers. You may h
 
 ### **Question the Cloud**
 
-For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. The Green Grid ([www.thegreengrid.org](https://www.thegreengrid.org/)) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
+For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
 
 When a university or other institution procures data storage and computing power, this is an opportunity to improve our own environmental impact, and to incentivise much larger players to improve theirs. Currently Cloud services are dominated by Amazon, Google, and Microsoft. Here are just a few questions that might help get the conversations started, both internally with procurement teams, and externally with potential suppliers.
 
 
-<table>
-  <tr>
-   <td>Question
-   </td>
-   <td>Notes
-   </td>
-  </tr>
-  <tr>
-   <td>What are the broader climate policies of the provider (not just the data centre parts of its business)?
-   </td>
-   <td><a href="https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/">Greenpeace recently explored the green claims of AWS, Google and Microsoft</a>. All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction.
-   </td>
-  </tr>
-  <tr>
-   <td>What are the broader ESG policies of the provider?
-   </td>
-   <td>ESG = Environmental, Social, Governance.
-   </td>
-  </tr>
-  <tr>
-   <td>What is the power utilisation efficiency of the data centre?
-   </td>
-   <td>In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible.
-   </td>
-  </tr>
-  <tr>
-   <td>What is the data centre’s carbon footprint?
-   </td>
-   <td>It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities.
-   </td>
-  </tr>
-  <tr>
-   <td>What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data?
-   </td>
-   <td>Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them).
-   </td>
-  </tr>
-  <tr>
-   <td>To what extent does the provider use carbon offsetting?
-   </td>
-   <td>Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South.
-   </td>
-  </tr>
-  <tr>
-   <td>Is the data centre’s excess heat redistributed to the district heating network?
-   </td>
-   <td>Heat may also be captured and used in other ways, i.e. as a supplemental power source.
-   </td>
-  </tr>
-  <tr>
-   <td>How much electricity does the data centre generate from on-site renewables?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Was there opposition to the siting of the data centre from local stakeholders, and how was it resolved?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>How is the data centre integrated into the local community now?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>What is the data centre’s water usage like?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>What jurisdiction is the data centre in?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>What is the data centre’s exposure and vulnerability to physical climate risks?
-   </td>
-   <td>For example, proximity to flood plains.
-   </td>
-  </tr>
-  <tr>
-   <td>What climate and ESG-related certifications does the provider have? What forms of independent verification are used?
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>What is the provider’s view of the robustness and comparability of their competitors’ carbon disclosures?
-   </td>
-   <td>For example, Google claims to be carbon neutral (based on offsetting), but it’s complicated.
-   </td>
-  </tr>
-  <tr>
-   <td>Find some tricky questions. Or if you can’t, ask them to describe what most challenges or bewilders them.
-   </td>
-   <td>Try to engage the providers as real people in the complexities of climate transition.
-   </td>
-  </tr>
-  <tr>
-   <td>Especially where big tech is concerned, how does the provider encourage us to imagine the future in certain ways?
-   </td>
-   <td>Amazon, Google, Microsoft et al. don’t just influence the future via their policies, but also through their cultural influence. As arts and humanities scholars, we are well-placed to start conversations around this.
-   </td>
-  </tr>
-  <tr>
-   <td>What is the procurement team’s scoring methodology? What proportion is devoted to sustainability, and how has this been derived?
-   </td>
-   <td>Procurement decisions take place in legal frameworks, although they can of course voluntarily go beyond these in securing appropriate suppliers.
-   </td>
-  </tr>
-</table>
+
+| Question                                                     | Notes                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| What are the broader climate policies of the provider (not just the data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
+| What are the broader ESG policies of the provider?           | ESG = Environmental, Social, Governance.                     |
+| What is the power utilisation efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. |
+| What is the data centre’s carbon footprint?                  | It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities. |
+| What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data? | Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them). |
+| To what extent does the provider use carbon offsetting?      | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. |
+| Is the data centre’s excess heat redistributed to the district heating network? | Heat may also be captured and used in other ways, i.e. as a supplemental power source. |
+| How much electricity does the data centre generate from on-site renewables? |                                                              |
+| Was there opposition to the siting of the data centre from local stakeholders, and how was it resolved? |                                                              |
+| How is the data centre integrated into the local community now? |                                                              |
+| What is the data centre’s water usage like?                  |                                                              |
+| What jurisdiction is the data centre in?                     |                                                              |
+| What is the data centre’s exposure and vulnerability to physical climate risks? | For example, proximity to flood plains.                      |
+| What climate and ESG-related certifications does the provider have? What forms of independent verification are used? |                                                              |
+| What is the provider’s view of the robustness and comparability of their competitors’ carbon disclosures? | For example, Google claims to be carbon neutral (based on offsetting), but it’s complicated. |
+| Find some tricky questions. Or if you can’t, ask them to describe what most challenges or bewilders them. | Try to engage the providers as real people in the complexities of climate transition. |
+| Especially where big tech is concerned, how does the provider encourage us to imagine the future in certain ways? | Amazon, Google, Microsoft et al. don’t just influence the future via their policies, but also through their cultural influence. As arts and humanities scholars, we are well-placed to start conversations around this. |
+| What is the procurement team’s scoring methodology? What proportion is devoted to sustainability, and how has this been derived? | Procurement decisions take place in legal frameworks, although they can of course voluntarily go beyond these in securing appropriate suppliers. |
 
 
-_Doing it ourselves?_ There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for the most part, outsourcing makes sense. However, there are other factors to bear in mind. Universities frequently operate their own small on-site data centres for resilience. Data centres can be integrated into local heating infrastructure (e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” [(Jakobsson 2021)](https://www.zotero.org/google-docs/?SCfseh)). Climate change is also associated with deep uncertainty, and tail risks — e.g. political instability or legal / regulatory change where data is housed, the security of optical fibre cables — can legitimately inform decision-making. Methodologies are becoming more available (e.g. [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/on-premise)) for monitoring on-premise data usage. Universities have strong and distinctive relationships with the public sector, and are used to cross-sectoral collaboration. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
+_Doing it ourselves?_
 
-_The Cloud as a factory?_ In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to (1) "restore a sense of place to our understanding of the information economy"; (2) "appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems"; (3) "recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype; (4) consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences"; (5) identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and (6) "consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
+There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for the most part, outsourcing makes sense. However, there are other factors to bear in mind. Universities frequently operate their own small on-site data centres for resilience. Data centres can be integrated into local heating infrastructure (e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” [(Jakobsson 2021)](https://www.zotero.org/google-docs/?SCfseh)). Climate change is also associated with deep uncertainty, and tail risks — e.g. political instability or legal / regulatory change where data is housed, the security of optical fibre cables — can legitimately inform decision-making. Methodologies are becoming more available (e.g. [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/on-premise)) for monitoring on-premise data usage. Universities have strong and distinctive relationships with the public sector, and are used to cross-sectoral collaboration. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
+
+_The Cloud as a factory?_
+
+In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to (1) "restore a sense of place to our understanding of the information economy"; (2) "appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems"; (3) "recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype; (4) consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences"; (5) identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and (6) "consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
 
 
 ## Ask questions {#ask-questions}
 
-Of course you will do what you can in areas where you have discretion. But what is the best way to connect with more senior decision-makers? Some institutions are more democratic than others, some leaderships are more accessible than others. If you do feel cut off, a simple rule of thumb is to show up to all available events where senior management may be present, and make sure that pertinent questions are being asked. Ideas for questions include …
+Of course you will do what you can in areas where you have discretion. But what is the best way to connect with more senior decision-makers? Some institutions are more democratic than others, some leaderships are more accessible than others. If you do feel cut off, a simple rule of thumb is to show up to all available events where senior management may be present, and make sure that pertinent questions are being asked. Ideas for questions include:
 
-
-<table>
-  <tr>
-   <td>
-<ul>
-
-<li>What are the climate risks and opportunities associated with x?
-
-<li>Has x been carbon footprinted? Why or why not?
-
-<li>What data is available and/or desirable to assess the climate-related risks and impacts of x?
-
-<li>What sustainability data and/or analyses have been generated in relation to x? Do we know how much these outputs are being used? How can they be made more useable?
-
-<li>Whose infrastructure is being used? Is it clear where responsibility for emissions begins and ends?
-
-<li>Can our climate ambition be raised?
-
-<li>Can our Net Zero date be brought forward?
-
-<li>Can we rely less on carbon offsets?
-
-<li>Is x compatible with our sustainability strategy?
-
-<li>Is our risk appetite in relation to x appropriate, given our sustainability strategy?
-</li>
-</ul>
-   </td>
-   <td>
-<ul>
-
-<li>Is x compatible with our mission statement and values?
-
-<li>How does x advance our sustainability strategy?
-
-<li>Our sustainability strategy says x. Are the implications compatible with our mission statement and values?
-
-<li>Is our Net Zero strategy compatible with limiting global warming to 1.5 degrees, given disparities in global capacities to reach Net Zero?
-
-<li>How have we assessed the risk of missing our Net Zero milestones, and what is being done to mitigate this risk?
-
-<li>How can sustainability work be better resourced and rewarded in all roles throughout the institution?
-
-<li>How is the institution’s business model transforming in response to physical and transition climate risks and opportunities?
-
-<li>How can we realise co-benefits between our sustainability strategy and other agendas within the institution?
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
+- What are the climate risks and opportunities associated with x?
+- Has x been carbon footprinted? Why or why not?
+- What data is available and/or desirable to assess the climate-related risks and impacts of x?
+- What sustainability data and/or analyses have been generated in relation to x? Do we know how much these outputs are being used? How can they be made more useable?
+- Whose infrastructure is being used? Is it clear where responsibility for emissions begins and ends?
+- Can our climate ambition be raised?
+- Can our Net Zero date be brought forward?
+- Can we rely less on carbon offsets?
+- Is x compatible with our sustainability strategy?
+- Is our risk appetite in relation to x appropriate, given our sustainability strategy?
+- Is x compatible with our mission statement and values?
+- How does x advance our sustainability strategy?
+- Our sustainability strategy says x. Are the implications compatible with our mission statement and values?
+- Is our Net Zero strategy compatible with limiting global warming to 1.5 degrees, given disparities in global capacities to reach Net Zero?
+- How have we assessed the risk of missing our Net Zero milestones, and what is being done to mitigate this risk?
+- How can sustainability work be better resourced and rewarded in all roles throughout the institution?
+- How is the institution’s business model transforming in response to physical and transition climate risks and opportunities?
+- How can we realise co-benefits between our sustainability strategy and other agendas within the institution?
 
 
 
@@ -306,25 +182,25 @@ In 2009, TerraChoice conducted market research on existing products which made �
 
 
 
-1. **The hidden trade-off.** Saying something is green by using narrow criteria and ignoring other more important environmental impacts.
-2. **No proof.** Claiming greenness without easily accessible supporting information.
-3. **Vagueness.** Using poorly defined terms, often for marketing or reputational purposes.
-4. **Irrelevance.** Committing to a valid environmental claim, but an unimportant or resolved one
-5. **Lesser of two evils.** Making true claims within your own category, which distract from greater concerns of the category as a whole.
-6. **Fibbing.** Making environmental claims that are false.
-7. **Worshipping false labels.** Giving the impression of 3rd-party endorsement when the association does not in fact exist.
+1. **The hidden trade-off**. Saying something is green by using narrow criteria and ignoring other more important environmental impacts.
+2. **No proof**. Claiming greenness without easily accessible supporting information.
+3. **Vagueness**. Using poorly defined terms, often for marketing or reputational purposes.
+4. **Irrelevance**. Committing to a valid environmental claim, but an unimportant or resolved one
+5. **Lesser of two evils**. Making true claims within your own category, which distract from greater concerns of the category as a whole.
+6. **Fibbing**. Making environmental claims that are false.
+7. **Worshipping false labels**. Giving the impression of 3rd-party endorsement when the association does not in fact exist.
 
 We have come up with seven more:
 
 
 
 1. **“I can’t bear to look!”** Greenwashing by omission. An institution may drag it heels on collecting sustainability data or doing rigorous analyses, especially if deep down it knows it might not like what it will find.
-2. **Transparency without agency.** Even if an institution is being honest, rigorous and bold in how it collects and analyses sustainability, and how it communicates the results … is it checking to make sure this information is actually being used? Is it supporting the creation and empowerment of audiences and users?
-3. **Passing the buck.** Similarly, an institution may disclose climate-related information in the expectation that key stakeholders (students, funders, regulators, the public, etc.) will then take appropriate action, and alter the institution’s operating environment.
-4. **Convenient benchmarking.** It’s natural for organisations to benchmark themselves against similar organisations (e.g. a university will tend to compare itself to other universities in the same country, and perhaps regionally and globally). This can lead to an “eco echo chamber” where entire sectors are behind on climate ambition. Science-based targets are one good antidote, although here too we’ll have to be careful -- science seldom speaks with one voice, and there may be temptations to cherry-pick the most convenient advice.
-5. **Sustainability as an excuse for every decision.** If sustainability is not the real driver behind a decision, it is better to be honest about that. If there are incidental sustainability benefits, that’s great, but frame them appropriately. Otherwise you risk giving the wrong impression about the sustainability costs and benefits of various actions.
+2. **Transparency without agency**. Even if an institution is being honest, rigorous and bold in how it collects and analyses sustainability, and how it communicates the results … is it checking to make sure this information is actually being used? Is it supporting the creation and empowerment of audiences and users?
+3. **Passing the buck**. Similarly, an institution may disclose climate-related information in the expectation that key stakeholders (students, funders, regulators, the public, etc.) will then take appropriate action, and alter the institution’s operating environment.
+4. **Convenient benchmarking**. It’s natural for organisations to benchmark themselves against similar organisations (e.g. a university will tend to compare itself to other universities in the same country, and perhaps regionally and globally). This can lead to an “eco echo chamber” where entire sectors are behind on climate ambition. Science-based targets are one good antidote, although here too we’ll have to be careful -- science seldom speaks with one voice, and there may be temptations to cherry-pick the most convenient advice.
+5. **Sustainability as an excuse for every decision**. If sustainability is not the real driver behind a decision, it is better to be honest about that. If there are incidental sustainability benefits, that’s great, but frame them appropriately. Otherwise you risk giving the wrong impression about the sustainability costs and benefits of various actions.
 6. **“A+ for effort, but …”** Some initiatives really do contribute in positive ways, but use up significant amounts of time, energy, attention, money and other resources which could be much better used. Should we think of them as a form of greenwashing? Maybe. Of course, we can’t always expect to be perfectly efficient when it comes to climate action. But if the 2020s is to be the decade of delivery, we can’t have (just for example) sustainability leads being asked to devote large amounts of their time to raising awareness with symbolic actions.
-7. **“It’s ALL just greenwashing!”** Of course, it is also possible for something to _look _like greenwashing, when it is actually making a useful and well-proportioned contribution to climate transition. Better to be constructive and detailed when assessing an initiative, than to make accusations based on a hunch.
+7. **“It’s ALL just greenwashing!”** Of course, it is also possible for something to _look_ like greenwashing, when it is actually making a useful and well-proportioned contribution to climate transition. Better to be constructive and detailed when assessing an initiative, than to make accusations based on a hunch.
 
 [Lamb et al. (2020)](https://doi.org/10.1017/sus.2020.13) mention climate denialism, climate-impact scepticism, _ad hominem_ attacks on climate scientists, but devote most of their article to “**discourses of delay**.” They offer this typology:
 
@@ -335,10 +211,11 @@ The incentives to greenwash or to delay are set to rise as the global economy de
 
 ## Techno-optimism
 
-
+{{< hint info >}}
 _"Solutionists deploy technology to avoid politics; they advocate ‘post-ideological’ measures that keep the wheels of global capitalism turning.”_
 
-–– [Evgeny Mozorov](https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt)
+[Evgeny Mozorov](https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt)
+{{< /hint >}}
 
 Techno-optimism could be seen as a form of greenwashing, or a discourse of delay, but it also deserves its own special category. It is of special significance to arts and humanities researchers who work on and with technology (e.g. the Digital Humanities).
 
@@ -371,14 +248,12 @@ Here are a few angles on techno-optimism, including pointers to where to find ou
 
 Get in rooms where decisions are made and, where appropriate:
 
-
-
 * **Appeal to transparency**. The operational methods which management uses to make resourcing and strategic decisions is crucial but it is even more crucial that these methods and decisions are being talked about outside of the managerial circles – for accountability and trust.
 * **Appeal to the institution’s values**, as expressed in its value statement, mission statement, vision statement, and/or existing strategy documents. It is likely that these will use the language of environmental sustainability. (If they don’t, this in itself is something to be addressed urgently).
-* **Appeal to collaboration and interdisciplinarity.** Climate transition is incredibly complex, and nobody has the full picture.
-* **Appeal to reputation.** Reputation is hugely important to many universities. (At the same time, reputational risk does not fully capture the ethical imperative to decarbonise and work for climate justice).
-* **Appeal to the risk cascades.** Climate change does not sit demurely in a box all by itself. If climate action is being weighed against some other priority, think about the ways the two things are already connected. Climate risks transmit into financial risks, reputational risks, etc.
-* **Appeal to life and death.** Be gentle. Be collaborative. Don’t alienate the people you hope to persuade. But sometimes conversations about governance and strategy can get tangled up in a very financial way of thinking, where everything is ultimately reducible to budgetary implications. Is the real reason universities are decarbonising because they are concerned that low climate ambition will affect student satisfaction scores, recruitment rates, and therefore revenue? No, that doesn’t tell the full story. We know that a just climate transition is about far more than that.
+* **Appeal to collaboration and interdisciplinarity**. Climate transition is incredibly complex, and nobody has the full picture.
+* **Appeal to reputation**. Reputation is hugely important to many universities. (At the same time, reputational risk does not fully capture the ethical imperative to decarbonise and work for climate justice).
+* **Appeal to the risk cascades**. Climate change does not sit demurely in a box all by itself. If climate action is being weighed against some other priority, think about the ways the two things are already connected. Climate risks transmit into financial risks, reputational risks, etc.
+* **Appeal to life and death**. Be gentle. Be collaborative. Don’t alienate the people you hope to persuade. But sometimes conversations about governance and strategy can get tangled up in a very financial way of thinking, where everything is ultimately reducible to budgetary implications. Is the real reason universities are decarbonising because they are concerned that low climate ambition will affect student satisfaction scores, recruitment rates, and therefore revenue? No, that doesn’t tell the full story. We know that a just climate transition is about far more than that.
 
 
 ## Advocate for small changes {#advocate-for-small-changes}
@@ -387,8 +262,9 @@ Even small changes add up. Are you aware of any policies or common behaviours at
 
 When advocating for smaller changes, be sure to focus on easy wins and changes which support a general shift in attitude and attention. Use small changes to prefigure larger changes, to raise awareness, and to address feelings of powerlessness. If a small change would involve constant disproportionate effort, or encourage policing of behaviours, it’s probably not a good candidate to focus on. Use small changes to make your institution a better place overall. Use small changes help people feel good about climate action.
 
-Further reading: [In Praise of Smaller Actions](https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f).
-
+{{< hint info >}}
+**Further reading:** [In Praise of Smaller Actions](https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f).
+{{< /hint >}}
 
 ## Advocate for big changes {#advocate-for-big-changes}
 
@@ -400,10 +276,7 @@ We are all susceptible to dissonant reasoning (see the sections below on greenwa
 As arts and humanities researchers, we have our own special ways of connecting smaller changes with wider issues. The technical systems we move through are filled with many inefficiencies that could be addressed by better design; these can also be opportunities to think about deeper system change. For example, one archivist for a FTSE100 company started looking into her company’s preservation workflow:
 
 
-> it soon became clear that literally everything produced by the company was being saved in a range of locations by a range of people across these servers. Even items transferred and already stored on the archive servers were being stored on other department (and personal) drives, leading to copies of some documents reaching double figures.
-
-
-–– [(Williamson 2021)](https://www.zotero.org/google-docs/?O6RiuW)
+> it soon became clear that literally everything produced by the company was being saved in a range of locations by a range of people across these servers. Even items transferred and already stored on the archive servers were being stored on other department (and personal) drives, leading to copies of some documents reaching double figures. [(Williamson 2021)](https://www.zotero.org/google-docs/?O6RiuW)
 
 And one Twitter user has this beautiful confession:
 
@@ -417,88 +290,88 @@ Here are a few ways that the ‘smaller’ things we do in our teaching and rese
 
 
 1. **“Work as if you lived in the early days of a better nation,”** as Alasdair Gray wrote. Remember that individual agency and systemic change are connected. When our colleagues or students bring up a very good question, “How much difference can the individual make?” it can be helpful to reframe the ‘individual’ as an ‘early adopter,’ or ‘co-producer’ — someone who goes against the grain of existing systems, and/or tries out prototypes, to help new systems emerge.
-2. **Capture your experience as useable information.** When you adopt other environmentally conscious behaviours, note wherever you experience friction with the systems you inhabit. Capture this precisely (a challenge in itself). Use it to advocate for changes (big and small). Reflect on what general lessons might be drawn (and share these).
-3. **Engage students as researchers.** Consider incorporating similar challenges into your teaching and assessment. Give students the resources to recognise the energy impact of their digital activities, and ask them to journal where there may be opportunities to redesign the systems they’re operating in, inspired by minimal principles. You might frame this as auto-ethnography.
-4. **Widen the conversation. **Exploring the redesign of systems to support behaviour change is useful in itself, and easily links to exciting topics across a wide range of fields: minimal computing, sustainable software design, UX design, speculative design, critical media studies, Science and Technology Studies, critical algorithm studies, political economy, psychology, economics, cultural studies, systems thinking, and more. It can also be a way into big questions around the role of technology in climate transition. What are the limitations and risks of techno-fixes? Why can’t we simply design our way out of climate crisis? Might critical design thinking nonetheless inform campaigning and activism?
+2. **Capture your experience as useable information**. When you adopt other environmentally conscious behaviours, note wherever you experience friction with the systems you inhabit. Capture this precisely (a challenge in itself). Use it to advocate for changes (big and small). Reflect on what general lessons might be drawn (and share these).
+3. **Engage students as researchers**. Consider incorporating similar challenges into your teaching and assessment. Give students the resources to recognise the energy impact of their digital activities, and ask them to journal where there may be opportunities to redesign the systems they’re operating in, inspired by minimal principles. You might frame this as auto-ethnography.
+4. **Widen the conversation**. Exploring the redesign of systems to support behaviour change is useful in itself, and easily links to exciting topics across a wide range of fields: minimal computing, sustainable software design, UX design, speculative design, critical media studies, Science and Technology Studies, critical algorithm studies, political economy, psychology, economics, cultural studies, systems thinking, and more. It can also be a way into big questions around the role of technology in climate transition. What are the limitations and risks of techno-fixes? Why can’t we simply design our way out of climate crisis? Might critical design thinking nonetheless inform campaigning and activism?
 5. **Perhaps we should redesign design too?** When should we prototype, test, and iterate, and when might other approaches be appropriate? When should we accept a workaround, and when should we devote resources to solving something ‘properly’? Can we do more to get things right the first time (or at least after fewer iterations), or build in safeguards so that issues which emerge during testing fall within known parameters? Can we better manage [technical debt](https://en.wikipedia.org/wiki/Technical_debt)?
 
 
 ## Further reading
 
-  - “Maladaptive responses to climate change can create lock-ins of vulnerability, exposure and risks that are difficult and expensive to change and exacerbate existing inequalities”.[ IPCC report of Climate Change 2022: Impacts, Adaptation and Vulnerability](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf).[ The latest IPCC report explained in under 7 minutes](https://youtu.be/hLUtb2Q2nk0?t=307).
+“Maladaptive responses to climate change can create lock-ins of vulnerability, exposure and risks that are difficult and expensive to change and exacerbate existing inequalities”.[ IPCC report of Climate Change 2022: Impacts, Adaptation and Vulnerability](https://report.ipcc.ch/ar6wg2/pdf/IPCC_AR6_WGII_SummaryForPolicymakers.pdf).[ The latest IPCC report explained in under 7 minutes](https://youtu.be/hLUtb2Q2nk0?t=307).
 
 
-  - Arora, Saurabh, Barbara Van Dyck, Divya Sharma, and Andy Stirling. 2020. ‘Control, Care, and Conviviality in the Politics of Technology for Sustainability’. _Sustainability: Science, Practice and Policy_ 16 (1): 247–62.[ https://doi.org/10.1080/15487733.2020.1816687](https://doi.org/10.1080/15487733.2020.1816687).
+Arora, Saurabh, Barbara Van Dyck, Divya Sharma, and Andy Stirling. 2020. ‘Control, Care, and Conviviality in the Politics of Technology for Sustainability’. _Sustainability: Science, Practice and Policy_ 16 (1): 247–62.[ https://doi.org/10.1080/15487733.2020.1816687](https://doi.org/10.1080/15487733.2020.1816687).
 
 
-  - Bassett, Caroline, Ed Steinmueller, and George Voss. 2013. ‘Better Made Up: The Mutual Influence of Science Fiction and Innovation’. Nesta Working Paper.
+Bassett, Caroline, Ed Steinmueller, and George Voss. 2013. ‘Better Made Up: The Mutual Influence of Science Fiction and Innovation’. Nesta Working Paper.
 
 
-  - Berkovich, Izhak, and Lotem Perry-Hazan. 2022. ‘[Publicwashing in Education: Definition, Motives, and Manifestations](https://doi.org/10.3102/0013189X211070810)’. _Educational Researcher_, January, 0013189X211070810.[ https://doi.org/10.3102/0013189X211070810](https://doi.org/10.3102/0013189X211070810).
+Berkovich, Izhak, and Lotem Perry-Hazan. 2022. ‘[Publicwashing in Education: Definition, Motives, and Manifestations](https://doi.org/10.3102/0013189X211070810)’. _Educational Researcher_, January, 0013189X211070810.[ https://doi.org/10.3102/0013189X211070810](https://doi.org/10.3102/0013189X211070810).
 
 
-  - Bove, Tristan. 2021. ‘Techno-Optimism: Why Money and Technology Won’t Save Us’. Earth.Org. 8 June 2021.[ https://earth.org/techno-optimism/](https://earth.org/techno-optimism/).
+Bove, Tristan. 2021. ‘Techno-Optimism: Why Money and Technology Won’t Save Us’. Earth.Org. 8 June 2021.[ https://earth.org/techno-optimism/](https://earth.org/techno-optimism/).
 
 
-  - David Devins, Jeff Gold, George Boak, Robert Garvey and Paul Willis. 2017. ‘[Maximising the local impact of anchor institutions: a case study of Leeds City Region](https://www.businessnewsdaily.com/10946-greenwashing.html)’. Joseph Rowntree Foundation.
+David Devins, Jeff Gold, George Boak, Robert Garvey and Paul Willis. 2017. ‘[Maximising the local impact of anchor institutions: a case study of Leeds City Region](https://www.businessnewsdaily.com/10946-greenwashing.html)’. Joseph Rowntree Foundation.
 
 
-  - Edwards, Carlyann. 2022. ‘[What Is Greenwashing, and How Do You Spot It](https://www.businessnewsdaily.com/10946-greenwashing.html)?’ Business News Daily. 2022.[ https://www.businessnewsdaily.com/10946-greenwashing.html](https://www.businessnewsdaily.com/10946-greenwashing.html).
+Edwards, Carlyann. 2022. ‘[What Is Greenwashing, and How Do You Spot It](https://www.businessnewsdaily.com/10946-greenwashing.html)?’ Business News Daily. 2022.[ https://www.businessnewsdaily.com/10946-greenwashing.html](https://www.businessnewsdaily.com/10946-greenwashing.html).
 
 
-  - Flegal, Jane A. 2018. ‘The Evidentiary Politics of the Geoengineering Imaginary’. UC Berkeley.[ https://escholarship.org/uc/item/4887x5kh](https://escholarship.org/uc/item/4887x5kh).
+Flegal, Jane A. 2018. ‘The Evidentiary Politics of the Geoengineering Imaginary’. UC Berkeley.[ https://escholarship.org/uc/item/4887x5kh](https://escholarship.org/uc/item/4887x5kh).
 
 
-  - Freitas Netto, Sebastião Vieira de, Marcos Felipe Falcão Sobral, Ana Regina Bezerra Ribeiro, and Gleibson Robert da Luz Soares. 2020. ‘[Concepts and Forms of Greenwashing: A Systematic Review](https://doi.org/10.1186/s12302-020-0300-3)’. _Environmental Sciences Europe_ 32 (1): 19.[ https://doi.org/10.1186/s12302-020-0300-3](https://doi.org/10.1186/s12302-020-0300-3).
+Freitas Netto, Sebastião Vieira de, Marcos Felipe Falcão Sobral, Ana Regina Bezerra Ribeiro, and Gleibson Robert da Luz Soares. 2020. ‘[Concepts and Forms of Greenwashing: A Systematic Review](https://doi.org/10.1186/s12302-020-0300-3)’. _Environmental Sciences Europe_ 32 (1): 19.[ https://doi.org/10.1186/s12302-020-0300-3](https://doi.org/10.1186/s12302-020-0300-3).
 
-  - Steven E. Jones, [*Against Technology: From the Luddites to Neo-Luddism* (Routledge, 2006)](https://www.taylorfrancis.com/books/mono/10.4324/9780203960455/technology-steven-jones)
+Steven E. Jones, [*Against Technology: From the Luddites to Neo-Luddism* (Routledge, 2006)](https://www.taylorfrancis.com/books/mono/10.4324/9780203960455/technology-steven-jones)
 
-  - Lachney, Michael, and Taylor Dotson. 2018. ‘Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles’. _Social Epistemology_ 32 (4): 228–40.[ https://doi.org/10.1080/02691728.2018.1476603](https://doi.org/10.1080/02691728.2018.1476603).
-
-
-  - Lamb, William F., Giulio Mattioli, Sebastian Levi, J. Timmons Roberts, Stuart Capstick, Felix Creutzig, Jan C. Minx, Finn Müller-Hansen, Trevor Culhane, and Julia K. Steinberger. 2020. ‘Discourses of Climate Delay’. _Global Sustainability_ 3.[ https://doi.org/10.1017/sus.2020.13](https://doi.org/10.1017/sus.2020.13).
+Lachney, Michael, and Taylor Dotson. 2018. ‘Epistemological Luddism: Reinvigorating a Concept for Action in 21st Century Sociotechnical Struggles’. _Social Epistemology_ 32 (4): 228–40.[ https://doi.org/10.1080/02691728.2018.1476603](https://doi.org/10.1080/02691728.2018.1476603).
 
 
-  - McLaren, Duncan and Nils Markusson. 2020. ‘[Guest Post: A Brief History of Climate Targets and Technological Promises](https://www.carbonbrief.org/guest-post-a-brief-history-of-climate-targets-and-technological-promises/)’. Carbon Brief. 13 May 2020.
+Lamb, William F., Giulio Mattioli, Sebastian Levi, J. Timmons Roberts, Stuart Capstick, Felix Creutzig, Jan C. Minx, Finn Müller-Hansen, Trevor Culhane, and Julia K. Steinberger. 2020. ‘Discourses of Climate Delay’. _Global Sustainability_ 3.[ https://doi.org/10.1017/sus.2020.13](https://doi.org/10.1017/sus.2020.13).
 
 
-  - McLaren, Duncan, and Nils Markusson. 2020. ‘The Co-Evolution of Technological Promises, Modelling, Policies and Climate Change Targets’. _Nature Climate Change_ 10 (5): 392–97.[ https://doi.org/10.1038/s41558-020-0740-1](https://doi.org/10.1038/s41558-020-0740-1).
+McLaren, Duncan and Nils Markusson. 2020. ‘[Guest Post: A Brief History of Climate Targets and Technological Promises](https://www.carbonbrief.org/guest-post-a-brief-history-of-climate-targets-and-technological-promises/)’. Carbon Brief. 13 May 2020.
 
 
-  - Meagan M. Ehlenz. 2018. ‘[Defining University Anchor Institution Strategies: Comparing Theory to Practice. Planning Theory and Practice](https://doi.org/10.1080/14649357.2017.1406980)’. 19, 1.[ https://doi.org/10.1080/14649357.2017.1406980](https://doi.org/10.1080/14649357.2017.1406980)
+McLaren, Duncan, and Nils Markusson. 2020. ‘The Co-Evolution of Technological Promises, Modelling, Policies and Climate Change Targets’. _Nature Climate Change_ 10 (5): 392–97.[ https://doi.org/10.1038/s41558-020-0740-1](https://doi.org/10.1038/s41558-020-0740-1).
 
 
-  - Miller, Jack. 2020. ‘Climate Change Solutions: The Role of Technology’. UK Government. House of Commons Library. 24 June 2020.[ https://commonslibrary.parliament.uk/climate-change-solutions-the-role-of-technology/](https://commonslibrary.parliament.uk/climate-change-solutions-the-role-of-technology/).
+Meagan M. Ehlenz. 2018. ‘[Defining University Anchor Institution Strategies: Comparing Theory to Practice. Planning Theory and Practice](https://doi.org/10.1080/14649357.2017.1406980)’. 19, 1.[ https://doi.org/10.1080/14649357.2017.1406980](https://doi.org/10.1080/14649357.2017.1406980)
 
 
-  - Miller, Sebastian. 2017. ‘The Dangers of Techno-Optimism’. Reviews. Berkeley Political Review. 16 November 2017.[ https://bpr.berkeley.edu/2017/11/16/the-dangers-of-techno-optimism/](https://bpr.berkeley.edu/2017/11/16/the-dangers-of-techno-optimism/).
+Miller, Jack. 2020. ‘Climate Change Solutions: The Role of Technology’. UK Government. House of Commons Library. 24 June 2020.[ https://commonslibrary.parliament.uk/climate-change-solutions-the-role-of-technology/](https://commonslibrary.parliament.uk/climate-change-solutions-the-role-of-technology/).
 
 
-  - Mullaney, Thomas S., Benjamin Peters, Mar Hicks, and Kavita Philip, eds. 2021. _Your Computer Is on Fire_. Cambridge, Massachusetts ; London England: The MIT Press.
+Miller, Sebastian. 2017. ‘The Dangers of Techno-Optimism’. Reviews. Berkeley Political Review. 16 November 2017.[ https://bpr.berkeley.edu/2017/11/16/the-dangers-of-techno-optimism/](https://bpr.berkeley.edu/2017/11/16/the-dangers-of-techno-optimism/).
 
 
-  - Nemes, Noémi, Stephen J. Scanlan, Pete Smith, Tone Smith, Melissa Aronczyk, Stephanie Hill, Simon L. Lewis, A. Wren Montgomery, Francesco N. Tubiello, and Doreen Stabinsky. 2022. ‘[An Integrated Framework to Assess Greenwashing](https://doi.org/10.3390/su14084431)’. _Sustainability_ 14 (8): 4431[  https://doi.org/10.3390/su14084431](https://doi.org/10.3390/su14084431).
+Mullaney, Thomas S., Benjamin Peters, Mar Hicks, and Kavita Philip, eds. 2021. _Your Computer Is on Fire_. Cambridge, Massachusetts ; London England: The MIT Press.
 
 
-  - Powell, Alvin. 2021. ‘[Oil Companies Discourage Climate Action, Study Says](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/)’. _Harvard Gazette_ (blog). 28 September 2021.[ https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/).
+Nemes, Noémi, Stephen J. Scanlan, Pete Smith, Tone Smith, Melissa Aronczyk, Stephanie Hill, Simon L. Lewis, A. Wren Montgomery, Francesco N. Tubiello, and Doreen Stabinsky. 2022. ‘[An Integrated Framework to Assess Greenwashing](https://doi.org/10.3390/su14084431)’. _Sustainability_ 14 (8): 4431[  https://doi.org/10.3390/su14084431](https://doi.org/10.3390/su14084431).
 
 
-  - Quoquab, Farzana, Rames Sivadasan, and Jihad Mohammad. 2021. ‘[“Do They Mean What They Say?” Measuring Greenwash in the Sustainable Property Development Sector](https://doi.org/10.1108/APJML-12-2020-0919)’. _Asia Pacific Journal of Marketing and Logistics_ 34 (4): 778–99.[ https://doi.org/10.1108/APJML-12-2020-0919](https://doi.org/10.1108/APJML-12-2020-0919).
+Powell, Alvin. 2021. ‘[Oil Companies Discourage Climate Action, Study Says](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/)’. _Harvard Gazette_ (blog). 28 September 2021.[ https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/).
 
 
-  - Sarah Knuth, Brandi Nagle, Christopher Steuer, Brent Yarnal. 2007. ‘[Universities and Climate Change Mitigation: Advancing Grassroots Climate Policy in the US. Local Environment](https://doi.org/10.1080/13549830701657059)’. 12, 5.[ https://doi.org/10.1080/13549830701657059](https://doi.org/10.1080/13549830701657059)
+Quoquab, Farzana, Rames Sivadasan, and Jihad Mohammad. 2021. ‘[“Do They Mean What They Say?” Measuring Greenwash in the Sustainable Property Development Sector](https://doi.org/10.1108/APJML-12-2020-0919)’. _Asia Pacific Journal of Marketing and Logistics_ 34 (4): 778–99.[ https://doi.org/10.1108/APJML-12-2020-0919](https://doi.org/10.1108/APJML-12-2020-0919).
 
 
-  - Stilgoe, Jack. 2016.[ Experiment Earth: Responsible Innovation in Geoengineering](https://www.routledge.com/Experiment-Earth-Responsible-innovation-in-geoengineering/Stilgoe/p/book/9781138691940). London New York: Routledge.
+Sarah Knuth, Brandi Nagle, Christopher Steuer, Brent Yarnal. 2007. ‘[Universities and Climate Change Mitigation: Advancing Grassroots Climate Policy in the US. Local Environment](https://doi.org/10.1080/13549830701657059)’. 12, 5.[ https://doi.org/10.1080/13549830701657059](https://doi.org/10.1080/13549830701657059)
 
 
-  - Vetter, Andrea. 2018. ‘The Matrix of Convivial Technology – Assessing Technologies for Degrowth’. _Journal of Cleaner Production_ 197 (October): 1778–86.[ https://doi.org/10.1016/j.jclepro.2017.02.195](https://doi.org/10.1016/j.jclepro.2017.02.195).
+Stilgoe, Jack. 2016.[ Experiment Earth: Responsible Innovation in Geoengineering](https://www.routledge.com/Experiment-Earth-Responsible-innovation-in-geoengineering/Stilgoe/p/book/9781138691940). London New York: Routledge.
 
 
-  - Walton, Jo Lindsay. 2022. ‘[A Greenwashing Glossary](https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476)’. 2022.[ https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476](https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476).
+Vetter, Andrea. 2018. ‘The Matrix of Convivial Technology – Assessing Technologies for Degrowth’. _Journal of Cleaner Production_ 197 (October): 1778–86.[ https://doi.org/10.1016/j.jclepro.2017.02.195](https://doi.org/10.1016/j.jclepro.2017.02.195).
 
 
-  - Walton, Jo Lindsay. 2022. ‘[Bitcoin and Stone Money: Anglophone Use of Yapese Economic Cultures, 1910-2020](https://doi.org/10.2218/finsoc.7126)’. _Finance and Society_ 8 (1): 42–66.[ https://doi.org/10.2218/finsoc.7126](https://doi.org/10.2218/finsoc.7126).
+Walton, Jo Lindsay. 2022. ‘[A Greenwashing Glossary](https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476)’. 2022.[ https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476](https://medium.com/@jolindsaywalton/a-greenwashing-glossary-4cf0ccf92476).
 
 
-  - Winner, Langdon. 1977. _Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought_. Cambridge, Mass: MIT Press.
+Walton, Jo Lindsay. 2022. ‘[Bitcoin and Stone Money: Anglophone Use of Yapese Economic Cultures, 1910-2020](https://doi.org/10.2218/finsoc.7126)’. _Finance and Society_ 8 (1): 42–66.[ https://doi.org/10.2218/finsoc.7126](https://doi.org/10.2218/finsoc.7126).
+
+
+Winner, Langdon. 1977. _Autonomous Technology: Technics-out-of-Control as a Theme in Political Thought_. Cambridge, Mass: MIT Press.
