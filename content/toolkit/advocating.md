@@ -9,10 +9,11 @@ slug: advocating-within-your-institution
 # Advocating within your institution
 
 {{< hint info >}}
-_Knowledge will never be able to replace\
-respect in man's dealings with ecological systems._
-
-Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)
+_Knowledge will never be able to\
+replace respect in man's dealings\
+with ecological systems._\
+\
+ — Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)
 {{< /hint >}}
 
 ## Put your institution in context {#put-your-institution-in-context}
@@ -37,7 +38,7 @@ Despite this, the Higher Education sector is not where it needs to be. In ten po
 “A good chance”: There is intrinsic uncertainty in climate science modelling. Things may be better or worse.
 
 
-## Move your institution in the right direction {#move-your-institution-in-the-right-direction}
+## Move your institution in the right direction {#right-direction}
 
 Advocacy will look different in different institutions. It may often involve:
 
@@ -53,7 +54,7 @@ Advocacy will look different in different institutions. It may often involve:
 10. **Just being you**. For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
 
 
-## Get involved in supply decisions {#get-involved-in-supply-decisions}
+## Get involved in supply decisions {#supply-decisions}
 
 When it comes to choosing suppliers, university workers may feel like we have our hands tied: by IT Services policies, procurement policies, long-term contracts arranged before our arrival, or even larger structures like procurement consortia or legal frameworks.
 
@@ -63,9 +64,8 @@ Procurement decisions can be highly technical, and procurement teams typically s
 
 [HESCET](https://hepa.ac.uk/Resources/News/View?g=bfb63e6a-0a46-47b4-a513-7de54610e191) helps to estimate the carbon intensity of procurement decisions, but in its current basic form it has quite a few limitations. It is based on a financial spend multiplied by a standardised Emission Factor, so it doesn’t automatically reflect things like “We got a special deal and bought twice as much for the same price,” or “We spent more because we chose a more sustainable supplier.”
 
-Some procurement-related links:
 
-
+*Some procurement-related links:*
 
 * [Hack Education: The history and future of educational technology](http://hackeducation.com/)
 * [Southern Universities Purchasing Consortium](http://www.supc.ac.uk/)
@@ -76,10 +76,11 @@ Some procurement-related links:
 
 Approved supplier lists can also take decisions away from researchers. You may have someone who you know would be good to work with, but you need to get them on the approved suppliers list. This may take a prohibitively long time, or may get blocked altogether. It is easy to get discouraged. However, researchers should avoid pushing responsibility onto techs or sysadmins, and engage actively in discussion to find workarounds and push for change.
 
-(Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
+{{< hint info >}}
+**Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
+{{< /hint >}}
 
-
-### **Question the Cloud**
+### Question the Cloud
 
 For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
 
@@ -87,35 +88,45 @@ When a university or other institution procures data storage and computing power
 
 
 
-| Question                                                     | Notes                                                        |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Question | Notes |
+| --- | --- |
 | What are the broader climate policies of the provider (not just the data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
-| What are the broader ESG policies of the provider?           | ESG = Environmental, Social, Governance.                     |
+| What are the broader ESG policies of the provider? | ESG = Environmental, Social, Governance. |
 | What is the power utilisation efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. |
-| What is the data centre’s carbon footprint?                  | It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities. |
+| What is the data centre’s carbon footprint? | It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities. |
 | What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data? | Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them). |
-| To what extent does the provider use carbon offsetting?      | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. |
+| To what extent does the provider use carbon offsetting? | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. |
 | Is the data centre’s excess heat redistributed to the district heating network? | Heat may also be captured and used in other ways, i.e. as a supplemental power source. |
-| How much electricity does the data centre generate from on-site renewables? |                                                              |
-| Was there opposition to the siting of the data centre from local stakeholders, and how was it resolved? |                                                              |
-| How is the data centre integrated into the local community now? |                                                              |
-| What is the data centre’s water usage like?                  |                                                              |
-| What jurisdiction is the data centre in?                     |                                                              |
-| What is the data centre’s exposure and vulnerability to physical climate risks? | For example, proximity to flood plains.                      |
-| What climate and ESG-related certifications does the provider have? What forms of independent verification are used? |                                                              |
+| How much electricity does the data centre generate from on-site renewables? |   |
+| Was there opposition to the siting of the data centre from local stakeholders, and how was it resolved? |   |
+| How is the data centre integrated into the local community now? |   |
+| What is the data centre’s water usage like? |   |
+| What jurisdiction is the data centre in? |   |
+| What is the data centre’s exposure and vulnerability to physical climate risks? | For example, proximity to flood plains. |
+| What climate and ESG-related certifications does the provider have? What forms of independent verification are used? |   |
 | What is the provider’s view of the robustness and comparability of their competitors’ carbon disclosures? | For example, Google claims to be carbon neutral (based on offsetting), but it’s complicated. |
 | Find some tricky questions. Or if you can’t, ask them to describe what most challenges or bewilders them. | Try to engage the providers as real people in the complexities of climate transition. |
 | Especially where big tech is concerned, how does the provider encourage us to imagine the future in certain ways? | Amazon, Google, Microsoft et al. don’t just influence the future via their policies, but also through their cultural influence. As arts and humanities scholars, we are well-placed to start conversations around this. |
 | What is the procurement team’s scoring methodology? What proportion is devoted to sustainability, and how has this been derived? | Procurement decisions take place in legal frameworks, although they can of course voluntarily go beyond these in securing appropriate suppliers. |
 
 
-_Doing it ourselves?_
+### Doing it ourselves?
 
-There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for the most part, outsourcing makes sense. However, there are other factors to bear in mind. Universities frequently operate their own small on-site data centres for resilience. Data centres can be integrated into local heating infrastructure (e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” [(Jakobsson 2021)](https://www.zotero.org/google-docs/?SCfseh)). Climate change is also associated with deep uncertainty, and tail risks — e.g. political instability or legal / regulatory change where data is housed, the security of optical fibre cables — can legitimately inform decision-making. Methodologies are becoming more available (e.g. [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/on-premise)) for monitoring on-premise data usage. Universities have strong and distinctive relationships with the public sector, and are used to cross-sectoral collaboration. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
+There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for the most part, outsourcing makes sense. However, there are other factors to bear in mind. Universities frequently operate their own small on-site data centres for resilience. Data centres can be integrated into local heating infrastructure e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” ([Jakobsson 2021](https://www.zotero.org/google-docs/?SCfseh)).
 
-_The Cloud as a factory?_
+Climate change is also associated with deep uncertainty, and tail risks — e.g. political instability or legal / regulatory change where data is housed, the security of optical fibre cables — can legitimately inform decision-making. Methodologies are becoming more available (e.g. [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/on-premise)) for monitoring on-premise data usage. Universities have strong and distinctive relationships with the public sector, and are used to cross-sectoral collaboration. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
 
-In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to (1) "restore a sense of place to our understanding of the information economy"; (2) "appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems"; (3) "recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype; (4) consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences"; (5) identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and (6) "consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
+
+### The Cloud as a factory?
+
+In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to
+
+1. "restore a sense of place to our understanding of the information economy";
+2. "appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems";
+3. "recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype;
+4. consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences";
+5. identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and 
+6. "consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
 
 
 ## Ask questions {#ask-questions}
@@ -143,11 +154,9 @@ Of course you will do what you can in areas where you have discretion. But what 
 
 
 
-## Find your internal collaborators {#find-your-internal-collaborators}
+## Find your internal collaborators {#collaborators}
 
 If you’re not already familiar with your institution’s governance structure, check online for information on your executive leadership groups and other key boards, committees, teams, and individual roles. The names and functions of things vary from institution to institution. For a university, some key roles / bodies / terms to explore include:
-
-
 
 * Sustainability team
 * Chief Sustainability Officer
@@ -166,20 +175,18 @@ If you’re not already familiar with your institution’s governance structure,
 * ITS
 
 
-## Find levers to drive change {#find-levers-to-drive-change}
+## Find levers to drive change {#levers-of-change}
 
 What are the next big digital infrastructure decisions being made within your institutions and are environmental concerns being taken into account? Explore where the decisions are being made, establish collaborative relationships across the institution, and plug into new sources of information. Things may work differently in theory vs. practice, so conversations can be important to build an understanding of how things have been decided in the past.
-
 
 Sometimes it may be easier to realise impact in less obvious places. Even a committee that does not have climate as part of its core remit still has sustainability and climate risk responsibilities, and will still be making decisions that have implications for your institution’s carbon footprint, climate risk management, and climate justice impact.
 
 
-## Confront greenwashing and discourses of delay {#confront-greenwashing-and-discourses-of-delay}
+## Confront greenwashing and discourses of delay {#greenwashing}
 
 Most of us are, thankfully, long past the point where our institutions won’t even think about climate transition. But we are still in an era of **greenwashing** and **discourses of delay**. These are not always cynically motivated: often they arise through misplaced optimism.
 
 In 2009, TerraChoice conducted market research on existing products which made ‘green marketing’ claims. Their ‘[Seven Sins of Greenwashing](https://www.twosides.info/wp-content/uploads/2018/05/Terrachoice_The_Sins_of_Greenwashing_-_Home_and_Family_Edition_2010.pdf)’ are still relevant to conducting and communicating research for tomorrow:
-
 
 
 1. **The hidden trade-off**. Saying something is green by using narrow criteria and ignoring other more important environmental impacts.
@@ -190,9 +197,8 @@ In 2009, TerraChoice conducted market research on existing products which made �
 6. **Fibbing**. Making environmental claims that are false.
 7. **Worshipping false labels**. Giving the impression of 3rd-party endorsement when the association does not in fact exist.
 
+
 We have come up with seven more:
-
-
 
 1. **“I can’t bear to look!”** Greenwashing by omission. An institution may drag it heels on collecting sustainability data or doing rigorous analyses, especially if deep down it knows it might not like what it will find.
 2. **Transparency without agency**. Even if an institution is being honest, rigorous and bold in how it collects and analyses sustainability, and how it communicates the results … is it checking to make sure this information is actually being used? Is it supporting the creation and empowerment of audiences and users?
@@ -202,9 +208,10 @@ We have come up with seven more:
 6. **“A+ for effort, but …”** Some initiatives really do contribute in positive ways, but use up significant amounts of time, energy, attention, money and other resources which could be much better used. Should we think of them as a form of greenwashing? Maybe. Of course, we can’t always expect to be perfectly efficient when it comes to climate action. But if the 2020s is to be the decade of delivery, we can’t have (just for example) sustainability leads being asked to devote large amounts of their time to raising awareness with symbolic actions.
 7. **“It’s ALL just greenwashing!”** Of course, it is also possible for something to _look_ like greenwashing, when it is actually making a useful and well-proportioned contribution to climate transition. Better to be constructive and detailed when assessing an initiative, than to make accusations based on a hunch.
 
+
 [Lamb et al. (2020)](https://doi.org/10.1017/sus.2020.13) mention climate denialism, climate-impact scepticism, _ad hominem_ attacks on climate scientists, but devote most of their article to “**discourses of delay**.” They offer this typology:
 
-![alt_text](images/image5.png "image_tooltip")
+![Lamb et al. (2020)](images/image5.png "Lamb et al. (2020)")
 
 
 The incentives to greenwash or to delay are set to rise as the global economy decarbonises. As the false forest begins to sprout around us, how do we make sure we don’t get lost in it? There are no easy answers, but this certainly seems to be a space where the arts and humanities can usefully intervene through research, education, and activism. Close reading of green claims, distant reading of large corpori, collaboration with cultural heritage institutions and other trusted sources of information, and innovative approaches to cultivating truthfulness in the public sphere.
@@ -244,7 +251,7 @@ Here are a few angles on techno-optimism, including pointers to where to find ou
 * Some climate-related techno-optimism is not about decarbonisation directly, but rather about the use of **Artificial Intelligence** to squeeze more efficiency from constrained resources, and/or develop deep adaptations for a much less hospitable climate. The overlapping fields of Critical Data Studies, Critical Internet Studies, [Critical Algorithm Studies](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/), Critical Digital Studies, and [Science and Technology Studies](https://en.wikipedia.org/wiki/Science_and_technology_studies) more broadly, offer useful perspectives on AI imaginaries. Arts and humanities researchers can play a role in interrogating the hopes invested in AI, as well as in its development, deployment and governance.
 
 
-## Build your own legitimacy within your institution {#build-your-own-legitimacy-within-your-institution}
+## Build your own legitimacy within your institution {#institutional-legitimacy}
 
 Get in rooms where decisions are made and, where appropriate:
 
@@ -256,7 +263,7 @@ Get in rooms where decisions are made and, where appropriate:
 * **Appeal to life and death**. Be gentle. Be collaborative. Don’t alienate the people you hope to persuade. But sometimes conversations about governance and strategy can get tangled up in a very financial way of thinking, where everything is ultimately reducible to budgetary implications. Is the real reason universities are decarbonising because they are concerned that low climate ambition will affect student satisfaction scores, recruitment rates, and therefore revenue? No, that doesn’t tell the full story. We know that a just climate transition is about far more than that.
 
 
-## Advocate for small changes {#advocate-for-small-changes}
+## Advocate for small changes {#small-changes}
 
 Even small changes add up. Are you aware of any policies or common behaviours at your institution which might be generating unnecessary carbon? For example: pictures attached to your signature for marketing purposes, or sharing email attachments back and forth when shared cloud documents are available to you and your colleagues.
 
@@ -266,7 +273,7 @@ When advocating for smaller changes, be sure to focus on easy wins and changes w
 **Further reading:** [In Praise of Smaller Actions](https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f).
 {{< /hint >}}
 
-## Advocate for big changes {#advocate-for-big-changes}
+## Advocate for big changes {#big-changes}
 
 We are all susceptible to dissonant reasoning (see the sections below on greenwashing and discourses of delay). Climate change means big changes are coming (and are already taking place), yet it is easy to imagine that the situation is more stable and constrained than it actually is. We should look beyond existing business models and business cases, beyond existing institutions and social orders, and beyond merely incremental changes. Within our institutions, we can support and encourage each other to always think and act more boldly.
 

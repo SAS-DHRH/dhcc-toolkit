@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-# Introduction  {#1-introduction}
+# Introduction
 
 _[The Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/dhclimate/)_ (2021) states: “The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.”
 

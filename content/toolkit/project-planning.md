@@ -51,7 +51,7 @@ argue, however, that existing application frameworks and guidance do
 *implicitly* ask for reflection on sustainability and climate justice.
 
 
-## Data Management Plans
+## Data Management Plans {#DMP}
 
 In this section we focus on UKRI Standard Grants (we hope to expand this
 scope in the future, and would be interested to hear from collaborators,
@@ -107,12 +107,10 @@ justice-oriented actions as another box to tick. Climate
 justice-oriented data management practices can be threaded through the research programmes of all researchers applying for UKRI funding. There is nothing stopping us apart from developing our knowledge so we can define the appropriate actions to take.
 
 {{< hint warning >}}
-**Suggested DMP Citation**
-
-Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, "This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."
+**Suggested DMP Citation:** Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, *"This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."*
 {{< /hint >}}
 
-## Should you footprint your project?
+## Should you footprint your project? {#project-footprinting}
 
 {{< hint info >}}
 *"To give just one example, did you know that the very notion of a personal carbon footprint --- a concept that's completely ubiquitous in discussions about personal responsibility --- was first popularized by BP as part of a \$100 million per year marketing campaign between 2004

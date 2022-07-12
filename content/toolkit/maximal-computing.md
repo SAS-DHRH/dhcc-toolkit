@@ -8,10 +8,9 @@ slug: 'maximal-computing'
 
 # Maximal Computing
 
-
 ## Problems of Proportionality
 
-Definition: We use "maximal computing" to refer to any **computationally
+We use "maximal computing" to refer to any **computationally
 intensive work**, including working with blockchains, Big Data, and
 Machine Learning (ML) and other types of Artificial Intelligence (AI).
 Such systems are everywhere these days. For example, AI technologies
@@ -24,15 +23,7 @@ models trained with huge hardware capabilities (training on GPUs and
 TPUs). Such maximal computing may help with adaptation to climate
 change; Gordon S. Blair gives the example of flooding resilience:
 
-> The challenges facing flood risk management practitioners are
-> considerable as they make long-term decisions, e.g., about investments
-> in flood defenses, with limited budgets. \[\...\] Thanks to
-> developments in digital technology, though, major changes are now
-> anticipated, in particular related to the plethora of data becoming
-> available (cf. big data)---from satellite imagery, from sensors
-> deployed around catchments (cf. the Internet of Things), from detailed
-> studies carried out by local authorities, from citizen science, and
-> from mining data from the web.
+> The challenges facing flood risk management practitioners are considerable as they make long-term decisions, e.g., about investments in flood defenses, with limited budgets. \[\...\] Thanks to developments in digital technology, though, major changes are now anticipated, in particular related to the plethora of data becoming available (cf. big data)---from satellite imagery, from sensors deployed around catchments (cf. the Internet of Things), from detailed studies carried out by local authorities, from citizen science, and from mining data from the web.
 >
 > [(Blair 2020)](https://www.zotero.org/google-docs/?zFLY7a)
 
@@ -42,15 +33,7 @@ that global warming results from carbon and other greenhouse gases, the
 broader AI community has been slow to understand the relevance of its
 activities. As Knowles et. al (2021) note:
 
-> A serious and proportional response to the climate emergency would
-> \[\...\] involve constraining energy demand and mitigating drivers of
-> infrastructure growth, and as a result, also consuming less energy. In
-> real terms for computing, this means manufacturing fewer devices,
-> storing and processing less data, generally managing with less compute
-> power; and in terms of technical ambitions, scaling back the Internet
-> of Things, resisting the temptation to throw AI and blockchain at
-> every problem, and breaking free of the cycle of ever increasing
-> demand for computation.
+> A serious and proportional response to the climate emergency would \[\...\] involve constraining energy demand and mitigating drivers of infrastructure growth, and as a result, also consuming less energy. In real terms for computing, this means manufacturing fewer devices, storing and processing less data, generally managing with less compute power; and in terms of technical ambitions, scaling back the Internet of Things, resisting the temptation to throw AI and blockchain at every problem, and breaking free of the cycle of ever increasing demand for computation.
 >
 > [(Knowles et al. 2021)](https://www.zotero.org/google-docs/?F97CYH)
 
@@ -69,8 +52,8 @@ exponentially since \~2012*
 
 Examples:
 
--   Tesla autopilot (fleet data is sent to large computing centre)
--   State-of-the-art NLP models like GPT-3, MT-NLG, Google Switch, Transformer
+- Tesla autopilot (fleet data is sent to large computing centre)
+- State-of-the-art NLP models like GPT-3, MT-NLG, Google Switch, Transformer
 
 Different viewpoints to maximal computing software:
 
@@ -124,9 +107,9 @@ on the electricity and environmental consumption required for advanced
 maximal computational research. Some useful environmentally relevant
 metrics to consider when planning your AI research projects are:
 
--   Floating point operations (FPO), in FLOPS, GigaFlops
--   Processor utilisation (%), % use of CPU/GPU/TPU
--   Electricity consumption, in Watt Hours (Wh)
+- Floating point operations (FPO), in FLOPS, GigaFlops
+- Processor utilisation (%), % use of CPU/GPU/TPU
+- Electricity consumption, in Watt Hours (Wh)
 
 Lacoste, Luccioni and Schmidt have been researching environmental
 impacts of AI and ML, and have developed an online open source [Machine
@@ -157,79 +140,43 @@ total work required, and thus allows you to optimise at specific points
 in your pipeline. Striving to "treat efficiency as a primary evaluation
 criterion alongside accuracy" is what Schwartz et. al. call Green AI.
 
-```
-+----------------------------------------------------------------------+
-| ##                                                                   |
-|  Mini case study: GPT-n workshops {#mini-case-study-gpt-n-workshops} |
-|                                                                      |
-| Recently I gave some workshops to introduce participants to GPT-n    |
-| text generators. The workshops usually involved an activity in which |
-| participants fine-tune a pre-trained model using texts of their      |
-| choosing.                                                            |
-|                                                                      |
-| There were good pedagogic reasons to let everyone choose their own   |
-| input text, e.g. from Gutenberg, for the fine tuning: it turns the   |
-| activity into a more exciting experiment. It also made sense for me  |
-| to do the activity myself, because (1) it\'s easy to forget details  |
-| when you\'re describing something from memory and notes, and (2) I   |
-| know from experience that certain fine-tuning texts will \"work      |
-| well,\" so we would have at least one interesting output to discuss  |
-| at the end.                                                          |
-|                                                                      |
-| But in the short time available, I noticed participants often chose  |
-| arbitrary and / or \"obvious\" input texts (e.g. Shakespeare, or an  |
-| author they were primed to choose because they had been mentioned    |
-| earlier in the workshop). Likewise, pushed for prep time, I realised |
-| I was tending to use the same input texts again and again.           |
-| Furthermore, I would generate hundreds of pages of text, and then    |
-| only browse the first few - and never use the rest for anything.     |
-|                                                                      |
-| My new rule of thumb: **if I am running a computationally intensive  |
-| process for educational or demo purposes, do so in a way that        |
-| doubles as research** (in a loose sense of \"research\").            |
-|                                                                      |
-| For the latest iteration of the workshop I have:                     |
-|                                                                      |
-| -   Explicitly included discussion of carbon costs.                  |
-|                                                                      |
-| -   Used a recording of myself doing the fine-tuning and text        |
-|     > generation.                                                    |
-|                                                                      |
-| -   Created a shared folder of potential fine-tuning inputs which I  |
-|     > am interested in for various reasons - participants could      |
-|     > choose one of these or pick their own.                         |
-|                                                                      |
-| -   Built in time to discuss actual immediate use cases of text      |
-|     > generation, and what questions we might ask of the output (and |
-|     > how many pages we needed to generate).                         |
-|                                                                      |
-| In some ways the workshop felt clunkier, and I had to cut some       |
-| content which I liked. But it still felt worth it to include very    |
-| basic sustainability considerations.                                 |
-|                                                                      |
-| If I run similar workshops in the future I hope to:                  |
-|                                                                      |
-| -   Find out more about the actual carbon footprint of these         |
-|     > processes.                                                     |
-|                                                                      |
-| -   Explore a format where small groups collaborate, running just    |
-|     > one fine-tuning per group.                                     |
-|                                                                      |
-| -   Explore choosing from a variety of already fine-tuned models,    |
-|     > rather than running new fine-tunings.                          |
-|                                                                      |
-| -   Seek out others who may already want synthetic texts based on    |
-|     > specific fine-tuning inputs, and offer to do this for them as  |
-|     > part of the workshop.                                          |
-|                                                                      |
-| -   Continue to think about proportionality, and if the carbon cost  |
-|     > does seem too high, then replace the workshop with something   |
-|     > else entirely.                                                 |
-+----------------------------------------------------------------------+
-```
+
+## Mini case study {#case-study}
+
+{{< hint warning >}}
+
+### **GPT-n workshops case study**
+
+Recently I gave some workshops to introduce participants to GPT-n text generators. The workshops usually involved an activity in which participants fine-tune a pre-trained model using texts of their choosing.
+
+There were good pedagogic reasons to let everyone choose their own input text, e.g. from Gutenberg, for the fine tuning: it turns the activity into a more exciting experiment. It also made sense for me to do the activity myself, because (1) it\'s easy to forget details when you\'re describing something from memory and notes, and (2) I know from experience that certain fine-tuning texts will \"work well,\" so we would have at least one interesting output to discuss at the end.
+
+But in the short time available, I noticed participants often chose arbitrary and / or \"obvious\" input texts (e.g. Shakespeare, or an author they were primed to choose because they had been mentioned earlier in the workshop). Likewise, pushed for prep time, I realised I was tending to use the same input texts again and again. Furthermore, I would generate hundreds of pages of text, and then only browse the first few - and never use the rest for anything.
+
+My new rule of thumb: **if I am running a computationally intensive process for educational or demo purposes, do so in a way that doubles as research** (in a loose sense of \"research\").
+
+For the latest iteration of the workshop I have:                     
+
+- Explicitly included discussion of carbon costs.
+- Used a recording of myself doing the fine-tuning and text generation.
+- Created a shared folder of potential fine-tuning inputs which I am interested in for various reasons - participants could choose one of these or pick their own.
+- Built in time to discuss actual immediate use cases of text generation, and what questions we might ask of the output (and how many pages we needed to generate).
+
+In some ways the workshop felt clunkier, and I had to cut some content which I liked. But it still felt worth it to include very basic sustainability considerations.
+
+If I run similar workshops in the future I hope to:
+
+- Find out more about the actual carbon footprint of these processes.
+- Explore a format where small groups collaborate, running just one fine-tuning per group.
+- Explore choosing from a variety of already fine-tuned models, rather than running new fine-tunings.                                                                     
+- Seek out others who may already want synthetic texts based on specific fine-tuning inputs, and offer to do this for them as part of the workshop.
+- Continue to think about proportionality, and if the carbon cost does seem too high, then replace the workshop with something else entirely.
 
 
-## Adapting existing service infrastructures
+{{< /hint >}}
+
+
+## Adapting existing infrastructures {#adapting-infras}
 
 Large organisations such as Higher Education Institutes (HEIs) or other
 public sector organisations require complex IT infrastructure to satisfy
