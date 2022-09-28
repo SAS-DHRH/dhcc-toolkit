@@ -34,7 +34,7 @@ Digital technology has other impacts on the environment. For example, rare miner
 
 ## 5. What is net zero? ## 
 
-Net zero refers to a situation in which carbon emissions are balanced by carbon removals. Once the world as a whole achieves net zero, the latest science suggests that average global temperature will no longer rise. Net zero is also a target at other scales, e.g. country, city, institution, individual, event, product. There are worthwhile criticisms of the net zero paradigm (and other terms including **real zero**, **absolute zero**, and **net negative** have been suggested as complementary / alternative rallying points); however, net zero is by far the dominant paradigm of current policymaking and strategy.
+Net zero refers to a situation in which carbon emissions are balanced by carbon removals. Once the world as a whole achieves net zero, the latest science suggests that average global temperature will no longer rise. Net zero is also a target at other scales, e.g. country, city, institution, individual, event, product. There are [worthwhile criticisms](https://theconversation.com/climate-scientists-concept-of-net-zero-is-a-dangerous-trap-157368) of the net zero paradigm (and other terms including **real zero**, **absolute zero**, and **net negative** have been suggested as complementary / alternative rallying points); however, net zero is by far the dominant paradigm of current policymaking and strategy.
 
 ## 6. But environmental sustainability is about more than just climate change, right? ## 
 
@@ -89,7 +89,7 @@ Some key terms to explore include: anthropocene, capitalocene, degrowth / postgr
 
 Some good resources include the [Digital Humanities Climate Coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), [Critical Algorithm Studies: A Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/), [Hack Education](http://hackeducation.com/), [*Catalyst*](https://catalystjournal.org/index.php/catalyst), [*Bulletin of Science, Technology, and Society*](https://journals.sagepub.com/loi/bsta), [Global Forest Coalition](https://globalforestcoalition.org/), [Geoengineering Monitor](https://www.geoengineeringmonitor.org/), [Biofuelwatch](https://www.biofuelwatch.org.uk/).
 
-Some key terms to explore include: tools for conviviality, epistemological luddism, techno-solutionism, techno-optimism, techno-utopianism, critical algorithm studies, critical data studies, critical metric studies, biomimetic.
+Some key terms to explore include: tools for conviviality, epistemological luddism, techno-solutionism, techno-optimism, techno-utopianism, critical algorithm studies, critical data studies, critical metric studies, biomimetic. 
 
 ## 14. Where can I find out more about climate change and the digital? ## 
 
