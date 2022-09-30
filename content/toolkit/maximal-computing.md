@@ -172,6 +172,11 @@ If I run similar workshops in the future I hope to:
 - Seek out others who may already want synthetic texts based on specific fine-tuning inputs, and offer to do this for them as part of the workshop.
 - Continue to think about proportionality, and if the carbon cost does seem too high, then replace the workshop with something else entirely.
 
+I don\'t think that the energy savings will be extensive. When I think of all the users of art AIs, generating thousands and thousands of images just out of curiosity or a playful compulsion, it feels like a drop in the ocean. But it also feels important to model responsible behaviour. A minimal set of principles for using AI to generate text or art might involve:
+
+- Spend the time to articulate what I am trying to do and why (not just "to try it out" or "to see what happens").
+- Whenever possible, combine different purposes (try out an experimental approach in a way that may also contribute to a particular project, etc.).
+- Whenever possible, work in an open and shared way, so that others can benefit from my use of the AI.
 
 {{< /hint >}}
 
