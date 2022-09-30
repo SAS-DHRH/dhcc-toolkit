@@ -1,5 +1,5 @@
 ---
-title: "Decision trees"
+title: "Decision Trees"
 date: 2022-05-17
 draft: false
 weight: 8
