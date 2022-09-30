@@ -1,25 +1,21 @@
 ---
-title: "Project planning"
+title: "Project Planning"
 date: 2022-05-17
 draft: false
 # weight: 2
 slug: 'project-planning'
 ---
 
-# Project planning
+# Project Planning
 
 Our research cultures won't change by themselves. We have to make it
-happen. Planning our research responsibly now, rather than waiting for
+happen. Writing responsible funding proposals now rather than waiting for
 funders to require environmental statements, means that we are modelling
 the change we want to see in the world.
 
-## Funding Landscape
+{{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint info >}}
 
-Currently this section and the next (Data Management Plans) focuses on
-the UK context. We would like to broaden this. **We invite funders and
-researchers across Europe and globally to contribute their
-perspectives**, to widen the scope of this section (we hope this will be
-one focus of our first toolkit workshop, at DH Benelux in June 2022).
+## Funding Landscape
 
 Within the UK context, in mid 2022, our view is that:
 
