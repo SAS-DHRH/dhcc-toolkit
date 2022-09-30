@@ -32,6 +32,7 @@ The toolkit has multiple pathways, here is one suggestion to navigate through th
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
+- [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
