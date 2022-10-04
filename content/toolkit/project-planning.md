@@ -13,7 +13,7 @@ happen. Writing responsible funding proposals now rather than waiting for
 funders to require environmental statements, means that we are modelling
 the change we want to see in the world.
 
-{{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint info >}}
+{{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
 ## Funding Landscape
 
