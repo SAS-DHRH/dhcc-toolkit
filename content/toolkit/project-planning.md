@@ -8,63 +8,32 @@ slug: 'project-planning'
 
 # Project Planning
 
-Our research cultures won't change by themselves. We have to make it
-happen. Writing responsible funding proposals now rather than waiting for
-funders to require environmental statements, means that we are modelling
-the change we want to see in the world.
+Our research cultures won't change by themselves. We have to make it happen. Writing responsible funding proposals now (rather than waiting for
+funders to require environmental statements) means that we are modelling the change we want to see in the world.
 
 {{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
 ## Funding Landscape
 
-Within the UK context, in mid 2022, our view is that:
+Writing in late 2022, our view is that:
 
-- The funding landscape is likely to change, and researchers should collaborate proactively with funding bodies to co-produce the next generation of funding allocation mechanisms.
-- In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example, the Data Management Plan section of UKRI applications can be used to reflect on digital carbon and wider sustainability and justice issues.
-- Funders have signalled that they are open to existing frameworks and guidance being interpreted in this way. The authors of this toolkit welcome this, and invite funders to actively signal the direction of travel and the interim arrangements (especially to peer reviewers).
+- *Requirements will change.* The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
+- *But we don't have to wait.* In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.
+- *More transitional guidance from funders is welcome.* Funders have signalled that they are open to existing frameworks and guidance being interpreted in this way. The authors of this toolkit welcome this, and invite funders to actively signal the direction of travel and the interim arrangements (especially to peer reviewers).
 
-The funding landscape is at a moment of transition. The UK has declared
-a climate emergency, as have universities and research organisations
-across the sector. The major research funding bodies have signalled that
-decarbonisation, sustainability, and just climate transition are top
-priorities. Use of Information Communications Technology (ICT) is widely
-recognised as [a major source of carbon
+We need, urgently, to 'green' our research. This is a time of transition. The UK has declared a climate emergency, as have universities and research organisations across the sector. Major research funding bodies are prioritising decarbonisation, sustainability, and just climate transition. Use of Information Communications Technology (ICT) is widely recognised as [a major source of carbon
 emissions](https://doi.org/10.1016/j.patter.2021.100340).
 
-We need, urgently, to 'green' our research. However, most of the major
-funders do not yet explicitly ask applicants about the sustainability or
-climate justice dimensions of their projects. The current major UK
-exception is the Wellcome Trust. Funders are exploring how they can
-drive sustainability in research project design; however, revisions to
-application processes take time. This is partly because of justifiable
-concern not to make application processes unnecessarily onerous
-(increasing the amount of work that goes into funding applications can
-have its own implications for equity and justice within the academy).
+However, with the exception of the Wellcome Trust, these funders are not yet explicitly asking applicants about the sustainability or climate justice dimensions of their projects.  Revisions to application processes take time, partly because of justifiable concerns about making applications more onerous: increasing the work that goes into applications can have its own implications for equity and justice.
 
-The Digital Humanities Climate Coalition supports the revision of
-funding processes to centre sustainability and climate justice. We also
-argue, however, that existing application frameworks and guidance do
-*implicitly* ask for reflection on sustainability and climate justice.
-
+The Digital Humanities Climate Coalition supports the revision of funding processes to centre sustainability and climate justice. We also argue, however, that existing application frameworks can also accommodate sustainability and climate justice considerations. In this transitional time, these frameworks can be interpreted flexibly to provide reviewers with relevant information, so that they can favour sustainable research and reject unsustainable research.
 
 ## Data Management Plans {#DMP}
 
-In this section we focus on UKRI Standard Grants (we hope to expand this
-scope in the future, and would be interested to hear from collaborators,
-especially across Europe). One area of special interest for this toolkit
-is the UKRI's Data Management Plan (DMP). There are also opportunities
-to include information of this kind in the Ethics, Case for Support, and
-Justification of Resource sections. A DMP outlines a project's approach
-to managing data through a response to a series of prompts on data
-creation, storage, sharing, and ethics, which are provided in the
-application guidance. UKRI guidance also points researchers to resources
-they might find useful in preparing a DMP and encourages applicants to
-demonstrate knowledge of institutional policies and procedures. Some
-grant writers find the DMP useful since it tends to focus one on the
-minute material detail of the research process (exactly what data will
-be created, by whom, when, etc.). However, the DMP is sometimes handled
-by specialists who may not be closely involved in the project, and/or
-via templates or text that is copy-pasted and lightly edited.
+One area of special interest for this toolkit is the UKRI's Data Management Plan (DMP). There are also opportunities to include information of this kind in the Ethics, Case for Support, and Justification of Resource sections. 
+
+A DMP outlines a project's approach to managing data through a response to a series of prompts on data creation, storage, sharing, and ethics, which are provided in the application guidance. UKRI guidance also points researchers to resources they might find useful in preparing a DMP and encourages applicants to demonstrate knowledge of institutional policies and procedures. Some grant writers find the DMP useful since it tends to focus one on the minute material detail of the research process (exactly what data will be created, by whom, when, etc.). However, the DMP is sometimes handled
+by specialists who may not be closely involved in the project, and/or via templates or text that is copy-pasted and lightly edited.
 
 Neither the [DMP application guidance nor its associated assessment
 criteria](https://www.ukri.org/publications/ahrc-research-funding-guide/)
