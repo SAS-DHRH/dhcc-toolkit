@@ -9,9 +9,7 @@ slug: working-practices
 
 # Working Practices
 
-... this is the Decision trees content - please edit ...
-
-While data management plans focus strongly on the data produced or reused by research projects, the whole research process itself represents a long path of decision-making that involves the assessment of the project’s environmental footprint. This chapter is work-in-progress toward a set of decision trees, to help you make informed decisions in the research process.
+While data management plans focus strongly on the data produced or reused by research projects, the whole research process itself represents a long path of decision-making that involves the assessment of the project’s environmental footprint. This chapter is work-in-progress and is intended to help you make informed decisions in the research process. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Project Planning](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/project-planning.html) sections.
 
 {{<hint info>}}
 **Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
@@ -26,21 +24,21 @@ For your old devices that are broken beyond repair, you can inquire into the for
 
 In order to have a precise idea of the environmental footprint of a device, you can consult the corresponding Life-Cycle Assessment ([LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment), [here](https://ecoinfo.cnrs.fr/thematiques/analyse-de-cycle-de-vie/) for an explanation in French) that hardware companies usually provide. LCAs are never fully accurate - some of the information they contain are rough estimates, and the criteria that are communicated are only a handful from a long list. But they remain the best way of assessing the digital footprint of a device or hardware.
 
-All in all, the less devices you purchase and use, the better. You should consider this for instance when you want to plug an additional monitor to your laptop: the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop (further information see below).
+All in all, the fewer devices you purchase and use, the better. You should consider this for instance when you want to plug an additional monitor into your laptop: the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop (further information see below).
 
-More generally, the choice of the device you want to use plays an important role when it comes to the amount of electricity that is used. For example, by streaming 1 hour via good wifi in HD quality, a laptop needs 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
+More generally, the choice of the device you want to use plays an important role when it comes to the amount of electricity that is used. For example, for streaming one hour of content via good wifi in HD quality, a laptop needs 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
 
-You might think that you can sometimes work faster with a laptop than with a smartphone or faster with two monitors than with one. But, on the other hand, sometimes, the screen size does not influence what you do or how much time you need to do it. Therefore, you don’t have to switch devices or the amount of monitors in general, but before starting a new task, you could step back and reflect on the kind of device you really need. For example: Maybe you can unplug your second monitor and only plug it in when it helps you work more efficiently. 
+Sometimes, you might be able to work faster with a laptop than with a smartphone, or with two monitors rather than one. At other times, the screen size may not influence what you do or how much time you need to do it. You might not have to switch devices or use multiple monitors for a given task; try stepping back and reflecting on the kind of device you really need. For example, you could unplug your second monitor and only plug it in when it helps you work more efficiently. 
 
-Concerning peripheral hardware like mouses and keyboards, their energy supply can also make a difference. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), devices also require batteries that need to be replaced or recharged regularly.
+The energy required by peripheral hardware like mouses and keyboards can also make a difference. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), devices also require batteries that need to be replaced or recharged regularly.
 
-Note that every digital device uses electricity. The amount of CO2 that is used by producing the electricity depends on the way of production. Every country uses different ways to produce electricity (f.e. Fossil fuels [bad for the climate], nuclear power [bad for the environment, bad for climate and dangerous], renewables [best to stop climate crisis], Therefore, the amount of CO2 used depends on the country you live in. If you would like to think about moving into another country, you can find information about the ways of electricity-production per country here: https://ourworldindata.org/electricity-mix . 
+Of course, every digital device uses electricity; we don't need to stop using our devices, but should be conscious of our choices and their relative environmental costs. The amount of CO2 that is used by producing the electricity depends on the way of production. Every country uses different ways to produce electricity (f.e. Fossil fuels [bad for the climate], nuclear power [bad for the environment, bad for climate and dangerous], renewables [best to stop climate crisis], Therefore, the amount of CO2 used depends on the country you live in. If you would like to think about moving into another country, you can find information about the ways of electricity-production per country here: https://ourworldindata.org/electricity-mix . 
 
 
 
 ## Using an operating system
 
-You cannot say that one operating system (like Windows, Linux, MacOS) is better from a carbon footprint point of view than another. There are too many different versions of the systems to compare them in general. But you can check if there are a lot of elements running in the back end of your operating system, and if there are a lot of programs that run automatically by starting the system even if you don’t need them at that moment. 
+We cannot say that one operating system (like Windows, Linux, MacOS) is better from a carbon footprint point of view than another. There are too many different versions of the systems to compare them in the abstract. But we can check whether there are a lot of elements running in the background, and whether there are a lot of programs that run automatically on start-up, when we don’t need them at that moment. 
 
 ### Towards minimal operating systems {#mini-kernels}
 
@@ -53,43 +51,26 @@ Unikernels provide a light-weight alternative to traditional VMs or containers. 
 
 
 
-## Data traffic
+## Day-to-day working and data traffic
 
-**Data traffic** on the internet is all the more problematic as the tendency to facilitate data traffic with new technologies like 5G comes with a massive growth of data consumption. In terms of impact, the rule of thumb would be: Wired connection>Wifi>3G>4G>5G. A poor internet connection has a better carbon footprint than a strong one. 
+New technologies for facilitating **data traffic**, like 5G, comes with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
 
 For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a “low” Wifi connection you might need 4g CO2 in total, with a “high” Wifi connection you might need 10g CO2 in total. Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
 
 
+Best practice around **emailing**, especially storage, remains a subject of debate, and we invite perspectives and evidence to inform future editions of the toolkit. You can minimise the impact of emails by following a few simple rules. First, avoid integrating an image footer as a signature in your emails. (Consider communicating to your teammates the environmental cost of including images, such an institutional logo, in email signatures). Second, avoid emailing large groups of people unless it is necessary.
 
-
-
-
-
-
-
-
-
-*[start of zoom measurement/estimate info - need more samples and how to factor in multiple participants]*
-
-
-
-**Day-to-day working**
-
-
-
-**E-mailing** is resource-intensive, but you can minimise the impact by following a few simple rules. First, avoid integrating an image footer as a signature in your emails. (Consider communicating to your teammates the environmental cost of including images, such an institutional logo, in email signatures). Second, avoid emailing large groups of people unless it is definitely necessary.
-
-Emails are stored as long as they are in your inbox or in subfolders of your inbox, it matters that you clean your inbox by deleting emails regularly (see mini case study: “Email Storage”). This is particularly important for emails with attached files (a regular email weighs 4g CO2, and an email with a photo 50g CO2). 
+Emails are stored as long as they are in your inbox or in subfolders of your inbox, so some savings may be made by clearing out your inbox regularly. You can prioritise emails with attached files (a regular email weighs 4g CO2, and an email with a photo 50g CO2). There is a small energy cost associated with deleting emails; our current understanding is that this is typically outweighed by the benefit, although such trade-offs are one reason the benefits are difficult to estimate.  
 
 **Sharing files**. You might think about using a download link (e.g. provided by a cloud storage) to share documents instead of sending them via e-mail. It is advisable to use online documents especially when: 1) the shared document has a large file size, 2) you have a high number of recipients. 
 
-**Documents stored in cloud or network drives** require traffic for saving files and synchronisation. Network drives usually synchronise »file by file«, that means each change will result in uploading the document completely again. Especially in case you edit large files, you might consider copying them once to your local drive, edit them there and copy the edited version back when you are finished. Instead, most cloud solutions only require traffic for the modified parts of a file. On the backend, cloud storages usually synchronise automatically on every modification. You can disable the client temporarily or turn on cloud synchronisation only when you need it in order to save energy from additional, superfluous traffic. Generally, saving the document less often will reduce energy consumption if you edit remotely stored documents.
+**Documents stored in cloud or network drives** require traffic for saving files and synchronisation. Network drives usually synchronise file-by-file, which means each change will result in uploading the document completely again. Especially when editing large files, you might consider copying them once to your local drive, editing there and then copying the edited version back when you are finished. Most cloud solutions only require traffic for the modified parts of a file. On the backend, cloud storages usually synchronise automatically on every modification. You can disable the client temporarily or turn on cloud synchronisation only when you need it in order to save energy from additional, superfluous traffic. Generally, saving the document less often will reduce energy consumption if you edit remotely stored documents.
 
-**Editing documents online together** is a good solution to avoid frequent email traffic, besides the advantage of synchronous editing or synchronisation. However, each time you open an online document, the application needs to be loaded into your browser memory, which creates a lot of traffic. Additionally, it creates traffic by permanently synchronising your edits, which you cannot turn off in an online environment (consider also traffic by tracking, see above: Browsing). It also relies on a permanent internet connection (see above: Data Traffic). Depending on the type of information you need to communicate, it is advisable to opt for a light-weight tool (e.g. EtherPad) for taking collaborative notes.
+**Editing documents online together** is a good solution to avoid frequent email traffic, besides the advantage of synchronous editing or synchronisation. However, each time you open an online document, the application needs to be loaded into your browser memory, which creates a lot of traffic. Additionally, it creates traffic by permanently synchronising your edits, which you cannot turn off in an online environment (consider also traffic by tracking, see below: Browsing). It also relies on a permanent internet connection (see above: Data Traffic). Depending on the type of information you need to communicate, it is advisable to opt for a light-weight tool (e.g. EtherPad) for taking collaborative notes.
 
-**Browsing** on the Internet causes data traffic. As a general rule, more data privacy also means less data traffic. You can track your browsing footprint with the »[Carbonalyser](https://theshiftproject.org/en/carbonalyser-browser-extension/)« tool developed by the Shift Project to identify traffic-intense websites. A lot of traffic remains invisible to the user: ads, tracking and social media functions (cf. https://whotracks.me/) are being processed in the background. It is possible to avoid some of this invisible traffic with browser extensions (AdBlockPlus, Ghostery, uBlockOrigin; for general advice see [WikiHow](https://www.wikihow.com/Prevent-People-from-Tracking-You-on-the-Internet)). 
+**Browsing** on the Internet causes data traffic. As a general rule, more data privacy also means less data traffic. You can track your browsing footprint with the »[Carbonalyser](https://theshiftproject.org/en/carbonalyser-browser-extension/)« tool developed by the Shift Project to identify traffic-intense websites. A lot of traffic remains invisible to the user: ads, tracking and social media functions are being processed in the background (cf. https://whotracks.me/). It is possible to avoid some of this invisible traffic with browser extensions (AdBlockPlus, Ghostery, uBlockOrigin; for general advice see [WikiHow](https://www.wikihow.com/Prevent-People-from-Tracking-You-on-the-Internet)). 
 
-**Editing documents locally** on your machine sometimes consumes unnecessary energy when additional features are running in the background of your program. For example, you can save energy by turning off automatic grammar/spell check (and activate it e.g. only for finalising a document). If your document is very large and you use cloud storage or a network drive, consider turning off the autosave function, or adjust it to a larger interval in order to reduce synchronisation traffic. Also check for further features in your text editor that may not be required to run all the time – essentially everything that checks the text permanently in the background and needs to go through large vocabularies.
+**Editing documents locally** on your machine sometimes consumes unnecessary energy when additional features are running in the background of your program. For example, you can save energy by turning off automatic grammar/spell check (and activate it for final review of a document, for example). If your document is very large and you use cloud storage or a network drive, consider turning off the autosave function, or adjust it to a larger interval in order to reduce synchronisation traffic. Also check for further features in your text editor that may not be required to run all the time – essentially everything that checks the text permanently in the background and needs to go through large vocabularies.
 
 
 
@@ -102,6 +83,8 @@ Communicating within your project team might include sending messages, sharing d
 
 
 **Choosing a videoconference system**
+
+*[start of zoom measurement/estimate info - need more samples and how to factor in multiple participants]*
 
 | Software | Carbon footprint | Accessibility | GDPR compliance |
 | --- | --- | --- | --- |
