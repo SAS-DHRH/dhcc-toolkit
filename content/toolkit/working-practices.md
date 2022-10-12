@@ -9,7 +9,7 @@ slug: working-practices
 
 # Working Practices
 
-While data management plans focus strongly on the data produced or reused by research projects, the whole research process itself represents a long path of decision-making that involves the assessment of the project’s environmental footprint. This chapter is work-in-progress and is intended to help you make informed decisions in the research process. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Project Planning](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/project-planning.html) sections.
+While data management plans focus strongly on the data produced or reused by research projects, the whole research process itself represents a long path of decision-making that involves the assessment of the project’s environmental footprint. This section is intended to help you make informed decisions about the research process, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Project Planning](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/project-planning.html) sections.
 
 {{<hint info>}}
 **Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
@@ -18,29 +18,27 @@ While data management plans focus strongly on the data produced or reused by res
 
 ## Using digital devices in general
 
-It is best to use **devices** as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. Therefore, think about buying a second-hand-device. Often they are sold updated with partly new hardware. 
+**Device lifecycles**
+
+It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. Therefore, think about buying a second-hand-device. Often they are sold updated with partly new hardware. 
 
 For your old devices that are broken beyond repair, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
 
 In order to have a precise idea of the environmental footprint of a device, you can consult the corresponding Life-Cycle Assessment ([LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment), [here](https://ecoinfo.cnrs.fr/thematiques/analyse-de-cycle-de-vie/) for an explanation in French) that hardware companies usually provide. LCAs are never fully accurate - some of the information they contain are rough estimates, and the criteria that are communicated are only a handful from a long list. But they remain the best way of assessing the digital footprint of a device or hardware.
 
-All in all, the fewer devices you purchase and use, the better. You should consider this for instance when you want to plug an additional monitor into your laptop: the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop (further information see below).
+**Device types**
 
-More generally, the choice of the device you want to use plays an important role when it comes to the amount of electricity that is used. For example, for streaming one hour of content via good wifi in HD quality, a laptop needs 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
+All in all, the fewer devices you purchase and use, the better. The choice of device also plays an important role when it comes to the amount of electricity consumed. For example, for streaming one hour of content via good wifi in HD quality, a laptop uses 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines. Choices regarding peripheral hardware like mouses and keyboards can also make a difference to energy consumption. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), some devices also require batteries that need to be replaced or recharged regularly.
 
-Sometimes, you might be able to work faster with a laptop than with a smartphone, or with two monitors rather than one. At other times, the screen size may not influence what you do or how much time you need to do it. You might not have to switch devices or use multiple monitors for a given task; try stepping back and reflecting on the kind of device you really need. For example, you could unplug your second monitor and only plug it in when it helps you work more efficiently. 
+Sometimes, you might be able to work faster with a laptop than with a smartphone, or with two monitors rather than one. At other times, the screen size may not influence what you do or how much time you need to do it. Accordingly, it may not be necessary to switch devices or use multiple monitors for a given task; try stepping back and reflecting on the kind of device you really need for the task in hand. For example, you could unplug your second monitor and only plug it in when it helps you work more efficiently (the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop). 
 
-The energy required by peripheral hardware like mouses and keyboards can also make a difference. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), devices also require batteries that need to be replaced or recharged regularly.
-
-Of course, every digital device uses electricity; we don't need to stop using our devices, but should be conscious of our choices and their relative environmental costs. The amount of CO2 that is used by producing the electricity depends on the way of production. Every country uses different ways to produce electricity (f.e. Fossil fuels [bad for the climate], nuclear power [bad for the environment, bad for climate and dangerous], renewables [best to stop climate crisis], Therefore, the amount of CO2 used depends on the country you live in. If you would like to think about moving into another country, you can find information about the ways of electricity-production per country here: https://ourworldindata.org/electricity-mix . 
-
-
+Of course, every digital device uses electricity; we don't need to stop using our devices, but should be conscious of our choices and their relative environmental costs. 
 
 ## Using an operating system
 
 We cannot say that one operating system (like Windows, Linux, MacOS) is better from a carbon footprint point of view than another. There are too many different versions of the systems to compare them in the abstract. But we can check whether there are a lot of elements running in the background, and whether there are a lot of programs that run automatically on start-up, when we don’t need them at that moment. 
 
-### Towards minimal operating systems {#mini-kernels}
+**Towards minimal operating systems**
 
 Unikernels provide a light-weight alternative to traditional VMs or containers. Technologies such as [MirageOS](https://mirage.io/) offer a declarative way to build statically compiled binaries that can run directly over a hypervisor or even over bare metal. This approach allows minimal systems to be built which contain the exact functionality required for the task, even down to being able to specify what parts of a network stack are required. This not only provides opportunity for improving the security of the running system but also can result in energy savings compared to traditional operating systems such as Linux.
 
@@ -108,27 +106,23 @@ Communicating within your project team might include sending messages, sharing d
 
 If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmists to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
 
+## Publishing your data
 
-
-**Decisions regarding the way you present your results**
-
-In this area, the key is to take advantage of infrastructure that is used by as many people as possible in order to reduce the carbon footprint per capita. Ad-hoc, tailored solutions are basically the most resource-intensive and should be avoided as much as possible. 
+In this area, the key is to take advantage of infrastructure that is used by as many people as possible in order to reduce the carbon footprint per capita. Ad-hoc, tailored solutions are the most resource-intensive and should be avoided where possible. 
 
 
 
 **Making (primary) data available**
 
-Humanities projects with a strong digital component usually include the production of primary data in their expected output (for instance in their Data Management Plan), but research in general, even classical Humanities research without a strong digital component, combines and/or creates primary resources such as texts, images, videos, audios. The simple fact that your research project deals with a specific combination of sources, connected by the research question you work on, could make it worth for you to present this data as a publication per se (in the framework of the rights associated with this data). This type of publication can be included in your publication list or integrated to a data paper publication (on data papers, see [Schöpfel et al., 2019](https://halshs.archives-ouvertes.fr/halshs-02284548/document)). 
+Humanities projects with a strong digital component usually include the production of primary data in their expected outputs (as detailed in their Data Management Plan), but research in general, even classical Humanities research without a strong digital component, combines and/or creates primary resources such as texts, images, video, and audio. The simple fact that your research project deals with a specific combination of sources, connected by the research question you work on, could make it worthwhile to present this data as a publication itself (within the framework of rights associated with the data). This type of publication can be included in your publication list or integrated into a data paper publication (on data papers, see [Schöpfel et al., 2019](https://halshs.archives-ouvertes.fr/halshs-02284548/document)). 
 
-Primary data should be hosted in a stable, sustainable environment that will provide access and reuse (reuse is key here in terms of environmental footprint). Research, Teaching and Cultural Heritage Institutions usually provide in-house, state-of-the art solutions (such as nextcloud) on dedicated servers. In some countries (like in France), national infrastructures offer this type for services as well. You can also decide to use trusted repositories like github or zenodo. The key here is to avoid one-shot solutions and maximise mutualisations. This is also in general the best way to ensure multiple site archiving and hence making sure your data will not disappear in a server crash. For more in-depth information on Sustainability and Archiving Strategies, see above (Sustainable preservation and archiving).
+Primary data should be hosted in a stable, sustainable environment that will provide access and reuse (reuse is key here in terms of environmental footprint). Research, Teaching and Cultural Heritage Institutions usually provide in-house, state-of-the art solutions (such as nextcloud) on dedicated servers. In some countries (like in France), national infrastructures offer this type for services as well. You can also decide to use trusted repositories like github or zenodo. The key here is to avoid one-shot solutions and maximise mutualisations. This is also in general the best way to ensure multiple site archiving and hence making sure your data will not disappear in a server crash.
 
 
 
 **Publishing your results**
 
-Following up on the idea that mutualized infrastructure reduces the carbon footprint, the publication on massive preprint servers like [ArXiv ](https://arxiv.org/)or [HAL](https://hal.archives-ouvertes.fr/) presents an excellent ratio in terms of visibility/resource consumptions. Green Open Access is actually green (see [here](https://en.wikipedia.org/wiki/Open_access#Definitions) the difference between Green and Gold OA).
-
-Gold Open Access, comes with a few caveats. First, like for any other website, the fancier the hosting, the more resource-intensive. Pop-ups, banners, pictures, videos on the publisher’s website are loaded every time the paper is accessed and generating a substantial CO2 footprint. What is more, a wide array of well-established publishers harvests researchers’ data ([data tracking](https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_en.pdf)), which is not only problematic in terms of data privacy, but also in terms of environmental impact that comes from harvesting, storing, and using the tracked data. 
+Following up on the idea that mutualized infrastructure reduces the carbon footprint, the publication on massive preprint servers like [ArXiv ](https://arxiv.org/)or [HAL](https://hal.archives-ouvertes.fr/) presents an excellent ratio in terms of visibility/resource consumptions. Green Open Access is actually green (see [here](https://en.wikipedia.org/wiki/Open_access#Definitions) the difference between Green and Gold OA). Gold Open Access comes with a few caveats. First, like for any other website, the fancier the hosting, the more resource-intensive. Pop-ups, banners, pictures, videos on the publisher’s website are loaded every time the paper is accessed and generating a substantial CO2 footprint. What is more, a wide array of well-established publishers harvests researchers’ data ([data tracking](https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_en.pdf)), which is not only problematic in terms of data privacy, but also in terms of environmental impact that comes from harvesting, storing, and using the tracked data. 
 
 
 
@@ -142,18 +136,18 @@ Gold Open Access, comes with a few caveats. First, like for any other website, t
 | TikTok    | 2.63 | 15.81 | 96.23 |
 
 
-–> The footprint is smaller with less videos that start being played automatically.  
+–> The footprint is smaller with fewer videos that play automatically.  
 
 Src: https://greenspector.com/en/social-media-2021/
  
 
 
-*Perspectives that we should keep in mind*:
+## Questions to keep in mind
 
-* How much electricity is needed to run a software?
-* Is any special hardware needed that needs resources?
-* How sustainable is the workflow-process (concerning women/man-power)
-* Data privacy (Who hosts my data? On which conditions / legal restrictions? Who has access?)
-* Open source software (Who can use the software, accessibility)
-* Maybe: Do I need a lot of time to learn something new? Are there communities that can help me?
+* How much electricity is needed to run the software?
+* Is any special hardware needed that requires resources?
+* How sustainable is the workflow process (concerning people-power)?
+* Data privacy: Who hosts my data? On what conditions and legal restrictions? Who has access?
+* Open source software: Who can use the software, how accessible is it?
+* Do I need a lot of time to learn something new? Are there communities that can help me?
 * Is the tool accessible for people with disabilities or people that speak different languages? 
