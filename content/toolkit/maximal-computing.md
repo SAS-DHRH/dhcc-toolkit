@@ -53,7 +53,7 @@ exponentially since \~2012*
 3. **Use pre-trained models.** There are so many to choose from! And likewise, try to make any models you do train available for others to use. 
 4. **Use smaller models.** [Larger models may yield better results](https://arxiv.org/abs/2001.08361), but often a smaller one will still do everything you need.
 5. **Don't overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
-6. **[Raise awareness of the issue.]**(https://arxiv.org/abs/1906.02243)
+6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)**
 7. **Where possible, do it on-site.** If your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft.
 8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. 
 
