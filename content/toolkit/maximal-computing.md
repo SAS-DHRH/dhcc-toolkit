@@ -134,11 +134,13 @@ In 2020, the Association for Computing Machinery (ACM) suggested that to
 measure efficiency of AI models we need to report on the amount of
 *work* required. This includes the work to train the model, tune the
 hyperparameters and retrain the model repeatedly in however many
-iterations you use (called Red AI). Understanding the costs for a single
-document, the size of the data set and the steps in your pipeline (such
-as preprocessing, cleaning, and enriching) helps you to comprehend the
+iterations you use.  Understanding the costs for a single document, 
+the size of the data set and the steps in your pipeline (such as 
+preprocessing, cleaning, and enriching) helps you to comprehend the
 total work required, and thus allows you to optimise at specific points
-in your pipeline. Striving to "treat efficiency as a primary evaluation
+in your pipeline. Red AI refers to the dominant approach, that seeks to 
+improve results through massive computational power without regard
+to environmental impact. Striving to "treat efficiency as a primary evaluation
 criterion alongside accuracy" is what Schwartz et. al. call Green AI.
 
 
