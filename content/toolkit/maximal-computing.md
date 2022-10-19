@@ -203,7 +203,7 @@ Machines (VMs) to more on-demand compute services we should start to see
 benefits in energy consumption, especially in large organisations that
 have budgeted for VMs that might run with minimal use for periods of
 time. We will move to a model that is more elastic and can scale
-horizontally to accommodate changes in demand.
+horizontally to accommodate changes in demand. Cloud providers such as Amazon have started to provide their own carbon footprint [calculators](https://aws.amazon.com/blogs/aws/new-customer-carbon-footprint-tool/).
 
 We are also seeing a shift towards using Content Delivery Networks
 (CDNs) which can provide in-memory caches of popular resources avoiding
