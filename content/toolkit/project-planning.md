@@ -99,14 +99,20 @@ However, definitive EFs are often not available for the type of activities that,
 
 ## Travel
 
-Conferences, workshops, sandpits, seminars, events, meetings, fieldwork. Videoconferencing, teleworking. What should be done in person, and what should be done remotely? What digital tools facilitate sustainable ways
-of working, and what are their drawbacks or risks? This is a huge topic, and we won't try to cover everything here. However, here are a few suggested keywords and resources.
+Conferences, workshops, sandpits, seminars, events, meetings, fieldwork. Videoconferencing, teleworking. What should be done in person, and what should be done remotely? What digital tools facilitate sustainable ways of working, and what are their drawbacks or risks? This is a huge topic, and we won't try to cover everything here. However, here are a few suggested keywords and resources. Briefly stated, we should fly less, or even not at all. 
+
+*Research Voyaging and Hospitality Networks*
+
+- Cutting down travel is obviously important. So too is making sure that when we do travel, it really counts. We might think more in terms of a researcher tour or researcher voyage.
+- For example, should there be more digital platforms to help universities and other institutions share their resources to enable slower, more sustainable research trips? To notice when researcher voyages intersect (or can be made to intersect) in interesting ways?
+- This includes thinking about what you might do along the way (not just at the destination).
+- Universities and other institutions might form hospitality networks, to offer accommodation at a discount or for free, where travel is by the greenest available method.
 
 *Flying*
 
-- Flying Less in Academia Resource Guide, ed. Ryan Katz-Rosen, is a large curated reading list.
+- [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/), ed. Ryan Katz-Rosen, is a large curated reading list.
 - Nevins, Joseph. 2014. ‘Academic Jet-Setting in a Time of Climate Destabilization: Ecological Privilege and Professional Geographic Travel’. The Professional Geographer 66, no. 2 (April 3, 2014): 298–310. https://doi.org/10.1080/00330124.2013.784954.
-- Sheller, Mimi. 2018. Mobility Justice: The Politics of Movement in an Age of Extremes. London: Verso.
+- Sheller, Mimi. 2018. _Mobility Justice: The Politics of Movement in an Age of Extremes_. London: Verso.
 - Nevins, Joseph, Stephen Allen and Matt Watson 2022.  ‘A path to decolonization? Reducing air travel and resource consumption in higher education’. Travel Behaviour and Society, Volume 26, January 2022, pp.231-239. https://doi.org/10.1016/j.tbs.2021.09.012
 - Glover, Andre, Yolande Strengers, and Tania Lewis. “The Unsustainability of Academic Aeromobility in Australian Universities.” Sustainability: Science, Practice and Policy 13, no. 1 (2017): 1–12.
 - The carbon cost of flying is notorious, so it is worth putting it in perspective: it makes a far smaller contribution than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easier to cut down on.
@@ -115,7 +121,7 @@ of working, and what are their drawbacks or risks? This is a huge topic, and we 
 *Remote Working and 'Rebound Effects'*
 
 - ‘Rebound effects’ include increased demand for energy caused by remote working which can erode (or even outweigh) savings from less commuting. A good overview is Hook, Andrew, Victor Court, Benjamin K. Sovacool, and Steve Sorrell. 2020. ‘A Systematic Review of the Energy and Climate Impacts of Teleworking’. Environmental Research Letters 15 (9): 093003. https://doi.org/10.1088/1748-9326/ab8a84.
-- A big EU report on teleworking: Samek Lodovic, Manuela et al. 2021. The Impact of Teleworking and Digital Work on Workers and Society. Committee on Employment and Social Affairs, Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
+- A big EU report on teleworking: Samek Lodovic, Manuela et al. 2021. _The Impact of Teleworking and Digital Work on Workers and Society_. Committee on Employment and Social Affairs, Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
 
 *Slow Research, Slow Travel, Slow Scholarship, Slow Food*
 
@@ -137,12 +143,6 @@ of working, and what are their drawbacks or risks? This is a huge topic, and we 
 Sarabipour, Sarvenaz. “Evaluating features of scientific conferences: A call for improvements.” 21 April 2020. https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf
 Skiles, Matthew, Euijin Yang, Orad Reshef et al. "Conference Demographics and Footprint Changed by Virtual Platforms." Nature Sustainability (2021). https://doi.org/10.1038/s41893-021-00823-2
 Svensson, Patrik. “Some Thoughts on Making Academic Events with Particular Attention to the Mid-Sized Event,” October 15, 2019. http://patriksv.net/some-thoughts-on-making-academic-events/
-
-*Research Voyaging and Hospitality Networks*
-
-- Cutting down travel is obviously important. So too is making sure that when we do travel, it really counts. We might think more in terms of a researcher tour or researcher voyage.
-  - For example, should there be more digital platforms to help universities and other institutions share their resources to enable slower, more sustainable research trips?
-- To offer accommodation at a discount or for free, to think about what you might do along the way (not just at the destination), to notice when researcher voyages intersect (or can be made to intersect) in interesting ways?
 
 ## Catering events
 
