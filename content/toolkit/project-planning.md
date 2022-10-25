@@ -142,16 +142,16 @@ Digital Humanities researchers can explore the practical challenges of this. For
 - Pasek, Anne, Caleb Wellum, and Emily Roehl. ‘Making and Meeting Online: A White Paper on E-Conferences, Workshops, and other Experiments in Low-Carbon Research Exchange’. Petrocultures Research Group. [https://www.energyhumanities.ca/news/making-and-meeting-online](https://www.energyhumanities.ca/news/making-and-meeting-online)
 - Bautista Perpinyà, Max. "Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists." Historians for the Future 18 November 2021. [https://historiansforfuture.org/online-conferences-wont-do-it/](https://historiansforfuture.org/online-conferences-wont-do-it/)
 - Mead, Margaret, and Paul Byers. The Small Conference: An Innovation in Communication, 2015. [https://0-doi-org.pugwash.lib.warwick.ac.uk/10.1515/9783111559100](https://0-doi-org.pugwash.lib.warwick.ac.uk/10.1515/9783111559100)
-Sarabipour, Sarvenaz. “Evaluating features of scientific conferences: A call for improvements.” 21 April 2020. [https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf)
-Skiles, Matthew, Euijin Yang, Orad Reshef et al. "Conference Demographics and Footprint Changed by Virtual Platforms." Nature Sustainability (2021). [https://doi.org/10.1038/s41893-021-00823-2](https://doi.org/10.1038/s41893-021-00823-2)
-Svensson, Patrik. “Some Thoughts on Making Academic Events with Particular Attention to the Mid-Sized Event,” October 15, 2019. [http://patriksv.net/some-thoughts-on-making-academic-events/](http://patriksv.net/some-thoughts-on-making-academic-events/)
+- Sarabipour, Sarvenaz. “Evaluating features of scientific conferences: A call for improvements.” 21 April 2020. [https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf)
+- Skiles, Matthew, Euijin Yang, Orad Reshef et al. "Conference Demographics and Footprint Changed by Virtual Platforms." Nature Sustainability (2021). [https://doi.org/10.1038/s41893-021-00823-2](https://doi.org/10.1038/s41893-021-00823-2)
+- Svensson, Patrik. “Some Thoughts on Making Academic Events with Particular Attention to the Mid-Sized Event,” October 15, 2019. [http://patriksv.net/some-thoughts-on-making-academic-events/](http://patriksv.net/some-thoughts-on-making-academic-events/)
 
 ## Catering events
 
 *Serve Plant-based Food*
 
-- Dunne, Daisy. 2020. ‘Interactive: What Is the Climate Impact of Eating Meat and Dairy?’ Carbon Brief, 2020.
-- Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. https://doi.org/10.1038/d41586-019-02409-7.
+- Dunne, Daisy. 2020. ‘[Interactive: What Is the Climate Impact of Eating Meat and Dairy?](https://interactive.carbonbrief.org/what-is-the-climate-impact-of-eating-meat-and-dairy/)’ Carbon Brief, 2020.
+- Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. [https://doi.org/10.1038/d41586-019-02409-7](https://doi.org/10.1038/d41586-019-02409-7).
 
 ## Choosing research questions
 
