@@ -34,7 +34,7 @@ This toolkit is from the Digital Humanities Climate Coalition, and in many place
 
 Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting Christopher Ohge, Jo Lindsay Walton, Lisa Otty, or James Baker with your ideas.
 
-# Further reading
+## Further reading ##
 
 Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. 2021. ‘The Real Climate and Transformative Impact of ICT: A Critique of Estimates, Trends, and Regulations’. Patterns 2 (9): 100340. https://doi.org/10.1016/j.patter.2021.100340.
 
