@@ -12,6 +12,14 @@ This section addresses things you might consider when writing a grant. Our resea
 
 {{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
+## Key Recommendations ##
+
+- Researchers should include climate impacts in our funding applications.
+- Where there is no dedicated section to do so, other sections (such as Justification of Resources and Data Management Plan) can be used as a workaround.
+- Funders should update application forms to ensure the research they fund is aligned with climate targets.
+- The timescale is tight, so projects already underway should also review their climate impacts (if this was not done at the application stage).
+- The data, tools and skills to design climate optimal research is not yet widespread. Temporary suspension of carbon intensive activities is recommended as we build capacity.
+
 ## Funding Landscape ##
 
 Writing in late 2022, our view is that:
