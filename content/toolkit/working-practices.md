@@ -1,6 +1,6 @@
 ---
 title: "Working Practices"
-date: 2022-09-29
+date: 2022-10-25
 draft: false
 weight: 8
 slug: working-practices
@@ -20,7 +20,7 @@ While data management plans focus strongly on the data produced or reused by res
 
 **Device lifecycles**
 
-It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. Therefore, think about buying a second-hand-device. Often they are sold updated with partly new hardware. 
+Hardware has an **embodied carbon** cost, in addition to whatever electricity it uses. It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. Therefore, think about buying a second-hand-device. Often they are sold updated with partly new hardware. 
 
 For your old devices that are broken beyond repair, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
 
@@ -51,16 +51,15 @@ Unikernels provide a light-weight alternative to traditional VMs or containers. 
 
 ## Day-to-day working and data traffic
 
-New technologies for facilitating **data traffic**, like 5G, comes with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
+New technologies for facilitating **data traffic**, like 5G, come with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
 
 For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a “low” Wifi connection you might need 4g CO2 in total, with a “high” Wifi connection you might need 10g CO2 in total. Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines 
-
 
 Best practice around **emailing**, especially storage, remains a subject of debate, and we invite perspectives and evidence to inform future editions of the toolkit. You can minimise the impact of emails by following a few simple rules. First, avoid integrating an image footer as a signature in your emails. (Consider communicating to your teammates the environmental cost of including images, such an institutional logo, in email signatures). Second, avoid emailing large groups of people unless it is necessary.
 
 Emails are stored as long as they are in your inbox or in subfolders of your inbox, so some savings may be made by clearing out your inbox regularly. You can prioritise emails with attached files (a regular email weighs 4g CO2, and an email with a photo 50g CO2). There is a small energy cost associated with deleting emails; our current understanding is that this is typically outweighed by the benefit, although such trade-offs are one reason the benefits are difficult to estimate.  
 
-**Sharing files**. You might think about using a download link (e.g. provided by a cloud storage) to share documents instead of sending them via e-mail. It is advisable to use online documents especially when: 1) the shared document has a large file size, 2) you have a high number of recipients. 
+**Sharing files**. You might think about using a download link (e.g. provided by Cloud storage) to share documents instead of sending them via e-mail. It is advisable to use online documents especially when: 1) the shared document has a large file size, 2) you have a high number of recipients. 
 
 **Documents stored in cloud or network drives** require traffic for saving files and synchronisation. Network drives usually synchronise file-by-file, which means each change will result in uploading the document completely again. Especially when editing large files, you might consider copying them once to your local drive, editing there and then copying the edited version back when you are finished. Most cloud solutions only require traffic for the modified parts of a file. On the backend, cloud storages usually synchronise automatically on every modification. You can disable the client temporarily or turn on cloud synchronisation only when you need it in order to save energy from additional, superfluous traffic. Generally, saving the document less often will reduce energy consumption if you edit remotely stored documents.
 
@@ -70,8 +69,7 @@ Emails are stored as long as they are in your inbox or in subfolders of your inb
 
 **Editing documents locally** on your machine sometimes consumes unnecessary energy when additional features are running in the background of your program. For example, you can save energy by turning off automatic grammar/spell check (and activate it for final review of a document, for example). If your document is very large and you use cloud storage or a network drive, consider turning off the autosave function, or adjust it to a larger interval in order to reduce synchronisation traffic. Also check for further features in your text editor that may not be required to run all the time – essentially everything that checks the text permanently in the background and needs to go through large vocabularies.
 
-
-
+**Videoconferencing** is less carbon intensive with cameras switched off. This is a complex area, however, since it relates to human sociality and connection. If we try to be too strict about seeing one another's faces online, could this start to impact our decisions to travel vs. working remotely? In the future, better data on the impact of work-related videoconferencing may help to decide whether this is a carbon-saving measure worth prioritising. For now, we recommend experimenting with a mixture of cameras on and cameras off, especially once working relationships are well-established. 
 
 
 ## How to communicate within your team
