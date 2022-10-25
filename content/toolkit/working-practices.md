@@ -139,12 +139,12 @@ Following up on the idea that mutualized infrastructure reduces the carbon footp
 Src: https://greenspector.com/en/social-media-2021/
  
   
- **Travel and events catering**
+## Travel and events catering
 
 The short version is to fly less and to serve plant-based food. You probably already knew that. There is some further information in the [Project Planning](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/project-planning.html#travel) section of this toolkit.
 
 
-## Questions to keep in mind
+## Questions to keep in mind 
 
 * How much electricity is needed to run the software?
 * Is any special hardware needed that requires resources?
