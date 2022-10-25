@@ -150,21 +150,17 @@ Src: https://greenspector.com/en/social-media-2021/
   
 ## Travel {#travel}
 
-Travel is a huge topic. There is plenty of guidance for academics out there, such as the [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/). More resources are linked to below. The carbon cost of flying is notorious, so it is worth putting it in perspective: globally, flying makes a far smaller impact than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easy to cut down on. Moratoriums on non-essential travel can be a good way for an institution to show how serious they are on climate transition. The more boldly they define 'non-essential,' the more serious they are.
+Travel is a huge topic. There is plenty of guidance for academics out there, such as the [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/). More resources are linked to below. The carbon cost of flying is notorious, so it is worth putting it in perspective: globally, flying makes a far smaller impact than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easy to cut down on. 
 
-*Imagining new spatialities of research and education*
+Moratoriums on non-essential travel can be a good way for an institution to show how serious they are on climate transition. The more boldly they define 'non-essential,' the more serious they are.
 
-Climate transition does not have to be about self-denial. At best, it can be about transformative innovation that considers justice, inclusion and wellbeing alongside carbon impact. Reducing the amount we travel, and especially the amount we fly, is an opportunity to **reimagine the spatialities** of research and education. Who should travel, where, when, for how long, for what purposes? One approach might be to replace *all* travel with videoconferencing. Would this be a good idea? The arts and humanities have a role to play in analysing the implications.
+**Imagining new spatialities**
 
-In the transition period of the early to mid 2020s, we recommend boldly cutting back on travel, while collaboratively exploring a longer run strategy. What kinds of activity should be done in person, and what should be done remotely? For online and hybrid activities, what are the nuances of various digital tools and platforms? What should we make of Meta's Metaverse, and its relatively power-hungry attempt to create virtual alternatives to physical proximity? Might we invent entirely new formats and ways of working? Conferences, workshops, sandpits, seminars, events, meetings, fieldwork: how might these all be reimagined? 
+Climate transition does not have to be about self-denial. At best, it can be about transformative innovation that considers justice, inclusion and wellbeing alongside carbon impact. Reducing the amount we travel, and especially the amount we fly, is an opportunity to **reimagine the spatialities** of research and education. Who should travel, where, when, for how long, for what purposes? One approach might be to replace *all* travel with videoconferencing. Would this be a good idea? The Digital Humanities have a role to play in analysing the implications.
 
-*From research trips to research voyages?*
+In the transition period of the early to mid 2020s, we recommend boldly cutting back on travel, while collaboratively exploring a longer run strategy. Together we should explore questions such as: What kinds of activity should be done in person, and what should be done remotely? For online and hybrid activities, what are the nuances of various digital tools and platforms? What should we make of Meta's Metaverse, and its relatively power-hungry attempt to create virtual alternatives to physical proximity? Might we invent entirely new formats and ways of working? Conferences, workshops, sandpits, seminars, events, meetings, fieldwork: how might these all be reimagined? 
 
-Cutting down travel is obviously important. So too is making sure that when we _do_ travel, it really counts. We might cultivate the ideal of a 'research tour' or a **'research voyage'**. This kind of travel would be infrequent, would take the greenest available transport (e.g. rail), and would think about what the researcher can do along the way (not just at the destination).
-
-Digital Humanities researchers can explore the practical challenges of this. For example, if archival visits were done in a more networked and collaborative way, a visiting researcher could conduct proxy research on behalf of others. Might we develop a platform to support this? Such a platform could have longer term ambitions too, helping universities and other institutions to share their resources to enable slower, more sustainable research trips. For example, might institutions form hospitality networks, to offer accommodation at a discount or for free, where travel is by the greenest available method?
-
-*Flying Less*
+**Flying Less**
 
 [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/), ed. Ryan Katz-Rosen, is a large curated reading list. There have been some recent breakthroughs in Sustainable Aviation Fuels (SAFs), so flying itself may arguably become greener in the future. But it's worth noting that these biofuels require large amounts of land which could otherwise be allocated to different mitigation or adaptation functions. Some other resources about flying include:
 
@@ -173,12 +169,12 @@ Digital Humanities researchers can explore the practical challenges of this. For
 - Nevins, Joseph, Stephen Allen and Matt Watson 2022.  ‘A path to decolonization? Reducing air travel and resource consumption in higher education’. Travel Behaviour and Society, Volume 26, January 2022, pp.231-239. [https://doi.org/10.1016/j.tbs.2021.09.012](https://doi.org/10.1016/j.tbs.2021.09.012)
 - Glover, Andre, Yolande Strengers, and Tania Lewis. ‘The Unsustainability of Academic Aeromobility in Australian Universities.’ _Sustainability: Science, Practice and Policy_ 13, no. 1 (2017): 1–12. [https://doi.org/10.1080/15487733.2017.1388620](https://doi.org/10.1080/15487733.2017.1388620)
 
-*Remote Working and 'Rebound Effects'*
+**Remote Working and 'Rebound Effects'**
 
 - ‘Rebound effects’ include increased demand for energy caused by remote working which can erode (or even outweigh) savings from less commuting. A good overview is Hook, Andrew, Victor Court, Benjamin K. Sovacool, and Steve Sorrell. 2020. ‘A Systematic Review of the Energy and Climate Impacts of Teleworking’. _Environmental Research Letters_ 15 (9): 093003. [https://doi.org/10.1088/1748-9326/ab8a84](https://doi.org/10.1088/1748-9326/ab8a84).
 - Here is a big EU report on teleworking: Samek Lodovic, Manuela et al. 2021. _[The Impact of Teleworking and Digital Work on Workers and Society](https://www.europarl.europa.eu/RegData/etudes/ATAG/2021/662907/IPOL_ATA(2021)662907_EN.pdf)_. Committee on Employment and Social Affairs, Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
 
-*Slow Research, Slow Travel, Slow Scholarship, Slow Food*
+**Slow Research, Slow Travel, Slow Scholarship, Slow Food**
 
 - Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): (https://muse.jhu.edu/article/786251)[https://muse.jhu.edu/article/786251]
 - Mountz, Alison, et al. ‘For slow scholarship: A feminist politics of resistance through collective action in the neoliberal university’. ACME: An International Journal for Critical Geographies 14.4 (2015): 1235-1259. [https://acme-journal.org/index.php/acme/article/view/1058](https://acme-journal.org/index.php/acme/article/view/1058)
@@ -187,7 +183,13 @@ Digital Humanities researchers can explore the practical challenges of this. For
 - ‘[Should I Attend the Conference? Air Travel Conference / Meeting Justification Tool](https://www.sustainabilityexchange.ac.uk/files/eauc-scotland_air_travel_justification_tool_version_2.pdf).’ A quiz, scorecard, and suggestions for how to interpret your scores.
 - A blog post by Filip Vostal criticising slow scholarship: “Research in many disciplines needs to be in synch with the world it investigates; fast and slow again work together in a dialectical interplay here.” Vostal, Filip. 2021. ‘[Four Reasons Slow Scholarship Will Not Change Academia](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/11/four-reasons-slow-scholarship-will-not-change-academia/)’. Impact of Social Sciences (blog). 11 May 2021.
 
-*Conferences: Smaller, Online, Hybrid, Unconferences, Alternatives*
+**From Research Trips to Research Voyages?**
+
+Cutting down travel is obviously important. So too is making sure that when we _do_ travel, it really counts. We might cultivate the ideal of a 'research tour' or a **'research voyage'**. This kind of travel would be infrequent, would take the greenest available transport (e.g. rail), and would think about what the researcher can do along the way (not just at the destination).
+
+Digital Humanities researchers can explore the practical challenges of this. For example, if archival visits were done in a more networked and collaborative way, a visiting researcher could conduct proxy research on behalf of others. Might we develop a platform to support this? Such a platform could have longer term ambitions too, helping universities and other institutions to share their resources to enable slower, more sustainable research trips. For example, might institutions form hospitality networks, to offer accommodation at a discount or for free, where travel is by the greenest available method?
+
+**Conferences: Smaller, Online, Hybrid, Unconferences, Alternatives**
 
 - [The Nearly Carbon Neutral](https://hiltner.english.ucsb.edu/index.php/ncnc-guide/) model suggests presenters pre-recording videos.
 - Haage, Verena. 2020. ‘A Survey of Travel Behaviour among Scientists in Germany and the Potential for Change’. ELife 9 (May): e56765. [https://doi.org/10.7554/eLife.56765](https://doi.org/10.7554/eLife.56765).
