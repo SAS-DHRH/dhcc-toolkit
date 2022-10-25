@@ -102,7 +102,7 @@ Communicating within your project team might include sending messages, sharing d
 
 
 
-If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmists to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
+If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmits to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
 
 ## Publishing your data
 
@@ -120,7 +120,7 @@ Primary data should be hosted in a stable, sustainable environment that will pro
 
 **Publishing your results**
 
-Following up on the idea that mutualized infrastructure reduces the carbon footprint, the publication on massive preprint servers like [ArXiv ](https://arxiv.org/)or [HAL](https://hal.archives-ouvertes.fr/) presents an excellent ratio in terms of visibility/resource consumptions. Green Open Access is actually green (see [here](https://en.wikipedia.org/wiki/Open_access#Definitions) the difference between Green and Gold OA). Gold Open Access comes with a few caveats. First, like for any other website, the fancier the hosting, the more resource-intensive. Pop-ups, banners, pictures, videos on the publisher’s website are loaded every time the paper is accessed and generating a substantial CO2 footprint. What is more, a wide array of well-established publishers harvests researchers’ data ([data tracking](https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_en.pdf)), which is not only problematic in terms of data privacy, but also in terms of environmental impact that comes from harvesting, storing, and using the tracked data. 
+Following up on the idea that mutualized infrastructure reduces the carbon footprint, the publication on massive preprint servers like [ArXiv ](https://arxiv.org/)or [HAL](https://hal.archives-ouvertes.fr/) presents an excellent ratio in terms of visibility/resource consumptions. Green Open Access is actually green (see [here](https://en.wikipedia.org/wiki/Open_access#Definitions) the difference between Green and Gold OA). Gold Open Access comes with a few caveats. First, like for any other website, the fancier the hosting, the more resource-intensive. Pop-ups, banners, pictures, videos on the publisher’s website are loaded every time the paper is accessed and generate a substantial CO2 footprint. What is more, a wide array of well-established publishers harvests researchers’ data ([data tracking](https://www.dfg.de/download/pdf/foerderung/programme/lis/datentracking_papier_en.pdf)), which is not only problematic in terms of data privacy, but also in terms of environmental impact that comes from harvesting, storing, and using the tracked data. 
 
 
 
