@@ -143,7 +143,7 @@ Here are some ways you might apply minimal computing principles in service of en
 
 **Minimal languages.** Using an efficient programming language can improve environmental impacts.  If you have the liberty to make the language decision for yourself, there is some literature about the ecological impacts of these choices. How much energy, time and memory these languages require play an important role here. Humanities researchers often default to high level scripting languages, such as Python (perhaps they are easier for our humanist brains to understand). However, there are consequences for not thinking critically about our choice of programming languages.
 
-Python, the go-to language of choice for many Digital Humanities researchers, can be observed in the following table (Pereira_ _et. al. 2017) comparing the energy and time factors of Python. Note that ‘time’ in this context means compute time, which is the time the computer takes to run the scripts, and not the time it takes to learn to write the language (although learning time is an important cost of labour factor, it is not a direct environmental factor of _computational_ research activity):
+Python, the go-to language of choice for many Digital Humanities researchers, can be observed in the following table [(Pereira _et. al._ 2017)](https://doi.org/10.1145/3136014.3136031) comparing the energy and time factors of Python. Note that ‘time’ in this context means compute time, which is the time the computer takes to run the scripts, and not the time it takes to learn to write the language (although learning time is an important cost of labour factor, it is not a direct environmental factor of _computational_ research activity):
 
 
 ![alt_text](images/image1.png "image_tooltip")
