@@ -107,7 +107,7 @@ We are currently in an interim period, during which the data, skills and tools f
 
 ## Travel and catering
 
-Travel and catering may also be important to consider at the grant-writing stage. See the Working Practices section for more guidance.
+Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html) section of this toolkit.
 
 ## Choosing research questions
 
