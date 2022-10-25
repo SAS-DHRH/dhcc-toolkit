@@ -16,7 +16,7 @@ This section addresses things you might consider when writing a grant. Our resea
 
 - Researchers should include climate impacts in our funding applications.
 - Where there is no dedicated section to do so, other sections (such as Justification of Resources and Data Management Plan) can be used as a workaround.
-- Funders should update application forms to ensure the research they fund is aligned with climate targets.
+- Funders should update application processes to ensure the research they fund is aligned with climate targets.
 - The timescale is tight, so projects already underway should also review their climate impacts (if this was not done at the application stage).
 - The data, tools and skills to design climate optimal research is not yet widespread. Temporary suspension of carbon intensive activities is recommended as we build capacity.
 
@@ -103,69 +103,17 @@ One useful concept here is Emissions Factors (EF). Put in simple terms, an EF gi
 
 However, definitive EFs are often not available for the type of activities that, as researchers using digital tools, we may want to know about. Thoughtworks's Cloud Carbon Footprint estimates emissions based on data centre billing data in four usage categories: Compute, Storage, Networking and Memory (RAM). It is partly based on Etsy's EFs (called the [Cloud Jewels](https://github.com/etsy/cloud-jewels)).
 
+We are currently in an interim period, during which the data, skills and tools for sustainable decision-making are built and shared. But we do not have to decide now, once and for all, how research will be conducted in the future. It would be irresponsible to continue to emit on the basis of business-as-usual as we scope, gather data, and build capacity. We therefore recommend the bold use of **moratoriums** on carbon intensive activities.
 
-## Travel {#travel}
+## Travel and catering
 
-Travel is a huge topic. There is plenty of guidance for academics out there, such as the [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/). More resources are linked to below. The carbon cost of flying is notorious, so it is worth putting it in perspective: globally, flying makes a far smaller impact than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easy to cut down on. Moratoriums on non-essential travel can be a good way for an institution to show how serious they are on climate transition. The more boldly they define 'non-essential,' the more serious they are.
-
-*Imagining new spatialities of research and education*
-
-Climate transition does not have to be about self-denial. At best, it can be about transformative innovation that considers justice, inclusion and wellbeing alongside carbon impact. Reducing the amount we travel, and especially the amount we fly, is an opportunity to **reimagine the spatialities** of research and education. Who should travel, where, when, for how long, for what purposes? One approach might be to replace *all* travel with videoconferencing. Would this be a good idea? The arts and humanities have a role to play in analysing the implications.
-
-In the transition period of the early to mid 2020s, we recommend boldly cutting back on travel, while collaboratively exploring a longer run strategy. What kinds of activity should be done in person, and what should be done remotely? For online and hybrid activities, what are the nuances of various digital tools and platforms? What should we make of Meta's Metaverse, and its relatively power-hungry attempt to create virtual alternatives to physical proximity? Might we invent entirely new formats and ways of working? Conferences, workshops, sandpits, seminars, events, meetings, fieldwork: how might these all be reimagined? 
-
-*From research trips to research voyages?*
-
-Cutting down travel is obviously important. So too is making sure that when we _do_ travel, it really counts. We might cultivate the ideal of a 'research tour' or a **'research voyage'**. This kind of travel would be infrequent, would take the greenest available transport (e.g. rail), and would think about what the researcher can do along the way (not just at the destination).
-
-Digital Humanities researchers can explore the practical challenges of this. For example, if archival visits were done in a more networked and collaborative way, a visiting researcher could conduct proxy research on behalf of others. Might we develop a platform to support this? Such a platform could have longer term ambitions too, helping universities and other institutions to share their resources to enable slower, more sustainable research trips. For example, might institutions form hospitality networks, to offer accommodation at a discount or for free, where travel is by the greenest available method?
-
-*Flying Less*
-
-[Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/), ed. Ryan Katz-Rosen, is a large curated reading list. There have been some recent breakthroughs in Sustainable Aviation Fuels (SAFs), so flying itself may arguably become greener in the future. But it's worth noting that these biofuels require large amounts of land which could otherwise be allocated to different mitigation or adaptation functions. Some other resources about flying include:
-
-- Nevins, Joseph. 2014. ‘Academic Jet-Setting in a Time of Climate Destabilization: Ecological Privilege and Professional Geographic Travel’. The Professional Geographer 66, no. 2 (April 3, 2014): 298–310. [https://doi.org/10.1080/00330124.2013.784954](https://doi.org/10.1080/00330124.2013.784954).
-- Sheller, Mimi. 2018. _Mobility Justice: The Politics of Movement in an Age of Extremes_. London: Verso.
-- Nevins, Joseph, Stephen Allen and Matt Watson 2022.  ‘A path to decolonization? Reducing air travel and resource consumption in higher education’. Travel Behaviour and Society, Volume 26, January 2022, pp.231-239. [https://doi.org/10.1016/j.tbs.2021.09.012](https://doi.org/10.1016/j.tbs.2021.09.012)
-- Glover, Andre, Yolande Strengers, and Tania Lewis. ‘The Unsustainability of Academic Aeromobility in Australian Universities.’ _Sustainability: Science, Practice and Policy_ 13, no. 1 (2017): 1–12. [https://doi.org/10.1080/15487733.2017.1388620](https://doi.org/10.1080/15487733.2017.1388620)
-
-*Remote Working and 'Rebound Effects'*
-
-- ‘Rebound effects’ include increased demand for energy caused by remote working which can erode (or even outweigh) savings from less commuting. A good overview is Hook, Andrew, Victor Court, Benjamin K. Sovacool, and Steve Sorrell. 2020. ‘A Systematic Review of the Energy and Climate Impacts of Teleworking’. _Environmental Research Letters_ 15 (9): 093003. [https://doi.org/10.1088/1748-9326/ab8a84](https://doi.org/10.1088/1748-9326/ab8a84).
-- Here is a big EU report on teleworking: Samek Lodovic, Manuela et al. 2021. _[The Impact of Teleworking and Digital Work on Workers and Society](https://www.europarl.europa.eu/RegData/etudes/ATAG/2021/662907/IPOL_ATA(2021)662907_EN.pdf)_. Committee on Employment and Social Affairs, Policy Department for Economic, Scientific and Quality of Life Policies, European Parliament, Luxembourg.
-
-*Slow Research, Slow Travel, Slow Scholarship, Slow Food*
-
-- Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): (https://muse.jhu.edu/article/786251)[https://muse.jhu.edu/article/786251]
-- Mountz, Alison, et al. ‘For slow scholarship: A feminist politics of resistance through collective action in the neoliberal university’. ACME: An International Journal for Critical Geographies 14.4 (2015): 1235-1259. [https://acme-journal.org/index.php/acme/article/view/1058](https://acme-journal.org/index.php/acme/article/view/1058)
-- Günel, Gökçe, Saiba Varma, and Chika Watanabe. “A Manifesto for Patchwork Ethnography.” Fieldsights, June 9, 2020. [https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography](https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography)
-- Jungnickel, Katrina. “Getting There… and Back: How Ethnographic Commuting (by Bicycle) Shaped a Study of Australian Backyard Technologists.” Qualitative Research 14, no. 6 (December 1, 2014): 640–55. [https://doi.org/10.1177/1468794113481792](https://doi.org/10.1177/1468794113481792)
-- ‘[Should I Attend the Conference? Air Travel Conference / Meeting Justification Tool](https://www.sustainabilityexchange.ac.uk/files/eauc-scotland_air_travel_justification_tool_version_2.pdf).’ A quiz, scorecard, and suggestions for how to interpret your scores.
-- A blog post by Filip Vostal criticising slow scholarship: “Research in many disciplines needs to be in synch with the world it investigates; fast and slow again work together in a dialectical interplay here.” Vostal, Filip. 2021. ‘[Four Reasons Slow Scholarship Will Not Change Academia](https://blogs.lse.ac.uk/impactofsocialsciences/2021/05/11/four-reasons-slow-scholarship-will-not-change-academia/)’. Impact of Social Sciences (blog). 11 May 2021.
-
-*Conferences: Smaller, Online, Hybrid, Unconferences, Alternatives*
-
-- [The Nearly Carbon Neutral](https://hiltner.english.ucsb.edu/index.php/ncnc-guide/) model suggests presenters pre-recording videos.
-- Haage, Verena. 2020. ‘A Survey of Travel Behaviour among Scientists in Germany and the Potential for Change’. ELife 9 (May): e56765. [https://doi.org/10.7554/eLife.56765](https://doi.org/10.7554/eLife.56765).
-- Pasek, Anne, Caleb Wellum, and Emily Roehl. ‘Making and Meeting Online: A White Paper on E-Conferences, Workshops, and other Experiments in Low-Carbon Research Exchange’. Petrocultures Research Group. [https://www.energyhumanities.ca/news/making-and-meeting-online](https://www.energyhumanities.ca/news/making-and-meeting-online)
-- Bautista Perpinyà, Max. "Online conferences won’t do it. Instead of ‘sustainable’ academic history, we need engaged historians working less and collaborating with activists." Historians for the Future 18 November 2021. [https://historiansforfuture.org/online-conferences-wont-do-it/](https://historiansforfuture.org/online-conferences-wont-do-it/)
-- Mead, Margaret, and Paul Byers. The Small Conference: An Innovation in Communication, 2015. [https://0-doi-org.pugwash.lib.warwick.ac.uk/10.1515/9783111559100](https://0-doi-org.pugwash.lib.warwick.ac.uk/10.1515/9783111559100)
-- Sarabipour, Sarvenaz. “Evaluating features of scientific conferences: A call for improvements.” 21 April 2020. [https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf](https://www.biorxiv.org/content/biorxiv/early/2020/04/21/2020.04.02.022079.full.pdf)
-- Skiles, Matthew, Euijin Yang, Orad Reshef et al. "Conference Demographics and Footprint Changed by Virtual Platforms." Nature Sustainability (2021). [https://doi.org/10.1038/s41893-021-00823-2](https://doi.org/10.1038/s41893-021-00823-2)
-- Svensson, Patrik. “Some Thoughts on Making Academic Events with Particular Attention to the Mid-Sized Event,” October 15, 2019. [http://patriksv.net/some-thoughts-on-making-academic-events/](http://patriksv.net/some-thoughts-on-making-academic-events/)
-
-## Catering events
-
-*Serve Plant-based Food*
-
-- Dunne, Daisy. 2020. ‘[Interactive: What Is the Climate Impact of Eating Meat and Dairy?](https://interactive.carbonbrief.org/what-is-the-climate-impact-of-eating-meat-and-dairy/)’ Carbon Brief, 2020.
-- Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. [https://doi.org/10.1038/d41586-019-02409-7](https://doi.org/10.1038/d41586-019-02409-7).
+Travel and catering may also be important to consider at the grant-writing stage. See the Working Practices section for more guidance.
 
 ## Choosing research questions
 
 It is important to adapt our research methods to make them less carbon intensive, and to improve our awareness of our environmental impacts.
 
-But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" [(Bieser and Hilty 2018)](https://www.zotero.org/google-docs/?broken=rtfS4X). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not
+But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" (Bieser and Hilty 2018). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not
 
 - energy efficiencies in ICT are continuing
 - energy efficiencies in ICT are reducing ICT's carbon footprint
@@ -174,14 +122,14 @@ But can we also corral our research communities to more directly investigate env
 - ICT will enable emissions savings in other industries
 - renewable energy will decarbonize ICT."
 
-Another literature review on remote working only weakly confirmed the 'common sense' view that remote working saves energy; 26 of 39 studies suggest that it does save energy, however "differences in the methodology, scope and assumptions of the different studies make it difficult to estimate 'average' energy savings" [(Hook et al. 2020)](https://www.zotero.org/google-docs/?broken=MVslvg)**.**
+Another literature review on remote working only weakly confirmed the 'common sense' view that remote working saves energy; 26 of 39 studies suggest that it does save energy, however "differences in the methodology, scope and assumptions of the different studies make it difficult to estimate 'average' energy savings" (Hook et al. 2020)**.**
 
 More broadly, climate change gives rise to a variety of political, ethical, and philosophical issues. Within the arts and humanities, these have long been the concern of the environmental humanities, and fields like the Digital Humanities have plenty to explore in terms of the cultural construction of technologies (everything from email to Bioenergy Carbon Capture and Storage), and the use and interpretation of data and models.
 
 However, climate research funding has heavily favoured the natural sciences (see figure). "Limiting global warming to 1.5°C will require
 rapid and deep alteration of attitudes, norms, incentives, and politics.
 
-Some of the key climate-change and energy transition puzzles are therefore in the realm of the social sciences" [(Overland and Sovacool 2020)](https://www.zotero.org/google-docs/?broken=eKSIKV) --- we can
+Some of the key climate-change and energy transition puzzles are therefore in the realm of the social sciences" (Overland and Sovacool 2020) --- we can
 also add, the realm of the arts and humanities.
 
 ![1-s2.0-S2214629619309119-gr1_lrg](https://ars.els-cdn.com/content/image/1-s2.0-S2214629619309119-gr1_lrg.jpg)
