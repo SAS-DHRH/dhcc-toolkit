@@ -80,6 +80,10 @@ Approved supplier lists can also take decisions away from researchers. You may h
 **Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
 {{< /hint >}}
 
+## Energy Procurement
+
+Green tariffs are not straightforward. They push the energy market in the right direction, but energy that comes from the grid is currently supplied by a mixture of renewable and non-renewable sources, whoever your energy supplier is. Multi-year power purchase agreements supporting renewable investment should be used. The safest way for your institution to really control its carbon footprint would be to generate all its energy on-site from renewable sources. Short of this ideal, an institution can generate some of its energy on-site, and develop battery storage, to help reduce power draw from the grid (especially when demand is high). Institutions can also explore better scheduling of energy intensive activities. 
+
 ### Question the Cloud
 
 For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
