@@ -132,7 +132,7 @@ rapid and deep alteration of attitudes, norms, incentives, and politics.
 Some of the key climate-change and energy transition puzzles are therefore in the realm of the social sciences" (Overland and Sovacool 2020) --- we can
 also add, the realm of the arts and humanities.
 
-![1-s2.0-S2214629619309119-gr1_lrg](https://ars.els-cdn.com/content/image/1-s2.0-S2214629619309119-gr1_lrg.jpg)
+![Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020)](images/Overland-Indra-Sovacool-2020.jpg "Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020)")
 
 Funding for climate research in the natural and technical sciences versus the social sciences and humanities (USD). The gray areas represent ranges of estimates derived from short and long search strings. Src: Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020): 101349.
-[https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016j.erss.2019.101349).
+[https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016/j.erss.2019.101349).

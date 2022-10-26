@@ -219,7 +219,7 @@ We have come up with seven more:
 
 [Lamb et al. (2020)](https://doi.org/10.1017/sus.2020.13) mention climate denialism, climate-impact scepticism, _ad hominem_ attacks on climate scientists, but devote most of their article to “**discourses of delay**.” They offer this typology:
 
-![Lamb et al. (2020)](images/image5.png "Lamb et al. (2020)")
+![Lamb et al. (2020)](images/Lamb-2020.png "Lamb et al. (2020)")
 
 
 The incentives to greenwash or to delay are set to rise as the global economy decarbonises. As the false forest begins to sprout around us, how do we make sure we don’t get lost in it? There are no easy answers, but this certainly seems to be a space where the arts and humanities can usefully intervene through research, education, and activism. Close reading of green claims, distant reading of large corpori, collaboration with cultural heritage institutions and other trusted sources of information, and innovative approaches to cultivating truthfulness in the public sphere.

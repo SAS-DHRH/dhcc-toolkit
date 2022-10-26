@@ -25,13 +25,13 @@ change; Gordon S. Blair gives the example of flooding resilience:
 
 > The challenges facing flood risk management practitioners are considerable as they make long-term decisions, e.g., about investments in flood defenses, with limited budgets. \[\...\] Thanks to developments in digital technology, though, major changes are now anticipated, in particular related to the plethora of data becoming available (cf. big data)---from satellite imagery, from sensors deployed around catchments (cf. the Internet of Things), from detailed studies carried out by local authorities, from citizen science, and from mining data from the web.
 >
-> [(Blair 2020)](https://www.zotero.org/google-docs/?zFLY7a)
+> [Blair, 2020](#further-reading)
 
 Maximal computing is an important part of STEM research, but it is also growing within the arts and humanities (e.g. interest in generative models such as GPT-3 and Stable Diffusion). While it is well-recognised that global warming results from carbon and other greenhouse gases, broader AI communities have been slow to understand the relevance of our activities. As Knowles et. al (2021) note:
 
 > A serious and proportional response to the climate emergency would \[\...\] involve constraining energy demand and mitigating drivers of infrastructure growth, and as a result, also consuming less energy. In real terms for computing, this means manufacturing fewer devices, storing and processing less data, generally managing with less compute power; and in terms of technical ambitions, scaling back the Internet of Things, resisting the temptation to throw AI and blockchain at every problem, and breaking free of the cycle of ever increasing demand for computation.
 >
-> [(Knowles et al. 2021)](https://www.zotero.org/google-docs/?F97CYH)
+> [Knowles et al., 2021](#further-reading)
 
 How do we decide whether a computational process is **proportionate** to
 the benefits it may create? In other words, when *does* it become
@@ -220,11 +220,13 @@ continually triggering what might be a resource intensive process.
 
 ## Further reading
 
+Blair, Gordon S. ‘A Tale of Two Cities: Reflections on Digital Technology and the Natural Environment’. Patterns 1, no. 5 (14 August 2020). https://doi.org/10.1016/j.patter.2020.100068.
+
+Knowles, Bran, Kelly Widdicks, Gordon Blair, Mike Berners-Lee, and Adrian Friday. ‘Our House Is On Fire:The Climate Emergency and Computing’s Responsibility’. Communications of the ACM, 2 December 2021. https://eprints.lancs.ac.uk/id/eprint/162995/.
+
 Schwartz, Roy, Jesse Dodge, Noah A. Smith, and Oren Etzioni. '[Green AI](https://doi.org/10.1145/3381831)'. *Communications of the ACM* 63, no. 12 (17 November 2020): 54--63.
 
 Shervin Minaee, [20 Popular Machine Learning
 Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce). *Towards Data Science*, 28 Oct 2019. [Accessed 2022-04-06].
 
 Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. [‘Energy and Policy Considerations for Deep Learning in NLP’].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645–50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
-
-

@@ -39,7 +39,7 @@ Here are some ways you might apply minimal computing principles in service of en
 
 - Python, the go-to language of choice for many Digital Humanities researchers, can be observed in the following table comparing the energy and time factors of Python. Note that ‘time’ in this context means compute time, which is the time the computer takes to run the scripts and not the time it takes to learn to write the language. (although learning time is an important cost of labour factor, it is not a direct environmental factor of _computational_ research activity):
 
-![alt_text](images/Pereira-2017.png "Energy Efficiency across Programming Languages (Pereira et. al. 2017).")
+![Energy Efficiency across Programming Languages (Pereira et. al. 2017).](images/Pereira-2017.png "Energy Efficiency across Programming Languages (Pereira et. al. 2017).")
 
 _Energy Efficiency across Programming Languages (Pereira et. al. 2017)._
 
