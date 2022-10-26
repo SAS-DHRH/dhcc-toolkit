@@ -95,6 +95,14 @@ Some key terms to explore include: tools for conviviality, epistemological luddi
 
 This toolkit, the [Climate Change and the Digital Humanities Zotero Library](https://www.zotero.org/groups/4417518/climate_change_and_the_digital_humanities), the [Digital Humanities Climate Coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), [Low Carbon Research Methods](http://lowcarbonmethods.com/), [*Digital Humanities Quarterly*](http://digitalhumanities.org/dhq/).
 
+## 15. What should I know about offsetting and Negative Emissions Technologies? ##
+
+For an institution to achieve net zero, it needs to decarbonise its emissions as much as possible (divided across Scope 1, Scope 2, and Scope 3 emissions), and then offset its unavoidable emissions. Offsetting means taking as much carbon out of the atmosphere as you are putting in.
+
+What is an unavoidable emission? This is an extremely subjective judgment. Arguably there is no such thing, although for some people emitting carbon may be a matter of immediate life or death. The key thing to recognise about offsetting is that it is very seductive, because it suggests we might buy our way out of making more fundamental changes. 
+
+Nature restoration and Negative Emissions Technologies (NETs) _are_ a necessary part of a successful climate transition, but there are huge uncertainties around them too. Technologies which were recently touted as climate saviours have fallen out of favour as they attracted more scientific scrutiny, especially around their capacity to scale. Currently, the long-term institutional continuity of players in the offsetting industry is not assured. Using land to store carbon can have implications for social justice. From a net zero perspective, institutions should not be offsetting unavoided emissions. Instead they should be avoiding these emissions through temporary suspension of activities, until better offsetting capacity is developed. However, this is complicated by the fact that commercial offsetting is counting on investment in order to develop. In short, it is a complex and evolving area, and arts and humanities researchers can play our part by scrutinising our institutional strategy.
+
 ## Further Reading ##
 
 Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. 2021. ‘The Real Climate and Transformative Impact of ICT: A Critique of Estimates, Trends, and Regulations’. Patterns 2 (9): 100340. https://doi.org/10.1016/j.patter.2021.100340.
