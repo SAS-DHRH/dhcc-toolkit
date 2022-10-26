@@ -101,4 +101,6 @@ Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Bl
 
 Newell, Peter, Shilpi Srivastava, Lars Otto Naess, Gerardo A. Torres Contreras, and Roz Price. 2021. ‘Toward Transformative Climate Justice: An Emerging Research Agenda’. WIREs Climate Change 12 (6): e733. https://doi.org/10.1002/wcc.733.
 
+{{< rawhtml >}}
 <iframe src="https://www.wri.org/upload/circlechart2019/circle_state.htm" scrolling="no" style="width: 940px; height: 990px; border: 0"></iframe>
+{{< /rawhtml >}}
