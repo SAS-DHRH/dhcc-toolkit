@@ -137,7 +137,7 @@ also add, the realm of the arts and humanities.
 Funding for climate research in the natural and technical sciences versus the social sciences and humanities (USD). The gray areas represent ranges of estimates derived from short and long search strings. Src: Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020): 101349.
 [https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016/j.erss.2019.101349).
 
-##Further reading
+## Further reading
 
 Department for Business, Energy & Industrial Strategy. 2021. ‘Greenhouse Gas Reporting: Conversion Factors 2021’. 2021. [https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021).
 
