@@ -84,6 +84,10 @@ Approved supplier lists can also take decisions away from researchers. You may h
 
 Green tariffs are not straightforward. They push the energy market in the right direction, but energy that comes from the grid is currently supplied by a mixture of renewable and non-renewable sources, whoever your energy supplier is. Multi-year power purchase agreements supporting renewable investment should be used. The safest way for your institution to really control its carbon footprint would be to generate all its energy on-site from renewable sources. Short of this ideal, an institution can generate some of its energy on-site, and develop battery storage, to help reduce power draw from the grid (especially when demand is high). Institutions can also explore better scheduling of energy intensive activities. 
 
+### Procurement Law
+
+At time of writing in late 2022, UK procurement law is [set to be reformed](https://bills.parliament.uk/bills/3159), and there are opportunities to pressure legislators to ensure it is fit-for-purpose. The [response](https://www.ukupc.ac.uk/pdf/UKUPC_Green_Paper_Response.pdf) to the government's Green Paper by the UK Universities Purchasing Consortia noted that universities incorporate social value into tenders, but did not extensively thematise sustainability or decarbonisation. It is important that any new legislation give institutions the flexibility to prioritise sustainability in procurement decisions, and ideally that it requires procurement in alignment with climate commitments. 
+
 ### Question the Cloud
 
 For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
@@ -329,6 +333,9 @@ Bove, Tristan. 2021. ‘Techno-Optimism: Why Money and Technology Won’t Save U
 
 
 David Devins, Jeff Gold, George Boak, Robert Garvey and Paul Willis. 2017. ‘[Maximising the local impact of anchor institutions: a case study of Leeds City Region](https://www.businessnewsdaily.com/10946-greenwashing.html)’. Joseph Rowntree Foundation.
+
+
+Doyle, Joseph, and Donal O’Mahony. 2014. ‘Nihil: Computing Clouds with Zero Emissions’. In 2014 IEEE International Conference on Cloud Engineering, 331–36. Boston, MA: IEEE. https://doi.org/10.1109/IC2E.2014.65.
 
 
 Edwards, Carlyann. 2022. ‘[What Is Greenwashing, and How Do You Spot It](https://www.businessnewsdaily.com/10946-greenwashing.html)?’ Business News Daily. 2022.[ https://www.businessnewsdaily.com/10946-greenwashing.html](https://www.businessnewsdaily.com/10946-greenwashing.html).
