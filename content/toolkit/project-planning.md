@@ -94,12 +94,12 @@ change](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-
 2022)
 {{< /hint >}}
 
-It is not our responsibility, nor our priority, to directly measure the carbon impact of our research. Often we won't even need to make precise estimates. However, we do all urgently need to develop a degree of **carbon literacy,** and carrying out footprinting exercises can be one great way to learn. Labos 1point5's [GES1point5](https:/labos1point5.org/ges-1point5) and the [Thoughtworks](https:/www.thoughtworks.com/insights/podcasts/pragmatism-in-practice/green-cloud-optimization) [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/aws) are examples of carbon footprinting tools (for labs and for cloud usage respectively); the GHG Protocol also offers [various tools](https://ghgprotocol.org/ghg-emissions-calculation-tool).
+It is not our responsibility, nor our priority, to directly measure the carbon impact of our research. Often we won't even need to make precise estimates. However, we do all urgently need to develop a degree of **carbon literacy,** and carrying out footprinting exercises can be one great way to learn. Labos 1point5's [GES1point5](https:/labos1point5.org/ges-1point5) and the [Thoughtworks](https:/www.thoughtworks.com/insights/podcasts/pragmatism-in-practice/green-cloud-optimization) [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/aws) are examples of carbon footprinting tools (for labs and for cloud usage respectively); the GHG Protocol also offers [various tools](https://ghgprotocol.org/ghg-emissions-calculation-tool). 
 
 The desire for precise data can sometimes be counterproductive. Rough qualitative understandings are often enough to help us make sustainable decisions. Decisions that may initially require research can become fast, easy and intuitive over time. "Is doing it this way more or less carbon intensive than doing it that way? Are they in the same ballpark, or completely different orders of magnitude? Is the intuitive approach OK here, or do we need to assess this more rigorously?"
 
 One useful concept here is Emissions Factors (EF). Put in simple terms, an EF gives a sense of how carbon intensive something usually is. The IPCC maintains a [database of EFs](https://www.ipcc-nggip.iges.or.jp/EFDB/main.php). In the UK, the Department for Business, Energy & Industrial Strategy provide
-[spreadsheets](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021) which include Emission Factors. By multiplying the values listed there with your own "activity data" (for example, financial spend, or miles travelled in a car, or tonnes of plastic waste disposed, etc.) you can generate an estimate of the carbon impact.
+[spreadsheets](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021) which include Emission Factors. By multiplying the values listed there with your own "activity data" (for example, financial spend, or miles travelled in a car, or tonnes of plastic waste disposed, etc.) you can generate an estimate of the carbon impact. For power draw from the grid, they suggest a blanket 213g CO2 equivalent per kWh. However, a tool like [Carbon Intensity](https://www.carbonintensity.org.uk) can help to drill down into the details, providing a regional estimate based on what plants are actually generating electricity.
 
 However, definitive EFs are often not available for the type of activities that, as researchers using digital tools, we may want to know about. Thoughtworks's Cloud Carbon Footprint estimates emissions based on data centre billing data in four usage categories: Compute, Storage, Networking and Memory (RAM). It is partly based on Etsy's EFs (called the [Cloud Jewels](https://github.com/etsy/cloud-jewels)).
 
@@ -136,3 +136,8 @@ also add, the realm of the arts and humanities.
 
 Funding for climate research in the natural and technical sciences versus the social sciences and humanities (USD). The gray areas represent ranges of estimates derived from short and long search strings. Src: Overland, Indra, and Benjamin K. Sovacool. '*The Misallocation of Climate Research Funding*'. Energy Research & Social Science 62 (April 2020): 101349.
 [https://doi.org/10.1016/j.erss.2019.101349](https://doi.org/10.1016/j.erss.2019.101349).
+
+##Further reading
+
+Department for Business, Energy & Industrial Strategy. 2021. ‘Greenhouse Gas Reporting: Conversion Factors 2021’. 2021. [https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021).
+
