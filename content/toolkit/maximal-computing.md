@@ -54,16 +54,16 @@ exponentially since \~2012*
 4. **Use smaller models.** [Larger models may yield better results](https://arxiv.org/abs/2001.08361), but often a smaller one will still do everything you need.
 5. **Don't overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
 6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)**
-7. **Where possible, do it on-site.** If your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft.
+7. **Where possible, do it on-site.** If your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. 
 
 ## Then it gets complicated
 
 The easy wins are not enough, and things quickly get complicated. Here are a few factors to take into account, when considering proportionality.
 
-1. **Deferring**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
+**1. Deferring**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-2. **Ethics**: The underlying purpose of a project has bearing on how we assess its proportionality. Are its goals related to sustainability? Optimizing planting patterns for beleaguered pollinators, calling out greenwashing in corporate disclosures at scale, tailoring communications relating to famine relief? Or perhaps the goals are good in themselves, but unrelated to climate adaptation, or are maladaptive. 
+**2. Ethics**: The underlying purpose of a project has bearing on how we assess its proportionality. Are its goals related to sustainability? Optimizing planting patterns for beleaguered pollinators, calling out greenwashing in corporate disclosures at scale, tailoring communications relating to famine relief? Or perhaps the goals are good in themselves, but unrelated to climate adaptation, or are maladaptive. 
  
 Or perhaps (as sometimes seems to crop up in AI research) the goals themselves are pure evil. The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
 list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) and [Zotero Library](https://www.zotero.org/groups/605005/critical_algorithm_studies) contain further reading on the politics and ethics of AI and algorithms more broadly.  [The Data
@@ -76,11 +76,11 @@ future: we're not saying that something *will* happen' [(Thurlby,
 Natalie and Di Cara, Nina
 2021)](https://www.zotero.org/google-docs/?M2lk73).
 
-3. **Potential Benefits**: What is the potential benefit that might be realised? 
+**3. Potential Benefits**: What is the potential benefit that might be realised? 
 
-4. **How likely is it to succeed?** This is a question you can ask at multiple scales, e.g. a project, a model, a query. 
+**4. How likely is it to succeed?** This is a question you can ask at multiple scales, e.g. a project, a model, a query. 
 
-5. **Optimization**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
+**5. Optimization**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
 
 Focusing on Natural Language Processing, Strubell et al. (2019) recommend
 "a concerted effort by industry and academia to promote research of more
@@ -91,15 +91,15 @@ for hyperparameter tuning, e.g. random or Bayesian hyperparameter search
 techniques" [(Strubell, Ganesh, and McCallum
 2019)](https://aclanthology.org/P19-1355/)
 
-6. **Openness**: Are you using maximal computing in ways that can benefit other researchers and creators? 
+**6. Openness**: Are you using maximal computing in ways that can benefit other researchers and creators? 
 
 {{< hint info >}}
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
-7. **Monitoring**: Where is HPC use monitored in your institution? What kind of data is collected, and who gets to see it? Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e?
+**7. Monitoring**: Where is HPC use monitored in your institution? What kind of data is collected, and who gets to see it? Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e?
 
-8. **Affordances**: If you are building something, does it encourage or enforce responsible use?
+**8. Affordances**: If you are building something, does it encourage or enforce responsible use?
 
 ## Measures of Efficiency
 
@@ -231,4 +231,9 @@ Schwartz, Roy, Jesse Dodge, Noah A. Smith, and Oren Etzioni. '[Green AI](https:/
 Shervin Minaee, [20 Popular Machine Learning
 Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce). *Towards Data Science*, 28 Oct 2019. [Accessed 2022-04-06].
 
+Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022. ‘A Review of Energy Efficiency Evaluation Metrics for Data Centers’. Energy and Buildings 271 (September): 112308. [https://doi.org/10.1016/j.enbuild.2022.112308](https://doi.org/10.1016/j.enbuild.2022.112308).
+
+
 Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. [‘Energy and Policy Considerations for Deep Learning in NLP’].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645–50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
+
+
