@@ -90,7 +90,7 @@ At time of writing in late 2022, UK procurement law is [set to be reformed](http
 
 ### Question the Cloud
 
-For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage.
+For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage. The [Climate Neutral Data Centre Pact](https://www.climateneutraldatacentre.net/) is a voluntary initiative in support of the European Green Deal.
 
 When a university or other institution procures data storage and computing power, this is an opportunity to improve our own environmental impact, and to incentivise much larger players to improve theirs. Currently Cloud services are dominated by Amazon, Google, and Microsoft. Here are just a few questions that might help get the conversations started, both internally with procurement teams, and externally with potential suppliers.
 
