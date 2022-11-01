@@ -91,6 +91,8 @@ for hyperparameter tuning, e.g. random or Bayesian hyperparameter search
 techniques" [(Strubell, Ganesh, and McCallum
 2019)](https://aclanthology.org/P19-1355/)
 
+[CodeCarbon](https://codecarbon.io/) can be embedded in Python code, to estimate emissions based on location, and recommend compute regions with lower carbon intensity for major cloud providers (AWS, Azure, and GCP).
+
 **6. Openness**: Are you using maximal computing in ways that can benefit other researchers and creators? 
 
 {{< hint info >}}
