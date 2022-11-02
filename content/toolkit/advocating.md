@@ -279,7 +279,7 @@ Get in rooms where decisions are made and, where appropriate:
 
 Even small changes add up. Are you aware of any policies or common behaviours at your institution which might be generating unnecessary carbon? For example: pictures attached to your signature for marketing purposes, or sharing email attachments back and forth when shared cloud documents are available to you and your colleagues.
 
-When advocating for smaller changes, be sure to focus on easy wins and changes which support a general shift in attitude and attention. Use small changes to prefigure larger changes, to raise awareness, and to address feelings of powerlessness. If a small change would involve constant disproportionate effort, or encourage policing of behaviours, it’s probably not a good candidate to focus on. Use small changes to make your institution a better place overall. Use small changes help people feel good about climate action.
+When advocating for smaller changes, be sure to focus on easy wins and changes which support a general shift in attitude and attention. Use small changes to prefigure larger changes, to raise awareness, and to address feelings of powerlessness. If a small change would involve constant disproportionate effort, or encourage policing of behaviours, it’s probably not a good candidate to focus on. Use small changes to make your institution a better place overall. Use small changes to help people feel good about climate action.
 
 {{< hint info >}}
 **Further reading:** [In Praise of Smaller Actions](https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f).
