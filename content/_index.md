@@ -11,6 +11,8 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 {{<columns>}}
   
 ## The Digital Humanities Climate Coalition Toolkit
+
+Curated by Anne Baillot, Jenny Bunn, Charlotte Feideker, John Moore, Christopher Ohge, Torsten Roeder, Martin Steer, Jo Lindsay Walton, Elizabeth Williamson
   
 This toolkit is a guide to making your research practices more environmentally responsible. It is geared towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
   
