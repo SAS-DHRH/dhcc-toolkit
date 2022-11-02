@@ -15,7 +15,7 @@ To meet climate targets, the world needs to cut net carbon emissions by about ha
 
 We can all play our part in a rapid and just climate transition. 
 
-If you consider yourself a Digital Humanities researcher, then this toolkit is for you. Or even if you don’t, digital tools are now so woven into academic practice — from word processing to videoconferencing, from data visualisation to virtual learning environments — really this toolkit has relevance across all the arts, humanities and social sciences. It is for educators, students, researchers, librarians, technicians, administrators and others. We hope the information and suggestions here will empower and inspire you in your work. 
+If you consider yourself a Digital Humanities researcher, then this toolkit is for you. Or even if you don’t, digital tools are now so woven into academic practice, really this toolkit has relevance across all the arts, humanities and social sciences. It is for anyone who makes a website, or uses videoconferencing, or visualises data. It is for educators, students, researchers, librarians, technicians, administrators and others. We hope the information and suggestions here will empower and inspire you in your work. 
 
 ## What does it cover? ##
 
@@ -32,7 +32,7 @@ This toolkit is from the Digital Humanities Climate Coalition, and in many place
 - **Case studies**. Case studies. Have you decarbonised aspects of your work? Have you implemented moratoriums until more sustainable practices are developed? Have you adopted tools to better understand your impact? We would like to hear about what has worked well (and what hasn't). 
 - **Systems change**. Linking individual- and project-level best practice to climate justice activism and broader systems change.
 
-Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting Christopher Ohge, Jo Lindsay Walton, Lisa Otty, or James Baker with your ideas.
+Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting Christopher Ohge, Jo Lindsay Walton, Lisa Otty, James Baker, or Marty Steer with your ideas.
 
 ## Further reading ##
 
