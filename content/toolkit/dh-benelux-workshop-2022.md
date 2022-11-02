@@ -2,7 +2,7 @@
 title: "DH Benelux 2022 Workshop"
 date: 2022-05-31
 draft: false
-weight: 10
+weight: 9
 slug: 'dh-benelux-workshop-2022'
 ---
 

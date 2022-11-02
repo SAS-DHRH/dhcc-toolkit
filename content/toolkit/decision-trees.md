@@ -2,7 +2,7 @@
 title: "Decision Trees"
 date: 2022-05-17
 draft: false
-weight: 8
+weight: 7
 slug: decision-trees
 ---
 
