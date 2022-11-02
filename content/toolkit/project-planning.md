@@ -2,7 +2,7 @@
 title: "Project Planning"
 date: 2022-10-25
 draft: false
-# weight: 2
+# weight: 4
 slug: 'project-planning'
 ---
 
