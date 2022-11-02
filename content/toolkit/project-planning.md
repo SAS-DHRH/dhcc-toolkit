@@ -138,5 +138,7 @@ Funding for climate research in the natural and technical sciences versus the so
 
 ## Further reading
 
+Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, and Weiland, Michele. 2022. ‘Interim Report: Complexity, Challenges and Opportunities for Carbon Neutral Digital Research’. Zenodo. [https://doi.org/10.5281/ZENODO.7016952](https://doi.org/10.5281/ZENODO.7016952).
+
 Department for Business, Energy & Industrial Strategy. 2021. ‘Greenhouse Gas Reporting: Conversion Factors 2021’. 2021. [https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021).
 
