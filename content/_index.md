@@ -32,7 +32,7 @@ Browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
   ## Join the mailing list
   
-  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](mailto: cdcs@ed.ac.uk). We plan to have some regular informal conversations in 2023 to explore further developing the toolkit and other next steps.
+  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](cdcs@ed.ac.uk). We plan to have some regular informal conversations in 2023 to explore further developing the toolkit and other next steps.
   
   {{</columns>}}
 
