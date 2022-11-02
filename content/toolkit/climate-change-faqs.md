@@ -2,7 +2,7 @@
 title: "Climate Change FAQs"
 date: 2022-09-29
 draft: false
-weight: 9
+weight: 8
 slug: 'climate-change-faqs'
 ---
 
