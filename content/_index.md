@@ -12,26 +12,11 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
   
 ## The Digital Humanities Climate Coalition Toolkit
   
-This toolkit is a guide to making your research practices more environmentally responsible. It is geared both towards digital practices, but also touches on general areas such as travel and advocacy. aWe hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
+This toolkit is a guide to making your research practices more environmentally responsible. It is geared both towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
   
-## Launch Event
+  ## Where to start?
 
-Join us for the launch of the new DHCC toolkit, designed to empower humanists to work towards climate responsible research practices.
-
-Over the last year, we have been developing a series of outputs, including a Toolkit that supports researchers who are trying to lower their carbon footprint. This workshop will launch the DHCC Toolkit, and provide an opportunity to take stock of actions over the last year and consider priorities and potential activities going forward. Digital Humanists from across the UK, Ireland and Europe are warmly invited to participate.
-
-[Register for the Workshop](https://www.eventbrite.co.uk/e/digital-humanities-climate-coalition-tool-kit-launch-and-next-steps-tickets-418935967757)
-
-<--->
-[![aerial image of al-basrah](usgs-vbLuKHsYIE4-unsplash.jpg)](https://en.wikipedia.org/wiki/Basra#Climate)
-{{</columns>}}
-
----
-
-{{<columns>}}
-## Where to start?
-
-Browse the toolkit, or if you'd like a suggested pathway, try this:
+Browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
@@ -41,6 +26,21 @@ Browse the toolkit, or if you'd like a suggested pathway, try this:
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
+
+<--->
+[![aerial image of al-basrah](usgs-vbLuKHsYIE4-unsplash.jpg)](https://en.wikipedia.org/wiki/Basra#Climate)
+{{</columns>}}
+
+---
+
+{{<columns>}}
+## Launch Event
+
+Join us for the launch of the new DHCC toolkit, designed to empower humanists to work towards climate responsible research practices.
+
+Over the last year, we have been developing a series of outputs, including a Toolkit that supports researchers who are trying to lower their carbon footprint. This workshop will launch the DHCC Toolkit, and provide an opportunity to take stock of actions over the last year and consider priorities and potential activities going forward. Digital Humanists from across the UK, Ireland and Europe are warmly invited to participate.
+
+[Register for the Workshop](https://www.eventbrite.co.uk/e/digital-humanities-climate-coalition-tool-kit-launch-and-next-steps-tickets-418935967757)
 
 ![DHCC.jpg](DCHH_FINAL_HAZARD.png)
 
