@@ -2,7 +2,7 @@
 title: "Advocating within your Institution"
 date: 2022-05-18
 draft: false
-weight: 7
+weight: 6
 slug: advocating-within-your-institution
 ---
 
