@@ -2,7 +2,7 @@
 title: "Working Practices"
 date: 2022-10-25
 draft: false
-weight: 8
+weight: 5
 slug: working-practices
 ---
 
