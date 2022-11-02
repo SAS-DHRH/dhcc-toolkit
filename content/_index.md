@@ -9,6 +9,11 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 
 
 {{<columns>}}
+  
+## The Digital Humanities Climate Coalition Toolkit
+  
+This toolkit is a guide to making your research practices more environmentally responsible. It is geared both towards digital practices, but also touches on general areas such as travel and advocacy. aWe hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
+  
 ## Launch Event
 
 Join us for the launch of the new DHCC toolkit, designed to empower humanists to work towards climate responsible research practices.
@@ -24,9 +29,9 @@ Over the last year, we have been developing a series of outputs, including a Too
 ---
 
 {{<columns>}}
-## Toolkit
+## Where to start?
 
-The toolkit has multiple pathways, here is one suggestion to navigate through the chapters:
+Browse the toolkit, or if you'd like a suggested pathway, try this:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
@@ -48,6 +53,8 @@ Our Information, Measurement and Practice Group has published this guide which a
 DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan (v0.6). Zenodo. [![button](./zenodo.6451499.svg)](https://doi.org/10.5281/zenodo.6451499)
 
 ![Beekeeper](beekeeper.jpg)
+  
+See also [Project Planning]({{< relref path="./toolkit/project-planning.md" >}}).
 {{</columns>}}
 
 
