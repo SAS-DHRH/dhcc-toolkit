@@ -25,6 +25,7 @@ Browse the toolkit in any order. If you'd like a suggested pathway, try this:
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
 - [Project Planning]({{< relref path="./toolkit/project-planning.md" >}})
 - [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
+- [Preservation and Archiving]({{< relref path="./toolkit/preservation.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
