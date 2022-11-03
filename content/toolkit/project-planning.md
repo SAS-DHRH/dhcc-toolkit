@@ -104,9 +104,13 @@ However, definitive EFs are often not available for the type of activities that,
 
 We are currently in an interim period, during which the data, skills and tools for sustainable decision-making are built and shared. But we do not have to decide now, once and for all, how research will be conducted in the future. It would be irresponsible to continue to emit on the basis of business-as-usual as we scope, gather data, and build capacity. We therefore recommend the bold use of **moratoriums** on carbon intensive activities.
 
+## Preservation and archiving
+
+There are complex questions around what to keep and how to keep it. There are a few suggested resources in the [Preservation and Archiving](({{< relref path="./toolkit/preservation.md" >}}) section of this toolkit.
+
 ## Travel and catering
 
-Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html) section of this toolkit.
+Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](({{< relref path="./toolkit/working-practices.md" >}})) section of this toolkit.
 
 ## Choosing research questions
 
