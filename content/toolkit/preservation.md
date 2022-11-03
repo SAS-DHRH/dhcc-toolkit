@@ -22,9 +22,9 @@ If handing over responsibility for the ongoing stewardship of material, you'll w
 
 As you hand over  responsibility for your data and resources, you should also consider how you can best contribute towards ensuring the new steward’s ongoing care of it. Quantifying the financial costs of ongoing curation and stewardship is difficult, but there are tools that may help:
 
-[Curation Costs Exchange](https://www.curationexchange.org/)
-[Total Cost of Stewardship: Responsible Collection Building in Archives and Special Collections](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html)
-[Costing — UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/costing/)
+* [Curation Costs Exchange](https://www.curationexchange.org/)
+* [Total Cost of Stewardship: Responsible Collection Building in Archives and Special Collections](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html)
+* [Costing — UK Data Service](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/costing/)
 
 Making a financial contribution towards ongoing upkeep is not typically costed within research funding applications, but there is perhaps an argument that it should be. Alternatively, a contribution could be made in terms of working with the steward to reduce the cost to them of ‘taking on’ your material. This may involve your taking on the tasks of re-formatting the material, weeding out duplicate or unimportant material, and/or creating additional documentation to ensure that what remains is reusable by others.
 
@@ -46,10 +46,10 @@ What we choose to preserve, and how we preserve it, is part of the story. Anothe
 
 Collections can play a role in cultural heritage institutions acting as trusted spaces where publics form, get informed, enthused, and empowered. They can be used to support traditional knowledge, including Indigenous knowledge, and to connect such knowledge with broader climate actions and policies. Collections can be observatories where human embeddedness in nature is brought vividly to life. Some resources include:
 
-[Climate Heritage Network](https://climateheritage.org/)
-[European Association for Heritage Interpretation](https://interpret-europe.net/about-heritage-interpretation/)
-[International Centre for the Study of the Preservation and Restoration of Cultural Property](https://ocm.iccrom.org/)
-[Indigenous Archives Collective](https://indigenousarchives.net/)
+* [Climate Heritage Network](https://climateheritage.org/)
+* [European Association for Heritage Interpretation](https://interpret-europe.net/about-heritage-interpretation/)
+* [International Centre for the Study of the Preservation and Restoration of Cultural Property](https://ocm.iccrom.org/)
+* [Indigenous Archives Collective](https://indigenousarchives.net/)
 
 There is widespread recognition that climate transition needs to be more participatory and democratic than is currently the case, both as a good in itself and to ensure that climate policy is effective. ‘Additional activities in the process of heritage interpretation are restoration, documentation and revitalisation of tangible and intangible cultural heritage. The volunteering activities imbue strong principles of democracy, equality, tolerance, nondiscrimination and inclusiveness for every participant’ [(Interpret Europe 2020)](https://www.interpret-europe.net/fileadmin/Documents/publications/interpret_europe_fostering_communities_through_heritage_interpretation_v28-05-2020.pdf)
 
