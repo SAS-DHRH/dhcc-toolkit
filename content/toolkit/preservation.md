@@ -12,9 +12,11 @@ slug: preservation-archiving
 “A place to begin this navigation is recognizing that heritage is an anchor: a lifeline that grounds us and provides security and connection in the midst of change. Heritage creates sense of community and attachment to place, which promote disaster recovery and collective action.”
 — A.R. Siders and Marcy Rockman {{< /hint >}}
 
-Sustainable preservation and archiving starts with responsible creation and collection. Put simply, you should not create or collect anything without some consideration of your responsibilities and resources in sustaining it.
+## Overview
 
-Ongoing stewardship of digital or physical resources does not come without costs (financial, environmental, etc.). It's important to take responsibility for actively disposing of data and resources (such as project websites) if they are no longer required at the end of a project and/or the retention period set by funding bodies. So-called benign neglect (e.g. leaving data to rot on servers) isn't benign to the planet. This responsibility goes beyond any commitments made to research participants to dispose of their data after a given time period.
+Sustainable preservation and archiving starts with responsible **creation and collection**. Put simply, you should not create or collect anything without some consideration of your responsibilities and resources in sustaining it.
+
+Ongoing **stewardship** of digital or physical resources does not come without costs (financial, environmental, etc.). It's important to take responsibility for actively disposing of data and resources (such as project websites) if they are no longer required at the end of a project and/or the retention period set by funding bodies. So-called benign neglect (e.g. leaving data to rot on servers) isn't benign to the planet. This responsibility goes beyond any commitments made to research participants to dispose of their data after a given time period.
 
 Disposal won't always mean immediate deletion. You may choose to hand over responsibility for data and resources to another steward at the end of your project and for them to manage potential deletion (or continuing upkeep) at a future date. This steward could be an academic publisher (in the case of journal outputs), a web archive (in the case of websites), or another form of research data repository.
 
@@ -39,6 +41,12 @@ Data can be stored more sustainably by keeping it offline or “nearline” (mea
 A recent white paper by Fuji is enthusiastic about nearline / offline storage using tape:
 
 > Tape supports green datacenter initiatives by storing data offline without consuming energy. Tape systems can also serve as nearline or active-archive tiers of storage. This means that the data is available for productive use but does not consume processing power and requires minimal environmental resources while the data is not being used. [(Cooke et al. 2021)](https://asset.fujifilm.com/master/americas/files/2021-10/5c4e59187b7c6d5edb8c8e2bc1078fe8/IDC-Fujifilm-green-DC-WP_092421.pdf)
+
+## Scheduling
+
+[Pendergrass et. al (2019)](https://doi.org/10.17723/0360-9081-82.1.165) suggest scheduling high-energy and high-bandwidth activities at off-peak times:
+
+> As many of the energy- and bandwidth-intensive tasks of digital preservation are scheduled events, the barriers to shifting to off-peak use are fairly low. For example, instead of running fixity checks or transferring large amounts of data over the network during the day, scheduling these tasks to run overnight takes advantage of times when both electricity and bandwidth demand are low. [(Pendergrass et. al 2019)](https://doi.org/10.17723/0360-9081-82.1.165)
 
 ## Curation for climate justice
 
@@ -68,6 +76,8 @@ Cultural Adaptations. [Adapting our Culture toolkit](https://www.culturaladaptat
 Brabec, Elizabeth, and Elizabeth Chilton. 2015. “Toward an Ecology of Cultural Heritage.” Change Over Time 5 (20): 266–307.
 
 Parnitzke, Daniel. [‘Finding Pleasure in Scarcity’](http://pleasureinscarcity.com/). MA Thesis, Design Academy Eindhoven.
+
+Pendergrass, Keith L., Walker Sampson, Tim Walsh, and Laura Alagna. 2019. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist 82 (1): 165–206. [https://doi.org/10.17723/0360-9081-82.1.165](https://doi.org/10.17723/0360-9081-82.1.165).
 
 Abbey, Heidi N. “[The Green Archivist: A Primer for Adopting Affordable, Environmentally Sustainable, and Socially Responsible Archival Management Practices](https://minds.wisconsin.edu/handle/1793/72389),” Archival Issues.
 
