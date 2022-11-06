@@ -106,11 +106,11 @@ We are currently in an interim period, during which the data, skills and tools f
 
 ## Preservation and archiving
 
-There are complex questions around what to keep and how to keep it. There are a few suggested resources in the [Preservation and Archiving](({{< relref path="./toolkit/preservation.md" >}}) section of this toolkit.
+There are complex questions around what to keep and how to keep it. There are a few suggested resources in the Preservation and Archiving section of this toolkit.
 
 ## Travel and catering
 
-Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](({{< relref path="./toolkit/working-practices.md" >}})) section of this toolkit.
+Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](https://github.com/SAS-DHRH/dhcc-toolkit/blob/main/content/toolkit/working-practices.md) section of this toolkit.
 
 ## Choosing research questions
 
