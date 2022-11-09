@@ -63,9 +63,9 @@ The easy wins are not enough, and things quickly get complicated. Here are a few
 
 **1. Deferring**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-**2. Ethics**: The underlying purpose of a project has bearing on how we assess its proportionality. Are its goals related to sustainability? Optimizing planting patterns for beleaguered pollinators, calling out greenwashing in corporate disclosures at scale, tailoring communications relating to famine relief? Or perhaps the goals are good in themselves, but unrelated to climate adaptation, or are maladaptive. 
- 
-Or perhaps (as sometimes seems to crop up in AI research) the goals themselves are pure evil. The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
+**2. Ethics**: The underlying purpose of a project has bearing on how we assess its proportionality. Does it have sustainability-related goals? For example, optimizing planting patterns for beleaguered pollinators, or calling out greenwashing in corporate disclosures at scale, or tailoring communications relating to famine relief? Or perhaps the goals are good in themselves, but unrelated to climate adaptation, or are maladaptive. Or perhaps (as occasionally seems to happen sometimes in AI research) the goals themselves are pure evil. 
+
+The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
 list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) and [Zotero Library](https://www.zotero.org/groups/605005/critical_algorithm_studies) contain further reading on the politics and ethics of AI and algorithms more broadly.  [The Data
 Hazards](https://datahazards.com/contents/hazards/high-environmental-cost.html)
 project is developing labels that seek to communicate the risks involved
