@@ -39,7 +39,7 @@ The Digital Humanities Climate Coalition supports the revision of funding proces
 
 ## Data Management Plans {#DMP}
 
-One area of special interest for this toolkit is the UKRI's Data Management Plan (DMP). There are also opportunities to include information of this kind in the Ethics, Case for Support, and Justification of Resource sections. 
+One area of special interest for this toolkit is the UKRI's Data Management Plan (DMP). There are also opportunities to include information of this kind in the Ethics, Case for Support, and Justification of Resource sections. We recommend that you read this section in conjunction with the annotated DMP in ['A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan'](https://doi.org/10.5281/zenodo.6451499), by the DHCC Information, Measurement and Practice Action Group. 
 
 A DMP outlines a project's approach to managing data through a response to a series of prompts on data creation, storage, sharing, and ethics, which are provided in the application guidance. UKRI guidance also points researchers to resources they might find useful in preparing a DMP and encourages applicants to demonstrate knowledge of institutional policies and procedures. Some grant writers find the DMP useful since it tends to focus one on the minute material detail of the research process (exactly what data will be created, by whom, when, etc.). However, the DMP is sometimes handled by specialists who may not be closely involved in the project, and/or via templates or text that is copy-pasted and lightly edited.
 
@@ -148,3 +148,4 @@ Juckes, Martin, Pascoe, Charlotte, Woodward, Lucy, Vanderbauwhede, Wim, and Weil
 
 Department for Business, Energy & Industrial Strategy. 2021. ‘Greenhouse Gas Reporting: Conversion Factors 2021’. 2021. [https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021](https://www.gov.uk/government/publications/greenhouse-gas-reporting-conversion-factors-2021).
 
+Baker, James; Ohge, Christopher; Otty, Lisa; Walton, Jo Lindsay (eds.), 'A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan'. 2022. [https://doi.org/10.5281/zenodo.6451499](https://doi.org/10.5281/zenodo.6451499).
