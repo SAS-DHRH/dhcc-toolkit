@@ -2,7 +2,7 @@
 title: "Grant Writing"
 date: 2022-10-25
 draft: false
-# weight: 8
+# weight: 4
 slug: 'grant-writing'
 ---
 
