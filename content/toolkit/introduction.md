@@ -25,7 +25,7 @@ The **[Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minima
 
 This toolkit is from the Digital Humanities Climate Coalition, and in many places it reflects the concentration of our membership in the UK and Northern Europe. Climate change is of course a global issue, and we hope it will still be of use all around the world. Climate action is always work-in-progress, and **we welcome your contributions** and suggestions to evolve this toolkit in the future. Areas we are particularly interested in developing include:
 
-- **Coverage**. Widening the toolkit’s scope to cover more countries (especially in the Project Planning section).
+- **Coverage**. Widening the toolkit’s scope to cover more countries (especially in the Grant Writing section).
 - **Tools**. User-friendly tools to measure impacts or support decisions.
 - **Carbon literacy**. How can we get a handle on orders of magnitude, even when we can't measure precisely?
 - **Quantification**. What are the best ways to estimate or to measure emissions? Can we develop a more digital-native vocabulary of Emissions Factors?
