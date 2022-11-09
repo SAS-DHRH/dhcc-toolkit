@@ -9,7 +9,7 @@ slug: working-practices
 
 # Working Practices
 
-The research process represents a long path of decision-making that can and should involve assessment of the project or activity's environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Project Planning](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/project-planning.html) sections.
+The research process represents a long path of decision-making that can and should involve assessment of the project or activity's environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) sections.
 
 {{<hint info>}}
 **Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
