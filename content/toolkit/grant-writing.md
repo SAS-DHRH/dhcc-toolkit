@@ -1,14 +1,14 @@
 ---
-title: "Project Planning"
+title: "Grant Writing"
 date: 2022-10-25
 draft: false
 # weight: 4
-slug: 'project-planning'
+slug: 'grant-writing'
 ---
 
-# Project Planning
+# Grant Writing
 
-This section addresses things you might consider when writing a grant. Our research cultures won't change by themselves: we have to make it happen. Writing responsible funding proposals now (rather than waiting for funders to require environmental statements) means that we are modelling the change we want to see in the world.
+This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. Designing projects responsibly now (rather than waiting for funders to require environmental statements) means that we are modelling the change we want to see in the world.
 
 {{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
