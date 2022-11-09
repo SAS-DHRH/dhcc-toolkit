@@ -6,7 +6,7 @@ weight: 2
 slug: 'minimal-computing'
 ---
 
-# Minimal computing
+# Minimal Computing
 
 {{< hint info >}}
 _‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
