@@ -8,10 +8,11 @@ slug: 'grant-writing'
 
 # Grant Writing
 
-This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. Designing projects responsibly now (rather than waiting for funders to require environmental statements) means that we are modelling the change we want to see in the world.
+This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.
 
 {{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
+{{< hint warning >}}
 ## Key Recommendations ##
 
 - Researchers should include climate impacts in our funding applications.
@@ -19,14 +20,15 @@ This section addresses things you might consider when writing a grant, or planni
 - Funders should update application processes to ensure the research they fund is aligned with climate targets.
 - The timescale is tight, so projects already underway should also review their climate impacts (if this was not done at the application stage).
 - The data, tools and skills to design climate optimal research is not yet widespread. Temporary suspension of carbon intensive activities is recommended as we build capacity.
+{{< /hint >}}
 
 ## Funding Landscape ##
 
 Writing in late 2022, our view is that:
 
-- *Requirements will change.* The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
-- *But we don't have to wait.* In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.
-- *More transitional guidance from funders is welcome.* Funders have signalled that they are open to existing frameworks and guidance being interpreted in this way. The authors of this toolkit welcome this, and invite funders to actively signal the direction of travel and the interim arrangements (especially to peer reviewers).
+- **Requirements will change.** The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
+- **But we don't have to wait.** In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.
+- **More transitional guidance from funders is welcome.** Funders have signalled that they are open to existing frameworks and guidance being interpreted in this way. The authors of this toolkit welcome this, and invite funders to actively signal the direction of travel and the interim arrangements (especially to peer reviewers).
 
 We need, urgently, to 'green' our research. This is a time of transition. The UK has declared a climate emergency, as have universities and research organisations across the sector. Major research funding bodies are prioritising decarbonisation, sustainability, and just climate transition. Use of Information Communications Technology (ICT) is widely recognised as [a major source of carbon
 emissions](https://doi.org/10.1016/j.patter.2021.100340).
