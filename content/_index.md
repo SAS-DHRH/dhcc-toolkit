@@ -61,7 +61,7 @@ DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Gu
 
 ![Beekeeper](beekeeper.jpg)
   
-See also [Project Planning]({{< relref path="./toolkit/project-planning.md" >}}).
+See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
 {{</columns>}}
 
 
