@@ -42,7 +42,7 @@ processes, how can we optimise them from a climate and sustainability
 perspective?
 
 ![](images/image6.png)
-NEED HIGHER QUALITY PIC
+
 *Compute needed to train state-of-the-art models rises
 exponentially since \~2012*
 
@@ -74,7 +74,7 @@ environmental cost: 'Considering worst case scenarios is one part of
 this puzzle. Worst case scenarios free us from trying to predict the
 future: we're not saying that something *will* happen' [(Thurlby,
 Natalie and Di Cara, Nina
-2021)](https://www.zotero.org/google-docs/?M2lk73).
+2021)]([https://www.zotero.org/google-docs/?M2lk73](https://datahazards.com/contents/materials/misc/proposal.html).
 
 **3. Potential Benefits**: What is the potential benefit that might be realised? 
 
