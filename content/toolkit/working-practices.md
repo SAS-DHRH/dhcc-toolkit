@@ -77,10 +77,9 @@ Emails are stored as long as they are in your inbox or in subfolders of your inb
 Communicating within your project team might include sending messages, sharing documents, or videoconferences. While the carbon footprint of the applications and software you will choose is a key element in making this decision, we have included a few additional criteria to help you balance pros and cons of the most frequently used software.
 
 
-
 **Choosing a videoconference system**
 
-*[start of zoom measurement/estimate info - need more samples and how to factor in multiple participants]*
+We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom.
 
 | Software | Carbon footprint | Accessibility | GDPR compliance |
 | --- | --- | --- | --- |
@@ -176,22 +175,6 @@ The **potential curation** of preserved data should also be weighed up, especial
 Quantifying the **financial costs** of sustainable stewardship is difficult, although tools such as [Curation Costs Exchange](https://www.curationexchange.org/)[Total Cost of Stewardship](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html), and [Costing (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/costing/) can help. Making a financial contribution towards ongoing upkeep is not typically costed within research funding applications, but there is perhaps an argument that it should be. Alternatively, a contribution could be made in terms of working with the steward to reduce the cost to them of ‘taking on’ your material. This may involve your taking on the tasks of re-formatting the material, weeding out duplicate or unimportant material, and/or creating additional documentation to ensure that what remains is reusable by others.
 
 If you are passing on the outputs of your work to a different steward (or repository) from the one who was caring for the data on which that work was based, you could also consider contacting the original steward to let them know, and perhaps spark further conversations and knowledge exchange.
-
-**More resources on preservation and archiving**
-
-Abbey, Heidi N. “[The Green Archivist: A Primer for Adopting Affordable, Environmentally Sustainable, and Socially Responsible Archival Management Practices](https://minds.wisconsin.edu/handle/1793/72389),” Archival Issues.
-
-Brabec, Elizabeth, and Elizabeth Chilton. 2015. “Toward an Ecology of Cultural Heritage.” Change Over Time 5 (20): 266–307.
-
-Cultural Adaptations. [Adapting our Culture toolkit](https://www.culturaladaptations.com/toolkit/adapting-our-culture-toolkit/). Includes advice on creating a climate adaptation plan, geared toward cultural institutions.
-
-Digital Preservation Coalition. [‘Environmentally Sustainable Digital Preservation’.](https://www.dpconline.org/digipres/discover-good-practice/environmentally-sustainable-digital-preservation)
-
-Kilbride, William. 2021. ‘[Digital Preservation and Climate Change: Provocation to and from COP26 - Digital Preservation Coalition](https://www.dpconline.org/blog/digital-preservation-and-climate-change-provocation-to-and-from-cop26)’. DCP Online.
-
-Parnitzke, Daniel. [‘Finding Pleasure in Scarcity’](http://pleasureinscarcity.com/). MA Thesis, Design Academy Eindhoven.
-
-Pendergrass, Keith L., Walker Sampson, Tim Walsh, and Laura Alagna. 2019. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist 82 (1): 165–206. [https://doi.org/10.17723/0360-9081-82.1.165](https://doi.org/10.17723/0360-9081-82.1.165).
   
 ## Travel {#travel}
 
@@ -251,3 +234,25 @@ Digital Humanities researchers can explore the practical challenges of this. For
 
 - Dunne, Daisy. 2020. ‘[Interactive: What Is the Climate Impact of Eating Meat and Dairy?](https://interactive.carbonbrief.org/what-is-the-climate-impact-of-eating-meat-and-dairy/)’ Carbon Brief, 2020.
 - Schiermeier, Quirin. 2019. ‘Eat Less Meat: UN Climate-Change Report Calls for Change to Human Diet’. Nature 572 (7769): 291–92. [https://doi.org/10.1038/d41586-019-02409-7](https://doi.org/10.1038/d41586-019-02409-7).
+
+## Further reading
+
+Abbey, Heidi N. “[The Green Archivist: A Primer for Adopting Affordable, Environmentally Sustainable, and Socially Responsible Archival Management Practices](https://minds.wisconsin.edu/handle/1793/72389),” Archival Issues.
+
+Brabec, Elizabeth, and Elizabeth Chilton. 2015. “Toward an Ecology of Cultural Heritage.” Change Over Time 5 (20): 266–307.
+
+Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): (https://muse.jhu.edu/article/786251)[https://muse.jhu.edu/article/786251]
+
+Cultural Adaptations. [Adapting our Culture toolkit](https://www.culturaladaptations.com/toolkit/adapting-our-culture-toolkit/). Includes advice on creating a climate adaptation plan, geared toward cultural institutions.
+
+Digital Preservation Coalition. [‘Environmentally Sustainable Digital Preservation’.](https://www.dpconline.org/digipres/discover-good-practice/environmentally-sustainable-digital-preservation)
+
+Kilbride, William. 2021. ‘[Digital Preservation and Climate Change: Provocation to and from COP26 - Digital Preservation Coalition](https://www.dpconline.org/blog/digital-preservation-and-climate-change-provocation-to-and-from-cop26)’. DCP Online.
+
+Pasek, Anne, Caleb Wellum, and Emily Roehl. ‘Making and Meeting Online: A White Paper on E-Conferences, Workshops, and other Experiments in Low-Carbon Research Exchange’. Petrocultures Research Group. [https://www.energyhumanities.ca/news/making-and-meeting-online](https://www.energyhumanities.ca/news/making-and-meeting-online)
+
+Parnitzke, Daniel. [‘Finding Pleasure in Scarcity’](http://pleasureinscarcity.com/). MA Thesis, Design Academy Eindhoven.
+
+Pendergrass, Keith L., Walker Sampson, Tim Walsh, and Laura Alagna. 2019. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist 82 (1): 165–206. [https://doi.org/10.17723/0360-9081-82.1.165](https://doi.org/10.17723/0360-9081-82.1.165).
+
+Wattenbach, Leonhard, Basel Aslan, Matteo Maria Fiore, Henley Ding, Roberto Verdecchia, and Ivano Malavolta. 2022. ‘Do You Have the Energy for This Meeting?: An Empirical Study on the Energy Consumption of the Google Meet and Zoom Android Apps’. In Proceedings of the 9th IEEE/ACM International Conference on Mobile Software Engineering and Systems, 6–16. Pittsburgh Pennsylvania: ACM. https://doi.org/10.1145/3524613.3527812.
