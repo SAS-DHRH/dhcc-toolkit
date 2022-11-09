@@ -106,7 +106,7 @@ We are currently in an interim period, during which the data, skills and tools f
 
 ## Preservation and archiving
 
-There are complex questions around what to keep and how to keep it. There are a few suggested resources in the Preservation and Archiving section of this toolkit.
+There are complex questions around what to keep and how to keep it. There are a few suggested resources in the Working Practices section of this toolkit.
 
 ## Travel and catering
 
