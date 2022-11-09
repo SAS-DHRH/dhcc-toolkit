@@ -73,36 +73,6 @@ Here are some of the other principles to use to plan specific aspects of minimis
 
 For the full list of Minimal principles, see Jentery Sayers’s ‘[Minimal Definitions](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/)’ (2016) at the Minimal Computing GO::DH site.
 
-
-## Critical design and system change {#system-change}
-
-{{< hint info >}}
-_‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
-
-[Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
-{{< /hint >}}
-
-Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
-
-> In order to purchase the book, the Amazon website forces the customer to go through twelve different interfaces composed of large amounts of code, which is normally invisible to the average user. This code carries out all sorts of operations, such as organizing and styling the site’s content, allowing interactivity, and recording the user’s activity. Overall, I was able to track 1,307 different requests to all sort of scripts and documents, totaling 8,724 A4 pages worth of printed code, adding up to 87.33MB of information. The amount of energy needed to load each of the twelve web interfaces, along with each one’s endless fragments of code, was approximately 30 wh. ([Moll 2019](https://www.janavirgin.com/AMZ/))
-
-Do we really have to burn coal so that every user can get personalised recommendations whether they want them or not? Yet these maximalist approaches are pervasive. This means minimal computing can sometimes feel like fighting a losing battle. So how do we also work toward larger structural change? We need to do two things:
-
-- Adopt and promote *behaviour change* (such as minimal computing), and
-- advocate for *deeper structural changes* to support those changes in the longer term.
-
-Although the first point is vital, on its own it is not enough. E.g. a review of interventions at the household level concludes that: “taken in isolation, behavioural interventions have a very small positive effect on climate change mitigation behaviours while the intervention is in place. Once the intervention stops, there is no evidence that such interventions produce lasting positive changes” (Nisa et al., 2019). Rather, lasting positive changes come when there are structures that support and encourage them.
-
-The design of technological interfaces and systems, where the human meets the machine, are among the structures that must change. So are cultural norms, the rules and norms of communities and organisations, and legal and economic structures. So we might think of the link between Minimal computing and system change as a series of opportunities:
-
-- When a user behaviour is wasteful, there is an opportunity to transform that behaviour.
-- When a user behaviour resists transformation, there is an opportunity to redesign the technical environment.
-- When a technical environment resists transformation, it is an opportunity to redesign the institutional environment.
-- Whenever the institutional environment resists transformation, it is an opportunity to push for deeper legal and economic changes.
-
-In this way, the everyday use of digital systems (for research and other purposes) reveals an abundance of research questions, data gaps, design challenges, exercises you might set your students, opportunities for technological innovation or entrepreneurship, as well as ways to focus and refine advocacy and activism for deeper system change. See “[Advocating Within Your Institution]({{< relref path="../toolkit/advocating.md" >}})” for further ideas.
-
-
 ## Static versus dynamic websites {#static-v-dynamic}
 
 {{< hint info >}}
@@ -198,6 +168,34 @@ Beyond potential structural unfairness introduced by the use of outsourced clien
 The Green Web Foundation has a [hosting directory](https://www.thegreenwebfoundation.org/directory/) of hundreds of green hosting providers across dozens of countries. In the UK, [Kualo](https://www.kualo.co.uk/webhosting/green-web-hosting) is a very good option.
 
 Another option could be to host your static site on a platform like [GitHub Pages](https://pages.github.com/), just as [we do with this website](https://github.com/SAS-DHRH/dhcc-toolkit).
+
+## Critical design and system change {#system-change}
+
+{{< hint info >}}
+_‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
+
+[Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
+{{< /hint >}}
+
+Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
+
+> In order to purchase the book, the Amazon website forces the customer to go through twelve different interfaces composed of large amounts of code, which is normally invisible to the average user. This code carries out all sorts of operations, such as organizing and styling the site’s content, allowing interactivity, and recording the user’s activity. Overall, I was able to track 1,307 different requests to all sort of scripts and documents, totaling 8,724 A4 pages worth of printed code, adding up to 87.33MB of information. The amount of energy needed to load each of the twelve web interfaces, along with each one’s endless fragments of code, was approximately 30 wh. ([Moll 2019](https://www.janavirgin.com/AMZ/))
+
+Do we really have to burn coal so that every user can get personalised recommendations whether they want them or not? Yet these maximalist approaches are pervasive. This means minimal computing can sometimes feel like fighting a losing battle. So how do we also work toward larger structural change? We need to do two things:
+
+- Adopt and promote *behaviour change* (such as minimal computing), and
+- advocate for *deeper structural changes* to support those changes in the longer term.
+
+Although the first point is vital, on its own it is not enough. E.g. a review of interventions at the household level concludes that: “taken in isolation, behavioural interventions have a very small positive effect on climate change mitigation behaviours while the intervention is in place. Once the intervention stops, there is no evidence that such interventions produce lasting positive changes” (Nisa et al., 2019). Rather, lasting positive changes come when there are structures that support and encourage them.
+
+The design of technological interfaces and systems, where the human meets the machine, are among the structures that must change. So are cultural norms, the rules and norms of communities and organisations, and legal and economic structures. So we might think of the link between Minimal computing and system change as a series of opportunities:
+
+- When a user behaviour is wasteful, there is an opportunity to transform that behaviour.
+- When a user behaviour resists transformation, there is an opportunity to redesign the technical environment.
+- When a technical environment resists transformation, it is an opportunity to redesign the institutional environment.
+- Whenever the institutional environment resists transformation, it is an opportunity to push for deeper legal and economic changes.
+
+In this way, the everyday use of digital systems (for research and other purposes) reveals an abundance of research questions, data gaps, design challenges, exercises you might set your students, opportunities for technological innovation or entrepreneurship, as well as ways to focus and refine advocacy and activism for deeper system change. See “[Advocating Within Your Institution]({{< relref path="../toolkit/advocating.md" >}})” for further ideas.
 
 
 ## Case studies {#case-studies}
