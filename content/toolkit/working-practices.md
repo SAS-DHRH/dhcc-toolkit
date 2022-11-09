@@ -104,6 +104,31 @@ Communicating within your project team might include sending messages, sharing d
 
 If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmits to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
 
+
+## Communicating on social media ##
+
+| Software  | Environmental footprint (scrolling 1 minute in gEqCO”) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
+| --- | --- | --- | --- |
+| Twitter   | 0.60 | 10.28 | 6.28 |
+| Instagram | 1.05 | 8.9 | 32.46 |
+| Facebook  | 0.79 | 12.36 | 11.15 |
+| TikTok    | 2.63 | 15.81 | 96.23 |
+
+
+–> The footprint is smaller with fewer videos that play automatically.  
+
+Src: https://greenspector.com/en/social-media-2021/
+
+## Questions to keep in mind 
+
+* How much electricity is needed to run the software?
+* Is any special hardware needed that requires resources?
+* How sustainable is the workflow process (concerning people-power)?
+* Data privacy: Who hosts my data? On what conditions and legal restrictions? Who has access?
+* Open source software: Who can use the software, how accessible is it?
+* Do I need a lot of time to learn something new? Are there communities that can help me?
+* Is the tool accessible for people with disabilities or people that speak different languages? 
+
 ## Publishing your data
 
 In this area, the key is to take advantage of infrastructure that is used by as many people as possible in order to reduce the carbon footprint per capita. Ad-hoc, tailored solutions are the most resource-intensive and should be avoided where possible. 
@@ -167,30 +192,6 @@ Kilbride, William. 2021. ‘[Digital Preservation and Climate Change: Provocatio
 Parnitzke, Daniel. [‘Finding Pleasure in Scarcity’](http://pleasureinscarcity.com/). MA Thesis, Design Academy Eindhoven.
 
 Pendergrass, Keith L., Walker Sampson, Tim Walsh, and Laura Alagna. 2019. ‘Toward Environmentally Sustainable Digital Preservation’. The American Archivist 82 (1): 165–206. [https://doi.org/10.17723/0360-9081-82.1.165](https://doi.org/10.17723/0360-9081-82.1.165).
-
-## Communicating on social media ##
-
-| Software  | Environmental footprint (scrolling 1 minute in gEqCO”) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
-| --- | --- | --- | --- |
-| Twitter   | 0.60 | 10.28 | 6.28 |
-| Instagram | 1.05 | 8.9 | 32.46 |
-| Facebook  | 0.79 | 12.36 | 11.15 |
-| TikTok    | 2.63 | 15.81 | 96.23 |
-
-
-–> The footprint is smaller with fewer videos that play automatically.  
-
-Src: https://greenspector.com/en/social-media-2021/
-
-## Questions to keep in mind 
-
-* How much electricity is needed to run the software?
-* Is any special hardware needed that requires resources?
-* How sustainable is the workflow process (concerning people-power)?
-* Data privacy: Who hosts my data? On what conditions and legal restrictions? Who has access?
-* Open source software: Who can use the software, how accessible is it?
-* Do I need a lot of time to learn something new? Are there communities that can help me?
-* Is the tool accessible for people with disabilities or people that speak different languages? 
   
 ## Travel {#travel}
 
