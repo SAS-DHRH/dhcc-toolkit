@@ -61,11 +61,17 @@ exponentially since \~2012*
 
 The easy wins are not enough, and things quickly get complicated. Here are a few factors to take into account, when considering proportionality.
 
-**1. Deferring**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
+**1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-**2. Ethics**: The underlying purpose of a project has bearing on how we assess its proportionality. Does it have sustainability-related goals? For example, optimizing planting patterns for beleaguered pollinators, or calling out greenwashing in corporate disclosures at scale, or tailoring communications relating to famine relief? Or perhaps the goals are good in themselves, but unrelated to climate adaptation, or are maladaptive. Or perhaps (as occasionally seems to happen sometimes in AI research) the goals themselves are pure evil. 
+**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. Where is HPC use monitored in your institution? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? 
 
-The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
+**3. On what balance sheet(s) will the carbon impact appear?** Will it be your own university or research institution, or some third party? Are you happy with the way the reporting entity measures and discloses its carbon impact? 
+
+**4. What are the potential benefits?** Clearly, the underlying purpose of a project has bearing on how we assess its proportionality. 
+
+**5. Do these benefits relate to sustainability?** If so, you might decide to be a bit more lenient. Is your goal to optimize planting patterns for beleaguered pollinators, or to call out greenwashing in corporate disclosures at scale, or to tailor communications relating to famine relief? Or will the outcomes be unrelated to sustainability, or even maladaptive?
+
+**6. What are the broader ethical questions?** Perhaps (as occasionally seems to happen sometimes in AI research) your goals are pure evil, only you haven't noticed yet? Bringing in ethical considerations in an intensive way, early in the process, may help to decide when maximal approaches are appropriate. The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
 list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) and [Zotero Library](https://www.zotero.org/groups/605005/critical_algorithm_studies) contain further reading on the politics and ethics of AI and algorithms more broadly.  [The Data
 Hazards](https://datahazards.com/contents/hazards/high-environmental-cost.html)
 project is developing labels that seek to communicate the risks involved
@@ -74,13 +80,11 @@ environmental cost: 'Considering worst case scenarios is one part of
 this puzzle. Worst case scenarios free us from trying to predict the
 future: we're not saying that something *will* happen' [(Thurlby,
 Natalie and Di Cara, Nina
-2021)]([https://www.zotero.org/google-docs/?M2lk73](https://datahazards.com/contents/materials/misc/proposal.html).
+2021)](https://datahazards.com/contents/materials/misc/proposal.html).
 
-**3. Potential Benefits**: What is the potential benefit that might be realised? 
+**7. How likely is it to succeed?** This is a question you can ask at multiple scales, e.g. a project, a model, a query. 
 
-**4. How likely is it to succeed?** This is a question you can ask at multiple scales, e.g. a project, a model, a query. 
-
-**5. Optimization**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
+**8. Is there still optimization that could be done?**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
 
 Focusing on Natural Language Processing, Strubell et al. (2019) recommend
 "a concerted effort by industry and academia to promote research of more
@@ -93,15 +97,15 @@ techniques" [(Strubell, Ganesh, and McCallum
 
 [CodeCarbon](https://codecarbon.io/) can be embedded in Python code, to estimate emissions based on location, and recommend compute regions with lower carbon intensity for major cloud providers (AWS, Azure, and GCP).
 
-**6. Openness**: Are you using maximal computing in ways that can benefit other researchers and creators? 
+[Xu et al. (2021)](https://arxiv.org/abs/2111.05193) offer a survey of deep learning optimisation techniques, which they categorise into compact networks, energy-efficient training strategies, energy-efficient inference approaches, and energy-efficient data usage.
+
+**9. What about openness?** Are you using maximal computing in ways that can benefit other researchers and creators?
 
 {{< hint info >}}
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
-**7. Monitoring**: Where is HPC use monitored in your institution? What kind of data is collected, and who gets to see it? Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e?
-
-**8. Affordances**: If you are building something, does it encourage or enforce responsible use?
+**10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective?
 
 ## Measures of Efficiency
 
@@ -145,7 +149,7 @@ total work required, and thus allows you to optimise at specific points
 in your pipeline. Red AI refers to the dominant approach, that seeks to 
 improve results through massive computational power without regard
 to environmental impact. Striving to "treat efficiency as a primary evaluation
-criterion alongside accuracy" is what Schwartz et. al. call Green AI.
+criterion alongside accuracy" is what Schwartz et al. call Green AI.
 
 
 ## Mini case study {#case-study}
@@ -235,7 +239,7 @@ Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part
 
 Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022. ‘A Review of Energy Efficiency Evaluation Metrics for Data Centers’. Energy and Buildings 271 (September): 112308. [https://doi.org/10.1016/j.enbuild.2022.112308](https://doi.org/10.1016/j.enbuild.2022.112308).
 
-
 Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. [‘Energy and Policy Considerations for Deep Learning in NLP’].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645–50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
 
+Xu, Jingjing, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, and Lei Li. 2021. ‘A Survey on Green Deep Learning’. [https://doi.org/10.48550/ARXIV.2111.05193](https://doi.org/10.48550/ARXIV.2111.05193).
 
