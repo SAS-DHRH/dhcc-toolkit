@@ -82,20 +82,20 @@ Communicating within your project team might include sending messages, sharing d
 
 We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom.
 
-| Software | Carbon footprint | Accessibility | GDPR compliance |
+| Software | Accessibility | GDPR compliance |
 | --- | --- | --- | --- |
-| Google Meet |     | Proprietary | Very nontransparent |
-| Zoom |    | Proprietary | Very nontransparent |
-| BBB |    | General Public Licence; needs to be installed and maintained on an institutional server | Transparent |
-| Jitsi |    | Apache Licence | Mostly transparent     |
-| Webex |    | Proprietary | Relatively transparent |
-| MS Teams |    | Proprietary | Very nontransparent    |
+| Google Meet | Proprietary | Very nontransparent |
+| Zoom | Proprietary | Very nontransparent |
+| BBB | General Public Licence; needs to be installed and maintained on an institutional server | Transparent |
+| Jitsi | Apache Licence | Mostly transparent     |
+| Webex | Proprietary | Relatively transparent |
+| MS Teams | Proprietary | Very nontransparent    |
 
 
 **Choosing a Team-Chat Program**
 
-| Software | Carbon footprint | Accessibility | Functions | Data privacy | Costs |
-| --- | --- | --- | --- | --- | --- |
+| Software | Accessibility | Functions | Data privacy | Costs |
+| --- | --- | --- | --- | --- |
 | Discord  |   | Runs on all major systems | Messaging, Audio and Video | Bad (Data is transmitted unencrypted and the company is allowed to read and resell the data. Data can be transmitted to US-Server) | No fees |
 | Element  |   | Runs on all major systems; open-source (GitHub-repo); available in 25 languages | Messaging, Audio and Video (can be unstable) | End-to-end encryption; can be hosted on own server | No fees |
 | Slack |   | Runs on all major systems; Available in 8 languages | Messaging, Audio and Video | Cloud-based (can be hacked); end-to-end encryption | Basic version without fees is normally sufficient |
