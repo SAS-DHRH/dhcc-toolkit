@@ -49,7 +49,7 @@ different ways? And when we do decide to use computationally intensive
 processes, how can we optimise them from a climate and sustainability
 perspective?
 
-![](images/image6.png)
+![open-ai-usage](images/ai-and-compute-all.png)
 
 *Compute needed to train state-of-the-art models rises
 exponentially since \~2012*
