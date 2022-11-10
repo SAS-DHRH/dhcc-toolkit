@@ -8,9 +8,9 @@ slug: 'grant-writing'
 
 # Grant Writing
 
-This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.
-
 {{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
+
+This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.
 
 {{< hint warning >}}
 ## Key Recommendations ##
