@@ -72,7 +72,8 @@ Emails are stored as long as they are in your inbox or in subfolders of your inb
 **Videoconferencing** is less carbon intensive with cameras switched off. This is a complex area, however, since it relates to human sociality and connection. If we try to be too strict about seeing one another's faces online, could this start to impact our decisions to travel vs. working remotely? In the future, better data on the impact of work-related videoconferencing may help to decide whether this is a carbon-saving measure worth prioritising. For now, we recommend experimenting with a mixture of cameras on and cameras off, especially once working relationships are well-established. 
 
 
-## How to communicate within your team
+## Communication methods
+**How to communicate within your team**
 
 Communicating within your project team might include sending messages, sharing documents, or videoconferences. While the carbon footprint of the applications and software you will choose is a key element in making this decision, we have included a few additional criteria to help you balance pros and cons of the most frequently used software.
 
@@ -104,7 +105,7 @@ We don't yet have compelling evidence about which videoconferencing software mig
 If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmits to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
 
 
-## Communicating on social media ##
+**Communicating on social media**
 
 | Software  | Environmental footprint (scrolling 1 minute in gEqCO”) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
 | --- | --- | --- | --- |
@@ -119,6 +120,7 @@ If the online platform you are using declares its carbon or electricity efficien
 Src: https://greenspector.com/en/social-media-2021/
 
 ## Questions to keep in mind 
+When making decisions about day-to-day working practices and communication methods, consider the following questions:
 
 * How much electricity is needed to run the software?
 * Is any special hardware needed that requires resources?
