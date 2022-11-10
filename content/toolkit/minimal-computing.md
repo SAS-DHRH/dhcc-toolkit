@@ -186,7 +186,7 @@ Do we really have to burn coal so that every user can get personalised recommend
 - Adopt and promote *behaviour change* (such as minimal computing), and
 - advocate for *deeper structural changes* to support those changes in the longer term.
 
-Although the first point is vital, on its own it is not enough. E.g. a review of interventions at the household level concludes that: “taken in isolation, behavioural interventions have a very small positive effect on climate change mitigation behaviours while the intervention is in place. Once the intervention stops, there is no evidence that such interventions produce lasting positive changes” (Nisa et al., 2019). Rather, lasting positive changes come when there are structures that support and encourage them.
+Although the first point is vital, on its own it is not enough. E.g. a review of interventions at the household level concludes that: “taken in isolation, behavioural interventions have a very small positive effect on climate change mitigation behaviours while the intervention is in place. Once the intervention stops, there is no evidence that such interventions produce lasting positive changes” [(Nisa et al., 2019)](https://doi.org/10.1038/s41467-019-12457-2). Rather, lasting positive changes come when there are structures that support and encourage them.
 
 The design of technological interfaces and systems, where the human meets the machine, are among the structures that must change. So are cultural norms, the rules and norms of communities and organisations, and legal and economic structures. So we might think of the link between Minimal computing and system change as a series of opportunities:
 
@@ -224,8 +224,11 @@ GO::DH Minimal Computing Working Group ‘Thought Pieces’. [https://go-dh.gith
 
 Jarrett, Tom. “Designing Sustainable Interaction Design Principles.” Branch Magazine, 15 October 2020, [https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/](https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/).
 
+Nisa, Claudia F., Jocelyn J. Bélanger, Birga M. Schumpe, and Daiane G. Faller. 2019. ‘Meta-Analysis of Randomised Controlled Trials Testing Behavioural Interventions to Promote Household Action on Climate Change’. Nature Communications 10 (1): 4545. [https://doi.org/10.1038/s41467-019-12457-2](https://doi.org/10.1038/s41467-019-12457-2)
+
 Piantella, Benedetta, Alex Nathanson, Tega Brain, and Keita Ohshiro. ‘Solar-Powered Server: Designing for a More Energy Positive Internet’. 2020 CHI Conference on Human Factors in Computing Systems. New York, NY, USA: Association for Computing Machinery, 2020. [https://doi.org/10.1145/3334480.3383155](https://doi.org/10.1145/3334480.3383155).
 
-Roscam Abbing, Roel. ‘“[This Is a Solar-Powered Website, Which Means It Sometimes Goes Offline”: A Design Inquiry into Degrowth and ICT](https://computingwithinlimits.org/2021/papers/limits21-abbing.pdf)’. In LIMITS’21: Workshop on Computing within Limits, June 14–15, 2021.
-
 Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, and João Saraiva. ‘Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?’ In _Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering_, 256–67. Vancouver BC Canada: ACM, 2017. [https://doi.org/10.1145/3136014.3136031](https://doi.org/10.1145/3136014.3136031).
+
+
+Roscam Abbing, Roel. ‘“[This Is a Solar-Powered Website, Which Means It Sometimes Goes Offline”: A Design Inquiry into Degrowth and ICT](https://computingwithinlimits.org/2021/papers/limits21-abbing.pdf)’. In LIMITS’21: Workshop on Computing within Limits, June 14–15, 2021.
