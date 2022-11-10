@@ -8,12 +8,20 @@ slug: 'maximal-computing'
 
 # Maximal Computing
 
-## Problems of Proportionality
-
-We use "maximal computing" to refer to any **computationally
+This section introduces you to "maximal computing," which refers to any **computationally
 intensive work**, including working with blockchains, Big Data, and
 Machine Learning (ML) and other types of Artificial Intelligence (AI).
-Such systems are everywhere these days. For example, AI technologies
+
+{{< hint warning >}}
+## Key Recommendations ##
+- Develop a clear understanding of when it is appropriate to use AI and blockchain for a humanities research problem.
+- When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapt existing infrastructures.
+- Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
+{{< /hint >}}
+
+## Problems of Proportionality
+
+Maximal computing systems are everywhere these days. For example, AI technologies
 have been applied to speech recognition, natural language processing,
 computer vision, and many other areas. In many parts of the world, AI is
 present within our homes, cars, mobile phones. New applications of AI
@@ -55,7 +63,7 @@ exponentially since \~2012*
 5. **Don't overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
 6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute.
 7. **Explore doing it on-site.** If your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
-8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. 
+8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section]({{< relref path="../toolkit/minimal-computing.md" >}})) of this Toolkit.
 
 ## Then it gets complicated
 
@@ -158,15 +166,15 @@ criterion alongside accuracy" is what Schwartz et al. call Green AI.
 
 ### **GPT-n workshops case study**
 
-Recently I gave some workshops to introduce participants to GPT-n text generators. The workshops usually involved an activity in which participants fine-tune a pre-trained model using texts of their choosing.
+In some recent workshops to introduce participants to GPT-n text generators, participants fine-tuned a pre-trained model using texts of their choosing.
 
 There were good pedagogic reasons to let everyone choose their own input text, e.g. from Gutenberg, for the fine tuning: it turns the activity into a more exciting experiment. It also made sense for me to do the activity myself, because (1) it\'s easy to forget details when you\'re describing something from memory and notes, and (2) I know from experience that certain fine-tuning texts will \"work well,\" so we would have at least one interesting output to discuss at the end.
 
-But in the short time available, I noticed participants often chose arbitrary and / or \"obvious\" input texts (e.g. Shakespeare, or an author they were primed to choose because they had been mentioned earlier in the workshop). Likewise, pushed for prep time, I realised I was tending to use the same input texts again and again. Furthermore, I would generate hundreds of pages of text, and then only browse the first few - and never use the rest for anything.
+But in the short time available, participants often chose arbitrary and / or \"obvious\" input texts (e.g. Shakespeare, or an author they were primed to choose because they had been mentioned earlier in the workshop). Likewise, pushed for prep time, the workshop leader realised they were tending to use the same input texts again and again. Furthermore, we would generate hundreds of pages of text, and then only browse the first few - and never use the rest for anything.
 
 My new rule of thumb: **if I am running a computationally intensive process for educational or demo purposes, do so in a way that doubles as research** (in a loose sense of \"research\").
 
-For the latest iteration of the workshop I have:                     
+For the latest iteration of the workshop we have:                     
 
 - Explicitly included discussion of carbon costs.
 - Used a recording of myself doing the fine-tuning and text generation.
