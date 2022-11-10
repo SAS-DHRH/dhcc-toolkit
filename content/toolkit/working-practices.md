@@ -83,7 +83,7 @@ Communicating within your project team might include sending messages, sharing d
 We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. We have provided some details on accessibility and privacy as a first step.
 
 | Software | Accessibility | GDPR compliance |
-| --- | --- | --- | --- |
+| --- | --- | --- |
 | Google Meet | Proprietary | Very nontransparent |
 | Zoom | Proprietary | Very nontransparent |
 | BBB | General Public Licence; needs to be installed and maintained on an institutional server | Transparent |
