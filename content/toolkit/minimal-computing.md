@@ -35,7 +35,7 @@ Since 2016, when the first Minimal Computing in DH workshop was held at the [Dig
 
 Our aim here is not to give black-and-white instructions. Oftentimes there is not one right answer for computing solutions. For example, one downside of minimal computing, as Quinn Dombrowski has pointed out, is that it can be labour-intensive. To gain a more accurate sense of the tradeoffs our technology choices have on our environments, we can leverage the minicomp (and environmental) principles to make informed decisions with proportional costs.
 
-To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary.
+To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing, as Quinn Dombrowski recently argued in an [essay](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html) in *Digital Humanities Quarterly*. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary.
 
 
 ## Applying minimal computing principles {#minicomp-principles}
@@ -91,15 +91,15 @@ _As a society we need to start treating computational resources as finite and pr
 [Wim Vanderbauwhede](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
 {{< /hint >}}
 
-A static website has fixed content which appears the same to every user (until it is manually updated). A dynamic website is generated “on the fly” and is more associated with interactivity. Social media sites are dynamic websites, since they are woven together from a variety of user generated content. More technically:
+A static website has fixed content which appears the same to every user (until it is manually updated). A dynamic website is generated “on the fly” and is more associated with interactivity. Social media sites are dynamic websites, since they are woven together from a variety of user generated content. 
+
+![static-v-dynamic-2](images/dynamic-sites.png)
+
+(Image: Partricia Searl, University of Virginia Press.)
 
 - A **dynamic** site uses server-side programming languages and technologies to pull information from a database and show it on your browser. All project data and content is stored in a content management system (CMS), which allows for bespoke, personalised, and automated changes to websites. Dynamic sites tend to be content-heavy and user-driven (that is to say the users are interacting with the content in specific ways).
 - A **static** site consists of a directory of files that lives on the server. This means that when you are accessing web content, you are directly accessing a file on the server rather than making a request to a database or CMS for the content. Pages are therefore accessed as-is and changes need to be made file-by-file.
 - A **hybrid** web site uses both elements of dynamic and static content.
-
-![static-v-dynamic-2](images/dynamic-sites.png)
-
-(Image courtesy Partricia Searl, University of Virginia Press.)
 
 *Why might you choose one or the other (or both)?*
 
