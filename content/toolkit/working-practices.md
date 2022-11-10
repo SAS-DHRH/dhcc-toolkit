@@ -80,7 +80,7 @@ Communicating within your project team might include sending messages, sharing d
 
 **Choosing a videoconference system**
 
-We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom.
+We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. We have provided some details on accessibility and privacy as a first step.
 
 | Software | Accessibility | GDPR compliance |
 | --- | --- | --- | --- |
@@ -96,9 +96,9 @@ We don't yet have compelling evidence about which videoconferencing software mig
 
 | Software | Accessibility | Functions | Data privacy | Costs |
 | --- | --- | --- | --- | --- |
-| Discord  |   | Runs on all major systems | Messaging, Audio and Video | Bad (Data is transmitted unencrypted and the company is allowed to read and resell the data. Data can be transmitted to US-Server) | No fees |
-| Element  |   | Runs on all major systems; open-source (GitHub-repo); available in 25 languages | Messaging, Audio and Video (can be unstable) | End-to-end encryption; can be hosted on own server | No fees |
-| Slack |   | Runs on all major systems; Available in 8 languages | Messaging, Audio and Video | Cloud-based (can be hacked); end-to-end encryption | Basic version without fees is normally sufficient |
+| Discord  | Runs on all major systems | Messaging, Audio and Video | Bad (Data is transmitted unencrypted and the company is allowed to read and resell the data. Data can be transmitted to US-Server) | No fees |
+| Element  | Runs on all major systems; open-source (GitHub-repo); available in 25 languages | Messaging, Audio and Video (can be unstable) | End-to-end encryption; can be hosted on own server | No fees |
+| Slack | Runs on all major systems; Available in 8 languages | Messaging, Audio and Video | Cloud-based (can be hacked); end-to-end encryption | Basic version without fees is normally sufficient |
 
 
 
