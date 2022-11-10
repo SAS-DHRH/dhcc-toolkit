@@ -33,9 +33,7 @@ The label ‘low tech’ or ‘frugal’ does not mean unsophisticated—it mean
 
 Since 2016, when the first Minimal Computing in DH workshop was held at the [Digital Humanities ’16 conference](https://dh2016.adho.org/workshops/index.html), the constraints in which we conduct research have changed. There is now an urgent need to address the environmental consequences of digital technologies. This constraint has been growing for many decades, and is now a top priority out of necessity – we have procrastinated as a species and our paper was due yesterday!
 
-Our aim here is not to give black-and-white instructions. Oftentimes there is not one right answer for computing solutions. For example, one downside of minimal computing, as Quinn Dombrowski has pointed out, is that it can be labour-intensive. To gain a more accurate sense of the tradeoffs our technology choices have on our environments, we can leverage the minicomp (and environmental) principles to make informed decisions with proportional costs.
-
-To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing, as Quinn Dombrowski recently argued in an [essay](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html) in *Digital Humanities Quarterly*. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary.
+Our aim here is not to give black-and-white instructions. Oftentimes there is not one right answer for computing solutions. To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing, as Quinn Dombrowski recently argued in an [essay](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html) in *Digital Humanities Quarterly*. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary. To gain a more accurate sense of the tradeoffs our technology choices have on our environments, we can leverage the minicomp (and environmental) principles to make informed decisions with proportional costs. (For more on the issue of computing and proportional costs, see also the section of this Toolkit on [Maximal Computing]({{< relref path="../toolkit/maximal-computing.md" >}}))
 
 
 ## Applying minimal computing principles {#minicomp-principles}
@@ -95,7 +93,7 @@ A static website has fixed content which appears the same to every user (until i
 
 ![static-v-dynamic-2](images/dynamic-sites.png)
 
-(Image: Partricia Searl, University of Virginia Press.)
+Figure: a dizzying diagram of dynamic websites (Image: Partricia Searl, University of Virginia Press.)
 
 - A **dynamic** site uses server-side programming languages and technologies to pull information from a database and show it on your browser. All project data and content is stored in a content management system (CMS), which allows for bespoke, personalised, and automated changes to websites. Dynamic sites tend to be content-heavy and user-driven (that is to say the users are interacting with the content in specific ways).
 - A **static** site consists of a directory of files that lives on the server. This means that when you are accessing web content, you are directly accessing a file on the server rather than making a request to a database or CMS for the content. Pages are therefore accessed as-is and changes need to be made file-by-file.

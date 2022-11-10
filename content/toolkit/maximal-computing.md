@@ -51,8 +51,8 @@ perspective?
 
 ![open-ai-usage](images/ai-and-compute-all.png)
 
-*Compute needed to train state-of-the-art models rises
-exponentially since \~2012*
+*Compute needed to train state-of-the-art models have risen
+exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-compute/.)
 
 ## Some easy wins
 
