@@ -114,9 +114,9 @@ The benefit from a static site is a little more blurred nowadays, because of the
 
 Use a static site where possible. You can do so using a *static site generator* such as:
 
-- [Jekyll](https://jekyllrb.com/) has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)).
+- [Jekyll](https://jekyllrb.com/), which has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)).
 - [Hugo](https://gohugo.io/), which runs on the Go programming language, has fewer dependencies and attractive templates (this tool-kit runs on Hugo, by the way).
-- [Gatsby](https://www.gatsbyjs.com/) is good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
+- [Gatsby](https://www.gatsbyjs.com/), which is good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
 - and there are many more [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators).
 
 
