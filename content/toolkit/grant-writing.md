@@ -106,9 +106,9 @@ However, definitive EFs are often not available for the type of activities that,
 
 We are currently in an interim period, during which the data, skills and tools for sustainable decision-making are built and shared. But we do not have to decide now, once and for all, how research will be conducted in the future. It would be irresponsible to continue to emit on the basis of business-as-usual as we scope, gather data, and build capacity. We therefore recommend the bold use of **moratoriums** on carbon intensive activities.
 
-## Preservation and archiving
+## Publishing and archiving
 
-There are complex questions around what to keep and how to keep it. There are a few suggested resources in the Working Practices section of this toolkit.
+There are complex questions around what to keep and how to keep it. There are a few suggested resources in the [Working Practices](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html) section of this toolkit.
 
 ## Travel and catering
 
