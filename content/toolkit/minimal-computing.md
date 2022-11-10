@@ -95,6 +95,8 @@ A static website has fixed content which appears the same to every user (until i
 - A **static** site consists of a directory of files that lives on the server. This means that when you are accessing web content, you are directly accessing a file on the server rather than making a request to a database or CMS for the content. Pages are therefore accessed as-is and changes need to be made file-by-file.
 - A **hybrid** web site uses both elements of dynamic and static content.
 
+![static-v-dynamic-2](images/dynamic-sites.png)
+
 *Why might you choose one or the other (or both)?*
 
 There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact. [Wholegrain Digital](https://www.websitecarbon.com/) offer a tool for estimating the carbon footprint of a website. 
