@@ -80,7 +80,7 @@ Communicating within your project team might include sending messages, sharing d
 
 **Choosing a videoconference system**
 
-We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. We have provided some details on accessibility and privacy as a first step.
+We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. A 2020 article by [Ethical Consumer](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing) provides another comparison, based on the sustainability and ethics of the companies rather than technical specifications; Jami and Kopano come out top. We have provided some details on accessibility and privacy as a first step.
 
 | Software | Accessibility | GDPR compliance |
 | --- | --- | --- |
@@ -91,6 +91,11 @@ We don't yet have compelling evidence about which videoconferencing software mig
 | Webex | Proprietary | Relatively transparent |
 | MS Teams | Proprietary | Very nontransparent    |
 
+{{< hint warning >}}
+
+**Case study**: [New Interfaces for Musical Interfaces share thoughts](https://eco.nime.org/entries/video_conferencing) on choosing a videoconferencing provider for their hybrid conference.
+
+{{< /hint >}}
 
 **Choosing a Team-Chat Program**
 
