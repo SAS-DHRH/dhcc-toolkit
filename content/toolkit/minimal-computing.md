@@ -14,6 +14,12 @@ _‘We use “minimal computing” to refer to computing done under some set of 
 [GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
 {{< /hint >}}
 
+{{< hint warning >}}
+## Key Recommendations ##
+- Consider ways to reduce digital dependencies (software stacks), and in particular whether static websites and minimalist content management systems are appropriate for your project.
+- When building and editing websites, use minimal web design principles and try to reduce client-side dynamic features.
+- Evaluate green web hosting options.
+{{< /hint >}}
 
 What can researchers do to resist techno-utopian, carbon-intensive technological traps? How can we support environmentally responsible design—even if software filled with cool unnecessary features may forever tug on our heartstrings? Minimal computing (minicomp) has at least some of the answers.
 
@@ -26,6 +32,8 @@ The label ‘low tech’ or ‘frugal’ does not mean unsophisticated—it mean
 Since 2016, when the first Minimal Computing in DH workshop was held at the [Digital Humanities ’16 conference](https://dh2016.adho.org/workshops/index.html), the constraints in which we conduct research have changed. There is now an urgent need to address the environmental consequences of digital technologies. This constraint has been growing for many decades, and is now a top priority out of necessity – we have procrastinated as a species and our paper was due yesterday!
 
 Our aim here is not to give black-and-white instructions. Oftentimes there is not one right answer for computing solutions. For example, one downside of minimal computing, as Quinn Dombrowski has pointed out, is that it can be labour-intensive. To gain a more accurate sense of the tradeoffs our technology choices have on our environments, we can leverage the minicomp (and environmental) principles to make informed decisions with proportional costs.
+
+To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary.
 
 
 ## Applying minicomp principles {#minicomp-principles}
@@ -102,6 +110,7 @@ Use a static site where possible. You can do so using a *static site generator* 
 
 - [Jekyll](https://jekyllrb.com/) has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)).
 - [Hugo](https://gohugo.io/), which runs on the Go programming language, has fewer dependencies and attractive templates (this tool-kit runs on Hugo, by the way).
+- [Gatsby](https://www.gatsbyjs.com/) is good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
 - and there are many more [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators).
 
 
@@ -111,7 +120,6 @@ However, static sites will never be suitable for everything. A *content manageme
 
 - [Strapi](https://strapi.io/): An open-source modern [headless CMS](https://www.contentful.com/r/knowledgebase/what-is-headless-cms/) alternative to WordPress.
 - [Ghost](https://ghost.org/): A lightweight headless CMS designed for content creators.
-- [Gatsby](https://www.gatsbyjs.com/): Good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
 - [Mukurtu](https://mukurtu.org/): A grassroots CMS project aiming to empower communities to manage, share, narrate, and exchange their digital heritage in culturally relevant and ethically-minded ways.
 
 If you are accustomed to building websites with online CMS platforms like SquareSpace, Wix, or Wordpress, there may be a bit of a learning curve. But it is probably not as steep as it looks, and well worth investing the time.
