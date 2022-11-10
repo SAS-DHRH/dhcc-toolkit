@@ -7,7 +7,9 @@ weight: 1
 
 # Introduction
 
-_[The Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/dhclimate/)_ (2021) states: “The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.”
+_[The Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/dhclimate/)_ (2021) states: 
+
+> The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
 
 To meet climate targets, the world needs to cut net carbon emissions by about half by 2030, and achieve net zero carbon by 2050. Globally, Information Communication Technology (ICT) already contributes 1.8% to 3.9% of greenhouse gas emissions, and is currently projected to grow significantly [(Freitag et al. 2021)](https://doi.org/10.1016/j.patter.2021.100340). Transport accounts for about 14% [(SLOCAT 2021)](https://tcc-gsr.com/wp-content/uploads/2021/06/1.1-Global-Transport-and-Climate-Change.pdf), and research often involves heavy travel for conferences, meetings, and fieldwork. What can we do?
 
