@@ -49,4 +49,8 @@ SLOCAT. 2021. ‘Tracking Trends in a Time of Change: The Need for Radical Actio
 
 [Greening the Digital Humanities Resource Hub](https://docs.google.com/document/d/1u9rLCp0vrPiUdo9mbOak7ESDwrAbHI0vWEvPbFh9tfw/edit?usp=sharing). This is a Google doc of further resources. Please feel free to suggest additions, or to leave comments about your own experiences with the tools listed here.
 
+Santarius, Tilman, Jan C. T. Bieser, Vivian Frick, Mattias Höjer, Maike Gossen, Lorenz M. Hilty, Eva Kern, Johanna Pohl, Friederike Rohde, and Steffen Lange. ‘Digital Sufficiency: Conceptual Considerations for ICTs on a Finite Planet’. Annals of Telecommunications, 12 May 2022. [https://doi.org/10.1007/s12243-022-00914-x](https://doi.org/10.1007/s12243-022-00914-x).
+
 Travis, Charles, Deborah P. Dixon, Luke Bergmann, Robert Legg, and Arlene Crampsie (eds.). 2022. [_The Routledge Handbook of the Digital Environmental Humanities_](https://www.routledge.com/Routledge-Handbook-of-the-Digital-Environmental-Humanities/Travis-Dixon-Bergmann-Legg-Crampsie/p/book/9780367536633#sup). London: Routledge. 
+
+
