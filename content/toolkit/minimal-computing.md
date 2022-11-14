@@ -245,3 +245,6 @@ Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paul
 
 
 Roscam Abbing, Roel. ‘“[This Is a Solar-Powered Website, Which Means It Sometimes Goes Offline”: A Design Inquiry into Degrowth and ICT](https://computingwithinlimits.org/2021/papers/limits21-abbing.pdf)’. In LIMITS’21: Workshop on Computing within Limits, June 14–15, 2021.
+
+Santarius, Tilman, Jan C. T. Bieser, Vivian Frick, Mattias Höjer, Maike Gossen, Lorenz M. Hilty, Eva Kern, Johanna Pohl, Friederike Rohde, and Steffen Lange. ‘Digital Sufficiency: Conceptual Considerations for Icts on a Finite Planet’. Annals of Telecommunications, 12 May 2022. [https://doi.org/10.1007/s12243-022-00914-x](https://doi.org/10.1007/s12243-022-00914-x).
+
