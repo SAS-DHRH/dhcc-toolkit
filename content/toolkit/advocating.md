@@ -29,7 +29,7 @@ Despite this, the Higher Education sector is not where it needs to be. In ten po
 3. **Pathways matter**. Emissions en route to Net Zero are as important as the Net Zero date itself. It is vital to make as much progress as early on possible. Make sure your institution has ambitious milestones along the way. If bringing your Net Zero date forward is challenging, you may find more traction bringing forward milestones.
 4. **Offsets are problematic**. Net Zero poses significant greenwashing temptations, especially around the use of carbon offsetting. Not all offsets are equal, and institutions are taking very different approaches to them, and to what counts as an ‘unavoidable emission.’ Make sure your institution also sets an Absolute Zero target date.
 5. **Benchmarks are seldom science-based**. Institutions naturally tend to pick their Net Zero dates by asking, ‘What is feasible for us, given our business model, and given what others in the sector are doing?’ But to have a good chance* of achieving 1.5 degrees, global emissions need to roughly halve by 2030, and reach Net Zero by 2050. Global North countries have ethical and practical obligations to reach these milestones even sooner (e.g. China’s current Net Zero date is 2060, India’s current Net Zero date is 2070).
-6. **SBTi are pretty busy right now**. The Science-Based Targets initiative has yet to expand its work to universities, but a few universities are nonetheless aligning themselves; all should do so. Also, some universities that aim (and claim) to be SBTi aligned are not aligned with the latest recommendations. The Alliance for Sustainability Leadership in Education ([EAUC](https://www.eauc.org.uk/about_us)) is working on implementing SBTi principles in HEIs.
+6. **SBTi are pretty busy right now**. The Science-Based Targets initiative has yet to expand its work to universities, but a few universities are nonetheless aligning themselves; all should do so. Additionally, some universities that aim (and claim) to be SBTi aligned are not aligned with the latest recommendations. The Alliance for Sustainability Leadership in Education ([EAUC](https://www.eauc.org.uk/about_us)) is working on implementing SBTi principles in HEIs.
 7. **Institutional policies and messaging are often inconsistent**. If you work for a relatively well-resourced institution in the Global North, it needs to be achieving Net Zero well ahead of the planetary target date (2050) to be consistent with a 1.5 degree target. Some institutions have already reached Net Zero.
 8. **Implementation details are being worked out**. Many institutions have Net Zero commitments that they do not yet know how to deliver. There is a risk of backsliding as the challenges and costs emerge.
 9. **Risk management is unreflective of the scale of climate crisis**. There are opportunities to realise more co-benefits across sustainability and risk management. Some traditional risk management methodologies may not really be suitable for dealing with climate crisis (e.g. around “deep uncertainty” and “tipping points”). Adaptation needs to be transformative.
@@ -131,14 +131,14 @@ There may also be complementarities with on-site renewable energy generation. Al
 
 ### The Cloud as a factory?
 
-In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to
+In 'The Cloud is a Factory' (2021), Nathan Ensmenger argues that framing the Cloud as a factory helps us to:
 
-1. "restore a sense of place to our understanding of the information economy";
-2. "appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems";
-3. "recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype;
-4. consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences";
-5. identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and 
-6. "consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
+1. "Restore a sense of place to our understanding of the information economy";
+2. "Appreciate the importance of infrastructure" including the Cloud's consumption of water and electricity and its need for "roads and bridges and sewer systems";
+3. "Recognize the fundamental interconnectedness (and interdependencies) of all of our infrastructures" and use this as a critical lens on technological hype;
+4. Consider the supply chains of hardware and elements such as lithium, tin, cobalt, and rare earths, and the "set of stories to be told about global politics, international trade, worker safety, and environmental consequences";
+5. Identify the effects or lack of "compensatory benefits in terms of jobs, tax income, or the development of new infrastructure" that may come from establishing a data centre; and 
+6. "Consider the changes to work that the Cloud enables in other industries," for example autonomous vehicles. (Mullaney et al. 2021)
 
 
 ## Ask questions {#ask-questions}
@@ -204,7 +204,7 @@ In 2009, TerraChoice conducted market research on existing products which made �
 1. **The hidden trade-off**. Saying something is green by using narrow criteria and ignoring other more important environmental impacts.
 2. **No proof**. Claiming greenness without easily accessible supporting information.
 3. **Vagueness**. Using poorly defined terms, often for marketing or reputational purposes.
-4. **Irrelevance**. Committing to a valid environmental claim, but an unimportant or resolved one
+4. **Irrelevance**. Committing to a valid environmental claim, but an unimportant or resolved one.
 5. **Lesser of two evils**. Making true claims within your own category, which distract from greater concerns of the category as a whole.
 6. **Fibbing**. Making environmental claims that are false.
 7. **Worshipping false labels**. Giving the impression of 3rd-party endorsement when the association does not in fact exist.
@@ -212,7 +212,7 @@ In 2009, TerraChoice conducted market research on existing products which made �
 
 We have come up with seven more:
 
-1. **“I can’t bear to look!”** Greenwashing by omission. An institution may drag it heels on collecting sustainability data or doing rigorous analyses, especially if deep down it knows it might not like what it will find.
+1. **“I can’t bear to look!”** Greenwashing by omission. An institution may drag it's heels on collecting sustainability data or doing rigorous analyses, especially if deep down it knows it might not like what it will find.
 2. **Transparency without agency**. Even if an institution is being honest, rigorous and bold in how it collects and analyses sustainability, and how it communicates the results … is it checking to make sure this information is actually being used? Is it supporting the creation and empowerment of audiences and users?
 3. **Passing the buck**. Similarly, an institution may disclose climate-related information in the expectation that key stakeholders (students, funders, regulators, the public, etc.) will then take appropriate action, and alter the institution’s operating environment.
 4. **Convenient benchmarking**. It’s natural for organisations to benchmark themselves against similar organisations (e.g. a university will tend to compare itself to other universities in the same country, and perhaps regionally and globally). This can lead to an “eco echo chamber” where entire sectors are behind on climate ambition. Science-based targets are one good antidote, although here too we’ll have to be careful -- science seldom speaks with one voice, and there may be temptations to cherry-pick the most convenient advice.
