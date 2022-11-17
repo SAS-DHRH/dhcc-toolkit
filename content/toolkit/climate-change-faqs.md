@@ -18,11 +18,11 @@ Climate action is usually divided into _adaptation_ and _mitigation_. Adaptation
 
 ## 3. How much time is left? ## 
 
-It depends. Not long ago, the conversation around climate change revolved around the question, "When will we start to take serious action?" That has now changed.
+It depends. Not long ago, the conversation around climate change revolved around the question, "When will we start to take serious action?" That has changed.
 
 Now the questions are about implementation ("How are we taking action?") and justice ("Which 'we' is taking action?"). At the Paris Agreement in 2015, world leaders agreed to limit warming to 1.5 degrees above pre-industrial levels. To have a decent shot at this means the world needs to peak global carbon emissions immediately (2025 by the very latest), halve emissions by 2030, and get to net zero by 2050.
 
-[This 2022 article](https://www.ft.com/content/7e047a60-c2eb-47ed-b6bf-fff4260079c9) by Anjana Ahuja contains some interesting perspectives on climate messaging, and how precise deadline framing might sometimes be counterproductive.
+[This 2022 article](https://www.ft.com/content/7e047a60-c2eb-47ed-b6bf-fff4260079c9) by Anjana Ahuja contains some interesting perspectives on climate messaging, and how precise deadline framing can be counterproductive.
 
 Climate action *is* already happening; it's not happening fast enough; there are tangible benefits to doing things sooner rather than later, and doing them decisively rather than half-heartedly.
 
@@ -56,7 +56,7 @@ This can be answered in different ways.
  
 **(a)** You can break it down in terms of **gases**. A variety of greenhouse gases (carbon dioxide, methane, nitrous oxide, and others) contribute to global warming. Carbon is a big contributor (methane in second place), and so other gases are often translated into their carbon equivalents. In this toolkit, we use carbon footprint as shorthand for all greenhouse gas emissions, direct and indirect. 
 
-**(b)** Carbon footprint can also often broken down by **country**, and this is important for climate negotiations (the UN COPs etc.). But whenever looking at breakdowns by country, check three things. First, emissions are usually calculated on a production basis, i.e. how much carbon is emitted within national borders. So countries like China appear to be heavy polluters, whereas countries like the UK [seem to be doing well](https://ourworldindata.org/grapher/production-vs-consumption-co2-emissions?country=~GBR), because the UK produces lots of goods produced overseas, whose carbon emissions go on other countries' balance sheets. However, country emissions can be accounted in other ways, to include imports. Second, these rankings typically don't reflect historic emissions --- some countries (like the UK) may appear like they are leading the charge on climate change, but are very much the ones who [got us into this fix to begin with](https://www.carbonbrief.org/analysis-which-countries-are-historically-responsible-for-climate-change). Third, don't forget about population sizes, and check on both absolute and per capita figures. 
+**(b)** Carbon footprint can also often broken down by **country**, and this is important for climate negotiations (the UN COPs etc.). Whenever looking at breakdowns by country, check three things. First, emissions are usually calculated on a production basis, i.e. how much carbon is emitted within national borders. So, countries like China appear to be heavy polluters, whereas countries like the UK [seem to be doing well](https://ourworldindata.org/grapher/production-vs-consumption-co2-emissions?country=~GBR). This is because the UK produces lots of goods produced overseas, whose carbon emissions go on other countries' balance sheets. However, country emissions can be accounted in other ways to include imports. Secondly, these rankings typically don't reflect historic emissions --- some countries (like the UK) may appear like they are leading the charge on climate change, but are very much the ones who [got us into this fix to begin with](https://www.carbonbrief.org/analysis-which-countries-are-historically-responsible-for-climate-change). Thirdly, don't forget about population sizes, and check on both absolute and per capita figures. 
 
 **(c)** It can also be illuminating to break down carbon emissions by **sector** (see diagram). Keep in mind that some of these sectors are much easier to abate than others. 
 
@@ -64,14 +64,14 @@ This can be answered in different ways.
 
 ## 9. Where can I find out more about the science of climate change? ## 
 
-Major journals include [*Nature*](https://www.nature.com/) and [*Journal of Climate*](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-climate/). The Intergovernmental Panel on Climate Change ([IPCC](https://www.ipcc.ch/)) reviews and synthesises climate science and produces giant thousand-page reports. The United Nations Framework Convention on Climate Change secretariat ([UNFCCC](https://unfccc.int/process-and-meetings/the-convention/what-is-the-united-nations-framework-convention-on-climate-change)) is the United Nations entity tasked with supporting the global response to the threat of climate change. Some key terms to explore include: anthropogenic climate change, radiative forcing, tipping points, nature based solutions, land use, adaptation and maladaptation, Integrative Assessment Modelling, model uncertainty, AMOC, risk cascades.
+Major journals include [*Nature*](https://www.nature.com/) and [*Journal of Climate*](https://www.ametsoc.org/index.cfm/ams/publications/journals/journal-of-climate/). The Intergovernmental Panel on Climate Change ([IPCC](https://www.ipcc.ch/)) reviews and synthesises climate science and produces giant thousand-page reports. The United Nations Framework Convention on Climate Change secretariat ([UNFCCC](https://unfccc.int/process-and-meetings/the-convention/what-is-the-united-nations-framework-convention-on-climate-change)) is the United Nations entity tasked with supporting the global response to the threat of climate change. Some key terms to explore include: anthropogenic climate change, radiative forcing, tipping points, nature based solutions, land use, adaptation and maladaptation, Integrative Assessment Modelling, model uncertainty, AMOC, and risk cascades.
 
 ## 10. Where can I find out more about climate justice? ## 
 
 [Newell et al. (2021)](https://doi.org/10.1002/wcc.733) provide a useful overview of the term 'climate justice.' Other good resources: [Climate in Colour](https://www.climateincolour.com/), [Climate Justice Syllabus](https://www.climatejusticesyllabus.org/), [Climate Action Network](https://climatenetwork.org/overview/), [UN Sustainable Development Goals](https://sdgs.un.org/),
 [Greenpeace](https://www.greenpeace.org.uk/), [ASU Center for Science and the Imagination](https://csi.asu.edu/), [Friends of the Earth](https://friendsoftheearth.uk/), [Panafrican Climate Justice Alliance](https://www.pacja.org/).
 
-Some key terms to explore include: transformative climate justice, fossil capital, capitalocene, climate reparations, damage and loss, system change, degrowth / postgrowth, post-development, slow violence, climate and intersectionality, eco-feminism, ecosocialism.
+Some key terms to explore include: transformative climate justice, fossil capital, capitalocene, climate reparations, damage and loss, system change, degrowth / postgrowth, post-development, slow violence, climate and intersectionality, eco-feminism,and ecosocialism.
 
 ## 11. Where can I find out more about climate policy and climate economics? ## 
 
@@ -83,13 +83,13 @@ Some key terms to explore include: stranded assets, climate risk, Beyond GDP, de
 
 Some good resources include [Energy Humanities](https://www.energyhumanities.ca/#cards-section), [SOS-UK](https://www.sos-uk.org/about), [Environmental Humanities @TORCH](https://www.torch.ox.ac.uk/enviromental-humanities), [The Association for the Study of Literature and the Environment](https://asle.org.uk/), and the [Media Arts and Humanities Sustainability Educator Toolkit](https://bit.ly/EmbedSustainability).
 
-Some key terms to explore include: anthropocene, capitalocene, degrowth / postgrowth, animal studies, ecomodernism, ecocriticism, ecofeminism, ecosocialism, transcorporeality, interspecies entanglement, natureculture, dark ecology.
+Some key terms to explore include: anthropocene, capitalocene, degrowth / postgrowth, animal studies, ecomodernism, ecocriticism, ecofeminism, ecosocialism, transcorporeality, interspecies entanglement, natureculture, and dark ecology.
 
 ## 13. Where can I find out more about critical technology studies? ## 
 
 Some good resources include the [Digital Humanities Climate Coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), [Critical Algorithm Studies: A Reading List](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/), [Hack Education](http://hackeducation.com/), [*Catalyst*](https://catalystjournal.org/index.php/catalyst), [*Bulletin of Science, Technology, and Society*](https://journals.sagepub.com/loi/bsta), [Global Forest Coalition](https://globalforestcoalition.org/), [Geoengineering Monitor](https://www.geoengineeringmonitor.org/), [Biofuelwatch](https://www.biofuelwatch.org.uk/).
 
-Some key terms to explore include: tools for conviviality, epistemological luddism, techno-solutionism, techno-optimism, techno-utopianism, critical algorithm studies, critical data studies, critical metric studies, biomimetic. 
+Some key terms to explore include: tools for conviviality, epistemological luddism, techno-solutionism, techno-optimism, techno-utopianism, critical algorithm studies, critical data studies, critical metric studies, and biomimetic. 
 
 ## 14. Where can I find out more about climate change and the digital? ## 
 
