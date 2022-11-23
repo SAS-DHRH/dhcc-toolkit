@@ -15,7 +15,7 @@ Machine Learning (ML) and other types of Artificial Intelligence (AI).
 {{< hint warning >}}
 ## Key Recommendations ##
 - Develop a clear understanding of when it is appropriate to use AI and blockchain for a humanities research problem.
-- When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapt existing infrastructures.
+- When you do need to use maximal computing, consider less-intensive processes like using smaller models and adapt existing infrastructures.
 - Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
 {{< /hint >}}
 
@@ -61,7 +61,7 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 3. **Use pre-trained models.** There are so many to choose from! And likewise, try to make any models you do train available for others to use. 
 4. **Use smaller models.** [Larger models may yield better results](https://arxiv.org/abs/2001.08361), but often a smaller one will still do everything you need.
 5. **Don't overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
-6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute.
+6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of computers.
 7. **Explore doing it on-site.** If your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section]({{< relref path="../toolkit/minimal-computing.md" >}})) of this Toolkit.
 
@@ -117,7 +117,7 @@ Perhaps it's time for some new types of open licenses, that aim to influence the
 
 ## Measures of Efficiency
 
-Machine Learning models are can be measured using metrics like T-scores,
+Machine Learning models can be measured using metrics like T-scores,
 confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS
 (Minaee 2019). It is becoming more common to see the literature report
 on the electricity and environmental consumption required for advanced
@@ -193,7 +193,7 @@ If I run similar workshops in the future I hope to:
 
 I don\'t think that the energy savings will be extensive. When I think of all the users of art AIs, generating thousands and thousands of images just out of curiosity or a playful compulsion, it feels like a drop in the ocean. But it also feels important to model responsible behaviour. A minimal set of principles for using AI to generate text or art might involve:
 
-- Spend the time to articulate what I am trying to do and why (not just "to try it out" or "to see what happens").
+- Spending the time to articulate what I am trying to do and why (not just "to try it out" or "to see what happens").
 - Whenever possible, combine different purposes (try out an experimental approach in a way that may also contribute to a particular project, etc.).
 - Whenever possible, work in an open and shared way, so that others can benefit from my use of the AI.
 
