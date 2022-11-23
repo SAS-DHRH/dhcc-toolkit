@@ -118,7 +118,7 @@ Travel and catering may also be important to consider at the grant-writing stage
 
 It is important to adapt our research methods to make them less carbon intensive, and to improve our awareness of our environmental impacts.
 
-But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" (Bieser and Hilty 2018). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not
+But can we also corral our research communities to more directly investigate environmental issues? For example, humans interact with and through Information Communication Technology (ICT) in unpredictable ways; "how ICT changes consumer behavior ... seems to be an underexplored, but essential aspect of the causal mechanisms that have to be understood for predicting the environmental impact of digitalization" (Bieser and Hilty 2018). A literature review carried out by Freitag et al. (2021) found no strong consensus about the future of ICT carbon footprints, including "disagreement" whether or not:
 
 - energy efficiencies in ICT are continuing
 - energy efficiencies in ICT are reducing ICT's carbon footprint
