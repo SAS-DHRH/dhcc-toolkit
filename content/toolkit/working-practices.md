@@ -11,6 +11,12 @@ slug: working-practices
 
 The research process represents a long path of decision-making that can and should involve assessment of the project or activity's environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) sections.
 
+{{< hint warning >}}
+## Key Recommendations ##
+- The easiest way to reduce your devices' impact on the enviroment is to use them longer, so investigate their longevity and how easy they are to repair.
+- Many new convenient technologies, such as 5G, comes with increased data traffic, which means more carbon cost.
+{{< /hint >}}
+
 {{<hint info>}}
 **Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
 {{</hint>}}
@@ -20,7 +26,7 @@ The research process represents a long path of decision-making that can and shou
 
 **Device lifecycles**
 
-Hardware has an **embodied carbon** cost, in addition to whatever electricity it uses. It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. Therefore, think about buying a second-hand-device. They are often sold updated with partly new hardware. 
+Hardware has an **embodied carbon** cost, in addition to whatever electricity it uses. It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). Some companies rely on repairability of device components like [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) but there are still few of them. See how your device scores on the [iFixit](https://www.ifixit.com/Guide) repair guides. Then think about buying a second-hand or refurbished device. They are often sold updated with partly new hardware.
 
 For your old devices that are broken beyond repair, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
 
