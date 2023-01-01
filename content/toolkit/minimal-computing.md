@@ -181,6 +181,10 @@ The Green Web Foundation has a [hosting directory](https://www.thegreenwebfounda
 
 Another option could be to host your static site on a platform like [GitHub Pages](https://pages.github.com/), just as [we do with this website](https://github.com/SAS-DHRH/dhcc-toolkit).
 
+## Software development
+
+It is worth exploring the work of the [Green Software Foundation](https://greensoftware.foundation/), including the [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md), which includes a methodology for calculating a SCI score for "any software application, from a large, distributed cloud system to a small monolithic open source library, any on-premise application, or even a serverless function" ([Green Software Foundation 2021](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md)).
+
 ## Critical design and system change {#system-change}
 
 {{< hint info >}}
