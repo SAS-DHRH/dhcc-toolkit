@@ -23,7 +23,7 @@ This section introduces you to minimal computing principles. Minimal computing i
 - Evaluate green web hosting options.
 {{< /hint >}}
 
-What can researchers do to resist techno-utopian, carbon-intensive technological traps? How can we support environmentally responsible design—even if software filled with cool unnecessary features may forever tug on our heartstrings? Minimal computing (minicomp) has at least some of the answers.
+What can researchers do to resist techno-utopian, carbon-intensive technological traps? How can we support environmentally responsible design—even if software filled with cool unnecessary features may forever tug on our heartstrings? Minimal computing (minicomp) has at least some of the answers. 
 
 As [Jentery Sayers](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) has written:
 
@@ -34,6 +34,8 @@ The label ‘low tech’ or ‘frugal’ does not mean unsophisticated—it mean
 Since 2016, when the first Minimal Computing in DH workshop was held at the [Digital Humanities ’16 conference](https://dh2016.adho.org/workshops/index.html), the constraints in which we conduct research have changed. There is now an urgent need to address the environmental consequences of digital technologies. This constraint has been growing for many decades, and is now a top priority out of necessity – we have procrastinated as a species and our paper was due yesterday!
 
 Our aim here is not to give black-and-white instructions. Oftentimes there is not one right answer for computing solutions. To be clear, **minimal computing does not mean easy computing**. All digital work entails labour, and in some cases minimal computing might entail *more* labour than standard computing, as Quinn Dombrowski recently argued in an [essay](http://digitalhumanities.org/dhq/vol/16/2/000594/000594.html) in *Digital Humanities Quarterly*. However, the labour is worthwhile, because it will ensure a longer-lasting digital project that does not require more resources than are absolutely necessary. To gain a more accurate sense of the tradeoffs our technology choices have on our environments, we can leverage the minicomp (and environmental) principles to make informed decisions with proportional costs. (For more on the issue of computing and proportional costs, see also the section of this Toolkit on [Maximal Computing]({{< relref path="../toolkit/maximal-computing.md" >}}))
+
+Terms that have some substantial overlaps with minimal computing include **green software** and **digital sufficiency**.
 
 
 ## Applying minimal computing principles {#minicomp-principles}
@@ -163,7 +165,7 @@ Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance
 
 Your site’s font can actually have a carbon impact and affect [accessibility](https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/). For example, lightweight sans serif fonts such as Trebuchet are not only good for people with disabilities but they have less ‘weight’ (less tails and flourishes) and therefore require fewer pixels to be displayed. Verdana is also good because it is set wider than most fonts (making it more legible without adding weight). Use one of <span style="text-decoration:underline;">18 [web-safe fonts](https://blog.hubspot.com/website/web-safe-html-css-fonts)</span> to make the content compatible with all browsers and screen readers.
 
-### Consider Mobile-First Design {#mobile-first}
+### Consider mobile-first design {#mobile-first}
 
 Many users throughout the world access internet content through mobile phones, so a mobile-friendly design ensures more access as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
 
