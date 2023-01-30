@@ -12,8 +12,6 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
   
 ## The Digital Humanities Climate Coalition Toolkit
 
-### Curated by (in alphabetical order) [Anne Baillot](https://cv.archives-ouvertes.fr/annebaillot), [Jenny Bunn](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/jenny-bunn/), Michael Faerber, Charlotte Feidicker, [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/), [Christopher Ohge](https://christopherohge.com/), [Torsten Roeder](http://torstenroeder.de/), [Martin Steer](https://github.com/martysteer), [Jo Lindsay Walton](https://www.jolindsaywalton.com/), [Elizabeth Williamson](https://english.exeter.ac.uk/staff/ewilliamson/)
-  
 This toolkit is a guide to making your research practices more environmentally responsible. It is geared towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
   
   ## Where to start?
@@ -34,7 +32,9 @@ Browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
   ## Join the mailing list
   
-  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](cdcs@ed.ac.uk). We plan to have some regular informal conversations in 2023 to explore further developing the toolkit and other next steps.
+  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](mailto:cdcs@ed.ac.uk). We plan to have some regular informal conversations in 2023 to explore further developing the toolkit and other next steps.
+  
+  ### Curated by (in alphabetical order) [Anne Baillot](https://cv.archives-ouvertes.fr/annebaillot), [Jenny Bunn](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/jenny-bunn/), Michael Faerber, Charlotte Feidicker, [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/), [Christopher Ohge](https://christopherohge.com/), [Torsten Roeder](http://torstenroeder.de/), [Martin Steer](https://github.com/martysteer), [Jo Lindsay Walton](https://www.jolindsaywalton.com/), [Elizabeth Williamson](https://english.exeter.ac.uk/staff/ewilliamson/)
   
   {{</columns>}}
 
