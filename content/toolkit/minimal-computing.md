@@ -151,6 +151,10 @@ According to [HTTP Archive](https://httparchive.org/reports/state-of-images), im
 
 Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) will optimise image and video content. Instead of loading all of the page’s resources simultaneously, the browser only loads what’s above the fold and then fetches additional images and thumbnails as the user scrolls.
 
+[Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) can also be really useful in making sure that only the minimal image size needed is served to a user. This approach involves generating each image in several sizes, and letting the user's browser select the one which is most appropriate for their screen size, resolution, and DPI. This means that a user on a large Apple monitor may receive a large, clear image file, but that a user on a small phone will receive an image a fraction of the size.
+
+As image creation usually requires multiple sizes and formats to be created, this is often an automated process. Check the documentation or support for your server setup to see if this can be enabled. For instance, WordPress has multiple plugins that can do this, alongside other optimisations (sadly, a full comparison is outside the scope of this document).
+
 ### Minify HTML, CSS and scripts {#minify}
 
 ‘Minifying’ is a process of removing unnecessary whitespace and line breaks in HTML, CSS and javascripts with the goal of reducing the file sizes to increase page load speeds. Many text editors have plug-ins or packages to minify code (see e.g. [Sublime text minify](https://packagecontrol.io/packages/Minify) and [Atom minify](https://atom.io/packages/atom-minify)). If you’re using XSLT, then use the `normalize-space()` function. E.g.
