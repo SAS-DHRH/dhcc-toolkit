@@ -147,7 +147,7 @@ If you are accustomed to building websites with online CMS platforms like Square
 
 ### Images and Lazy Loading {#images}
 
-According to [HTTP Archive](https://httparchive.org/reports/state-of-images), images constitute 50% of the average web page size. [WebP](https://en.wikipedia.org/wiki/WebP) instead of JPEG or PNG can [reduce file size by 25-35%](https://web.dev/serve-images-webp/) while increasing page speed performance. Switching icons and logos to SVG format can also significantly reduce page weight.
+According to [HTTP Archive](https://httparchive.org/reports/state-of-images), images constitute 50% of the average web page size. [WebP](https://en.wikipedia.org/wiki/WebP) instead of JPEG or PNG can [reduce file size by 25-35%](https://web.dev/serve-images-webp/) while increasing page speed performance. Switching icons and logos to SVG format can also significantly reduce page weight. If possible, consider whether you _need_ an image in your design first and foremost. If so, ask how important the quality of the image needs to be (eg is it an important figure, or purely for background/decoration) and adjust the file format and quality accordingly.
 
 Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) will optimise image and video content. Instead of loading all of the page’s resources simultaneously, the browser only loads what’s above the fold and then fetches additional images and thumbnails as the user scrolls.
 
