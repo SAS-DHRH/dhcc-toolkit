@@ -194,6 +194,8 @@ The Green Web Foundation has a [hosting directory](https://www.thegreenwebfounda
 
 Another option could be to host your static site on a platform like [GitHub Pages](https://pages.github.com/), just as [we do with this website](https://github.com/SAS-DHRH/dhcc-toolkit).
 
+In general, whether a host or server is "green" or not is a complex, and rapidly-evolving topic - carbon offsets and renewable energy certificate schemes tend to make the underlying definition fairly complicated. At a higher level, you can generalise to a particular country or region based on [its overall energy mix](https://app.electricitymaps.com/map) - Norway, Sweden and Europe are broadly more 'green' than other countries (although this needs to be balanced with data privacy between countries, if personal data is being used).
+
 Server setup and configuration is a large and complex topic and will depend on what software you're running, but there are some simple steps you can take to reduce data usage. Primarily, aim to make sure that browsers are able to [cache any static content provided](https://nitropack.io/blog/post/web-caching-beginners-guide), for a decent amount of time (such as a year). This avoids the same data having to be sent repeatedly during a single visit to the site, or on short-term return visits.  
 
 ## Software development
