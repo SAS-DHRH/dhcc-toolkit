@@ -126,7 +126,7 @@ If the online platform you are using declares its carbon or electricity efficien
 
 **Communicating on social media**
 
-| Software  | Environmental footprint (scrolling 1 minute in gEqCO”) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
+| Software  | Environmental footprint (scrolling 1 minute in gEqCO2) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
 | --- | --- | --- | --- |
 | Twitter   | 0.60 | 10.28 | 6.28 |
 | Instagram | 1.05 | 8.9 | 32.46 |
