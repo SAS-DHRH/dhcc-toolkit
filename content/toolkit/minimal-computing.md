@@ -171,7 +171,9 @@ Your site’s font can actually have a carbon impact and affect [accessibility](
 
 ### Consider mobile-first design {#mobile-first}
 
-Many users throughout the world access internet content through mobile phones, so a mobile-friendly design ensures more access as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+
+In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
 
 ### Reduce client-side features (i.e. JavaScript) {#client-side}
 
