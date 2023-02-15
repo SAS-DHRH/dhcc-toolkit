@@ -136,12 +136,13 @@ If you are accustomed to building websites with online CMS platforms like Square
 {{< hint warning >}}
 **Minimal web design for absolute beginners**
 
-- Use fewer videos and images. Make the ones you do use really count!
+- Use fewer videos and images. Make the ones you do use really count! Turn off autoplay for videos, and use lazy loading so that images are only loaded if needed. 
 - Shrink your images using a tool like [Squoosh](https://squoosh.app/).
 - Use the newer WebP image format ([but keep your eye on browser compatibility](https://en.wikipedia.org/wiki/WebP#Support)).
 - Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
 - Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
 - Use a tool such as [Ecograder](https://ecograder.com/) to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
+- Avoid use of large third-party scripts, such as social media plug-ins or "all-in-one" solutions.
 
 {{< /hint >}}
 
@@ -169,6 +170,8 @@ As image creation usually requires multiple sizes and formats to be created, thi
 
 Your site’s font can actually have a carbon impact and affect [accessibility](https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/). For example, lightweight sans serif fonts such as Trebuchet are not only good for people with disabilities but they have less ‘weight’ (less tails and flourishes) and therefore require fewer pixels to be displayed. Verdana is also good because it is set wider than most fonts (making it more legible without adding weight). Use one of <span style="text-decoration:underline;">18 [web-safe fonts](https://blog.hubspot.com/website/web-safe-html-css-fonts)</span> to make the content compatible with all browsers and screen readers.
 
+If using custom fonts, careful optimisation can reduce the size of a single font from 250kb+ to just 10kb. Like images, the choice of the font's file format is important. Secondly, you can choose to use just a subset of the font's characters to reduce the file size further. [Wholegrain's guide to font sizes](https://www.wholegraindigital.com/blog/performant-web-fonts/) is a good introduction to this, but in general use the WOFF2 format where you can.
+
 ### Consider mobile-first design {#mobile-first}
 
 Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
@@ -182,6 +185,8 @@ Web pages need to load, and they can be loaded just once, but when you implement
 Other javascript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
 
 Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, it's use affords the Organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
+
+A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
 
 ### Hosting {#hosting}
 
