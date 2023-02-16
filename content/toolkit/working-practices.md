@@ -28,15 +28,21 @@ The research process represents a long path of decision-making that can and shou
 
 Hardware has an **embodied carbon** cost, in addition to whatever electricity it uses. It is best to use devices as long as possible e.g., to repair them when possible. If you purchase a device through your institution, it is advisable to require the longest possible warranty for all newly purchased devices (this is of course also true if you purchase the device for individual use). There has been a growing awareness of the importance of repairability, which is now used as a selling point by companies. Sometimes it is more a greenwashing argument than an actual indicator of repairability (see as an example [this Greenpeace assessment of the repairability of some smartphones, laptops and tablets](https://www.greenpeace.org/static/planet4-eastasia-stateless/2019/11/47a8cd27-47a8cd27-howrepairableisyourmobiledevice.pdf)). 
 
-There are a few companies that are leading on repairability of device components: [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) are particularly exemplary, but most smartphone, tablet, and computer companies still look for ways to make repairability difficult. See how your device scores on the [iFixit](https://www.ifixit.com/Guide) repair guides. iFixit also has 'Teardown' reports on various devices that are worth consulting. The next-best choice is to buy a second-hand or refurbished device. They are often sold updated with partly new hardware.
+There are a few companies that are leading on repairability of device components: [Fairphone](https://www.fairphone.com/en/) and [Framework](https://frame.work/gb/en) are particularly exemplary, but most smartphone, tablet, and computer companies still look for ways to make repairability difficult. See how your device scores on the [iFixit](https://www.ifixit.com/Guide) repair guides. iFixit also has 'Teardown' reports on various devices that are worth consulting. 
 
-For your old devices that are broken beyond repair, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
+Additionally, repairable devices are usually much easier to upgrade. If your device is becoming slow or outdated, look at whether a few simple changes can breathe new life into it. Common upgrade options, which can often be done at home or by someone nearby, include increasing memory, changing a battery to a new one, and replacing old hard drive disks with larger capacity ones, or faster SSD-based versions.  
+
+When looking at purchasing a new device, also strongly consider buying a second-hand or refurbished device. These are often sold updated with partly new hardware, and/or fresh software installs. Ideally look for a seller that offers a decent warranty period as well.
+
+For your old devices that are broken beyond repair or upgrade, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
 
 In order to have a precise idea of the environmental footprint of a device, you can consult the corresponding Life-Cycle Assessment ([LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment), [here](https://ecoinfo.cnrs.fr/thematiques/analyse-de-cycle-de-vie/) for an explanation in French) that hardware companies usually provide. LCAs are never fully accurate - some of the information they contain are rough estimates, and the criteria that are communicated are only a handful from a long list. But they remain the best way of assessing the digital footprint of a device or hardware.
 
 **Device types**
 
-All in all, the fewer devices you purchase and use, the better. The choice of device also plays an important role when it comes to the amount of electricity consumed. For example, for streaming one hour of content via good wifi in HD quality, a laptop uses 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines. Choices regarding peripheral hardware like mouses and keyboards can also make a difference to energy consumption. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), some devices also require batteries that need to be replaced or recharged regularly.
+All in all, the fewer devices you purchase and use, the better. Thinking through what you need a device to do, and how long you intend to keep it for, can not only extend the lifetime that you use the device for (avoiding unnecessary upgrades), but also give you a more enjoyable 
+
+The choice of device also plays an important role when it comes to the amount of electricity consumed. For example, for streaming one hour of content via good wifi in HD quality, a laptop uses 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines. Choices regarding peripheral hardware like mouses and keyboards can also make a difference to energy consumption. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), some devices also require batteries that need to be replaced or recharged regularly.
 
 Sometimes, you might be able to work faster with a laptop than with a smartphone, or with two monitors rather than one. At other times, the screen size may not influence what you do or how much time you need to do it. Accordingly, it may not be necessary to switch devices or use multiple monitors for a given task; try stepping back and reflecting on the kind of device you really need for the task in hand. For example, you could unplug your second monitor and only plug it in when it helps you work more efficiently (the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop). 
 
@@ -45,6 +51,8 @@ Of course, every digital device uses electricity; we don't need to stop using ou
 ## Using an operating system
 
 We cannot say that one operating system (like Windows, Linux, MacOS) is better from a carbon footprint point of view than another. There are too many different versions of the systems to compare them in the abstract. But we can check whether there are a lot of elements running in the background, and whether there are a lot of programs that run automatically on start-up, when we don’t need them at that moment. 
+
+If you're using a laptop, check if your fan is operating at maximum power more than you would expect - this may indicate that some software is doing more work than you're aware of. Windows 10 users can [check battery usage by app](https://www.howtogeek.com/241676/how-to-see-which-applications-are-draining-your-battery-on-windows-10/), while Mac users can check for software's energy usage [using the Activity Monitor](https://developer.apple.com/library/archive/documentation/Performance/Conceptual/power_efficiency_guidelines_osx/MonitoringEnergyUsage.html). [Various tools are available for Linux users](https://phoenixnap.com/kb/check-cpu-usage-load-linux), including 'top'.
 
 **Towards minimal operating systems**
 
@@ -120,7 +128,7 @@ If the online platform you are using declares its carbon or electricity efficien
 
 **Communicating on social media**
 
-| Software  | Environmental footprint (scrolling 1 minute in gEqCO”) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
+| Software  | Environmental footprint (scrolling 1 minute in gEqCO2) | Energy consumption (1 minute, in mAh) | Data exchange (scrolling 1 minute in MB) |
 | --- | --- | --- | --- |
 | Twitter   | 0.60 | 10.28 | 6.28 |
 | Instagram | 1.05 | 8.9 | 32.46 |

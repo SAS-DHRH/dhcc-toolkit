@@ -117,7 +117,7 @@ Use a static site where possible. You can do so using a *static site generator* 
 - [Jekyll](https://jekyllrb.com/), which has a longer history but also has more dependencies (it relies on [Ruby on Rails](https://rubyonrails.org/)).
 - [Hugo](https://gohugo.io/), which runs on the Go programming language, has fewer dependencies and attractive templates (this tool-kit runs on Hugo, by the way).
 - [Gatsby](https://www.gatsbyjs.com/), which is good for single-page layouts, landing pages, web applications, portfolios, and institutional websites.
-- and there are many more [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators).
+- and there are many more [Awesome Static Web Site Generators](https://github.com/myles/awesome-static-generators). The "right" static site tool will depend on your own skills and needs - this is [a useful introduction to thinking these through](https://about.gitlab.com/blog/2022/04/18/comparing-static-site-generators/). 
 
 
 ### Content Management Systems
@@ -136,20 +136,25 @@ If you are accustomed to building websites with online CMS platforms like Square
 {{< hint warning >}}
 **Minimal web design for absolute beginners**
 
-- Use fewer videos and images. Make the ones you do use really count!
+- Use fewer videos and images. Make the ones you do use really count! Turn off autoplay for videos, and use lazy loading so that images are only loaded if needed. 
 - Shrink your images using a tool like [Squoosh](https://squoosh.app/).
 - Use the newer WebP image format ([but keep your eye on browser compatibility](https://en.wikipedia.org/wiki/WebP#Support)).
 - Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
 - Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
 - Use a tool such as [Ecograder](https://ecograder.com/) to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
+- Avoid use of large third-party scripts, such as social media plug-ins or "all-in-one" solutions.
 
 {{< /hint >}}
 
 ### Images and Lazy Loading {#images}
 
-According to [HTTP Archive](https://httparchive.org/reports/state-of-images), images constitute 50% of the average web page size. [WebP](https://en.wikipedia.org/wiki/WebP) instead of JPEG or PNG can [reduce file size by 25-35%](https://web.dev/serve-images-webp/) while increasing page speed performance. Switching icons and logos to SVG format can also significantly reduce page weight.
+According to [HTTP Archive](https://httparchive.org/reports/state-of-images), images constitute 50% of the average web page size. [WebP](https://en.wikipedia.org/wiki/WebP) instead of JPEG or PNG can [reduce file size by 25-35%](https://web.dev/serve-images-webp/) while increasing page speed performance. Switching icons and logos to SVG format can also significantly reduce page weight. If possible, consider whether you _need_ an image in your design first and foremost. If so, ask how important the quality of the image needs to be (eg is it an important figure, or purely for background/decoration) and adjust the file format and quality accordingly.
 
 Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance/Lazy_loading) will optimise image and video content. Instead of loading all of the page’s resources simultaneously, the browser only loads what’s above the fold and then fetches additional images and thumbnails as the user scrolls.
+
+[Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) can also be really useful in making sure that only the minimal image size needed is served to a user. This approach involves generating each image in several sizes, and letting the user's browser select the one which is most appropriate for their screen size, resolution, and DPI. This means that a user on a large Apple monitor may receive a large, clear image file, but that a user on a small phone will receive an image a fraction of the size.
+
+As image creation usually requires multiple sizes and formats to be created, this is often an automated process. Check the documentation or support for your server setup to see if this can be enabled. For instance, WordPress has multiple plugins that can do this, alongside other optimisations (sadly, a full comparison is outside the scope of this document).
 
 ### Minify HTML, CSS and scripts {#minify}
 
@@ -165,9 +170,13 @@ Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance
 
 Your site’s font can actually have a carbon impact and affect [accessibility](https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/). For example, lightweight sans serif fonts such as Trebuchet are not only good for people with disabilities but they have less ‘weight’ (less tails and flourishes) and therefore require fewer pixels to be displayed. Verdana is also good because it is set wider than most fonts (making it more legible without adding weight). Use one of <span style="text-decoration:underline;">18 [web-safe fonts](https://blog.hubspot.com/website/web-safe-html-css-fonts)</span> to make the content compatible with all browsers and screen readers.
 
+If using custom fonts, careful optimisation can reduce the size of a single font from 250kb+ to just 10kb. Like images, the choice of the font's file format is important. Secondly, you can choose to use just a subset of the font's characters to reduce the file size further. [Wholegrain's guide to font sizes](https://www.wholegraindigital.com/blog/performant-web-fonts/) is a good introduction to this, but in general use the WOFF2 format where you can.
+
 ### Consider mobile-first design {#mobile-first}
 
-Many users throughout the world access internet content through mobile phones, so a mobile-friendly design ensures more access as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+
+In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
 
 ### Reduce client-side features (i.e. JavaScript) {#client-side}
 
@@ -175,13 +184,19 @@ Web pages need to load, and they can be loaded just once, but when you implement
 
 Other javascript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
 
-Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, it's use affords the Organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
+Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, its use affords the Organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
+
+A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
 
 ### Hosting {#hosting}
 
 The Green Web Foundation has a [hosting directory](https://www.thegreenwebfoundation.org/directory/) of hundreds of green hosting providers across dozens of countries. In the UK, [Kualo](https://www.kualo.co.uk/webhosting/green-web-hosting) is a very good option.
 
 Another option could be to host your static site on a platform like [GitHub Pages](https://pages.github.com/), just as [we do with this website](https://github.com/SAS-DHRH/dhcc-toolkit).
+
+In general, whether a host or server is "green" or not is a complex, and rapidly-evolving topic - carbon offsets and renewable energy certificate schemes tend to make the underlying definition fairly complicated. At a higher level, you can generalise to a particular country or region based on [its overall energy mix](https://app.electricitymaps.com/map) - Norway, Sweden and Europe are broadly more 'green' than other countries (although this needs to be balanced with data privacy between countries, if personal data is being used).
+
+Server setup and configuration is a large and complex topic and will depend on what software you're running, but there are some simple steps you can take to reduce data usage. Primarily, aim to make sure that browsers are able to [cache any static content provided](https://nitropack.io/blog/post/web-caching-beginners-guide), for a decent amount of time (such as a year). This avoids the same data having to be sent repeatedly during a single visit to the site, or on short-term return visits.  
 
 ## Software development
 
