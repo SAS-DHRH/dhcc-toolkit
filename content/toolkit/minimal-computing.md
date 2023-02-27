@@ -210,11 +210,11 @@ _‘Digital technology has ushered in an age of inconspicuous consumption. It is
 [Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
 {{< /hint >}}
 
-Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
+Minimal computing can sometimes feel like fighting a losing battle. Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
 
 > In order to purchase the book, the Amazon website forces the customer to go through twelve different interfaces composed of large amounts of code, which is normally invisible to the average user. This code carries out all sorts of operations, such as organizing and styling the site’s content, allowing interactivity, and recording the user’s activity. Overall, I was able to track 1,307 different requests to all sort of scripts and documents, totaling 8,724 A4 pages worth of printed code, adding up to 87.33MB of information. The amount of energy needed to load each of the twelve web interfaces, along with each one’s endless fragments of code, was approximately 30 wh. ([Moll 2019](https://www.janavirgin.com/AMZ/))
 
-Do we really have to burn coal so that every user can get personalised recommendations whether they want them or not? Yet these maximalist approaches are pervasive. This means minimal computing can sometimes feel like fighting a losing battle. So how do we also work toward larger structural change? We need to do two things:
+Do we really have to burn coal so that every user can get personalised recommendations whether they want them or not? Yet these maximalist approaches are everywhere.  So how do we also work toward larger structural change? We need to do two things:
 
 - Adopt and promote *behaviour change* (such as minimal computing), and
 - advocate for *deeper structural changes* to support those changes in the longer term.
