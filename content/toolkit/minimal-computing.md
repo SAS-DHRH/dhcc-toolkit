@@ -188,6 +188,18 @@ Beyond potential structural unfairness introduced by the use of outsourced clien
 
 A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
 
+### CO2.js {#CO2-js}
+
+CO2.js  is a JavaScript library to help web developers and software engineers to estimate their emissions. You can run it in the browser, or in Node.js server environments, or in certain serverless and edge compute runtimes. It can be used within the development process, and/or to integrate carbon impact estimates into the user experience. 
+
+* [Quickstart guide](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
+* [CO2.js GitHub repo](https://github.com/thegreenwebfoundation/co2.js)
+* [Curious about driving the transition to a fossil-free internet? Here’s how CO2.js can help](https://www.thegreenwebfoundation.org/news/curious-about-driving-the-transition-to-a-fossil-free-internet-heres-how-co2-js-can-help/) (February 2023)
+
+CO2.js currently uses [two models to estimate carbon emissions](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/): the [Sustainable Web Design model](https://sustainablewebdesign.org/calculating-digital-emissions/), and the OneByte model. The "perByte" carbon estimates from the OneByte model are lower than those from Sustainable Web Design (given the same amount of data transferred).
+
+Of course, CO2.js needs assumptions about carbon intensity. (Is the data floating to its destination on the wind, waves, or sunbeams? Or is it being propelled there by blazing oil and coal!) Currently CO2.js draws country-scale grid intensity data from [Ember](https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf), enriched with marginal intensity data from the [UNFCCC](https://unfccc.int/).
+
 ### Hosting {#hosting}
 
 The Green Web Foundation has a [hosting directory](https://www.thegreenwebfoundation.org/directory/) of hundreds of green hosting providers across dozens of countries. In the UK, [Kualo](https://www.kualo.co.uk/webhosting/green-web-hosting) is a very good option.
