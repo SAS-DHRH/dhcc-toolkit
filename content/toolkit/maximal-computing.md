@@ -103,7 +103,7 @@ for hyperparameter tuning, e.g. random or Bayesian hyperparameter search
 techniques" [(Strubell, Ganesh, and McCallum
 2019)](https://aclanthology.org/P19-1355/)
 
-[CodeCarbon](https://codecarbon.io/) can be embedded in Python code, to estimate emissions based on location, and recommend compute regions with lower carbon intensity for major cloud providers (AWS, Azure, and GCP).
+[CodeCarbon](https://codecarbon.io/) can be embedded in Python code, to estimate emissions based on location, and recommend compute regions with lower carbon intensity for major cloud providers (AWS, Azure, and Google).
 
 [Xu et al. (2021)](https://arxiv.org/abs/2111.05193) offer a survey of deep learning optimisation techniques, which they categorise into compact networks, energy-efficient training strategies, energy-efficient inference approaches, and energy-efficient data usage.
 
