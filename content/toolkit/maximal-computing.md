@@ -9,8 +9,7 @@ slug: 'maximal-computing'
 # Maximal Computing
 
 This section introduces you to "maximal computing," which refers to any **computationally
-intensive work**, including working with blockchains, Big Data, and
-Machine Learning (ML) and other types of Artificial Intelligence (AI).
+intensive work**, including working with AI, blockchains, and big data.
 
 {{< hint warning >}}
 ## Key Recommendations ##
@@ -233,6 +232,14 @@ Within software development projects it is typical to see CI/CD
 pipelines being deployed. We need to raise awareness of the impacts of
 continually triggering what might be a resource intensive process.
 
+## Understanding Cloud emissions {#understanding-Cloud}
+
+Climatiq offers a series of introductory articles:
+
+* [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
+* [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
+* [Approaches to assessing emissions](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
+* [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint) 
 
 ## Further reading
 
