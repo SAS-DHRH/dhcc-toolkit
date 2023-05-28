@@ -239,7 +239,9 @@ Climatiq offers a series of introductory articles:
 * [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
 * [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
 * [Approaches to assessing emissions](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
-* [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint) 
+* [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint)
+
+Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
 ## Further reading
 
