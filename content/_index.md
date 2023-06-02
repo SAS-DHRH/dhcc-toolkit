@@ -12,7 +12,7 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
   
 ## The Digital Humanities Climate Coalition Toolkit
 
-This toolkit is a guide to making your research practices more environmentally responsible. It is geared towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. It is a community-developed work-in-progress, and you are warmly invited to contribute.
+This toolkit is a guide to making your research practices more environmentally responsible. It is geared towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. The toolkit aims to highlight actionable solutions, while also critically reflecting on their nuances, in the broader context of climate justice. It is a community-developed work-in-progress, and you are warmly invited to contribute.
   
   ## Where to start?
 
