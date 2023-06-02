@@ -38,6 +38,16 @@ Our aim here is not to give black-and-white instructions. Oftentimes there is no
 Terms that have some substantial overlaps with minimal computing include **green software** and **digital sufficiency**.
 
 
+## Tools and resources {#minicomp-tools}
+
+* [Collectif Conception Numérique Responsable](https://github.com/cnumr)
+* [The Green Software Foundation](https://github.com/Green-Software-Foundation/awesome-green-software)
+* [The Green Web Foundation](https://github.com/thegreenwebfoundation/)
+* [GO::DH Minicomp Working Group](https://go-dh.github.io/mincomp/resources/)
+* [Google Scholar search for tools](https://scholar.google.co.uk/scholar?hl=en&as_sdt=0%2C5&q=%22minicomp%22+OR+%22green+software%22+OR+%22digital+sufficiency%22+intitle%3Atool)
+* [Minicomp Awesome List](https://github.com/minicomp/awesome-minicomp)
+* [Open Sustainable Technologies](https://github.com/protontypes/open-sustainable-technology)
+
 ## Applying minimal computing principles {#minicomp-principles}
 
 [Sayers (2016)](https://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/) notes how a minimal approach can create complex questions and trade-offs. To work in minimal ways means “to define, often implicitly, what and for whom ‘excess’ and ‘essential’ mean in the first place.” For example, it may be important “to share the mess of development with others, and minimalist aesthetics may all too easily afford an impression that everything has been polished or refined from the start.”
