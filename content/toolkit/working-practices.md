@@ -96,7 +96,23 @@ Communicating within your project team might include sending messages, sharing d
 
 **Choosing a videoconference system**
 
-We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. A 2020 article by [Ethical Consumer](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing) provides another comparison, based on the sustainability and ethics of the companies rather than technical specifications; Jami and Kopano come out top. We have provided some details on accessibility and privacy as a first step.
+{{< hint warning >}}
+
+- Videoconferencing produces carbon emissions, but travel to in-person meetings produces *a lot* of carbon emissions.
+- Cameras off does make a considerable difference.
+- But meetings are about more than communicating information.
+
+{{< /hint >}}
+
+We don't yet have compelling evidence about which videoconferencing software might be the greenest. If you do, please let us know! These resources may be useful:
+
+* [The Zoom emissions calculator](https://www.utilitybidder.co.uk/business-electricity/zoom-emissions/) estimates weekly energy use and emissions based on a few parameters.
+* [ISIT My Impact calculator](https://myimpact.isit-europe.org/)
+* [Wattenbach et al. (2022)](https://doi.org/10.1145/3524613.3527812) find that the energy consumption of Google Meet is slightly higher than Zoom. 
+* This tallies with these 2022 [Greenspector rankings](https://greenspector.com/en/videoconferencing-apps-2022/). 
+* A 2020 article by [Ethical Consumer](https://www.ethicalconsumer.org/technology/shopping-guide/video-conferencing) provides another comparison, based on the sustainability and ethics of the companies rather than technical specifications; Jami and Kopano come out top. 
+ 
+Some details on accessibility and privacy:
 
 | Software | Accessibility | GDPR compliance |
 | --- | --- | --- |
@@ -120,7 +136,6 @@ We don't yet have compelling evidence about which videoconferencing software mig
 | Discord  | Runs on all major systems | Messaging, Audio and Video | Bad (Data is transmitted unencrypted and the company is allowed to read and resell the data. Data can be transmitted to US-Server) | No fees |
 | Element  | Runs on all major systems; open-source (GitHub-repo); available in 25 languages | Messaging, Audio and Video (can be unstable) | End-to-end encryption; can be hosted on own server | No fees |
 | Slack | Runs on all major systems; Available in 8 languages | Messaging, Audio and Video | Cloud-based (can be hacked); end-to-end encryption | Basic version without fees is normally sufficient |
-
 
 
 If the online platform you are using declares its carbon or electricity efficiencies (and it’s likely that it does not) it will help you understand which factors use electricity when using the web service. The company’s data centre and where in the world it is located, how much data the service transmits to and from your network, how efficiently their (often proprietary) software is conceived, and the energy ratings of the computing device you use are all critical factors – and extremely difficult to find! 
