@@ -72,7 +72,7 @@ The easy wins are not enough, and things quickly get complicated. Here are a few
 
 **1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor ICT energy use, whether on-prem or in the cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
+**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor ICT energy use, whether on-prem or in the Cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
 
 **3. On what balance sheet(s) will the carbon impact appear?** Will it be your own university or research institution, or some third party? Are you happy with the way the reporting entity measures and discloses its carbon impact? 
 
@@ -95,10 +95,6 @@ Natalie and Di Cara, Nina
 
 **8. Is there still optimization that could be done?**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
 
-**9. Track your Cloud useage.**
-
-**10. Optimise your Cloud useage.**
-
 Focusing on Natural Language Processing, Strubell et al. (2019) recommend
 "a concerted effort by industry and academia to promote research of more
 computationally efficient algorithms, as well as hardware that requires
@@ -112,13 +108,13 @@ techniques" [(Strubell, Ganesh, and McCallum
 
 [Xu et al. (2021)](https://arxiv.org/abs/2111.05193) offer a survey of deep learning optimisation techniques, which they categorise into compact networks, energy-efficient training strategies, energy-efficient inference approaches, and energy-efficient data usage.
 
-**11. What about openness?** Are you using maximal computing in ways that can benefit other researchers and creators?
+**9. What about openness?** Are you using maximal computing in ways that can benefit other researchers and creators?
 
 {{< hint info >}}
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
-**12. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective?
+**10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective? There is not yet any standard or certification for responsible UX design for computationally intensive software. Maybe you could be the person to develop one?
 
 ## Measures of Efficiency
 
@@ -134,7 +130,7 @@ metrics to consider when planning your AI research projects are:
 - Electricity consumption, in Watt Hours (Wh)
 
 Lacoste et al. have been researching environmental
-impacts of AI and ML, and have developed an online open source [Machine
+impacts of AI, and have developed an online open source [Machine
 Learning CO2 impact calculator](https://mlco2.github.io/impact). 
 Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.org/10.1002/advs.202100707) is another useful flexible tool for estimating carbon impacts, with a useful discussion. 
 
