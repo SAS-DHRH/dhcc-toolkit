@@ -20,9 +20,9 @@ intensive work**, including working with AI, blockchains, and big data.
 
 ## Problems of Proportionality
 
-Maximal computing systems are everywhere these days. For example, AI technologies
-have been applied to speech recognition, natural language processing,
-computer vision, and many other areas. In many parts of the world, AI is
+Maximal computing systems are everywhere these days. For example, AI 
+is used in speech recognition, translation, Natural Language Processing,
+computer vision, image and video generation, and many other areas. In many parts of the world, AI is
 present within our homes, cars, mobile phones. New applications of AI
 are being implemented with the help of large publicly open datasets,
 available on the web (for example open crawl), which in turn are fed to
@@ -34,7 +34,7 @@ change; Gordon S. Blair gives the example of flooding resilience:
 >
 > [Blair, 2020](#further-reading)
 
-Maximal computing is an important part of STEM research, but it is also growing within the arts and humanities (e.g. interest in generative models such as GPT-3 and Stable Diffusion). While it is well-recognised that global warming results from carbon and other greenhouse gases, broader AI communities have been slow to understand the relevance of our activities. As Knowles et. al (2021) note:
+Maximal computing is an important part of STEM research, but it is also growing within the arts and humanities (e.g. interest in generative models such as ChatGPT and Stable Diffusion). While it is well-recognised that global heating results from carbon and other greenhouse gases, broader AI communities have been slow to understand the relevance of our activities. As Knowles et. al (2021) note:
 
 > A serious and proportional response to the climate emergency would \[\...\] involve constraining energy demand and mitigating drivers of infrastructure growth, and as a result, also consuming less energy. In real terms for computing, this means manufacturing fewer devices, storing and processing less data, generally managing with less compute power; and in terms of technical ambitions, scaling back the Internet of Things, resisting the temptation to throw AI and blockchain at every problem, and breaking free of the cycle of ever increasing demand for computation.
 >
@@ -55,14 +55,16 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 
 ## Some easy wins
 
-1. **Don't use it at all.** What are you trying to achieve? Can it be accomplished in another way? 
-2. **Don't use it _just_ for fun.** Have fun of course, but also have a purpose in mind, one which would be sufficient even if it _wasn't_ fun.
-3. **Use pre-trained models.** There are so many to choose from! And likewise, try to make any models you do train available for others to use. 
-4. **Use smaller models.** [Larger models may yield better results](https://arxiv.org/abs/2001.08361), but often a smaller one will still do everything you need.
-5. **Don't overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
-6. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute.
-7. **Explore doing it on-site.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
-8. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section]({{< relref path="../toolkit/minimal-computing.md" >}})) of this Toolkit.
+1. **Don't use AI at all.** What are you trying to achieve? Can it be accomplished in another way? 
+2. **Don't use AI _just_ for fun.** Have fun of course, but also have a purpose in mind, one which would be sufficient even if it _wasn't_ fun.
+3. **Use pre-trained models.** There are so many to choose from! 
+4. **Share your models.** If you do train a model, try to make it available for others to use. Support initiatives that help us to clearly document and to openly share the fruits of the carbon we have burned.
+5. **Use smaller models.** [Larger models may yield better results](https://arxiv.org/abs/2001.08361), but often a smaller one will still do everything you need. You might also want to consider how you are framing 'better' results. For example, [explore ChatGPT alternatives](https://bdtechtalks.com/2023/04/17/open-source-chatgpt-alternatives/).
+6. **Try not to overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
+7. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute.
+8. **Explore scheduling.** It may be possible to train your model when renewable energy is more plentiful.
+9. **Explore doing it on-site, instead of the Cloud.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
+10. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section]({{< relref path="../toolkit/minimal-computing.md" >}})) of this Toolkit.
 
 ## Then it gets complicated
 
@@ -93,6 +95,10 @@ Natalie and Di Cara, Nina
 
 **8. Is there still optimization that could be done?**: How lean was the software building process / is the software? Are there ways to improve or to green it (i.e. reduce resource consumption)? Can computationally intensive jobs be scheduled for when the sun is shining and the wind is blowing?
 
+**9. Track your Cloud useage.**
+
+**10. Optimise your Cloud useage.**
+
 Focusing on Natural Language Processing, Strubell et al. (2019) recommend
 "a concerted effort by industry and academia to promote research of more
 computationally efficient algorithms, as well as hardware that requires
@@ -106,13 +112,13 @@ techniques" [(Strubell, Ganesh, and McCallum
 
 [Xu et al. (2021)](https://arxiv.org/abs/2111.05193) offer a survey of deep learning optimisation techniques, which they categorise into compact networks, energy-efficient training strategies, energy-efficient inference approaches, and energy-efficient data usage.
 
-**9. What about openness?** Are you using maximal computing in ways that can benefit other researchers and creators?
+**11. What about openness?** Are you using maximal computing in ways that can benefit other researchers and creators?
 
 {{< hint info >}}
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
-**10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective?
+**12. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective?
 
 ## Measures of Efficiency
 
@@ -133,7 +139,7 @@ Learning CO2 impact calculator](https://mlco2.github.io/impact).
 Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.org/10.1002/advs.202100707) is another useful flexible tool for estimating carbon impacts, with a useful discussion. 
 
 
-## Red AI and Green AI
+### Red AI and Green AI
 
 {{< hint info >}}
 *"The vital first step toward more equitable and green AI is the clear
