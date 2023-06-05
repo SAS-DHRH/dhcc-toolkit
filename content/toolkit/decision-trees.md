@@ -51,12 +51,12 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Webistes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
 * If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
-* The section on [Tips for Sustainable Website Design]](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.
+* The section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.
 
 **I want to create a website for a research network**
 
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Webistes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
-* Additionally, the section on [Tips for Sustainable Website Design]](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes useful information about images, fonts, hosting considerations and more.
+* Additionally, the section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes useful information about images, fonts, hosting considerations and more.
 * Lastly, you should consider how you will [Archive Your Data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
 
 **I want to train an AI**
@@ -77,9 +77,9 @@ See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/g
 
 * The section on [Using Digital Devices in General in ‘Working Practices’](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#using-digital-devices-in-general) has useful information on the carbon cost of hardware and how to replace hardware in an environmentally responsible manner.
 * This could also be an opportunity for [Advocating within your Institution](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#advocating-within-your-institution) for more systemic change. 
-* You might see replacing your work computer in a sustainable way as a [small change]https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#institutional-legitimacy), but you can [Connect Small Changes with Big Changes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#connect-small-changes-and-big-changes) in order to improve institutional practices more generally. 
+* You might see replacing your work computer in a sustainable way as a [small change](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#institutional-legitimacy), but you can [Connect Small Changes with Big Changes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#connect-small-changes-and-big-changes) in order to improve institutional practices more generally. 
 
 **I am requesting equipment for my DH lab**
 
-* The section on [Using Digital Devices in General] in ‘Working Practices’(https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#using-digital-devices-in-general) has useful information on the carbon cost of hardware and how to replace hardware in an environmentally responsible manner.
+* The section on [Using Digital Devices in General in ‘Working Practices’](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#using-digital-devices-in-general) has useful information on the carbon cost of hardware and how to replace hardware in an environmentally responsible manner.
 * Additionally, requesting lab equipment provides an opportunity for [Advocating within your Institution](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#advocating-within-your-institution). In particular, see sections on how to [Get Involved in Supply Decisions](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#supply-decisions) and a list of [Questions](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#ask-questions) to ask senior decision-makers at your institution.
