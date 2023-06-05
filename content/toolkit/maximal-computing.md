@@ -114,7 +114,11 @@ techniques" [(Strubell, Ganesh, and McCallum
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
-**10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective? There is not yet any standard or certification for responsible UX design for computationally intensive software. Maybe you could be the person to develop one?
+**10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective? 
+
+{{< hint info >}}
+There is not yet any standard or certification for responsible UX design for computationally intensive software. Maybe you could be the person to develop one?
+{{< /hint >}}
 
 ## Measures of Efficiency
 
