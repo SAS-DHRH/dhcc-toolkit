@@ -75,7 +75,7 @@ See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/g
 
 **I think my laptop / desktop / device needs replacing**
 
-* The section on [Using Digital Devices in General] in ‘Working Practices’(https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#using-digital-devices-in-general) has useful information on the carbon cost of hardware and how to replace hardware in an environmentally responsible manner.
+* The section on [Using Digital Devices in General in ‘Working Practices’](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#using-digital-devices-in-general) has useful information on the carbon cost of hardware and how to replace hardware in an environmentally responsible manner.
 * This could also be an opportunity for [Advocating within your Institution](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#advocating-within-your-institution) for more systemic change. 
 * You might see replacing your work computer in a sustainable way as a [small change]https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#institutional-legitimacy), but you can [Connect Small Changes with Big Changes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#connect-small-changes-and-big-changes) in order to improve institutional practices more generally. 
 
