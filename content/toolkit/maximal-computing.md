@@ -127,11 +127,10 @@ metrics to consider when planning your AI research projects are:
 - Processor utilisation (%), % use of CPU/GPU/TPU
 - Electricity consumption, in Watt Hours (Wh)
 
-Lacoste, Luccioni and Schmidt have been researching environmental
+Lacoste et al. have been researching environmental
 impacts of AI and ML, and have developed an online open source [Machine
 Learning CO2 impact calculator](https://mlco2.github.io/impact). 
-This is an important tool to help our understanding of the emissions of
-ML based humanities research.
+Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.org/10.1002/advs.202100707) is another useful flexible tool for estimating carbon impacts, with a useful discussion. 
 
 
 ## Red AI and Green AI
