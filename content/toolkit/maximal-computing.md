@@ -163,6 +163,19 @@ improve results through massive computational power without regard
 to environmental impact. Striving to "treat efficiency as a primary evaluation
 criterion alongside accuracy" is what Schwartz et al. call Green AI.
 
+## Understanding Cloud emissions {#understanding-Cloud}
+
+It also makes a big difference where you train your model. Climatiq offers a series of introductory articles to Cloud emissions:
+
+* [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
+* [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
+* [Approaches to assessing emissions](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
+* [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint)
+
+Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
+
+[The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres.
+
 
 ## Mini case study {#case-study}
 
@@ -236,17 +249,6 @@ provide useful insight.
 Within software development projects it is typical to see CI/CD
 pipelines being deployed. We need to raise awareness of the impacts of
 continually triggering what might be a resource intensive process.
-
-## Understanding Cloud emissions {#understanding-Cloud}
-
-Climatiq offers a series of introductory articles:
-
-* [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
-* [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
-* [Approaches to assessing emissions](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
-* [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint)
-
-Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
 ## Further reading
 
