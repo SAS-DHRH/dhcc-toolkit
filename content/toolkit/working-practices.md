@@ -50,7 +50,7 @@ Of course, every digital device uses electricity; we don't need to stop using ou
 
 **Footprinting devices for procurement**
 
-Px3 offers the [DCF (Dynamic Carbon Footprint)](https://px3.org.uk/services/service-4-sustainable-it-procurement-application/) tool to public sector organisations including universities. It offers comparisons of the carbon footprints of a wide range of the current range of IT devices such as laptops and desktops, and allows you to project how many years the device will be kept, and where it will be used. At time of writing, accessing the tool requires setting up a meeting.
+Px3 offers the [DCF (Dynamic Carbon Footprint)](https://px3.org.uk/services/service-4-sustainable-it-procurement-application/) tool to public sector organisations including universities. Once you have registered and been approved, the tool offers comparisons of the carbon footprints of a wide range of the current range of IT devices such as laptops and desktops, and allows you to project how many years the device will be kept, and where it will be used. 
 
 ## Using an operating system
 
