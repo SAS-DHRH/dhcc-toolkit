@@ -35,7 +35,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 **I want to create a website for a research project**
 
 * Begin by factoring consideration of website creation and maintenance in your project proposal’s data management plan. See discussion of [Energy Proportionality](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) in the Grant Writing section for more details. 
-* When it comes to designing your website, you could consider factors such as [Static Versus Dynamic Websites])https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic), [Tips for Sustainable Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) and [Critical Design and Systems Change](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change).
+* When it comes to designing your website, you could consider factors such as [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic), [Tips for Sustainable Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) and [Critical Design and Systems Change](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change).
 * Additional guidance on [Minimal Computing Principles](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles) may also be helpful for approaches for sustainable website design. 
 * After the conclusion of the research project, it is important to consider how you will dispose of and [archive your data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data). 
 
