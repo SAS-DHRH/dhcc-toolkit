@@ -16,16 +16,17 @@ This toolkit is a guide to making your research practices more environmentally r
   
   ## Where to start?
 
-Browse the toolkit in any order. If you'd like a suggested pathway, try this:
+If you have a specific question, check if it listed in the [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}}) section. Or browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
+- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
 - [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}})
 - [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
-- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
+
 
 <--->
 [![aerial image of al-basrah](usgs-vbLuKHsYIE4-unsplash.jpg)](https://en.wikipedia.org/wiki/Basra#Climate)
