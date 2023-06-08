@@ -48,6 +48,10 @@ Sometimes, you might be able to work faster with a laptop than with a smartphone
 
 Of course, every digital device uses electricity; we don't need to stop using our devices, but should be conscious of our choices and their relative environmental costs. 
 
+**Footprinting devices for procurement**
+
+Px3 offers the [DCF (Dynamic Carbon Footprint)](https://px3.org.uk/services/service-4-sustainable-it-procurement-application/) tool to public sector organisations including universities. It offers comparisons of the carbon footprints of a wide range of the current range of IT devices such as laptops and desktops, and allows you to project how many years the device will be kept, and where it will be used. At time of writing, accessing the tool requires setting up a meeting.
+
 ## Using an operating system
 
 We cannot say that one operating system (like Windows, Linux, MacOS) is better from a carbon footprint point of view than another. There are too many different versions of the systems to compare them in the abstract. But we can check whether there are a lot of elements running in the background, and whether there are a lot of programs that run automatically on start-up, when we don’t need them at that moment. 
@@ -98,9 +102,9 @@ Communicating within your project team might include sending messages, sharing d
 
 {{< hint warning >}}
 
-- Videoconferencing produces carbon emissions, but travel to in-person meetings produces *a lot* of carbon emissions.
+- Videoconferencing emits carbon, but travel to in-person meetings emits *a lot* of carbon.
 - Cameras off does make a considerable difference.
-- But meetings are about more than communicating information.
+- But meetings are about more than communicating information, so take a balanced, reflective approach.
 
 {{< /hint >}}
 
