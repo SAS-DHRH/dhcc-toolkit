@@ -37,6 +37,8 @@ However, with the exception of the Wellcome Trust, these funders are not yet exp
 
 The Digital Humanities Climate Coalition supports the revision of funding processes to centre sustainability and climate justice. We also argue, however, that existing application frameworks can also accommodate sustainability and climate justice considerations. In this transitional time, these frameworks can be interpreted flexibly to provide reviewers with relevant information, so that they can favour sustainable research and reject unsustainable research.
 
+[The Planet Centric Design toolkit](https://planetcentricdesign.com/method-tools/#planet-centric-design-toolkit) was created more for business and innovation contexts, but there are tools and exercises there that could be adapted either for bid development or for the early stages of a project.
+
 ## Data Management Plans {#DMP}
 
 One area of special interest for this toolkit is the UKRI's Data Management Plan (DMP). There are also opportunities to include information of this kind in the Ethics, Case for Support, and Justification of Resource sections. We recommend that you read this section in conjunction with the annotated DMP in ['A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan'](https://doi.org/10.5281/zenodo.6451499), by the DHCC Information, Measurement and Practice Action Group. 
