@@ -20,11 +20,11 @@ with ecological systems._\
 
 Our institutions are taking action. Most European universities have now set net zero targets and milestones, as part of broader sustainability strategies. They are integrating climate risks and opportunities into governance and strategy, and embedding climate change across their curriculums. Within institutions like these, advocacy is not about putting climate change on the agenda.
 
-Despite this, the Higher Education sector is not where it needs to be. In ten points, here is our view on the state of the sector in 2022. This is based on conversations rather than rigorous analysis. But they should be enough, if you work at a Higher Education Institution, to get a rough sense of where your institution is at.
+Despite this, the Higher Education sector is not where it needs to be. In ten points, here is our view on the state of the sector in 2023. This is based on conversations rather than rigorous analysis. But they should be enough, if you work at a Higher Education Institution, to get a rough sense of where your institution is at.
 
 
 
-1. **Comparisons are hard right now**. Net Zero target dates are not easily comparable across different institutions because of different methodologies and assumptions. League tables are challenging to assemble. Interpreting your institution’s ranking requires careful research.
+1. **Comparisons are hard right now**. Net Zero target dates are not easily comparable across different institutions because of different methodologies and assumptions. League tables are challenging to assemble. Interpreting your institution’s ranking requires careful research. The EAUC's [Standardised Carbon Emissions Framework](https://www.universitiesuk.ac.uk/topics/climate-and-sustainability/accelerating-uk-tertiary-education) has recently been released.
 2. **Definitions matter**. The terms ‘carbon neutral’, ‘climate neutral’, and ‘Net Zero’ tend to mean different things (and also get defined in different ways). Make sure your institution’s commitment covers Scope 1, Scope 2, and Scope 3 emissions.
 3. **Pathways matter**. Emissions en route to Net Zero are as important as the Net Zero date itself. It is vital to make as much progress as early on as possible. Make sure your institution has ambitious milestones along the way. If bringing your Net Zero date forward is challenging, you may find more traction bringing forward milestones.
 4. **Offsets are problematic**. Net Zero poses significant greenwashing temptations, especially around the use of carbon offsetting. Not all offsets are equal, and institutions are taking very different approaches to them, and to what counts as an ‘unavoidable emission.’ Make sure your institution also sets an Absolute Zero target date.
@@ -49,7 +49,7 @@ Advocacy will look different in different institutions. It may often involve:
 5. **Diving into complexity**. Scrutinising more opaque areas such as procurement, pensions and endowments.
 6. **Tools**. Scrutinising the methodologies and assumptions embedded in your institution’s sustainability tools. Creating accessible and open source alternatives to commercial tools and knowledge bases.
 7. **Anchoring**. Strengthening your institution as a green ‘anchor institution’ within the local economy and community. Creating collaborations and synergies, both inside and outside your institution.
-8. **Sectoral work**. Sharing best practice across the sector, or questioning the framings that are common across the sector.
+8. **Sectoral work**. Sharing best practice across the sector, or questioning the framings that are common across the sector. For the UK context, the [Accelerating Toward Net Zero](https://www.queensanniversaryprizes.org.uk/wp-content/uploads/2023/01/Accelerating-towards-Net-Zero.pdf) report is useful background.
 9. **Revolutions**. Exploring possibilities for more radical, innovative, and disruptive approaches.
 10. **Just being you**. For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
 
@@ -64,7 +64,6 @@ Procurement decisions can be highly technical, and procurement teams typically s
 
 [HESCET](https://hepa.ac.uk/Resources/News/View?g=bfb63e6a-0a46-47b4-a513-7de54610e191) helps to estimate the carbon intensity of procurement decisions, but in its current basic form it has quite a few limitations. It is based on a financial spend multiplied by a standardised Emission Factor, so it doesn’t automatically reflect things like “We got a special deal and bought twice as much for the same price,” or “We spent more because we chose a more sustainable supplier.”
 
-
 *Some procurement-related links:*
 
 * [Hack Education: The history and future of educational technology](http://hackeducation.com/)
@@ -75,6 +74,8 @@ Procurement decisions can be highly technical, and procurement teams typically s
 * [Spend Matters](https://spendmatters.com/)
 
 Approved supplier lists can also take decisions away from researchers. You may have someone who you know would be good to work with, but you need to get them on the approved suppliers list. This may take a prohibitively long time, or may get blocked altogether. It is easy to get discouraged. However, researchers should avoid pushing responsibility onto techs or sysadmins, and engage actively in discussion to find workarounds and push for change.
+
+Or if you are the one who is making a decision? It is also worth remembering that rules don't have to be followed.
 
 {{< hint info >}}
 **Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
