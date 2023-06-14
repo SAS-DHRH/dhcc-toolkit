@@ -17,9 +17,9 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 **I am organising an online event**
 
-* If you are delivering the event as part of a funded project, make sure you include environmental considerations in your application. See [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) for more details. 
 * See section on [Communication Methods](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#communication-methods) for more information on videoconferencing.
-* Consider what other computing processes will be involved in running your event. These may include:
+* * If you are delivering the event as part of a funded project, make sure you include environmental considerations in your application. See [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) for more details. 
+* As well as videoconferencing, consider what other computing processes will be involved in running your event. These may include:
   * Creating a website. See [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html), and in particular, sections on [Static Site Generators](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-site-generators), [Tips for Sustainable Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) and [Critical Design and Systems Change](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change). 
   * Emailing. See [Day-to-day Working and Data Traffic](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#day-to-day-working-and-data-traffic). 
   * Lastly, you should consider how you will responsibly dispose of project websites, email threads etc., and how you will archive your data. See [Archiving Your Data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
