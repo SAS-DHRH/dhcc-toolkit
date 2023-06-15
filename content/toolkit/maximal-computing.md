@@ -176,6 +176,11 @@ Datacentre sustainability is strongly influenced by location, and the local avai
 
 [The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres.
 
+## Quantum computing {#quantum-computing}
+
+This isn't something we have looked into yet, but we would appreciate any evidence or resources. A cursory exploration of the intersection of quantum computing and climate suggests quite a lot of positive framings, although also quite clearly some significant hype. Here's one interesting extended blog post:
+
+[Pinto, Karan, ‘Quantum Tech for Better Climate: A Thesis’, Entangle Quantum, 2022 <https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129>](https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129)
 
 ## Mini case study {#case-study}
 
