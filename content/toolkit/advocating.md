@@ -95,18 +95,6 @@ For many of its users, the Cloud is invisible infrastructure, barely noticeable 
 
 When a university or other institution procures data storage and computing power, this is an opportunity to improve our own environmental impact, and to incentivise much larger players to improve theirs. Currently Cloud services are dominated by Amazon, Google, and Microsoft. There are clear sustainability advantages to hyperscale datacentres. At the same time, these are three companies deeply structurally and culturally committed to expanding the role of digital technology in everyday life, including the use of carbon intensive Machine Learning, whose green claims have been heavily dependent on carbon offsetting. Here are just a few questions that might help get the conversations started, both internally with procurement teams, and externally with potential suppliers.
 
-### Cloud optimisation
-
-Within business, there is already a considerable body of theory and practice around Cloud optimisation, associated with [FinOps](https://www.finops.org/introduction/what-is-finops/). Actions taken to reduce Cloud spend (reservation management, storage rightsizing and data lifecycle management, continuous rightsizing) often have the unintended consequence of reducing carbon emissions too (although that's not *always* the case).
-
-Interestingly, FinOps is also not *just* about cost in a narrow sense, but about multidimensional value (for example, the "Iron Triangle" of fast, cheap, and good service). FinOps practitioners are interested in the various trade-offs and co-benefits of using the Cloud in different ways. 
-
-So it looks like there is potential to integrate sustainability (and even climate justice) into FinOps practice. By bringing together financial, IT, and sustainability teams under a common objective, a Centre of Excellence might allow these traditionally siloed disciplines to collaborate and share expertise.
-
-However, we're certainly not there yet. Sustainability is not a prominent theme in FinOps literature. As you might expect, FinOps leans techno-solutionist, so there would likely be tensions with any really transformative thinking.
-
-Major Cloud providers offer tools that anticipate a FinOps perspective, including AWS Trusted Advisor, Azure Cost Management, GCP Cost Management, and EC2 Right Sizing.
-
 | Question | Notes |
 | --- | --- |
 | What are the broader climate policies of the provider (not just the data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
