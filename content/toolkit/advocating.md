@@ -99,7 +99,7 @@ When a university or other institution procures data storage and computing power
 | --- | --- |
 | What are the broader climate policies of the provider (not just the data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
 | What are the broader ESG policies of the provider? | ESG = Environmental, Social, Governance. |
-| What is the power utilisation efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. |
+| What is the Power Utilisation Efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. |
 | What is the data centre’s carbon footprint? | It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities. |
 | What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data? | Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them). |
 | To what extent does the provider use carbon offsetting? | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. |
@@ -110,7 +110,7 @@ When a university or other institution procures data storage and computing power
 | What is the data centre’s water usage like? |   |
 | What jurisdiction is the data centre in? |   |
 | What is the data centre’s exposure and vulnerability to physical climate risks? | For example, proximity to flood plains. |
-| What climate and ESG-related certifications does the provider have? What forms of independent verification are used? |   |
+| What climate and ESG-related standards and certifications does the provider use? What forms of independent verification are used? | See [Rina Diane Caballar, 'Tougher Reporting Mandates Ahead for Data Centers' (*Data Center Knowledge*, 2023)] (https://www.datacenterknowledge.com/regulation/tougher-reporting-mandates-ahead-data-centers)  |
 | What is the provider’s view of the robustness and comparability of their competitors’ carbon disclosures? | For example, Google claims to be carbon neutral (based on offsetting), but it’s complicated. |
 | Find some tricky questions. Or if you can’t, ask them to describe what most challenges or bewilders them. | Try to engage the providers as real people in the complexities of climate transition. |
 | Especially where big tech is concerned, how does the provider encourage us to imagine the future in certain ways? | Amazon, Google, Microsoft et al. don’t just influence the future via their policies, but also through their cultural influence. As arts and humanities scholars, we are well-placed to start conversations around this. |
@@ -119,7 +119,7 @@ When a university or other institution procures data storage and computing power
 
 ### Doing it ourselves?
 
-There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for most universities, outsourcing makes sense. However, there are other factors to bear in mind. Universities already frequently operate their own small on-site data centres for resilience. 
+There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for most universities, outsourcing makes sense. However, there are other factors to bear in mind. Universities already frequently operate their own small on-prem data centres for resilience. 
 
 Data centres can be integrated into local heating infrastructure e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” ([Jakobsson 2021](https://www.zotero.org/google-docs/?SCfseh)). The University of Edinburgh is home to the [Advanced Computing Centre](https://www.epcc.ed.ac.uk/) at Easter Bush, near Edinburgh. It provides HPC and data services to academia and the private sector. It is currently part of a pilot study for a novel geobattery technology for recycling heat from cooling facilities [(Fraser-Harris et al. 2022)](https://doi.org/10.3389/esss.2022.10047).
 
@@ -127,6 +127,9 @@ Climate change is also associated with deep uncertainty, and tail risks — e.g.
 
 There may also be complementarities with on-site renewable energy generation. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
 
+**Further reading**
+
+[Christopher Tozzi, 'Just How Green is Your Cloud Migration?' (*Data Center Knowledge*, 2023)](https://www.datacenterknowledge.com/cloud/sustainable-data-centers-just-how-green-your-cloud-migration)
 
 ### The Cloud as a factory?
 
