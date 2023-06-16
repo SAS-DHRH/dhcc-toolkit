@@ -151,7 +151,7 @@ If you are accustomed to building websites with online CMS platforms like Square
 - Use the newer WebP image format ([but keep your eye on browser compatibility](https://en.wikipedia.org/wiki/WebP#Support)).
 - Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
 - Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
-- Use a tool such as [Ecograder](https://ecograder.com/) to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
+- Use a tools such as [Ecograder](https://ecograder.com/) and [Webvert](https://www.lewebvert.fr/) (in French), to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
 - Avoid use of large third-party scripts, such as social media plug-ins or "all-in-one" solutions.
 
 {{< /hint >}}
