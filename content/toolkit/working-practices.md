@@ -34,9 +34,13 @@ Additionally, repairable devices are usually much easier to upgrade. If your dev
 
 When looking at purchasing a new device, also strongly consider buying a second-hand or refurbished device. These are often sold updated with partly new hardware, and/or fresh software installs. Ideally look for a seller that offers a decent warranty period as well.
 
-For your old devices that are broken beyond repair or upgrade, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment, [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/) in French, application in Germany and Europe explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
+For your old devices that are broken beyond repair or upgrade, you can inquire into the forms of recycling that are possible. Check online for WEEE (Waste Electrical and Electronic Equipment disposal. In French it's [DEEE](https://ecoinfo.cnrs.fr/thematiques/ressources-et-e-dechets/deee-ou-e-dechets/); explore [Ecosystem.eco](https://www.ecosystem.eco/) and [Ecologic France](https://www.ecologic-france.com/). EU regulation is explained in German [here](https://deutsche-recycling.de/weee-eu-richtlinie/#)). 
 
 In order to have a precise idea of the environmental footprint of a device, you can consult the corresponding Life-Cycle Assessment ([LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment), [here](https://ecoinfo.cnrs.fr/thematiques/analyse-de-cycle-de-vie/) for an explanation in French) that hardware companies usually provide. LCAs are never fully accurate - some of the information they contain are rough estimates, and the criteria that are communicated are only a handful from a long list. But they remain the best way of assessing the digital footprint of a device or hardware.
+
+
+
+
 
 **Device types**
 
