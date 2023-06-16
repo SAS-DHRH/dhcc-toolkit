@@ -72,9 +72,20 @@ The easy wins are not enough, and things quickly get complicated. Here are a few
 
 **1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor ICT energy use, whether on-prem or in the Cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
+**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor IT energy use, whether on-prem or in the Cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? 
 
-**3. On what balance sheet(s) will the carbon impact appear?** Will it be your own university or research institution, or some third party? Are you happy with the way the reporting entity measures and discloses its carbon impact? 
+There are often sustainability benefits from outsourcing to the hyperscale data centres of the cloud giants (e.g. Amazon, Google, Microsoft), but a loss of transparency. 
+
+Can you make sure your computation is done in a relatively [green data centre](https://www.thegreengrid.org/)? 
+
+See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
+
+{{< hint warning >}}
+It's a good rule of thumb to switch to the most environmentally sustainable data centres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses. On balance though, it's generally worth doing!
+
+{{< /hint warning >}}
+
+**3. On what balance sheet(s) will the carbon impact appear?** Will it be your own university or research institution (Scope 2), or some third party (Scope 3)? Are you happy with the way the reporting entity measures and discloses its carbon impact? 
 
 **4. What are the potential benefits?** Clearly, the underlying purpose of a project has bearing on how we assess its proportionality. 
 
