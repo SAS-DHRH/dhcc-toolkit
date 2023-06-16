@@ -63,7 +63,7 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 6. **Try not to overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
 7. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute.
 8. **Explore scheduling.** It may be possible to train your model when renewable energy is more plentiful.
-9. **Explore doing it on-site, instead of the Cloud.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
+9. **Weigh up the pros and cons of doing it on-site or in the Cloud.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 10. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section]({{< relref path="../toolkit/minimal-computing.md" >}})) of this Toolkit.
 
 ## Then it gets complicated
@@ -175,6 +175,18 @@ It also makes a big difference where you train your model. Climatiq offers a ser
 Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
 [The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres.
+
+### Cloud optimisation
+
+Within business, there is already a considerable body of theory and practice around Cloud optimisation, associated with the [FinOps](https://www.finops.org/introduction/what-is-finops/) approach. Actions taken to reduce Cloud spend (e.g. reservation management, data lifecycle management, continuous rightsizing) often have the unintended consequence of reducing carbon emissions too (although that's not *always* the case).
+
+Interestingly, FinOps is also not *just* about cost in a narrow sense, but about multidimensional value (for example, the "Iron Triangle" of fast, cheap, and good service). FinOps practitioners are interested in the various trade-offs and co-benefits of using the Cloud in different ways. 
+
+So it looks like there is potential to integrate sustainability (and even climate justice) into FinOps practice. By bringing together financial, IT, and sustainability teams under a common objective, a Centre of Excellence might allow these traditionally siloed disciplines to collaborate and share expertise.
+
+However, we're certainly not there yet. Sustainability is not a prominent theme in FinOps literature. As you might expect, FinOps leans techno-solutionist, so there would likely be tensions with any really transformative thinking.
+
+Major Cloud providers offer tools that anticipate a FinOps perspective, including AWS Trusted Advisor, Azure Cost Management, GCP Cost Management, and EC2 Right Sizing.
 
 ## Quantum computing {#quantum-computing}
 
