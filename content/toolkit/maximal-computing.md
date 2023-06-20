@@ -91,7 +91,7 @@ It's a good rule of thumb to switch to the most environmentally sustainable data
 
 **5. Do these benefits relate to sustainability?** If so, you might decide to be a bit more lenient. Is your goal to optimize planting patterns for beleaguered pollinators, or to call out greenwashing in corporate disclosures at scale, or to tailor communications relating to famine relief? Or will the outcomes be unrelated to sustainability, or even maladaptive?
 
-**6. What are the broader ethical questions?** Perhaps (as occasionally seems to happen sometimes in AI research) your goals are pure evil, only you haven't noticed yet? Bringing in ethical considerations in an intensive way, early in the process, may help to decide when maximal approaches are appropriate. The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. The [Critical Algorithm Studies reading
+**6. What are the broader ethical questions?** Perhaps (as occasionally seems to happen sometimes in AI research) your goals are pure evil, only you haven't noticed yet? Bringing in ethical considerations in an intensive way, early in the process, may help to decide when maximal approaches are appropriate. The ethics of AI is a very rich field. Prominent themes include bias (e.g. gender, race, language, class, geography, disability), opacity (is AI explainable? If so, who explains and who listens?), and broader considerations of justice. AlgorithmWatche's [SustAIn](https://algorithmwatch.org/en/sustain/) series connects AI ethics and AI sustainability. The [Critical Algorithm Studies reading
 list](https://socialmediacollective.org/reading-lists/critical-algorithm-studies/) and [Zotero Library](https://www.zotero.org/groups/605005/critical_algorithm_studies) contain further reading on the politics and ethics of AI and algorithms more broadly.  [The Data
 Hazards](https://datahazards.com/contents/hazards/high-environmental-cost.html)
 project is developing labels that seek to communicate the risks involved
@@ -203,7 +203,7 @@ Major Cloud providers offer tools that anticipate a FinOps perspective, includin
 
 This isn't something we have looked into yet, but we would appreciate any evidence or resources. A cursory exploration of the intersection of quantum computing and climate suggests quite a lot of positive framings, although also quite clearly some significant hype. Here's one interesting extended blog post:
 
-[Pinto, Karan, ‘Quantum Tech for Better Climate: A Thesis’, Entangle Quantum, 2022 <https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129>](https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129)
+Pinto, Karan, [‘Quantum Tech for Better Climate: A Thesis’]((https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129)), Entangle Quantum (2022)
 
 ## Mini case study {#case-study}
 
