@@ -116,6 +116,12 @@ There are complex questions around what to keep and how to keep it. There are a 
 
 Travel and catering may also be important to consider at the grant-writing stage. The short version is to fly less and to serve plant-based food. There is further information in the [Working Practices](https://github.com/SAS-DHRH/dhcc-toolkit/blob/main/content/toolkit/working-practices.md) section of this toolkit.
 
+## Innovative approaches to innovation
+
+Funding bodies generally like innovation. So why not include experiments in sustainability in your project proposal, in areas such as publishing, archiving, storage, signage, communication, travel, food, events, activities, physical materials, locations and places, lighting, heating and cooling, aesthetics, resource sharing, moratoriums, or whatever else you can think of?
+
+[Climate-KIC]([https://www.climate-kic.org/](https://www.climate-kic.org/who-we-are/making-an-impact/) is a large network across Europe focused on climate innovation. EdgeRyders's [https://edgeryders.eu/t/the-future-of-ecological-urban-living/12097](The Future of Ecological Living) is filled with interesting and provocative suggestions in a variety of domains.
+
 ## Choosing research questions
 
 It is important to adapt our research methods to make them less carbon intensive, and to improve our awareness of our environmental impacts.
@@ -127,7 +133,7 @@ But can we also corral our research communities to more directly investigate env
 - ICT's carbon footprint will stabilize due to saturation in ICT
 - data traffic is independent of ICT emissions
 - ICT will enable emissions savings in other industries
-- renewable energy will decarbonize ICT."
+- renewable energy will decarbonize ICT.
 
 Another literature review on remote working only weakly confirmed the 'common sense' view that remote working saves energy; 26 of 39 studies suggest that it does save energy, however "differences in the methodology, scope and assumptions of the different studies make it difficult to estimate 'average' energy savings" (Hook et al. 2020)**.**
 
