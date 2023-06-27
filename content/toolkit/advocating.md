@@ -127,6 +127,8 @@ Climate change is also associated with deep uncertainty, and tail risks — e.g.
 
 There may also be complementarities with on-site renewable energy generation. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
 
+For provocations and inspirations around server autonomy, see [Syster Server](https://systerserver.net/) and [Full Stack Feminism](https://ifte.network/full-stack-feminism/).
+
 **Further reading**
 
 [Christopher Tozzi, 'Just How Green is Your Cloud Migration?' (*Data Center Knowledge*, 2023)](https://www.datacenterknowledge.com/cloud/sustainable-data-centers-just-how-green-your-cloud-migration)
