@@ -11,7 +11,7 @@ slug: 'maximal-computing'
 This section introduces you to "maximal computing," which refers to any **computationally
 intensive work**, including working with AI, blockchains, and big data.
 
-{{< hint warning >}}
+{{< hint info >}}
 ## Key Recommendations ##
 - Develop a clear understanding of when it is appropriate to use AI and blockchain for a humanities research problem.
 - When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapt existing infrastructures.
