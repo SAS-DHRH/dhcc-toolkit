@@ -199,18 +199,18 @@ However, we're certainly not there yet. Sustainability is not a prominent theme 
 
 Major Cloud providers offer tools that anticipate a FinOps perspective, including [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/), [Microsoft Azure Cost Management](https://azure.microsoft.com/en-gb/products/cost-management), [GCP Cost Management](https://cloud.google.com/cost-management).
 
-Further reading: Filippo Vanara, [IDC, 'Rise of FinOps and GreenOps — The Importance of These Strategies in 2023 and Beyond'
-](https://blog-idceurope.com/finops-and-greenops-strategies-in-2023/) (2023)
+Further reading: Filippo Vanara, [IDC, 'Rise of FinOps and GreenOps -- The Importance of These Strategies in 2023 and Beyond'
+](https://blog-idceurope.com/finops-and-greenops-strategies-in-2023/) (2023).
 
 ## Quantum computing {#quantum-computing}
 
 This isn't something we have looked into yet, but we would appreciate any evidence or resources. A cursory exploration of the intersection of quantum computing and climate suggests quite a lot of positive framings, although also quite clearly some significant hype. Here's one interesting extended blog post:
 
-Pinto, Karan, [‘Quantum Tech for Better Climate: A Thesis’]((https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129)), Entangle Quantum (2022)
+Pinto, Karan, ['Quantum Tech for Better Climate: A Thesis']((https://medium.com/entangle-quantum/quantum-tech-for-better-climate-a-thesis-ad20cc0ff129)), Entangle Quantum (2022)
 
 ## Mini case study {#case-study}
 
-{{< hint warning >}}
+{{< hint info >}}
 
 ### **GPT-n workshops case study**
 
@@ -283,18 +283,18 @@ continually triggering what might be a resource intensive process.
 
 ## Further reading
 
-Blair, Gordon S. ‘A Tale of Two Cities: Reflections on Digital Technology and the Natural Environment’. Patterns 1, no. 5 (14 August 2020). https://doi.org/10.1016/j.patter.2020.100068.
+Blair, Gordon S. 'A Tale of Two Cities: Reflections on Digital Technology and the Natural Environment'. Patterns 1, no. 5 (14 August 2020). https://doi.org/10.1016/j.patter.2020.100068.
 
-Knowles, Bran, Kelly Widdicks, Gordon Blair, Mike Berners-Lee, and Adrian Friday. ‘Our House Is On Fire:The Climate Emergency and Computing’s Responsibility’. Communications of the ACM, 2 December 2021. https://eprints.lancs.ac.uk/id/eprint/162995/.
+Knowles, Bran, Kelly Widdicks, Gordon Blair, Mike Berners-Lee, and Adrian Friday. 'Our House Is On Fire:The Climate Emergency and Computing's Responsibility'. Communications of the ACM, 2 December 2021. https://eprints.lancs.ac.uk/id/eprint/162995/.
 
 Schwartz, Roy, Jesse Dodge, Noah A. Smith, and Oren Etzioni. '[Green AI](https://doi.org/10.1145/3381831)'. *Communications of the ACM* 63, no. 12 (17 November 2020): 54--63.
 
 Shervin Minaee, [20 Popular Machine Learning
 Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part-1-classification-regression-evaluation-metrics-1ca3e282a2ce). *Towards Data Science*, 28 Oct 2019. [Accessed 2022-04-06].
 
-Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022. ‘A Review of Energy Efficiency Evaluation Metrics for Data Centers’. Energy and Buildings 271 (September): 112308. [https://doi.org/10.1016/j.enbuild.2022.112308](https://doi.org/10.1016/j.enbuild.2022.112308).
+Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022. 'A Review of Energy Efficiency Evaluation Metrics for Data Centers'. Energy and Buildings 271 (September): 112308. [https://doi.org/10.1016/j.enbuild.2022.112308](https://doi.org/10.1016/j.enbuild.2022.112308).
 
-Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. [‘Energy and Policy Considerations for Deep Learning in NLP’].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645–50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
+Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. ['Energy and Policy Considerations for Deep Learning in NLP'].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645-50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
 
-Xu, Jingjing, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, and Lei Li. 2021. ‘A Survey on Green Deep Learning’. [https://doi.org/10.48550/ARXIV.2111.05193](https://doi.org/10.48550/ARXIV.2111.05193).
+Xu, Jingjing, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, and Lei Li. 2021. 'A Survey on Green Deep Learning'. [https://doi.org/10.48550/ARXIV.2111.05193](https://doi.org/10.48550/ARXIV.2111.05193).
 
