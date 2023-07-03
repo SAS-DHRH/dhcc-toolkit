@@ -42,11 +42,12 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 ## I want to create a digital edition of a book
 
-* Consider what would be the least energy intensive way to produce a digital edition of a book. It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see [Static versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
+* Consider what would be the least energy intensive way to produce a digital edition of a book. [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) approaches can have advantages in terms of accessibility and longevity, as well as environmental impact.
+* It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see [Static versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
 * Other considerations include:
   * [Images](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#images)
-  * [Fonts](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#fonts)
   * [Hosting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting) your digital edition with a green hosting provider.
+  * And even [fonts](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#fonts)
 
 ## I want to create a personal website
 
