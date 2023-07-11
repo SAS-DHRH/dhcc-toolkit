@@ -105,7 +105,7 @@ How much carbon can we remove? Nature restoration and Negative Emissions Technol
 
 ## Further Reading ##
 
-Baillot, Anne. 2023. *Text and Heritage in the Age of Climate Crisis*. Cambridge: OpenBook Publishers. https://www.openbookpublishers.com/books/10.11647/obp.0355.
+Baillot, Anne. 2023. *Text and Heritage in the Age of Climate Crisis*. Cambridge: OpenBook Publishers. https://doi.org/10.11647/OBP.0355.
 
 Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. 2021. ‘The Real Climate and Transformative Impact of ICT: A Critique of Estimates, Trends, and Regulations’. Patterns 2 (9): 100340. https://doi.org/10.1016/j.patter.2021.100340.
 
