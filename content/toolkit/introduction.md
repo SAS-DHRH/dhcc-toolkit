@@ -43,6 +43,8 @@ Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolk
 
 ## Further reading ##
 
+Baillot, Anne. 2023. *Text and Heritage in the Age of Climate Crisis*. Cambridge: OpenBook Publishers. https://www.openbookpublishers.com/books/10.11647/obp.0355.
+
 Freitag, Charlotte, Mike Berners-Lee, Kelly Widdicks, Bran Knowles, Gordon S. Blair, and Adrian Friday. 2021. ‘The Real Climate and Transformative Impact of ICT: A Critique of Estimates, Trends, and Regulations’. Patterns 2 (9): 100340. https://doi.org/10.1016/j.patter.2021.100340.
 
 SLOCAT. 2021. ‘Tracking Trends in a Time of Change: The Need for Radical Action Towards Sustainable Transport Decarbonisation, Transport and Climate Change Global Status Report’. https://tcc-gsr.com/wp-content/uploads/2021/06/1.1-Global-Transport-and-Climate-Change.pdf.
