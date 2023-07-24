@@ -19,9 +19,9 @@ In this workshop we underscored that as humanities researchers it is our role to
 
 ## Themes
 
-1. decarbonising our research and teaching,
-1. working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,
-1. transforming DH (and knowledge institutions) within broader transformations of society.
+1. Decarbonising our research and teaching,
+1. Working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,
+1. Transforming DH (and knowledge institutions) within broader transformations of society.
 
 
 ## Notes
@@ -31,7 +31,7 @@ Access the workshop notes on this [Etherpad Document](https://etherpad.wikimedia
 
 ## Structure
 
-**Introductions. Refining questions, challenges, opportunities (40 mins)**
+**Introductions, Refining questions, Challenges, Opportunities (40 mins)**
 
 First, facilitated brainstorming and rapid co-production will refine questions, challenges, and opportunities around climate change and the digital humanities that are relevant in your local contexts. This part of the workshop will draw on the workshop model developed for the [November 2021 “Greening DH summit”](https://www.cdcs.ed.ac.uk/news/reflections-greening-digital-humanities-what-comes-next). This model balances the knowledge that time is fleeting and there is an impetus to act, with an awareness that participants will have variable expertise regarding the climate crisis, the energy/resource costs of digital technologies, and ‘green computing’ practices.
 
