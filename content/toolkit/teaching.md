@@ -6,6 +6,8 @@ weight: 9
 slug: teaching
 ---
 
+#Teaching
+
 ## Examples
 
 ### Data Environmentalism (University of Southampton)
