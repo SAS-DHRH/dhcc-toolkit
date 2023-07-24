@@ -21,11 +21,12 @@ If you have a specific question, check if it listed in the [Decision Trees]({{< 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
 - [Maximal Computing]({{< relref path="./toolkit/maximal-computing.md" >}})
-- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
+- [Teaching]({{< relref path="./toolkit/teaching.md" >}})
 - [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}})
 - [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
 - [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
+- [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
 
 
 <--->
