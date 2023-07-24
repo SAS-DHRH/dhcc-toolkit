@@ -6,7 +6,7 @@ weight: 9
 slug: teaching
 ---
 
-#Teaching
+# Teaching
 
 ## Examples
 
