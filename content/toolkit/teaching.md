@@ -20,7 +20,7 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 
 ## Resources
 
-{{< hint warning >}}This is a placeholder. We hope to include further resources for educators in the future. Please get involved! Meanwhile, here are a handful of links.{{</ hint >}}
+{{< hint warning >}}This section could use your input. Are you embedding climate and sustainability themes in your teaching?  Please get involved! Meanwhile, here are a handful of links.{{</ hint >}}
 
 * [Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://digitalpedagogy.hcommons.org/): peer-reviewed, curated collection of reusable and remixable resources for teaching and research
 * [GreenIO Podcast](https://link.chtbl.com/greenio): an industry-focused podcast, but shares lots of inspiration and best practice relevant to educational settings too.
