@@ -24,6 +24,7 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 
 * [Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://digitalpedagogy.hcommons.org/): peer-reviewed, curated collection of reusable and remixable resources for teaching and research
 * [GreenIO Podcast](https://link.chtbl.com/greenio): an industry-focused podcast, but shares lots of inspiration and best practice relevant to educational settings too.
+* [Environmental Variables](https://podcast.greensoftware.foundation/): another great podcast with a good range of guests and topics related to green software.
 * [The Programming Historian](https://programminghistorian.org/en/lessons/): novice-friendly, peer-reviewed tutorials that help humanists learn a wide range of digital tools, techniques, and workflows for teaching and research.
 * [UK-Ireland Digital Humanities Association](https://digitalhumanities-uk-ie.org/about/): the DHCC is a Community Interest Group of UK-IE DH
 * DARIAH (Digital Research Infrastructure for the Arts and Humanities): [tools and services](https://www.dariah.eu/tools-services/tools-and-services/) | [training and education](https://www.dariah.eu/activities/training-and-education/)
