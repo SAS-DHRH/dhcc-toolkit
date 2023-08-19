@@ -224,6 +224,8 @@ Server setup and configuration is a large and complex topic and will depend on w
 
 It is worth exploring the work of the [Green Software Foundation](https://greensoftware.foundation/), including the [Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md), which includes a methodology for calculating a SCI score for "any software application, from a large, distributed cloud system to a small monolithic open source library, any on-premise application, or even a serverless function" ([Green Software Foundation 2021](https://github.com/Green-Software-Foundation/software_carbon_intensity/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md)).
 
+You may also want to investigate the efficiencies of different coding languages. Could this be something you develop in a relatively energy-efficient language like C, C++, or [Rust](https://www.rust-lang.org/learn)?
+
 ## Critical design and system change {#system-change}
 
 {{< hint info >}}
