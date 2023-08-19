@@ -119,7 +119,7 @@ When a university or other institution procures data storage and computing power
 
 ### Doing it ourselves?
 
-There are very significant economies of scale associated with data centre operation. There is also now very little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for most universities, outsourcing makes sense. However, there are other factors to bear in mind. Universities already frequently operate their own small on-prem data centres for resilience. 
+There are very significant economies of scale associated with data centre operation. There is generally now little gained from locating data centres closer to users, as edge computing has solved latency issues for most use cases. So for many  universities, outsourcing makes sense. However, there are many factors to bear in mind. If you're in an area where energy is already very green, switching from a small local data centre to a cloud solution could increase your carbon footprint. Universities also frequently operate their own small on-prem data centres for resilience. 
 
 Data centres can be integrated into local heating infrastructure e.g. the supercomputer [LUMI](https://www.lumi-supercomputer.eu/deep-dive-into-the-building-of-the-lumi-data-center/)’s “waste heat will account for about 20 percent of the district heating in the city of Kajaani” ([Jakobsson 2021](https://www.zotero.org/google-docs/?SCfseh)). The University of Edinburgh is home to the [Advanced Computing Centre](https://www.epcc.ed.ac.uk/) at Easter Bush, near Edinburgh. It provides HPC and data services to academia and the private sector. It is currently part of a pilot study for a novel geobattery technology for recycling heat from cooling facilities [(Fraser-Harris et al. 2022)](https://doi.org/10.3389/esss.2022.10047).
 
@@ -127,7 +127,7 @@ Climate change is also associated with deep uncertainty, and tail risks — e.g.
 
 There may also be complementarities with on-site renewable energy generation. Although trying to compete directly with Amazon or Microsoft is probably not a good idea, we should remain open-minded, creative and bold in our approach to data storage and computation resources.
 
-For provocations and inspirations around server autonomy, see [Syster Server](https://systerserver.net/) and [Full Stack Feminism](https://ifte.network/full-stack-feminism/).
+For provocations and inspirations around server autonomy, see [Syster Server](https://systerserver.net/) and [Full Stack Feminism](https://ifte.network/full-stack-feminism/). And [here's a short article](https://www.kolaxis.dev/greener-internet-decentralized-smaller-edge-data-centers) arguing for data centre decentralisation, with many smaller data centres located near their renewable power sources such as solar and wind.
 
 **Further reading**
 
