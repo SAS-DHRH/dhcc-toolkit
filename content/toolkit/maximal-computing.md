@@ -40,7 +40,7 @@ Maximal computing is an important part of STEM research, but it is also growing 
 >
 > [Knowles et al., 2021](#further-reading)
 
-How do we decide whether a computational process is **proportionate** to
+Maximal computing processes also often take place in the cloud, which means the carbon costs may also been less visible (see [Question the Cloud](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#question-the-cloud) section). So how do we decide whether a computational process is **proportionate** to
 the benefits it may create? In other words, when *does* it become
 appropriate to 'throw AI and blockchain' at a problem? Can the
 underlying goals of computationally intensive work sometimes be met in
