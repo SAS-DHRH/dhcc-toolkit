@@ -69,7 +69,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 ## I want to build a piece of software
 * Check out the [Software Development](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#software-development) section, and the resources of the [Green Software Foundation](https://greensoftware.foundation/).
 * Read about [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles).
-* Think about how your sofware will fit into the big picture of climate transition by checking out the toolkit's [Climate Change FAQs](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html).
+* Think about how your software will fit into the big picture of climate transition by checking out the toolkit's [Climate Change FAQs](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html).
 
 ## I am writing a Data Management Plan
 
