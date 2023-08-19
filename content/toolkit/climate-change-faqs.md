@@ -93,7 +93,7 @@ Some key terms to explore include: tools for conviviality, epistemological luddi
 
 ## 14. Where can I find out more about climate change and the digital? ## 
 
-This toolkit, the [Climate Change and the Digital Humanities Zotero Library](https://www.zotero.org/groups/4417518/climate_change_and_the_digital_humanities), the [Digital Humanities Climate Coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), [Low Carbon Research Methods](http://lowcarbonmethods.com/), [*Digital Humanities Quarterly*](http://digitalhumanities.org/dhq/).
+This toolkit, the [Climate Change and the Digital Humanities Zotero Library](https://www.zotero.org/groups/4417518/climate_change_and_the_digital_humanities), the [Digital Humanities Climate Coalition](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), [Low Carbon Research Methods](http://lowcarbonmethods.com/), [*Digital Humanities Quarterly*](http://digitalhumanities.org/dhq/), [The Green Software Foundation](https://greensoftware.foundation/).
 
 ## 15. What should I know about offsetting and Negative Emissions Technologies? ##
 
