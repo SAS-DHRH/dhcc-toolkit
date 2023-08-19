@@ -67,8 +67,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * Additionally, consider the carbon cost of AI in your project’s [Data Management Plan](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP).
 
 ## I want to build a piece of software
-* External link: check out the resources of the [Green Software Foundation](https://greensoftware.foundation/).
-* External link: Could this be something you develop in a relatively energy-efficient language like C, C++, or [Rust](https://www.rust-lang.org/learn)?
+* Check out the [Software Development](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#software-development) section, and the resources of the [Green Software Foundation](https://greensoftware.foundation/).
 * Read about [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles).
 * Think about how your sofware will fit into the big picture of climate transition by checking out the toolkit's [Climate Change FAQs](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html).
 
