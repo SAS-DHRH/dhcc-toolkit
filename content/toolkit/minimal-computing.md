@@ -138,8 +138,7 @@ However, static sites will never be suitable for everything. A *content manageme
 - [Ghost](https://ghost.org/): A lightweight headless CMS designed for content creators.
 - [Mukurtu](https://mukurtu.org/): A grassroots CMS project aiming to empower communities to manage, share, narrate, and exchange their digital heritage in culturally relevant and ethically-minded ways.
 
-If you are accustomed to building websites with online CMS platforms like SquareSpace, Wix, or Wordpress, there may be a bit of a learning curve. But it is probably not as steep as it looks, and well worth investing the time.
-
+If you are accustomed to building websites with online CMS platforms like SquareSpace, Wix, or Wordpress, there may be a bit of a learning curve. But it is probably not as steep as it looks, and well worth investing the time. [Wagtail](https://wagtail.org/blog/estimating-wagtail-websites-emissions/) is also worth investigating.
 
 ## Tips for sustainable websites {#tips}
 
