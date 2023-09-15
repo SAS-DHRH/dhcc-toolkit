@@ -257,6 +257,7 @@ In this way, the everyday use of digital systems (for research and other purpose
 ## Case studies {#case-studies}
 
 {{< hint warning >}}
+* [The Endings Project](https://endings.uvic.ca/): This project offers tools, principles, policies and recommendations for digital scholarship practitioners to create accessible, stable, long-lasting resources in the humanities.
 * _[Low-tech Magazine](https://www.lowtechmagazine.com/)_: This magazine runs a static website on a solar panel. In 2018, they outlined how they built a low-carbon website, ‘[How to Build a Low-tech Website?](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)’ which offers some practical suggestions for digital publishing.
 * [The University of Virginia Press website](https://www.upress.virginia.edu/) is a static site made with Gatsby.
 * [Making and Knowing Project](https://www.makingandknowing.org/): this project published a static digital critical edition of [BnF MS Fr. 640](https://edition640.makingandknowing.org/#/), which uses minimal computing principles. See the ‘[Digital Development](https://edition640.makingandknowing.org/#/content/about)’ section of the site for more information.
@@ -279,6 +280,8 @@ Frick, Tim. _Designing for Sustainability_, O’Reilly, 2016. [https://www.oreil
 
 GO::DH Minimal Computing Working Group ‘Thought Pieces’. [https://go-dh.github.io/mincomp/thoughts/](https://go-dh.github.io/mincomp/thoughts/).
 
+Holmes, Martin and Joey Takeda. 'From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles'. _Digital Humanities Quarterly_ 17.1 (2023). [https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html](https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html).
+
 Jarrett, Tom. “Designing Sustainable Interaction Design Principles.” Branch Magazine, 15 October 2020, [https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/](https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/).
 
 Nisa, Claudia F., Jocelyn J. Bélanger, Birga M. Schumpe, and Daiane G. Faller. 2019. ‘Meta-Analysis of Randomised Controlled Trials Testing Behavioural Interventions to Promote Household Action on Climate Change’. Nature Communications 10 (1): 4545. [https://doi.org/10.1038/s41467-019-12457-2](https://doi.org/10.1038/s41467-019-12457-2)
@@ -286,7 +289,6 @@ Nisa, Claudia F., Jocelyn J. Bélanger, Birga M. Schumpe, and Daiane G. Faller. 
 Piantella, Benedetta, Alex Nathanson, Tega Brain, and Keita Ohshiro. ‘Solar-Powered Server: Designing for a More Energy Positive Internet’. 2020 CHI Conference on Human Factors in Computing Systems. New York, NY, USA: Association for Computing Machinery, 2020. [https://doi.org/10.1145/3334480.3383155](https://doi.org/10.1145/3334480.3383155).
 
 Pereira, Rui, Marco Couto, Francisco Ribeiro, Rui Rua, Jácome Cunha, João Paulo Fernandes, and João Saraiva. ‘Energy Efficiency across Programming Languages: How Do Energy, Time, and Memory Relate?’ In _Proceedings of the 10th ACM SIGPLAN International Conference on Software Language Engineering_, 256–67. Vancouver BC Canada: ACM, 2017. [https://doi.org/10.1145/3136014.3136031](https://doi.org/10.1145/3136014.3136031).
-
 
 Roscam Abbing, Roel. ‘“[This Is a Solar-Powered Website, Which Means It Sometimes Goes Offline”: A Design Inquiry into Degrowth and ICT](https://computingwithinlimits.org/2021/papers/limits21-abbing.pdf)’. In LIMITS’21: Workshop on Computing within Limits, June 14–15, 2021.
 
