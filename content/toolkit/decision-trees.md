@@ -51,13 +51,13 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 ## I want to create a personal website
 
-* First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Webistes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
+* First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
 * If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
 * The section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.
 
 ## I want to create a website for a research network
 
-* First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Webistes](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
+* First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
 * Additionally, the section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes useful information about images, fonts, hosting considerations and more.
 * Lastly, you should consider how you will [Archive Your Data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
 
