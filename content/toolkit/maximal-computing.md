@@ -81,7 +81,7 @@ Can you make sure your computation is done in a relatively [green data centre](h
 See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
 
 {{< hint warning >}}
-It's a good rule of thumb to switch to the most environmentally sustainable data centres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses. On balance though, it's generally worth doing!
+It's a good rule of thumb to switch to the most environmentally sustainable datacentres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses. On balance though, it's generally worth doing!
 
 {{< /hint >}}
 
@@ -187,6 +187,13 @@ Datacentre sustainability is strongly influenced by location, and the local avai
 
 [The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres.
 
+The environmental pledges and policies of the cloud giants (Microsoft, Amazon, and Google/Alphabet) deserve scrutiny. At the time of writing, the differences between them are significant, but none deserves enthusiastic praise.
+
+* [Amazon Employees 4 Climate Justice](https://amazonemployees4climatejustice.medium.com/)
+* [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/assets/pdf/clouded-guide.pdf) and [film](https://www.consciouslyhybrid.com/#film)
+* [Corporate Climate Responsibility Monitor](https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2023)
+* [Carbon Market Watch](https://carbonmarketwatch.org/)
+
 ### FinOps and GreenOps {#finOps}
 
 Within business, there is already a considerable body of theory and practice around Cloud optimisation, associated with the [FinOps](https://www.finops.org/introduction/what-is-finops/) approach. FinOps actions taken to reduce Cloud spend (e.g. reservation management, data lifecycle management, continuous rightsizing) often have the unintended consequence of reducing carbon emissions too (although that's not *always* the case).
@@ -283,7 +290,9 @@ continually triggering what might be a resource intensive process.
 
 ## Further reading
 
-Blair, Gordon S. 'A Tale of Two Cities: Reflections on Digital Technology and the Natural Environment'. Patterns 1, no. 5 (14 August 2020). https://doi.org/10.1016/j.patter.2020.100068.
+Blair, Gordon S. 'A Tale of Two Cities: Reflections on Digital Technology and the Natural Environment'. Patterns 1, no. 5 (14 August 2020). [https://doi.org/10.1016/j.patter.2020.100068].
+
+Kazansky, B., Karak, M., Perosa, T., Tsui, Q., Baker, S., and The Engine Room. (2022). *At the confluence of digital rights and climate & environmental justice: A landscape review*. Available at: [https://engn.it/climatejusticedigitalrights]
 
 Knowles, Bran, Kelly Widdicks, Gordon Blair, Mike Berners-Lee, and Adrian Friday. 'Our House Is On Fire:The Climate Emergency and Computing's Responsibility'. Communications of the ACM, 2 December 2021. https://eprints.lancs.ac.uk/id/eprint/162995/.
 
@@ -294,7 +303,10 @@ Metrics](https://towardsdatascience.com/20-popular-machine-learning-metrics-part
 
 Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022. 'A Review of Energy Efficiency Evaluation Metrics for Data Centers'. Energy and Buildings 271 (September): 112308. [https://doi.org/10.1016/j.enbuild.2022.112308](https://doi.org/10.1016/j.enbuild.2022.112308).
 
-Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. ['Energy and Policy Considerations for Deep Learning in NLP'].(https://doi.org/10.18653/v1/P19-1355) In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645-50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
+Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. ['Energy and Policy Considerations for Deep Learning in NLP'](https://doi.org/10.18653/v1/P19-1355). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645-50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
+
+Tremayne-Pitter, Daniel (dir.) (2022). [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/) Documentary film.
 
 Xu, Jingjing, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, and Lei Li. 2021. 'A Survey on Green Deep Learning'. [https://doi.org/10.48550/ARXIV.2111.05193](https://doi.org/10.48550/ARXIV.2111.05193).
+
 
