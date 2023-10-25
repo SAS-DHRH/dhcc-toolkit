@@ -185,14 +185,15 @@ It also makes a big difference where you train your model. Climatiq offers a ser
 
 Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
-[The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres.
+[The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres. 
 
 The environmental pledges and policies of the cloud giants (Microsoft, Amazon, and Google/Alphabet) deserve scrutiny. At the time of writing, the differences between them are significant, but none deserves enthusiastic praise.
 
 * [Amazon Employees 4 Climate Justice](https://amazonemployees4climatejustice.medium.com/)
-* [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/assets/pdf/clouded-guide.pdf) and [film](https://www.consciouslyhybrid.com/#film)
-* [Corporate Climate Responsibility Monitor](https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2023)
+* [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/assets/pdf/clouded-guide.pdf) and [film](https://www.consciouslyhybrid.com/#film) (2022)
+* [Corporate Climate Responsibility Monitor](https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2023) (2023)
 * [Carbon Market Watch](https://carbonmarketwatch.org/)
+* ['Clouds of Carbon' in Jisc, *Exploring Digital Footprints*](https://repository.jisc.ac.uk/8782/1/exploring-digital-carbon-footprints-report.pdf) (2022)
 
 ### FinOps and GreenOps {#finOps}
 
