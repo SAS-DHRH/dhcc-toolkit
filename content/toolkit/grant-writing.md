@@ -24,7 +24,7 @@ This section addresses things you might consider when writing a grant, or planni
 
 ## Funding Landscape ##
 
-Writing in late 2022, our view is that:
+Writing in 2023, our view is that:
 
 - **Requirements will change.** The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
 - **But we don't have to wait.** In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.
@@ -80,6 +80,8 @@ We hope this short guide will enable researchers to be bold in
 interpreting the DMP guidance, rather than seeing climate
 justice-oriented actions as another box to tick. Climate
 justice-oriented data management practices can be threaded through the research programmes of all researchers applying for UKRI funding. There is nothing stopping us apart from developing our knowledge so we can define the appropriate actions to take.
+
+The [Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) may also be useful to apply. There are nine questions, each answered either green, amber, or red. The output is a score out of nine (lose one point for every red, half a point for every amber). For example, "Size of data asset is less than 2gb (green), 2-3gb (amber), more than 3gb (red)." And, "Data is batch processed (green), data remains static (green), data receives near real-time updates (amber), data received real-time updates (red)." 
 
 {{< hint warning >}}
 **Suggested DMP Citation:** Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, *"This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."*
