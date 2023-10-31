@@ -72,6 +72,7 @@ Procurement decisions can be highly technical, and procurement teams typically s
 * [UK Universities Purchasing Consortia partnership](https://www.ukupc.ac.uk/)
 * [EAUC Scope 3 Working Group](https://www.eauc.org.uk/scope_3_working_group)
 * [Spend Matters](https://spendmatters.com/)
+* [A 2022 Jisc report on digital sustainability](https://beta.jisc.ac.uk/reports/exploring-digital-carbon-footprints) contains a section on procurement, highlighting resources and organisations including the [Higher Education Supply Chain Emissions tool](https://bufdg.ac.uk/Resources/News/View?g=a1f930c8-f728-4f1d-9308-15eabbbb3149) (Scope 3 assessment based on Emissions Factors databases), [Advanced Procurement for Universities and Colleges](https://www.apuc-scot.ac.uk/) (for Scotland), [WorldWatchers](https://www.worldwatchers.org/), carbon accounting software [CO2Analysis](https://www.co2analysis.com/), and supplier questionnaires from [SupplyShift](https://www.supplyshift.net/). 
 
 Approved supplier lists can also take decisions away from researchers. You may have someone who you know would be good to work with, but you need to get them on the approved suppliers list. This may take a prohibitively long time, or may get blocked altogether. It is easy to get discouraged. However, researchers should avoid pushing responsibility onto techs or sysadmins, and engage actively in discussion to find workarounds and push for change.
 
@@ -81,13 +82,11 @@ Or if you are the one who is making a decision? It is also worth remembering tha
 **Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
 {{< /hint >}}
 
-## Procurement
+### Empowering Procurement
 
-Procurement is where you can make a big difference. Procurement teams are almost certainly thinking about sustainability and requiring suppliers to meet various criteria, but there are opportunities for collaboration to ensure that they are asking questions based on the most recent evidence.
+Procurement teams are almost certainly thinking about sustainability and requiring suppliers to meet various criteria, but there are opportunities for collaboration to ensure that they are asking questions based on the most recent evidence.
 
-Try to work with your Procurement and IT departments to resist obsolescence, and to extend the lifespan of devices (through extended warranties, prioritisation of repairability, workshops on device maintenance, repair cafes, pooling resources, etc.). 
-
-A 2022 Jisc report on digital sustainability contains a section on procurement, highlighting resources and organisations including the [Higher Education Supply Chain Emissions tool](https://bufdg.ac.uk/Resources/News/View?g=a1f930c8-f728-4f1d-9308-15eabbbb3149) (Scope 3 assessment based on Emissions Factors databases), [Advanced Procurement for Universities and Colleges](https://www.apuc-scot.ac.uk/) (for Scotland), [WorldWatchers](https://www.worldwatchers.org/), carbon accounting software [CO2Analysis](https://www.co2analysis.com/), and supplier questionnaires from [SupplyShift](https://www.supplyshift.net/). 
+For example, try to work with your Procurement and IT departments to extend the lifespan of devices (through extended warranties, prioritisation of repairability, workshops on device maintenance, repair cafes, pooling resources, etc.). 
 
 ### Energy Procurement
 
