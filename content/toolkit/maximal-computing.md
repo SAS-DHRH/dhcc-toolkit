@@ -174,6 +174,8 @@ improve results through massive computational power without regard
 to environmental impact. Striving to "treat efficiency as a primary evaluation
 criterion alongside accuracy" is what Schwartz et al. call Green AI.
 
+Contrasting with much of the evidence assembled here, [this 2022 preprint](https://ieeexplore.ieee.org/abstract/document/9810097) offers an optimistic assessment of future model training carbon impacts, and proposes some best practices (selecting sparser models, using optimised processors such as TPUs and recent GPUs, using hyperscalers rather than on-prem data centres, and choosing data centres powered by the cleanest energy).
+
 ## Understanding Cloud emissions {#understanding-Cloud}
 
 It also makes a big difference where you train your model. Climatiq offers a series of introductory articles to Cloud emissions:
