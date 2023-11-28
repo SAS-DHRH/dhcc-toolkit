@@ -32,6 +32,23 @@ Our first step below is to build a list of needs, and to signpost relevant evide
   * [Catering](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#catering-events) 
 * You may also want to consider the bigger picture of your institution’s [energy procurement](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#energy-procurement) strategy. 
 
+## I want to measure carbon emissions
+
+* Consider how you might make sensible improvements even before you have measured emissions.
+* The (Project Footprinting)[https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting] section offers an introduction to carbon footprinting and concepts such as Emissions Factors.
+* (The Data Carbon Scorecard)[https://digitaldecarb.org/data-carbon-scorecard/] is a light touch tool to help you plan a new data project.
+* (The DIMPACT tool)[https://dimpact.org/about] estimates emissions associated with audiovisual streaming and other digital activities. 
+* (Cloud Carbon Footprint)[https://www.cloudcarbonfootprint.org/] is an open source tool that provides visibility and tooling to measure your cloud carbon emissions.
+* (The Software Carbon Intensity Specification)[https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md] is designed to score a software system's carbon emissions.
+* Investigate a hosting provider's energy source with the (Green Web Check)[https://www.thegreenwebfoundation.org/green-web-check/]
+* Tools like (Website Carbon Calculator)[https://websitecarbon.com] and (Ecograder)[https://ecograder.com/] can estimate a website's carbon impact.
+
+## I want to work with an external partner on their digital sustainability
+
+* [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability.
+* Many different parts of the toolkit may be relevant.
+* Smaller organisations often 
+
 ## I want to create a website for a research project
 
 * Begin by factoring consideration of website creation and maintenance in your project proposal’s data management plan. See discussion of [Energy Proportionality](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) in the Grant Writing section for more details. 
@@ -43,7 +60,8 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 ## I want to create a digital edition of a book
 
 * Consider what would be the least energy intensive way to produce a digital edition of a book. [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) approaches can have advantages in terms of accessibility and longevity, as well as environmental impact.
-* It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see [Static versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
+* It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see [Static versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic).
+* [The Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) may help to facilitate discussions.
 * Other considerations include:
   * [Images](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#images)
   * [Hosting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting) your digital edition with a green hosting provider.
