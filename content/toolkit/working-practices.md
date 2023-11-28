@@ -44,13 +44,16 @@ In order to have a precise idea of the environmental footprint of a device, you 
 
 **Device types**
 
-All in all, the fewer devices you purchase and use, the better. Thinking through what you need a device to do, and how long you intend to keep it for, can not only extend the lifetime that you use the device for (avoiding unnecessary upgrades), but also give you a more enjoyable 
+All in all, the fewer devices you purchase and use, the better. The longer a device is used (maybe getting repaired and upgraded), the better. Thinking through what you need a device to do, and how long you intend to keep it for, can not only extend the lifetime that you use the device for (avoiding unnecessary upgrades), but also give you a more enjoyable experience. Embodied carbon (the carbon emissions associated with manufacturing hardware) is a major component of our global digital footprint. 
 
-The choice of device also plays an important role when it comes to the amount of electricity consumed. For example, for streaming one hour of content via good wifi in HD quality, a laptop uses 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g). Source: https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines. Choices regarding peripheral hardware like mouses and keyboards can also make a difference to energy consumption. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), some devices also require batteries that need to be replaced or recharged regularly.
+The choice of device also plays an important role when it comes to the amount of electricity consumed. For example, for streaming one hour of content via good wifi in HD quality, a laptop uses 9g CO2, a tablet 1.2 g and a smartphone 0.5g (and a television 48g) ([source](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines)). Choices regarding peripheral hardware like mouses and keyboards can also make a difference to energy consumption. While the type of connection (cable vs. bluetooth) is marginal (see this [thread on Stackoverflow](https://hardwarerecs.stackexchange.com/questions/14045/usb-mouse-vs-bluetooth-mouse-less-battery-drain)), some devices also require batteries that need to be replaced or recharged regularly.
 
 Sometimes, you might be able to work faster with a laptop than with a smartphone, or with two monitors rather than one. At other times, the screen size may not influence what you do or how much time you need to do it. Accordingly, it may not be necessary to switch devices or use multiple monitors for a given task; try stepping back and reflecting on the kind of device you really need for the task in hand. For example, you could unplug your second monitor and only plug it in when it helps you work more efficiently (the monitor itself not only has a considerable carbon weight but it also requires much more energy than your laptop). 
 
 Of course, every digital device uses electricity; we don't need to stop using our devices, but should be conscious of our choices and their relative environmental costs. 
+
+There are various ways of estimating the embodied carbon of devices. Lövehagen et al. (2023) compare three methods, and find some significant variations in the results: "The total embodied carbon emission of the LCA/PCF is about 35% higher than the result of the Supply Chain approach, while the Vendor Reporting approach is about 16% lower." Lövehagen, N., J. Malmodin, P. Bergmark, and S. Matinfar. ‘Assessing Embodied Carbon Emissions of Communication User Devices by Combining Approaches’. Renewable and Sustainable Energy Reviews 183 (September 2023): 113422. [https://doi.org/10.1016/j.rser.2023.113422](https://doi.org/10.1016/j.rser.2023.113422).
+
 
 **Footprinting devices for procurement**
 
@@ -94,6 +97,10 @@ Emails are stored as long as they are in your inbox or in subfolders of your inb
 **Editing documents locally** on your machine sometimes consumes unnecessary energy when additional features are running in the background of your program. For example, you can save energy by turning off automatic grammar/spell check (and activate it for final review of a document, for example). If your document is very large and you use cloud storage or a network drive, consider turning off the autosave function, or adjust it to a larger interval in order to reduce synchronisation traffic. Also check for further features in your text editor that may not be required to run all the time – essentially everything that checks the text permanently in the background and needs to go through large vocabularies.
 
 **Videoconferencing** is less carbon intensive with cameras switched off. This is a complex area, however, since it relates to human sociality and connection. If we try to be too strict about seeing one another's faces online, could this start to impact our decisions to travel vs. working remotely? In the future, better data on the impact of work-related videoconferencing may help to decide whether this is a carbon-saving measure worth prioritising. For now, we recommend experimenting with a mixture of cameras on and cameras off, especially once working relationships are well-established. 
+
+What about **streaming** in general? 
+
+https://juliesbicycle.com/wp-content/uploads/2022/01/JB_Sustainability-in-the-Digital-Age-7-FULL-REPORT.pdf
 
 
 ## Communication methods
