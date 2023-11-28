@@ -35,13 +35,13 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 ## I want to measure carbon emissions
 
 * Consider how you might make sensible improvements even before you have measured emissions.
-* The (Project Footprinting)[https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting] section offers an introduction to carbon footprinting and concepts such as Emissions Factors.
-* (The Data Carbon Scorecard)[https://digitaldecarb.org/data-carbon-scorecard/] is a light touch tool to help you plan a new data project.
-* (The DIMPACT tool)[https://dimpact.org/about] estimates emissions associated with audiovisual streaming and other digital activities. 
-* (Cloud Carbon Footprint)[https://www.cloudcarbonfootprint.org/] is an open source tool that provides visibility and tooling to measure your cloud carbon emissions.
-* (The Software Carbon Intensity Specification)[https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md] is designed to score a software system's carbon emissions.
-* Investigate a hosting provider's energy source with the (Green Web Check)[https://www.thegreenwebfoundation.org/green-web-check/]
-* Tools like (Website Carbon Calculator)[https://websitecarbon.com] and (Ecograder)[https://ecograder.com/] can estimate a website's carbon impact.
+* The [Project Footprinting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting) section offers an introduction to carbon footprinting and concepts such as Emissions Factors.
+* [The Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a light touch tool to help you plan a new data project.
+* [The DIMPACT tool](https://dimpact.org/about) estimates emissions associated with audiovisual streaming and other digital activities. 
+* [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) is an open source tool that provides visibility and tooling to measure your cloud carbon emissions.
+* [The Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md) is designed to score a software system's carbon emissions.
+* Investigate a hosting provider's energy source with the [Green Web Check](https://www.thegreenwebfoundation.org/green-web-check/).
+* Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can estimate a website's carbon impact.
 
 ## I want to work with an external partner on their digital sustainability
 
