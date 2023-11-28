@@ -2,12 +2,12 @@
 title: "I Want To ..."
 date: 2022-05-17
 draft: false
-weight: 7
+weight: 1.5
 slug: decision-trees
 ---
 
 
-# I want to ...
+# I Want To ...
 
 {{< hint warning >}}We hope to include some visual decision support tools in this section in the future. These might draw especially on the evidence and recommendations in the Working Practices and Project Planning sections. If you're interested in contributing to this section, please get in touch, or [join the conversation here](https://github.com/SAS-DHRH/dhcc-toolkit/issues/35).
 
@@ -15,7 +15,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 {{</ hint >}}
 
-## I am organising an online event
+## I want to organise an online event
 
 * See section on [Communication Methods](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#communication-methods) for more information on videoconferencing.
   * If you are delivering the event as part of a funded project, make sure you include environmental considerations in your application. See [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) for more details. 
@@ -24,7 +24,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
   * Emailing. See [Day-to-day Working and Data Traffic](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#day-to-day-working-and-data-traffic). 
   * Lastly, you should consider how you will responsibly dispose of project websites, email threads etc., and how you will archive your data. See [Archiving Your Data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
 
-## I am organising a hybrid event
+## I want to organise a hybrid event
 
 * Organising a hybrid event will involve many of the same questions as organising an online event. See above for relevant links. 
 * Additionally, you should consider:
@@ -68,7 +68,6 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * The section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.
 
 ## I want to create a website for a research network
-
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
 * Additionally, the section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes useful information about images, fonts, hosting considerations and more.
 * Lastly, you should consider how you will [Archive Your Data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
@@ -84,12 +83,11 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * Think about how your software will fit into the big picture of climate transition by checking out the toolkit's [Climate Change FAQs](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html).
 
 ## I am writing a Data Management Plan
-
 See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing) and [Data Management Plans](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.
 
-## I want to work with an external partner on their digital sustainability
-
+## I am working with an external partner on their digital sustainability
 * [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability.
+* We'll be sharing a couple case studies soon.
 * Many different parts of the toolkit may be relevant, depending on your focus. It can be challenging for smaller organisations to find the resources to prioritise sustainability. Sometimes it may be helpful to focus on co-benefits (e.g. reducing electricity bills), while keeping in mind the big ethical and political questions - are there ways they can raise awareness through their programming or activities, use their experiences to advocate for better climate policies, and/or link their work to existing climate campaigns?
 
 ## I think my laptop / desktop / device needs replacing
