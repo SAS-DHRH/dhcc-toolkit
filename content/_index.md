@@ -16,7 +16,7 @@ This toolkit is a guide to making your research practices more environmentally r
   
   ## Where to start?
 
-If you have a specific question, check if it listed in the [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}}) section. Or browse the toolkit in any order. If you'd like a suggested pathway, try this:
+If you have a specific question, check if it listed in the [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}}) section. Or browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
 - [Introduction]({{< relref path="./toolkit/introduction.md" >}})
 - [Minimal Computing]({{< relref path="./toolkit/minimal-computing.md" >}})
