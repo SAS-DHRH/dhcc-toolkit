@@ -43,12 +43,6 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * Investigate a hosting provider's energy source with the [Green Web Check](https://www.thegreenwebfoundation.org/green-web-check/).
 * Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can estimate a website's carbon impact.
 
-## I want to work with an external partner on their digital sustainability
-
-* [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability.
-* Many different parts of the toolkit may be relevant.
-* Smaller organisations often 
-
 ## I want to create a website for a research project
 
 * Begin by factoring consideration of website creation and maintenance in your project proposal’s data management plan. See discussion of [Energy Proportionality](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) in the Grant Writing section for more details. 
@@ -92,6 +86,11 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 ## I am writing a Data Management Plan
 
 See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing) and [Data Management Plans](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.
+
+## I want to work with an external partner on their digital sustainability
+
+* [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability.
+* Many different parts of the toolkit may be relevant, depending on your focus. It can be challenging for smaller organisations to find the resources to prioritise sustainability. Sometimes it may be helpful to focus on co-benefits (e.g. reducing electricity bills), while keeping in mind the big ethical and political questions - are there ways they can raise awareness through their programming or activities, use their experiences to advocate for better climate policies, and/or link their work to existing climate campaigns?
 
 ## I think my laptop / desktop / device needs replacing
 
