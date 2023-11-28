@@ -1,5 +1,5 @@
 ---
-title: "Decision Trees"
+title: "I Want To ..."
 date: 2022-05-17
 draft: false
 weight: 7
