@@ -25,9 +25,9 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 - [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
 - [Teaching]({{< relref path="./toolkit/teaching.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
-- [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}})
 - [Case Studies]({{< relref path="./toolkit/case-studies.html" >}})
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
+- [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}})
 
 
 <--->
@@ -86,4 +86,4 @@ Themes: \
 (b) working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,\
 (c) transforming DH (and knowledge institutions) within broader transformations of society.
 
-For more information, see the [workshop page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html).
+For more information, see the [case studies page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html)https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html).
