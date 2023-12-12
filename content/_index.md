@@ -25,7 +25,8 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 - [Working Practices]({{< relref path="./toolkit/working-practices.md" >}})
 - [Teaching]({{< relref path="./toolkit/teaching.md" >}})
 - [Advocating Within Your Institution]({{< relref path="./toolkit/advocating.md" >}})
-- [Decision Trees]({{< relref path="./toolkit/decision-trees.html" >}})
+- [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}})
+- [Case Studies]({{< relref path="./toolkit/case-studies.html" >}})
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
 
 
