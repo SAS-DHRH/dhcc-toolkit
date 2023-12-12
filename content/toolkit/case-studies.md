@@ -109,7 +109,7 @@ Time-sensitive data around energy usage, cloud provider and server location on t
 When calculated on this level of granularity, Greenly is confident that up to 55% of cloud-based emissions can be cut without any reduction in demand. This, they argue, can be achieved through changing to a more efficient cloud provider; moving data storage somewhere with a better energy mix (e.g. Scandinavia); and planning data transfers/processing to occur at low/off-peak hours. For the HCT case study, however, this was not seen as a priority and so was not included in the engagement.
 {{< /hint >}}
 
-## 2. Case Study: DH Benelux 2022 Workshop ##
+## Case Study 2: DH Benelux Workshop ##
 
 ![Screenshot of workshop's jamboard](./images/dh-benelux-jambourd.png)
 
