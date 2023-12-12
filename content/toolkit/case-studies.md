@@ -37,16 +37,20 @@ HCT’s immediate ambitions, and reasons for getting involved in this project, w
 HCT’s key challenges, we heard at the outset of the process, included:
 
 **1. Accessing expertise**
+
 - Comprehensively calculating carbon emissions, and devising a plan for reducing them, are complex tasks requiring specialist skills and knowledge.
 
 **2. Prioritising and coordinating action**
+
 Of course, many decarbonisation actions can be taken even without comprehensive emissions data. However, without such data it is difficult to:
+
 - know what to prioritise, 
 - ensure that teams across the organisation understand and feel invested in sustainability, 
 - persuade senior management to commit finance and other resources, and
 - ensure a coordinated, evidence-based approach to new sustainability initiatives or projects.
 
 **3. Mobilising staff time and other resources to deliver**
+
 With staff often juggling many duties, it has sometimes been hard to get buy-in on sustainability initiatives. Staff may feel that sustainability is not really part of their job description. In the case of the HCT-Greenly engagement, however, there was dedicated staff time to compile and prepare the data for Greenly’s analysis.
 
 ### Greenly ###
