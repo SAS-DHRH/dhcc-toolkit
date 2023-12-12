@@ -2,7 +2,7 @@
 title: "Case Studies"
 date: 2023-12-12
 draft: false
-weight: 8
+weight: 10
 slug: case-studies
 ---
 
@@ -12,8 +12,8 @@ slug: case-studies
 The first two case studies in what we hope will be a growing library.
 {{< /hint >}}
 
-## 1. Case Study: Hampshire Cultural Trust  {#Hampshire-Cultural-Trust}
-Josephine Lethbridge and Jo Lindsay Walton, November 2023
+## Case Study 1: Hampshire Cultural Trust  {#Hampshire-Cultural-Trust}
+*Josephine Lethbridge and Jo Lindsay Walton, November 2023*
 
 {{< hint info >}}
 ## Highlights ##
@@ -116,8 +116,9 @@ When calculated on this level of granularity, Greenly is confident that up to 55
 *The action-items on the group [Jamboard](https://jamboard.google.com/d/1XfFs1dEdQ_vOWfpuybf7H4dKCQbglgGhv3u6tkZTMmM/viewer?f=0) after the workshop finished (31 May 2022)*
 
 ### Description
+*James Baker, Lisa Otty, Christopher Ohge et al. 2022*
 
-In this workshop we underscored that as humanities researchers it is our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions. Moreover, given the immense and monopolistic power wielded by the global tech sector, and the critiques of this power that are part of the Digital Humanities, this community is well positioned to create change and demonstrate to our colleagues and collaborators how change can happen. Our use of technology and infrastructure should be informed by the ways corporate economic, cultural, and scientific power perpetuates and exacerbates the crisis. Choosing a hardware or hosting provider, for example, should mean considering direct environmental impacts, broader environmental policies and record of the provider, and more broadly still, the kinds of collective future that such a collaborative encounter presupposes. We should be able to candidly explore the complex and sometimes contradictory nature of our ecological impact: we should be able to measure and model where possible, while also creating context around our measurements, flagging uncertainties, and advocating for transforming wider conditions.
+This was a workshop run in 2022 with DH researchers as the primary audience. We underscored how as arts and humanities researchers it is our role to probe the values, the power structures, and the future imaginaries that underpin sustainable digital solutions. Moreover, given the immense and monopolistic power wielded by the global tech sector, and the critiques of this power that are part of the Digital Humanities, this community is well positioned to create change and demonstrate to our colleagues and collaborators how change can happen. Our use of technology and infrastructure should be informed by the ways corporate economic, cultural, and scientific power perpetuates and exacerbates the crisis. Choosing a hardware or hosting provider, for example, should mean considering direct environmental impacts, broader environmental policies and record of the provider, and more broadly still, the kinds of collective future that such a collaborative encounter presupposes. We should be able to candidly explore the complex and sometimes contradictory nature of our ecological impact: we should be able to measure and model where possible, while also creating context around our measurements, flagging uncertainties, and advocating for transforming wider conditions.
 
 
 ### Themes
@@ -130,7 +131,6 @@ In this workshop we underscored that as humanities researchers it is our role to
 ### Notes
 
 Access the workshop notes on this [Etherpad Document](https://etherpad.wikimedia.org/p/DHCC-tool-kit-workshop).
-
 
 ### Structure
 
