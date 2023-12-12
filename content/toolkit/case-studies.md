@@ -77,7 +77,7 @@ We asked how the engagement could be further improved. HCT suggested they would 
 
 Greenly were transparent about various assumptions, estimates and compromises which needed to be made along the way. “We were able to observe how such decisions, while made for good pragmatic reasons, tended to grow less visible over time. While this didn’t especially worry the HCT team, we wonder whether just a hint more acknowledgement of the estimated nature of the assessment could go a long way in terms of developing clients’ understanding of the nature of their emissions, and inform more robust measurement and action in the future.” For more on the relationship of uncertainty data and climate decision-making, see Communicating Climate Risk: A Toolkit.
 
-As HCT mentioned internal comms as a topic of special interest, we also invited Climate Action Unit (CAU) to share their perspectives. We had a brief but wide-ranging discussion. One key principle which emerged was the importance of two-way dialogue: that individuals should get the space and support to express whatever challenges they face in taking action.
+As HCT mentioned internal comms as a topic of special interest, we also invited [Climate Action Unit](https://www.ucl.ac.uk/climate-action-unit/ucl-climate-action-unit) (CAU) to share their perspectives. We were joined by Freya Roberts for a wide-ranging discussion. One key principle which emerged was the importance of two-way dialogue: that individuals should get the space and support to express whatever challenges they face in taking action.
 
 ### Future directions ###
 
