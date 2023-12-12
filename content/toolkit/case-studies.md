@@ -6,13 +6,13 @@ weight: 10
 slug: case-studies
 ---
 
-# Case Studies
+# DHCC Case Studies
 
 {{< hint warning >}}
 The first two case studies in what we hope will be a growing library.
 {{< /hint >}}
 
-## Case Study 1: Hampshire Cultural Trust  {#Hampshire-Cultural-Trust}
+## Case Study 1: Hampshire Cultural Trust and Greenly {#Hampshire-Cultural-Trust}
 *Josephine Lethbridge and Jo Lindsay Walton, November 2023*
 
 {{< hint info >}}
