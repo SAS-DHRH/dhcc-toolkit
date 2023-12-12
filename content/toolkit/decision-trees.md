@@ -87,7 +87,7 @@ See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/g
 
 ## I am working with an external partner on their digital sustainability
 * [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability.
-* We'll be sharing a couple case studies soon.
+* Check out the [Case Studies](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html) section.
 * Many different parts of the toolkit may be relevant, depending on your focus. It can be challenging for smaller organisations to find the resources to prioritise sustainability. Sometimes it may be helpful to focus on co-benefits (e.g. reducing electricity bills), while keeping in mind the big ethical and political questions - are there ways they can raise awareness through their programming or activities, use their experiences to advocate for better climate policies, and/or link their work to existing climate campaigns?
 
 ## I think my laptop / desktop / device needs replacing
