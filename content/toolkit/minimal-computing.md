@@ -119,6 +119,7 @@ There are good reasons to create dynamic websites, but a lot of scholarly projec
 
 The benefit from a static site is a little more blurred nowadays, because of the way data gets cached on the web. Browsers store certain data to speed up repeat visits and may send the website an [ETag](https://en.wikipedia.org/wiki/HTTP_ETag) to quickly check if a piece of content has changed. If not, it uses its cached copy. Service providers have similar caching techniques. This means it is not always clear which parts of your backend infrastructure are being hit directly when you use a dynamic site. A good proportion of the content might actually already be stored on your device.
 
+See [this case study](https://www.green-coding.berlin/case-studies/wordpress-vs-hugo-cloudflare/) from Green Coding Berlin, which asks, "How much do we save when moving our site from Wordpress to HUGO by looking at the per-request energy but also at the build time?"
 
 ### Static Site Generators
 
