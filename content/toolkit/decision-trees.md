@@ -42,6 +42,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * [The Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md) is designed to score a software system's carbon emissions.
 * Investigate a hosting provider's energy source with the [Green Web Check](https://www.thegreenwebfoundation.org/green-web-check/).
 * Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can estimate a website's carbon impact.
+* A variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/) are available from the Carbon Literacy Project.
 
 ## I want to create a website for a research project
 
