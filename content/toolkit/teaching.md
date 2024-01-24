@@ -22,6 +22,7 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 
 {{< hint warning >}}This section could use your input. Are you embedding climate and sustainability themes in your teaching?  Please get involved! Meanwhile, here are a handful of links.{{</ hint >}}
 
+* [Moral IT and Legal IT Card Decks](https://lachlansresearch.com/the-moral-it-legal-it-decks/): "These physical cards are a responsible research and innovation tool created to enable structured reflection on legal, ethical, technical and social implications of new information technologies."
 * [Digital Pedagogy in the Humanities: Concepts, Models, and Experiments](https://digitalpedagogy.hcommons.org/): peer-reviewed, curated collection of reusable and remixable resources for teaching and research
 * [GreenIO Podcast](https://link.chtbl.com/greenio): an industry-focused podcast, but shares lots of inspiration and best practice relevant to educational settings too.
 * [Environmental Variables](https://podcast.greensoftware.foundation/): another great podcast with a good range of guests and topics related to green software.
