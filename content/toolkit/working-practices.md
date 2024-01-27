@@ -98,16 +98,28 @@ Emails are stored as long as they are in your inbox or in subfolders of your inb
 
 **Videoconferencing** is less carbon intensive with cameras switched off. This is a complex area, however, since it relates to human sociality and connection. If we try to be too strict about seeing one another's faces online, could this start to impact our decisions to travel vs. working remotely? In the future, better data on the impact of work-related videoconferencing may help to decide whether this is a carbon-saving measure worth prioritising. For now, we recommend experimenting with a mixture of cameras on and cameras off, especially once working relationships are well-established. 
 
-What about **streaming** in general? 
+What about **streaming** in general? Streaming is among the more energy-intensive everyday activities we do digitally. A 2021 white paper from DIMPACT and Carbon Trust, partly funded by Netflix, suggests that watching an hour of video emits on average 55 grams of CO2 equivalent. "The European average footprint estimated in this white paper is approximately 55gCO2e per hour of video streaming for the conventional allocation approach. (This estimate uses a European average grid emission factor, a representative mix of viewing devices, and network energy intensity figures for 2020.) For comparison, the emissions from microwaving a bag of popcorn for four minutes is about 16gCO2e (also using a European average grid emission factor), while driving 100 metres in an average petrol car emits around 22gCO2e. These footprint figures for video streaming are comparable with some other recent estimates. However, there are also some previous studies with much higher estimates, the main reason for the difference being that those studies used older network energy intensity figures which are significantly higher than figures relevant to 2020" ([DIMPACT and Carbon Trust, 2021](https://www.carbontrust.com/our-work-and-impact/guides-reports-and-tools/carbon-impact-of-video-streaming)). By contrast, [Moulierac et al. (2023)](https://hal.science/hal-04069500/) put the figure higher, at 60-400 grams of CO2 equivalent per hour.
 
-https://juliesbicycle.com/wp-content/uploads/2022/01/JB_Sustainability-in-the-Digital-Age-7-FULL-REPORT.pdf
+See also Seger et al. (2023), [Reducing the Individual Carbon Impact of Video Streaming: A Seven-Week Intervention Using Information, Goal Setting, and Feedback](https://link.springer.com/article/10.1007/s10603-023-09536-9). Julie's Bicycle, a charity that supports arts and culture organisations with their environmental sustainability, has a 2022 report [Environmental Sustainability in the Digital Age of Culture](https://juliesbicycle.com/wp-content/uploads/2022/01/JB_Sustainability-in-the-Digital-Age-7-FULL-REPORT.pdf), which may also offer some useful guidance.
 
+{{<hint info >}}
+
+Should we be trying to shift norms around video streaming? Here's an idea, see what you think. **Halfway through every videoconferencing call, switch off your camera.** Switch it on again near the end to say goodbye. If there's a good reason to make an exception, no problem, leave your camera on. Or you can turn it off, and turn it back on again when you need it.
+
+Try doing this in a casual way, and copy-paste something like this into the chat: "This year I'm participating in the Digital Decarbonisation challenge, turning off my camera for the second half of every videocall to reduce energy consumption (unless it really needs to be on). For more information, see the Digital Humanities Climate Coalition Toolkit: https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html"
+
+If you want, you could also disable incoming video.
+
+Might this catch on? Maybe it needs a catchier name. "I am doing the Streamline the Stream experiment." "I'm participating in the Chop & Chat Challenge." "I'm doing Digital Darksizing 2024." What are your ideas?
+
+Meanwhile, when teaching students online, often the problem is just the opposite: trying to get them to switch their cameras *on*! What's that about?
+
+{{< /hint>}}
 
 ## Communication methods
 **How to communicate within your team**
 
 Communicating within your project team might include sending messages, sharing documents, or videoconferences. While the carbon footprint of the applications and software you will choose is a key element in making this decision, we have included a few additional criteria to help you balance pros and cons of the most frequently used software.
-
 
 **Choosing a videoconference system**
 
