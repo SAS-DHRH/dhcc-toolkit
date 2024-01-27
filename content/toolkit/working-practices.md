@@ -102,6 +102,8 @@ What about **streaming** in general? Streaming is among the more energy-intensiv
 
 See also Seger et al. (2023), [Reducing the Individual Carbon Impact of Video Streaming: A Seven-Week Intervention Using Information, Goal Setting, and Feedback](https://link.springer.com/article/10.1007/s10603-023-09536-9). Julie's Bicycle, a charity that supports arts and culture organisations with their environmental sustainability, has a 2022 report [Environmental Sustainability in the Digital Age of Culture](https://juliesbicycle.com/wp-content/uploads/2022/01/JB_Sustainability-in-the-Digital-Age-7-FULL-REPORT.pdf), which may also offer some useful guidance.
 
+### Digital Decarbonisation / Streamline the Stream Challenge
+
 {{<hint info >}}
 
 Should we be trying to shift norms around video streaming? Here's an idea, see what you think. **Halfway through every videoconferencing call, switch off your camera.** Switch it on again near the end to say goodbye. If there's a good reason to make an exception, no problem, leave your camera on. Or you can turn it off, and turn it back on again when you need it.
@@ -110,7 +112,7 @@ Try doing this in a casual way, and copy-paste something like this into the chat
 
 If you want, you could also disable incoming video.
 
-Might this catch on? Maybe it needs a catchier name. "I am doing the Streamline the Stream experiment." "I'm participating in the Chop & Chat Challenge." "I'm doing Digital Darksizing 2024." What are your ideas?
+Might this catch on? Maybe it needs a catchier name. "I am doing the Streamline the Stream experiment." "I'm participating in the Chop & Chat Challenge." "I'm doing Videoconferless." "I'm doing Digital Darksizing 2024." What are your ideas?
 
 Meanwhile, when teaching students online, often the problem is just the opposite: trying to get them to switch their cameras *on*! What's that about?
 
