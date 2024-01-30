@@ -45,9 +45,13 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 
 {{<columns>}}
 
-[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/)
+## Digital Humanities and the Climate Crisis: A Manifesto
 
-The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
+[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/). The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
+
+## UK-Ireland Digital Humanities Association
+
+The Digital Humanities Climate Coalition is a Community Interest Group of the [UK-Ireland DH Association](https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/).
 
 <--->
 
@@ -64,13 +68,3 @@ See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
 
 ---
 
-## DH Benelux 2022 Workshop (Luxembourg)
-
-The DHCC hosted an afternoon workshop on 31 May 2022 for the [DH Benelux conference](https://2022.dhbenelux.org/).
-
-Themes: \
-(a) decarbonising our research and teaching,\
-(b) working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,\
-(c) transforming DH (and knowledge institutions) within broader transformations of society.
-
-For more information, see the [case studies page](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/dh-benelux-workshop-2022.html](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html)https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html).
