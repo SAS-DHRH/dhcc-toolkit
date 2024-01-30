@@ -44,15 +44,6 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 ---
 
 {{<columns>}}
-## Launch Event
-
-Join us for the launch of the new DHCC toolkit, designed to empower humanists to work towards climate responsible research practices.
-
-Over the last year, we have been developing a series of outputs, including a Toolkit that supports researchers who are trying to lower their carbon footprint. This workshop will launch the DHCC Toolkit, and provide an opportunity to take stock of actions over the last year and consider priorities and potential activities going forward. Digital Humanists from across the UK, Ireland and Europe are warmly invited to participate.
-
-[Register for the Workshop](https://www.eventbrite.co.uk/e/digital-humanities-climate-coalition-tool-kit-launch-and-next-steps-tickets-418935967757)
-
-![DHCC.jpg](DCHH_FINAL_HAZARD.png)
 
 <--->
 
