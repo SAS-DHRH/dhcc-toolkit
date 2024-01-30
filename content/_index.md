@@ -45,6 +45,12 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 
 {{<columns>}}
 
+{{<hint info>}}
+[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/)
+
+The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
+{{</hint>}}
+
 <--->
 
 ### A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan
@@ -60,11 +66,7 @@ See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
 
 
 
-{{<hint info>}}
-[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/)
 
-The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
-{{</hint>}}
 
 ---
 
