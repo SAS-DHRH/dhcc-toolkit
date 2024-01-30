@@ -61,7 +61,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 ## A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan
 
-Our Information, Measurement and Practice Group has published this guide which aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
+This guide aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
 
 DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan (v0.6). Zenodo. [![button](./zenodo.6451499.svg)](https://doi.org/10.5281/zenodo.6451499)
 
