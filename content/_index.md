@@ -35,7 +35,7 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 
   ## Join the mailing list
   
-  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](mailto:cdcs@ed.ac.uk). We plan to have some regular informal conversations in 2023 to explore further developing the toolkit and other next steps.
+  If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](mailto:cdcs@ed.ac.uk). We are holding regular informal conversations in 2024 to explore further developing the toolkit and other next steps.
   
   ### Curated by (in alphabetical order) [Anne Baillot](https://cv.archives-ouvertes.fr/annebaillot), [James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker), [Jenny Bunn](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/jenny-bunn/), Alex Cline, Michael Faerber, Charlotte Feidicker, Josephine Lethbridge, Matthew McConkey, [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/), [Christopher Ohge](https://christopherohge.com/), [Torsten Roeder](http://torstenroeder.de/), [Martin Steer](https://github.com/martysteer), [Jo Lindsay Walton](https://www.jolindsaywalton.com/), [Elizabeth Williamson](https://english.exeter.ac.uk/staff/ewilliamson/)
   
@@ -47,11 +47,15 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 
 ## Digital Humanities and the Climate Crisis: A Manifesto
 
-[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/). The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.
+[Digital Humanities and the Climate Crisis: A Manifesto](https://dhc-barnard.github.io/envdh/). "The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [...] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions."
 
 ## UK-Ireland Digital Humanities Association
 
-The Digital Humanities Climate Coalition is a Community Interest Group of the [UK-Ireland DH Association](https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/).
+The Digital Humanities Climate Coalition is a Community Interest Group of the [UK-Ireland DH Association](https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/). "The Association builds on existing research conducted by the partner institutions and brings together different stakeholders to consider and interrogate critically the concepts of sustainability, inclusivity, training, advocacy and career progression, among other key questions. Institutions and individuals engaged with the Association, across the UK and Ireland, will work to further develop a collaborative vision for the field, and create new and sustainable long-term partnerships with the international community."
+
+## Workshops and Talks
+
+Members of the DHCC have given talks and workshops related to this toolkit in various contexts including [DH Benelux](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html), the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, [Jo Lindsay Walton](mailto:j.c.walton@sussex.ac.uk), James Baker, Christopher Ohge, or Lisa Otty.
 
 <--->
 
