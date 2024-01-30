@@ -14,7 +14,7 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 
 This toolkit is a guide to making your research practices more environmentally responsible. It is geared towards digital practices, but also touches on general areas such as travel and advocacy. We hope it will be relevant to researchers, educators, students, administrators, librarians, technicians, and others. The toolkit aims to highlight actionable solutions, while also critically reflecting on their nuances, in the broader context of climate justice. It is a community-developed work-in-progress, and you are warmly invited to contribute.
   
-  ## Where to start?
+## Where to start?
 
 If you have a specific question, check if it listed in the [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}}) section. Or browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
@@ -59,7 +59,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 <--->
 
-### A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan
+## A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan
 
 Our Information, Measurement and Practice Group has published this guide which aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
 
