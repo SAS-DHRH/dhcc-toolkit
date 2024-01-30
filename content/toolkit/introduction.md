@@ -39,7 +39,7 @@ Areas we are particularly interested in developing include:
 - **Preservation, archiving, and curation**. These areas are touched on briefly under [Working Practices](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html), but we see room for considerable expansion (or smart signposting).
 - **Systems change**. Linking individual- and project-level best practice to climate justice activism and broader systems change.
 
-Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting [Christopher Ohge](christopher.ohge@sas.ac.uk), Jo Lindsay Walton, Lisa Otty, James Baker, or Marty Steer with your ideas.
+Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting [Christopher Ohge](mailto:christopher.ohge@sas.ac.uk), Jo Lindsay Walton, Lisa Otty, James Baker, or Marty Steer with your ideas.
 
 ## Further reading ##
 
