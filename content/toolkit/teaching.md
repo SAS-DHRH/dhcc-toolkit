@@ -39,4 +39,5 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 * Humanistica: [page d'accueil](https://www.humanisti.ca/adhesion/)
 * Taiwanese Association for the Digital Humanities: [front page](https://tadh.org.tw/en/)
 * Digital Humanities Alliance for Research and Teaching Innovations: [front page](https://dhdharti.in/)
+* British Computing Society, [Net Zero Digital](https://netzerodigital.bcs.org/)
 * [Media, Arts and Humanities Sustainability Educator Toolkit](https://openpress.sussex.ac.uk/sustainabilityeducatortoolkit): Not specifically about DH, but does explore how to embed sustainability in any subject
