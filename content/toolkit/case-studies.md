@@ -16,7 +16,7 @@ The first two case studies in what we hope will be a growing library.
 *Josephine Lethbridge and Jo Lindsay Walton, November 2023*
 
 {{< hint info >}}
-## Highlights ##
+### Highlights ###
 - GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.
 - Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.
 - Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.
@@ -119,24 +119,24 @@ When calculated on this level of granularity, Greenly is confident that up to 55
 
 *The action-items on the group [Jamboard](https://jamboard.google.com/d/1XfFs1dEdQ_vOWfpuybf7H4dKCQbglgGhv3u6tkZTMmM/viewer?f=0) after the workshop finished (31 May 2022)*
 
-### Description
+### 2.1 Description
 *James Baker, Lisa Otty, Christopher Ohge et al. 2022*
 
 This was a workshop run in 2022 with DH researchers as the primary audience. We underscored how as arts and humanities researchers it is our role to probe the values, the power structures, and the future imaginaries that underpin sustainable digital solutions. Moreover, given the immense and monopolistic power wielded by the global tech sector, and the critiques of this power that are part of the Digital Humanities, this community is well positioned to create change and demonstrate to our colleagues and collaborators how change can happen. Our use of technology and infrastructure should be informed by the ways corporate economic, cultural, and scientific power perpetuates and exacerbates the crisis. Choosing a hardware or hosting provider, for example, should mean considering direct environmental impacts, broader environmental policies and record of the provider, and more broadly still, the kinds of collective future that such a collaborative encounter presupposes. We should be able to candidly explore the complex and sometimes contradictory nature of our ecological impact: we should be able to measure and model where possible, while also creating context around our measurements, flagging uncertainties, and advocating for transforming wider conditions.
 
 
-### Themes
+### 2.2 Themes
 
 1. decarbonising our research and teaching,
 2. working at the intersection of humanities and digital technology to understand the role of data science in climate transition and climate justice,
 3. transforming DH (and knowledge institutions) within broader transformations of society.
 
 
-### Notes
+### 2.3 Notes
 
 Access the workshop notes on this [Etherpad Document](https://etherpad.wikimedia.org/p/DHCC-tool-kit-workshop).
 
-### Structure
+### 2.4 Structure
 
 **Introductions. Refining questions, challenges, opportunities (40 mins)**
 
@@ -166,4 +166,63 @@ Third, participants will be asked to vocalise their next steps, the commitments 
 - How can we translate what we discussed into concrete next steps?
 - Possible next steps inspired by an earlier DHCC workshop and maybe H4F workshops [10 min]
 - Ask participants what commitments they can make for the next week, month, year, collect those commitments on Jamboard and discuss [20-25 min]
-- Pick [a commitment and ecard](https://friendsoftheearth.uk/take-part/send-ecofriendly-ecard) and schedule the card to be sent in a week/month/year as a reminder 
+- Pick [a commitment and ecard](https://friendsoftheearth.uk/take-part/send-ecofriendly-ecard) and schedule the card to be sent in a week/month/year as a reminder
+
+## Case Study 3: Sussex Digital Humanities Lab Servers ##
+
+### 3.1 Context ###
+SHL Digital is a multi-disciplinary digital humanities lab that relies on digital infrastructure to support research and collaboration. In many cases the requirements of these infrastructure requirements cannot be met by running software on personal computers, e.g. because the computational processing power required is too high, or the hosted service requires a permanent online presence.
+
+To meet these needs so far, the SHL Digital has been relying on its own servers and staff to run 'containers' that provide researchers with isolated platforms to run their software. These containers can manage most computational tasks (short of machine-learning applications that require high amounts of GPU power), and can run any custom software that runs on the Linux operating system. In late 2023 and early 2024 we carried out a review, including estimates of carbon impacts.
+
+### 3.2 Hardware and basic CO2 estimates ###
+SHL Digital servers are three high-power computers which were bought together in 2018. These were fairly standard commercial servers for the time, and Dell provides their own estimates of the CO2 impact of these servers based on a 4 year life span:
+
+* Two Dell Poweredge R440 servers, 2x7360 kg CO2, 2x1155 kg of which is carbon produced in manufacturing, and the majority of the rest is from estimated computational usage
+* One Dell Poweredge R740xd server, 9180 kg CO2, 1321 kg of which is carbon produced in manufacturing, and the majority of the rest is from estimated computational usage
+
+From Dell’s carbon footprint reports: "Dell uses PAIA (Product Attribute to Impact Algorithm) to perform product carbon footprints. PAIA is a streamlined LCA tool developed by MITs Materials System Laboratory. It takes into consideration important attributes of the product which can be correlated to activities in order to calculate the product carbon footprint."
+
+However none of their documentation explains what level of usage is assumed in making these estimates.
+
+### 3.3 Improving usage estimates ###
+Given that it’s possible for us to monitor the CPU usage of our servers, and the number of visitors to our websites, we can make an adjustment to Dell’s estimates, by substituting an impact based on our real usage.
+
+The DHCC Toolkit provides links to resources for calculating carbon impact of computation in a few different contexts. The most relevant for us are:
+
+* [Green Algorithms](http://calculator.green-algorithms.org/) for estimating CO2 impact based on various relevant properties of the server including the ’real usage factor’ of the CPU, and
+* [CO2.js](https://github.com/thegreenwebfoundation/co2.js), which can help us calculate the emissions associated with the number of bytes transmitted from our websites to visitors across internet infrastructure that has its own CO2 impact.
+
+### 3.4 Monitoring real computational usage ###
+Plenty of tools and services exist for aggregating CPU usage over long periods. netdata.cloud provides one such free tool that is very simple to install on all platforms and provides a simple web based user interface that can be accessed either locally or through the netdata.cloud website.
+
+Using this tool to monitor the CPU load of our servers for 2 weeks, we got average values of 7.65%, and 1% for our R440 servers, and 1% for our R750xd server. Entering this and other relevant details into [http://calculator.green-algorithms.org/](http://calculator.green-algorithms.org/), we got 945g and 891g of CO2 per day for our R440s and 450g for our R750xd server.
+
+It’s interesting to note that while our CPU usage is low on both our R440s, it is significantly lower on our second unit, and yet the CO2 calculation is not far different. This implies that at low usage numbers at least, base power usage could be dominating the CO2 output. Further, while the R750xd has similar usage to one of our R440s, the CO2 impact came out roughly half. Given that this unit has half as much memory, perhaps a lot of that base power usage is going into memory use. We could spend some time delving into the details of the calculator to learn more.
+
+All told, the total CO2 impact based on ’real usage’ of processing power is estimated at 2.3 kg/day or 834 kg/year.
+
+### 3.5 Monitoring real data transmission ###
+It’s also possible to get the total data transmission values from the netdata.cloud service, but it’s a little more difficult to coax out the value as a total rather than a rate, and so instead I used a separate tool called goaccess. There’s a handy tutorial for setting this up for long term monitoring here: [https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/](https://arnaudr.io/2020/08/10/goaccess-14-a-detailed-tutorial/)
+
+This provided a monthly data transmission value of 4 GB over a period of a month. A handy tutorial for using CO2.js to calculate CO2 impact from this number can be found here: [https://developers.thegreenwebfoundation.org/co2js/tutorials/getting-started-browser/](https://developers.thegreenwebfoundation.org/co2js/tutorials/getting-started-browser/)
+
+This calculation gave us a value of 1.4 kg/month, or 17kg/year. There’s a possibility that adding this value to the 834 kg/year from computational usage involves some double-counting. We’d have to look into the algorithm that co2.js is using to work out the breakdown of CO2 impact in terms of internet infrastructure and computational power to work out how much, if any.
+
+### 3.6 Our improved estimate ###
+We can now add the manufacturing impact documented in Dell’s documentation to our ’real’ estimates of computational and transmission impacts to get a potentially improved estimate:
+
+* Manufacturing: 3632 kg
+* Real CPU: 834 kg/year
+* Real data transmission: 17 kg/year
+
+Taking the same lifespan assumption as the Dell documentation (4 years): that gives us an overall impact of 7036 kg, which is a third of Dell’s 23900 kg estimate based on an unknown usage factor.
+
+Given our very low usage statistics and the disparity with the Dell estimate, we might assume that the majority of our CO2 impact comes from basic power requirements of the idle system.
+
+### 3.7 Conclusion
+
+This work was undertaken as part of a broader analysis of SHL Digital's resources and needs, in order to plan for efficient provision of these services in the future. This analysis allowed us to weigh sustainability as a factor into those plans. From this perspective, we can ask the following question:
+
+* Could downsizing our server infrastructure to more closely match our real-terms usage and traffic reduce our carbon impact (by reducing manufacturing related CO2 and basic power requirements) without running us into issues of procesing power? At first glance this seems likely.
+* Whether downsizing could also be accompanied by migration to externally hosted and or shared services could be an interesting follow on.
