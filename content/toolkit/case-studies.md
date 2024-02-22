@@ -169,9 +169,10 @@ Third, participants will be asked to vocalise their next steps, the commitments 
 - Pick [a commitment and ecard](https://friendsoftheearth.uk/take-part/send-ecofriendly-ecard) and schedule the card to be sent in a week/month/year as a reminder
 
 ## Case Study 3: Sussex Digital Humanities Lab Servers ##
+*Nicolas Seymour-Smith, February 2024*
 
 ### 3.1 Context ###
-SHL Digital is a multi-disciplinary digital humanities lab that relies on digital infrastructure to support research and collaboration. In many cases the requirements of these infrastructure requirements cannot be met by running software on personal computers, e.g. because the computational processing power required is too high, or the hosted service requires a permanent online presence.
+[SHL Digital](https://sussexhumanitieslab.wordpress.com/) is a multi-disciplinary digital humanities lab that relies on digital infrastructure to support research and collaboration. In many cases the requirements of these infrastructure requirements cannot be met by running software on personal computers, e.g. because the computational processing power required is too high, or the hosted service requires a permanent online presence.
 
 To meet these needs so far, the SHL Digital has been relying on its own servers and staff to run 'containers' that provide researchers with isolated platforms to run their software. These containers can manage most computational tasks (short of machine-learning applications that require high amounts of GPU power), and can run any custom software that runs on the Linux operating system. In late 2023 and early 2024 we carried out a review, including estimates of carbon impacts.
 
