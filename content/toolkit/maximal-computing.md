@@ -66,7 +66,7 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 9. **Explore scheduling and grid-aware computing.** It may be possible to train your model when renewable energy is more plentiful.
 10. **Weigh up the pros and cons of doing it in the Cloud vs. on-prem.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 11. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) of this Toolkit.
-12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute. 
+12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute, hold big AI companies accountable, and advocate for better regulation of AI.
 
 ## Then it gets complicated
 
