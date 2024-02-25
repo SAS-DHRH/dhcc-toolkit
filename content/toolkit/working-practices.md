@@ -243,7 +243,7 @@ It is not only technical questions that should be considered. **Careful curation
 * [International Centre for the Study of the Preservation and Restoration of Cultural Property](https://ocm.iccrom.org/)
 * [Indigenous Archives Collective](https://indigenousarchives.net/)
 
-Quantifying the **financial costs** of sustainable stewardship is difficult, although tools such as [Curation Costs Exchange](https://www.curationexchange.org/)[Total Cost of Stewardship](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html), and [Costing (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/costing/) can help. Making a financial contribution towards ongoing upkeep is not typically costed within research funding applications, but there is perhaps an argument that it should be. Alternatively, a contribution could be made in terms of working with the steward to reduce the cost to them of ‘taking on’ your material. This may involve your taking on the tasks of re-formatting the material, weeding out duplicate or unimportant material, and/or creating additional documentation to ensure that what remains is reusable by others.
+Quantifying the **financial costs** of sustainable stewardship is difficult, although tools such as [Curation Costs Exchange](https://www.curationexchange.org/), [Total Cost of Stewardship](https://www.oclc.org/research/publications/2021/oclcresearch-total-cost-of-stewardship.html), and [Costing (UK Data Service)](https://ukdataservice.ac.uk/learning-hub/research-data-management/plan-to-share/costing/) can help. Making a financial contribution towards ongoing upkeep is not typically costed within research funding applications, but there is perhaps an argument that it should be. Alternatively, a contribution could be made in terms of working with the steward to reduce the cost to them of ‘taking on’ your material. This may involve your taking on the tasks of re-formatting the material, weeding out duplicate or unimportant material, and/or creating additional documentation to ensure that what remains is reusable by others.
 
 If you are passing on the outputs of your work to a different steward (or repository) from the one who was caring for the data on which that work was based, you could also consider contacting the original steward to let them know, and perhaps spark further conversations and knowledge exchange.
   
@@ -275,7 +275,7 @@ In the transition period of the early to mid 2020s, we recommend boldly cutting 
 
 **Slow Research, Slow Travel, Slow Scholarship, Slow Food**
 
-- Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): (https://muse.jhu.edu/article/786251)[https://muse.jhu.edu/article/786251]
+- Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): [https://muse.jhu.edu/article/786251](https://muse.jhu.edu/article/786251)
 - Mountz, Alison, et al. ‘For slow scholarship: A feminist politics of resistance through collective action in the neoliberal university’. ACME: An International Journal for Critical Geographies 14.4 (2015): 1235-1259. [https://acme-journal.org/index.php/acme/article/view/1058](https://acme-journal.org/index.php/acme/article/view/1058)
 - Günel, Gökçe, Saiba Varma, and Chika Watanabe. “A Manifesto for Patchwork Ethnography.” Fieldsights, June 9, 2020. [https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography](https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography)
 - Jungnickel, Katrina. “Getting There… and Back: How Ethnographic Commuting (by Bicycle) Shaped a Study of Australian Backyard Technologists.” Qualitative Research 14, no. 6 (December 1, 2014): 640–55. [https://doi.org/10.1177/1468794113481792](https://doi.org/10.1177/1468794113481792)
@@ -316,7 +316,7 @@ Abbey, Heidi N. “[The Green Archivist: A Primer for Adopting Affordable, Envir
 
 Brabec, Elizabeth, and Elizabeth Chilton. 2015. “Toward an Ecology of Cultural Heritage.” Change Over Time 5 (20): 266–307.
 
-Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): (https://muse.jhu.edu/article/786251)[https://muse.jhu.edu/article/786251]
+Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): [https://muse.jhu.edu/article/786251](https://muse.jhu.edu/article/786251)
 
 Cultural Adaptations. [Adapting our Culture toolkit](https://www.culturaladaptations.com/toolkit/adapting-our-culture-toolkit/). Includes advice on creating a climate adaptation plan, geared toward cultural institutions.
 
