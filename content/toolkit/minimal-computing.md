@@ -113,7 +113,7 @@ Figure: a dizzying diagram of dynamic websites (Image: Partricia Searl, Universi
 
 *Why might you choose one or the other (or both)?*
 
-There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations, and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact. [Wholegrain Digital](https://www.websitecarbon.com/) offer a [well-documented](https://www.websitecarbon.com/how-does-it-work/) tool for estimating the carbon footprint of a website.
+There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations, and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact. [Wholegrain Digital](https://www.websitecarbon.com/) offer a [well-documented](https://sustainablewebdesign.org/calculating-digital-emissions/) tool for estimating the carbon footprint of a website.
 
 *Although, it’s a little more complicated.*
 
@@ -166,56 +166,7 @@ Enabling [lazy loading](https://developer.mozilla.org/en-US/docs/Web/Performance
 
 [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) can also be really useful in making sure that only the minimal image size needed is served to a user. This approach involves generating each image in several sizes, and letting the user's browser select the one which is most appropriate for their screen size, resolution, and DPI. This means that a user on a large Apple monitor may receive a large, clear image file, but that a user on a small phone will receive an image a fraction of the size.
 
-As image creation usually requires multiple sizes and formats to be created, this is often an automated process. Check the documentation or support for your server setup to see if this can be enabled. For instance, WordPress has multiple plugins that can do this, alongside other optimisations (sadly, a full comparison is outside the scope of this document).
-
-### Minify HTML, CSS and scripts {#minify}
-
-‘Minifying’ is a process of removing unnecessary whitespace and line breaks in HTML, CSS and javascripts with the goal of reducing the file sizes to increase page load speeds. Many text editors have plug-ins or packages to minify code (see e.g. [Sublime text minify](https://packagecontrol.io/packages/Minify) and [Atom minify](https://atom.io/packages/atom-minify)). If you’re using XSLT, then use the `normalize-space()` function. E.g.
-
-```
-<xsl:template match="text()">
-<xsl:value-of select="normalize-space(.)"/>
-</xsl:template>
-```
-
-### Avoid library bloat
-
-Code libraries (like jQuery) and frameworks (like Bootstrap) are collections of pre-written code that developers use to save time. They provide ready-made functions and design patterns for common tasks, such as manipulating webpage elements or creating responsive layouts. Libraries and frameworks often come with extensive features, covering needs for a wide range of applications. However, a single web site might only use a small fraction of these available features. The rest of the code, though not used, still gets loaded, adding to the page's weight. So:
-
-* Many libraries and frameworks allow for custom builds where you only select and include the components you need.
-* Opt for modular libraries that let you import only the parts you need. This can significantly reduce the amount of unused code.
-* Review your website’s dependencies from time to time. Remove any libraries or parts of libraries that you no longer use.
-* Try the latest plain vanilla CSS / JavaScript. Some functionalities that once required external libraries can now be achieved with plain CSS and JavaScript.
-
-### Reduce client-side features (i.e. JavaScript) {#client-side}
-
-Web pages need to load, and they can be loaded just once, but when you implement user interaction features, JavaScript continuously runs in the background. For example, it’s now very common for sites to have [parallax scrolling](https://www.youtube.com/watch?v=uTIzW5fZn_4) that redraws the screen when you scroll down the page, but this means that the web page must continuously consume energy on the device.
-
-Other JavaScript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
-
-Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, its use affords the organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
-
-A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
-
-### Benchmark with CO2.js and other tools {#CO2-js}
-
-CO2.js  is a JavaScript library to help web developers and software engineers to estimate their emissions. You can run it in the browser, or in Node.js server environments, or in certain serverless and edge compute runtimes. It can be used within the development process, and/or to integrate carbon impact estimates into the user experience. 
-
-* [Quickstart guide](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
-* [CO2.js GitHub repo](https://github.com/thegreenwebfoundation/co2.js)
-* [Curious about driving the transition to a fossil-free internet? Here’s how CO2.js can help](https://www.thegreenwebfoundation.org/news/curious-about-driving-the-transition-to-a-fossil-free-internet-heres-how-co2-js-can-help/) (February 2023)
-
-CO2.js currently uses [two models to estimate carbon emissions](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/): the [Sustainable Web Design model](https://sustainablewebdesign.org/calculating-digital-emissions/), and the OneByte model. The "perByte" carbon estimates from the OneByte model are lower than those from Sustainable Web Design (given the same amount of data transferred).
-
-Of course, CO2.js needs assumptions about carbon intensity. (Is the data floating to its destination on the wind, waves, or sunbeams? Or is it being propelled there by blazing oil and coal!) Currently CO2.js draws country-scale grid intensity data from [Ember](https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf), enriched with marginal intensity data from the [UNFCCC](https://unfccc.int/).
-
-Page inspector tools built into some browsers may also let you analyse CPU useage.
-
-### Consider mobile-first design {#mobile-first}
-
-Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
-
-In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
+As image creation usually requires multiple sizes and formats to be created, this is often an automated process. Check the documentation or support for your server setup to see if this can be enabled. For instance, WordPress has multiple plugins that can do this, alongside other optimisations (sadly, a full comparison is outside the scope of this toolkit).
 
 ### Responsive image markup {#responsive-image-markup}
 
@@ -237,7 +188,56 @@ Alternatively, an image resizing API might let you store just one image that get
 
 ### Overall visual style {#visual-style}
 
-Reduce or eliminate videos and animation. Use fewer images and make sure you compress them. Try using fewer photographs overall. When you do use photographs, you may want to experiment with visual styles that result in smaller file sizes. For example, you could explore using shallow depth of field, and/or restricted colour palettes. Treat it as a fun challenge: use lightweightness constraints to inspire you to create visually delicious web sites.
+Reduce or eliminate videos and animation. Use fewer images and make sure you compress them. Try using fewer photographs overall. When you do use photographs, you may want to experiment with visual styles that result in smaller file sizes. For example, you could explore using shallow depth of field, and/or restricted colour palettes. Treat it as a fun challenge: use the lightweightness constraints to inspire you to create visually delicious web sites.
+
+### Minify HTML, CSS and scripts {#minify}
+
+‘Minifying’ is a process of removing unnecessary whitespace and line breaks in HTML, CSS and javascripts with the goal of reducing the file sizes to increase page load speeds. Many text editors have plug-ins or packages to minify code (see e.g. [Sublime text minify](https://packagecontrol.io/packages/Minify) and [Atom minify](https://atom.io/packages/atom-minify)). If you’re using XSLT, then use the `normalize-space()` function. E.g.
+
+```
+<xsl:template match="text()">
+<xsl:value-of select="normalize-space(.)"/>
+</xsl:template>
+```
+
+### Reduce client-side features (i.e. JavaScript) {#client-side}
+
+Web pages need to load, and they can be loaded just once, but when you implement user interaction features, JavaScript continuously runs in the background. For example, it’s now very common for sites to have [parallax scrolling](https://www.youtube.com/watch?v=uTIzW5fZn_4) that redraws the screen when you scroll down the page, but this means that the web page must continuously consume energy on the device.
+
+Other JavaScript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
+
+Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, its use affords the organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
+
+A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
+
+### Load only what you need
+
+Code libraries (like jQuery) and frameworks (like Bootstrap) are collections of pre-written code that developers use to save time. They provide ready-made functions and design patterns for common tasks, such as manipulating webpage elements or creating responsive layouts. Libraries and frameworks often come with extensive features, covering needs for a wide range of applications. However, a single web site might only use a small fraction of these available features. The rest of the code, though not used, still gets loaded, adding to the page's weight. So:
+
+* Many libraries and frameworks allow for custom builds where you only select and include the components you need.
+* Opt for modular libraries that let you import only the parts you need. This can significantly reduce the amount of unused code.
+* Review your website’s dependencies from time to time. Remove any libraries or parts of libraries that you no longer use.
+* Try the latest plain vanilla CSS / JavaScript. Some functionalities that once required external libraries can now be achieved with plain CSS and JavaScript.
+
+### Benchmark with CO2.js and other tools {#CO2-js}
+
+CO2.js  is a JavaScript library to help web developers and software engineers to estimate their emissions. You can run it in the browser, or in Node.js server environments, or in certain serverless and edge compute runtimes. It can be used within the development process, and/or to integrate carbon impact estimates into the user experience. 
+
+* [Quickstart guide](https://www.thegreenwebfoundation.org/news/start-calculating-digital-carbon-emissions-in-5-minutes-with-co2-js/)
+* [CO2.js GitHub repo](https://github.com/thegreenwebfoundation/co2.js)
+* [Curious about driving the transition to a fossil-free internet? Here’s how CO2.js can help](https://www.thegreenwebfoundation.org/news/curious-about-driving-the-transition-to-a-fossil-free-internet-heres-how-co2-js-can-help/) (February 2023)
+
+CO2.js currently uses [two models to estimate carbon emissions](https://developers.thegreenwebfoundation.org/co2js/explainer/methodologies-for-calculating-website-carbon/): the [Sustainable Web Design model](https://sustainablewebdesign.org/calculating-digital-emissions/), and the OneByte model. The "perByte" carbon estimates from the OneByte model are lower than those from Sustainable Web Design (given the same amount of data transferred).
+
+Of course, CO2.js needs assumptions about carbon intensity. (Is the data floating to its destination on the wind, waves, or sunbeams? Or is it being propelled there by blazing oil and coal!) Currently CO2.js draws country-scale grid intensity data from [Ember](https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf), enriched with marginal intensity data from the [UNFCCC](https://unfccc.int/).
+
+[Wholegrain Digital's Website Carbon Calculator](https://www.websitecarbon.com/) also offer a tool for estimating the carbon footprint of a website. Most browsers also come with built-in page inspector tools, which in some cases may let you analyse CPU useage and other useful metrics.
+
+### Consider mobile-first design {#mobile-first}
+
+Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+
+In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
 
 ### Fonts {#fonts}
 
@@ -257,7 +257,15 @@ In general, whether a host or server is "green" or not is a complex, and rapidly
 
 Server setup and configuration is a large and complex topic and will depend on what software you're running, but there are some simple steps you can take to reduce data usage. Primarily, aim to make sure that browsers are able to [cache any static content provided](https://nitropack.io/blog/post/web-caching-beginners-guide), for a decent amount of time (such as a year). This avoids the same data having to be sent repeatedly during a single visit to the site, or on short-term return visits.  
 
-Implementing caching effectively involves identifying static content that doesn't change often, such as images and CSS files, which can be stored in the browser cache or on a content delivery network (CDN). Dynamic content and API call results can also be cached by employing strategies like cache busting, where a version number or timestamp is appended to filenames to manage updates. By reducing the amount of data transmitted over the network and decreasing server processing requirements, caching can lower its energy consumption. Generally speaking, static content can be cached for longer periods, whereas dynamic content may require shorter cache durations. Using HTTP headers like Cache-Control helps control how long content is stored in browser caches. 
+Client-side caching occurs on the user's browser. When a user visits a website, resources like images, CSS, and JavaScript files are stored (cached) on their device. If the user returns, the browser can load these resources from the local cache instead of fetching them from the server again. Implementing caching effectively involves identifying static content that doesn't change often, such as images and CSS files, which can be stored in the browser cache or on a content delivery network (CDN). If you're using a CDN provider, that's another opportunity to ask a supplier about their sustainability (and constructively scrutinise their claims). 
+
+Dynamic content and API call results can also be cached by employing strategies like cache busting, where a version number or timestamp is appended to filenames to manage updates. By reducing the amount of data transmitted over the network and decreasing server processing requirements, caching can lower its energy consumption. Generally speaking, static content can be cached for longer periods, whereas dynamic content may require shorter cache durations. Using HTTP headers like Cache-Control helps control how long content is stored in browser caches. 
+
+Server-side caching is about storing a copy of the content generated by the server, such as web pages, images, or other data, so that the server doesn't have to regenerate it from scratch every time a user requests it. This cached content is stored in a temporary location on the server or an [intermediate cache server](https://en.wikipedia.org/wiki/Reverse_proxy) like Varnish Cache. When a page is requested for the first time, the server processes the request, fetches data from a database if needed, generates the HTML for the page, and serves it to the user's browser. With server-side caching, this generated page gets cached for the next user.
+
+### Blocking bots {#bots}
+
+If you find you are popular with our automated friends, consider using a script to discourage them.
 
 ## Software development
 
@@ -306,7 +314,6 @@ In this way, the everyday use of digital systems (for research and other purpose
 * [Solar Protocol](http://solarprotocol.net/): A platform of small solar-powered servers across different global locations. “The network routes internet traffic according to the logic of the sun, where page requests are sent to whichever server is enjoying the most sunlight at the time.”
 
 {{< /hint >}}
-
 
 ## Further reading
 
