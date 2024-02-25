@@ -113,7 +113,7 @@ Figure: a dizzying diagram of dynamic websites (Image: Partricia Searl, Universi
 
 *Why might you choose one or the other (or both)?*
 
-There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations, and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact. [Wholegrain Digital](https://www.websitecarbon.com/) offer a tool for estimating the carbon footprint of a website.
+There are good reasons to create dynamic websites, but a lot of scholarly projects will do just fine with static sites. Most of us are simply trying to communicate information on our websites: blogs, portfolios, project websites, magazines, documentation sites all can be made cheaply and hassle-free with static site generators. For example, if you are putting your CV online, you do not need a WordPress site to do that well. Static site generators, such as [Hugo](https://gohugo.io/), even have excellent themes (e.g. [Academic](https://themes.gohugo.io/themes/hugo-academic/)) for creating content such as CVs. If you have a collection of transcribed manuscripts, you can also publish that as a static site. Dynamic sites work better and are more appropriate for more complex projects that have interactive features like [API](https://en.wikipedia.org/wiki/API)s, search engines, data visualisations, and other structured information stored in databases. That said, even a hybrid site that mixes some dynamic and static content will reduce its carbon impact. [Wholegrain Digital](https://www.websitecarbon.com/) offer a [well-documented](https://www.websitecarbon.com/how-does-it-work/) tool for estimating the carbon footprint of a website.
 
 *Although, it’s a little more complicated.*
 
@@ -144,14 +144,16 @@ If you are accustomed to building websites with online CMS platforms like Square
 ## Tips for sustainable websites {#tips}
 
 {{< hint warning >}}
-**Minimal web design for absolute beginners**
+**Minimal web design for beginners**
 
 - Use fewer videos and images. Make the ones you do use really count! Turn off autoplay for videos, and use lazy loading so that images are only loaded if needed. 
 - Shrink your images using a tool like [Squoosh](https://squoosh.app/).
 - Use the newer WebP image format ([but keep your eye on browser compatibility](https://en.wikipedia.org/wiki/WebP#Support)).
+- Try out vector graphics such as SVG files.
 - Create an attractive, accessible design that favours dark colours. On [some screen types](https://www.wholegraindigital.com/blog/dark-colour-web-design/) they use less energy.
 - Do some research and try to pick a green hosting provider. The [Green Web Foundation’s directory](https://www.thegreenwebfoundation.org/directory/) is one useful resource.
 - Use a tools such as [Ecograder](https://ecograder.com/) and [Webvert](https://www.lewebvert.fr/) (in French), to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
+- If your site is large and/or complex, a search function may help to eliminate unnecessary browsing around.
 - Avoid use of large third-party scripts, such as social media plug-ins or "all-in-one" solutions.
 
 {{< /hint >}}
@@ -176,29 +178,26 @@ As image creation usually requires multiple sizes and formats to be created, thi
 </xsl:template>
 ```
 
-### Fonts {#fonts}
+### Avoid library bloat
 
-Your site’s font can actually have a carbon impact and affect [accessibility](https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/). For example, lightweight sans serif fonts such as Trebuchet are not only good for people with disabilities but they have less ‘weight’ (less tails and flourishes) and therefore require fewer pixels to be displayed. Verdana is also good because it is set wider than most fonts (making it more legible without adding weight). Use one of <span style="text-decoration:underline;">18 [web-safe fonts](https://blog.hubspot.com/website/web-safe-html-css-fonts)</span> to make the content compatible with all browsers and screen readers.
+Code libraries (like jQuery) and frameworks (like Bootstrap) are collections of pre-written code that developers use to save time. They provide ready-made functions and design patterns for common tasks, such as manipulating webpage elements or creating responsive layouts. Libraries and frameworks often come with extensive features, covering needs for a wide range of applications. However, a single web site might only use a small fraction of these available features. The rest of the code, though not used, still gets loaded, adding to the page's weight. So:
 
-If using custom fonts, careful optimisation can reduce the size of a single font from 250kb+ to just 10kb. Like images, the choice of the font's file format is important. Secondly, you can choose to use just a subset of the font's characters to reduce the file size further. [Wholegrain's guide to font sizes](https://www.wholegraindigital.com/blog/performant-web-fonts/) is a good introduction to this, but in general use the WOFF2 format where you can.
-
-### Consider mobile-first design {#mobile-first}
-
-Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
-
-In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
+* Many libraries and frameworks allow for custom builds where you only select and include the components you need.
+* Opt for modular libraries that let you import only the parts you need. This can significantly reduce the amount of unused code.
+* Review your website’s dependencies from time to time. Remove any libraries or parts of libraries that you no longer use.
+* Try the latest plain vanilla CSS / JavaScript. Some functionalities that once required external libraries can now be achieved with plain CSS and JavaScript.
 
 ### Reduce client-side features (i.e. JavaScript) {#client-side}
 
 Web pages need to load, and they can be loaded just once, but when you implement user interaction features, JavaScript continuously runs in the background. For example, it’s now very common for sites to have [parallax scrolling](https://www.youtube.com/watch?v=uTIzW5fZn_4) that redraws the screen when you scroll down the page, but this means that the web page must continuously consume energy on the device.
 
-Other javascript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
+Other JavaScript features which are often requested are things like comments/forums (e.g. Discuss.io) or Web accessibility compliance tools (e.g. Recite me). These can be very useful in the right circumstances, but a minicomp assessment is rarely understood by the executive managers who make the final decisions to purchase such digital services. This maximisation of the technology supply chain through outsourcing is a shape of digital architecture which often results in you paying a company to take a copy of your user's data so you don't have to pay attention to managing that data yourself - and some would not consider this a fair or minimal technical solution.
 
-Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, its use affords the Organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
+Beyond potential structural unfairness introduced by the use of outsourced client-side features, there can be further, more subtle effects on the Organisation. In the specific case of ReCite Me, which is a tool to create inclusive accessible websites, its use affords the organisation to believe that the digital content they create and publish online is always inclusive and conforms to the web accessibility standards - when a more *minicomp* approach might be to spend the time teaching your workforce how to communicate inclusively and how to publish accessible websites to begin with.
 
 A significant proportion of scripts are from third-party advertising or social media services, and from "all-in-one" packages for creating websites. If integrating third-party tools (such as software and plug-ins for building your website, or for sharing your site on social media), consider whether you really need them, and review the size of the files they add carefully. 
 
-### CO2.js {#CO2-js}
+### Benchmark with CO2.js and other tools {#CO2-js}
 
 CO2.js  is a JavaScript library to help web developers and software engineers to estimate their emissions. You can run it in the browser, or in Node.js server environments, or in certain serverless and edge compute runtimes. It can be used within the development process, and/or to integrate carbon impact estimates into the user experience. 
 
@@ -210,6 +209,42 @@ CO2.js currently uses [two models to estimate carbon emissions](https://develope
 
 Of course, CO2.js needs assumptions about carbon intensity. (Is the data floating to its destination on the wind, waves, or sunbeams? Or is it being propelled there by blazing oil and coal!) Currently CO2.js draws country-scale grid intensity data from [Ember](https://ember-climate.org/app/uploads/2022/03/GER22-Methodology.pdf), enriched with marginal intensity data from the [UNFCCC](https://unfccc.int/).
 
+Page inspector tools built into some browsers may also let you analyse CPU useage.
+
+### Consider mobile-first design {#mobile-first}
+
+Many users throughout the world access internet content through mobile phones on slower, less reliable connections, so a mobile-friendly design ensures better accessibility as well as a lightweight design. Loading an image or watching a video on a phone uses less energy than on a great big screen.
+
+In general, this means taking everything in this page together, and conducting testing on at least a handful of devices (such as a phone and a tablet) to check how they respond. Simpler, less detailed designs can improve accessibility and navigation, which in turn can lead to fewer page loads and less data usage all round.
+
+### Responsive image markup {#responsive-image-markup}
+
+Responsive image markup involves using the **srcset** and **sizes** attributes in the <img> tag, to give the browser multiple image sources, plus guidance about which to choose based on the current screen size.
+
+* srcset: This attribute allows you to specify a list of image source files along with their widths. The browser will then choose the most appropriate image based on the screen resolution and the sizes attribute.
+* sizes: This attribute tells the browser how wide the image will be at different breakpoints. Essentially, it's a way to inform the browser about the size of the image as it will be displayed on the page, which helps the browser select the most appropriately sized image from the srcset, e.g.
+
+```
+<img src="default.jpg" 
+     srcset="small.jpg 500w, medium.jpg 1000w, large.jpg 1500w" 
+     sizes="(max-width: 600px) 100vw, 50vw" 
+     alt="Descriptive text">
+```
+
+In this example, 500w, 1000w, and 1500w indicate the width of each image file. The 'sizes' attribute tells the browser to use the full viewport width (100vw) for devices with a width of 600 pixels or less, and half the viewport width (50vw) for devices wider than 600 pixels.
+
+Alternatively, an image resizing API might let you store just one image that gets adjusted as appropriate.
+
+### Overall visual style {#visual-style}
+
+Reduce or eliminate videos and animation. Use fewer images and make sure you compress them. Try using fewer photographs overall. When you do use photographs, you may want to experiment with visual styles that result in smaller file sizes. For example, you could explore using shallow depth of field, and/or restricted colour palettes. Treat it as a fun challenge: use lightweightness constraints to inspire you to create visually delicious web sites.
+
+### Fonts {#fonts}
+
+Your site’s font can actually have a carbon impact and affect [accessibility](https://usabilitygeek.com/10-free-web-based-web-site-accessibility-evaluation-tools/). For example, lightweight sans serif fonts such as Trebuchet are not only good for people with disabilities but they have less ‘weight’ (fewer tails and flourishes) and therefore require fewer pixels to be displayed. Verdana is also good because it is set wider than most fonts (making it more legible without adding weight). Use one of <span style="text-decoration:underline;">18 [web-safe fonts](https://blog.hubspot.com/website/web-safe-html-css-fonts)</span> to make the content compatible with all browsers and screen readers.
+
+If using custom fonts, careful optimisation can reduce the size of a single font from 250kb+ to just 10kb. Like images, the choice of the font's file format is important. Secondly, you can choose to use just a subset of the font's characters to reduce the file size further. [Wholegrain's guide to font sizes](https://www.wholegraindigital.com/blog/performant-web-fonts/) is a good introduction to this, but in general use the WOFF2 format where you can.
+
 ### Hosting {#hosting}
 
 The Green Web Foundation has a [hosting directory](https://www.thegreenwebfoundation.org/directory/) of hundreds of green hosting providers across dozens of countries. In the UK, [Kualo](https://www.kualo.co.uk/webhosting/green-web-hosting) is a very good option.
@@ -218,7 +253,11 @@ Another option could be to host your static site on a platform like [GitHub Page
 
 In general, whether a host or server is "green" or not is a complex, and rapidly-evolving topic - carbon offsets and renewable energy certificate schemes tend to make the underlying definition fairly complicated. At a higher level, you can generalise to a particular country or region based on [its overall energy mix](https://app.electricitymaps.com/map) - Norway, Sweden and Europe are broadly more 'green' than other countries (although this needs to be balanced with data privacy between countries, if personal data is being used).
 
+### Caching
+
 Server setup and configuration is a large and complex topic and will depend on what software you're running, but there are some simple steps you can take to reduce data usage. Primarily, aim to make sure that browsers are able to [cache any static content provided](https://nitropack.io/blog/post/web-caching-beginners-guide), for a decent amount of time (such as a year). This avoids the same data having to be sent repeatedly during a single visit to the site, or on short-term return visits.  
+
+Implementing caching effectively involves identifying static content that doesn't change often, such as images and CSS files, which can be stored in the browser cache or on a content delivery network (CDN). Dynamic content and API call results can also be cached by employing strategies like cache busting, where a version number or timestamp is appended to filenames to manage updates. By reducing the amount of data transmitted over the network and decreasing server processing requirements, caching can lower its energy consumption. Generally speaking, static content can be cached for longer periods, whereas dynamic content may require shorter cache durations. Using HTTP headers like Cache-Control helps control how long content is stored in browser caches. 
 
 ## Software development
 
