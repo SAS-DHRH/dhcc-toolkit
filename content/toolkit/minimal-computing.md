@@ -21,6 +21,7 @@ This section introduces you to minimal computing principles. Minimal computing i
 - Consider ways to reduce digital dependencies (software stacks), and in particular whether static websites and minimalist content management systems are appropriate for your project.
 - When building and editing websites, use minimal web design principles and try to reduce client-side dynamic features.
 - Evaluate green web hosting options.
+- Keep accessibility and inclusive design firmly in mind.
 {{< /hint >}}
 
 What can researchers do to resist techno-utopian, carbon-intensive technological traps? How can we support environmentally responsible design—even if software filled with cool unnecessary features may forever tug on our heartstrings? Minimal computing (minicomp) has at least some of the answers. 
