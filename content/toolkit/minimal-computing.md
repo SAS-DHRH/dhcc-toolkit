@@ -328,11 +328,14 @@ Frick, Tim. _Designing for Sustainability_, O’Reilly, 2016. [https://www.oreil
 
 GO::DH Minimal Computing Working Group ‘Thought Pieces’. [https://go-dh.github.io/mincomp/thoughts/](https://go-dh.github.io/mincomp/thoughts/).
 
+Guldner, Achim et al. "Development and evaluation of a reference measurement model for assessing the resource and energy efficiency of software products and components — Green Software Measurement Model (GSMM)."
+_Future Generation Computer Systems_, Volume 155, 2024. [https://doi.org/10.1016/j.future.2024.01.033](https://doi.org/10.1016/j.future.2024.01.033)
+
 Holmes, Martin and Joey Takeda. 'From Tamagotchis to Pet Rocks: On Learning to Love Simplicity through the Endings Principles'. _Digital Humanities Quarterly_ 17.1 (2023). [https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html](https://digitalhumanities.org/dhq/vol/17/1/000668/000668.html).
 
 Jarrett, Tom. “Designing Sustainable Interaction Design Principles.” Branch Magazine, 15 October 2020, [https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/](https://branch.climateaction.tech/2020/10/15/designing-branch-sustainable-interaction-design-principles/).
 
-Nisa, Claudia F., Jocelyn J. Bélanger, Birga M. Schumpe, and Daiane G. Faller. 2019. ‘Meta-Analysis of Randomised Controlled Trials Testing Behavioural Interventions to Promote Household Action on Climate Change’. Nature Communications 10 (1): 4545. [https://doi.org/10.1038/s41467-019-12457-2](https://doi.org/10.1038/s41467-019-12457-2)
+Nisa, Claudia F., Jocelyn J. Bélanger, Birga M. Schumpe, and Daiane G. Faller. 2019. ‘Meta-Analysis of Randomised Controlled Trials Testing Behavioural Interventions to Promote Household Action on Climate Change’. _Nature Communications_ 10 (1): 4545. [https://doi.org/10.1038/s41467-019-12457-2](https://doi.org/10.1038/s41467-019-12457-2)
 
 Piantella, Benedetta, Alex Nathanson, Tega Brain, and Keita Ohshiro. ‘Solar-Powered Server: Designing for a More Energy Positive Internet’. 2020 CHI Conference on Human Factors in Computing Systems. New York, NY, USA: Association for Computing Machinery, 2020. [https://doi.org/10.1145/3334480.3383155](https://doi.org/10.1145/3334480.3383155).
 
