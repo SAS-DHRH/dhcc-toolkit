@@ -41,3 +41,11 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 * Digital Humanities Alliance for Research and Teaching Innovations: [front page](https://dhdharti.in/)
 * British Computing Society, [Net Zero Digital](https://netzerodigital.bcs.org/)
 * [Media, Arts and Humanities Sustainability Educator Toolkit](https://openpress.sussex.ac.uk/sustainabilityeducatortoolkit): Not specifically about DH, but does explore how to embed sustainability in any subject
+
+_E-Learning_
+
+* [Chartered Institute of IT: Green IT e-learning modules](https://campaign.bcs.org/greenit?utm_content=281134114)
+* [INCO Green Skills](https://www.greenskills.inco-group.co/)
+* [Green Software Foundation](https://learn.greensoftware.foundation/)
+* [Green IT](https://www.greenit.net/greenit_training.html)
+* [Sustainable IT MOOC](https://www.isit-academy.org/#mooc-nr)
