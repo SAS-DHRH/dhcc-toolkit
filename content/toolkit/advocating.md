@@ -37,7 +37,6 @@ Despite this, the Higher Education sector is not where it needs to be. In ten po
 
 “A good chance”: There is intrinsic uncertainty in climate science modelling. Things may be better or worse.
 
-
 ## Move your institution in the right direction {#right-direction}
 
 Advocacy will look different in different institutions. It may often involve:
@@ -53,6 +52,21 @@ Advocacy will look different in different institutions. It may often involve:
 9. **Revolutions**. Exploring possibilities for more radical, innovative, and disruptive approaches.
 10. **Just being you**. For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
 
+## Working with project partners {#project-partners}
+
+Although this section of the toolkit is focused on advocating within your institution, a lot of it may also apply to how you work with partner organisations to support them to develop and deploy digital tools in sustainable ways. Here are a few tools and talking points: 
+
+* [International Energy Association reports](https://www.iea.org/analysis?type=report)
+* Our World in Data, [CO2 and Greenhouse Gas emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions)
+* [Julie's Bicycle](https://juliesbicycle.com/) has lots of resources for arts organisations especially (not just focused on digital sustainability)
+* [The Networked Condition](https://thenetworkedcondition.com/) is a project about "the environmental impact of the creation and delivery of artworks using digital technology," including a carbon calculator
+* [Sustainability: A Surprisingly Successful KPI](https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/)
+* Joe McGrath, ['Cost as a Proxy for Carbon: The Inconvenient Truth'](https://www.kainos.com/insights/blogs/cost-as-a-proxy-for-carbon-the-inconvenient-truth-part-1)
+* From the Green Software Foundation, [The Green Software Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) is a self-assessment tool for organisations to "understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems."
+* [TOSS](https://github.com/Green-Software-Foundation/toss) is a work-in-progress (as of 2024) from the Green Software Foundation which focuses on organisational change, and seeks to "describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives."
+* Carbon Literacy Project offer a variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/)
+* Digital Decarbonisation, [Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a lightweight tool for quickly evaluating the potential carbon impacts of a new data related project
+* Proposal for a [Technology Carbon Standard](https://www.techcarbonstandard.org/)
 
 ## Get involved in supply decisions {#supply-decisions}
 
