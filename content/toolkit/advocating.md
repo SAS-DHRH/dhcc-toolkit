@@ -52,22 +52,6 @@ Advocacy will look different in different institutions. It may often involve:
 9. **Revolutions**. Exploring possibilities for more radical, innovative, and disruptive approaches.
 10. **Just being you**. For example, using your expertise, e.g. as an arts and humanities researcher. To some extent this may already be assumed by institutional strategy.
 
-## Working with project partners {#project-partners}
-
-Although this section of the toolkit is focused on advocating within your institution, a lot of it may also apply to how you work with partner organisations to support them to develop and deploy digital tools in sustainable ways. Here are a few tools and talking points: 
-
-* [International Energy Association reports](https://www.iea.org/analysis?type=report) and Our World in Data's [CO2 and Greenhouse Gas emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions) provide some useful high-level context - decarbonising the digital is important and urgent, but we should also make sure we keep things in proportion (and don't miss out on easy, impactful actions outside of the digital).
-* [Julie's Bicycle](https://juliesbicycle.com/) has lots of resources for arts organisations especially (not just focused on digital sustainability).
-* [The Networked Condition](https://thenetworkedcondition.com/) is a project about "the environmental impact of the creation and delivery of artworks using digital technology," including a carbon calculator.
-* [Sustainability: A Surprisingly Successful KPI](https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/).
-* Joe McGrath, ['Cost as a Proxy for Carbon: The Inconvenient Truth'](https://www.kainos.com/insights/blogs/cost-as-a-proxy-for-carbon-the-inconvenient-truth-part-1).
-* From the Green Software Foundation, [The Green Software Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) is a self-assessment tool for organisations to "understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems."
-* [TOSS](https://github.com/Green-Software-Foundation/toss) is a work-in-progress (as of 2024) from the Green Software Foundation which focuses on organisational change, and seeks to "describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives."
-* Carbon Literacy Project offer a variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/).
-* Digital Decarbonisation, [Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a lightweight tool for quickly evaluating the potential carbon impacts of a new data related project
-* Proposal for a [Technology Carbon Standard](https://www.techcarbonstandard.org/).
-* Of course, the digital is not the enemy of the sustainable. Digital technology has a huge role to play in a rapid and just climate transition. [Rasoldier et al. (2023)](https://inria.hal.science/hal-03949261/document) offer some thought-provoking questions we can use to scrutinise the promised benefits of digital innovation.
-
 ## Get involved in supply decisions {#supply-decisions}
 
 When it comes to choosing suppliers, university workers may feel like we have our hands tied: by IT Services policies, procurement policies, long-term contracts arranged before our arrival, or even larger structures like procurement consortia or legal frameworks.
@@ -112,24 +96,25 @@ At time of writing in late 2022, UK procurement law is [set to be reformed](http
 
 ## Question the Cloud
 
-For many of its users, the Cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage. The [Climate Neutral Data Centre Pact](https://www.climateneutraldatacentre.net/) is a voluntary initiative in support of the European Green Deal.
+For many of its users, the public cloud is invisible infrastructure, barely noticeable except when it breaks. [The Green Grid](https://www.thegreengrid.org/) is an industry consortium focused on data centre energy efficiency and sustainability, and a gateway to a variety of research and resources. Thoughtworks’s [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/docs/overview) is a promising-looking open source project for estimating the carbon footprint of data centre usage. The [Climate Neutral Data Centre Pact](https://www.climateneutraldatacentre.net/) is a voluntary initiative in support of the European Green Deal.
 
-When a university or other institution procures data storage and computing power, this is an opportunity to improve our own environmental impact, and to incentivise much larger players to improve theirs. Currently Cloud services are dominated by Amazon, Google, and Microsoft. Hyperscale datacentres have clear potential to achieve greater sustainability through economies of scale.
+When a university or other institution procures data storage and computing power, this is an opportunity to improve our own environmental impact, and to incentivise much larger players to improve theirs. Currently public cloud services are dominated by Amazon, Google, and Microsoft. Hyperscale datacentres have clear potential to achieve greater sustainability through economies of scale.
 
-At the same time, these are three companies deeply structurally and culturally committed to expanding the role of digital technology in everyday life, including the use of carbon intensive Machine Learning, whose green claims have been heavily dependent on carbon offsetting. In recent years, there has been something of a backlash against the public cloud as a sustainability panacea. See for example the Dark Matter Episode '[The Cloud Fugitive](https://www.youtube.com/watch?v=a30vFpSaoZg).'
+At the same time, these are three companies deeply structurally and culturally committed to expanding the role of digital technology in everyday life, including the use of carbon intensive Machine Learning, whose green claims have been heavily dependent on carbon offsetting. In recent years, there has been something of a backlash against the public cloud as a sustainability panacea. See for example the Dark Matter Episode '[The Cloud Fugitive](https://www.youtube.com/watch?v=a30vFpSaoZg).' At least some large companies are bringing workloads that used to be done on the public cloud back onto their on-premise infrastructure.
 
 Here are just a few questions that might help get the conversations started, both internally with procurement teams, and externally with potential suppliers.
 
 | Question | Notes |
 | --- | --- |
-| What are the broader climate policies of the provider (not just the data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
-| What are the broader ESG policies of the provider? | ESG = Environmental, Social, Governance. |
-| What is the Power Utilisation Efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. |
+| What are the broader climate policies of the provider (not just the cloud / data centre parts of its business)? | [Greenpeace recently explored the green claims of AWS, Google and Microsoft](https://www.greenpeace.org/usa/microsoft-google-amazon-energy-oil-ai-climate-hypocrite/). All three companies are pursuing decarbonisation and at the same time researching AI to support fossil fuel extraction. |
+| What are the broader ESG policies of the provider? | ESG = Environmental, Social, Governance. ESG has its drawbacks, since it is rooted in risk management. If a company has outward impacts which are damaging to the environment, but which are unlikely to pose the company any reputational or legal risk, then those impacts might not negatively impact their ESG ratings. |
+| What is the Power Utilisation Efficiency of the data centre? | In areas where electricity is cheap, there may not be strong incentives to use it as effectively as possible. The PUE metric is widely used in the data centre industry, to express how much of the total energy the data centre uses is used in its computational processes, rather than ancilliary processes such as cooling (1.0 would be a perfect score). It does have its limitations (see e.g. Clouded II documentary). |
 | What is the average localised carbon intensity of electricity powering your data centre(s), for all regions you propose to deliver the service? | See if you can get data for the past few years, and make sure to exclude any carbon offsets when analysing it. |
 | What is the data centre’s carbon footprint? | It is important to pressure Cloud providers to be ever more transparent about the carbon footprint (and other environmental impacts) of their activities. |
 | What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data? | Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them). |
 | To what extent does the provider use carbon offsetting? | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. |
 | Is the data centre’s excess heat redistributed to the district heating network? | Heat may also be captured and used in other ways, i.e. as a supplemental power source. |
+| What are the other local energy needs? | Where the data centre is sited, If the data centre wasn't using the energy, who would be using that energy? |
 | How much electricity does the data centre generate from on-site renewables? |   |
 | Was there opposition to the siting of the data centre from local stakeholders, and how was it resolved? |   |
 | How is the data centre integrated into the local community now? |   |
@@ -216,13 +201,27 @@ If you’re not already familiar with your institution’s governance structure,
 * Business continuity
 * ITS
 
+## Find your external collaborators
+
+Although this section of the toolkit is focused on advocating within your institution, a lot of it may also apply to how you work with partner organisations on research projects, to support them to develop and deploy digital tools in sustainable ways. For example, DH professionals at universities often work with arts, culture, heritage, and creative industries organisations. Here are a few tools and talking points: 
+
+* [International Energy Association reports](https://www.iea.org/analysis?type=report) and Our World in Data's [CO2 and Greenhouse Gas emissions](https://ourworldindata.org/co2-and-greenhouse-gas-emissions) provide some useful high-level context - decarbonising the digital is important and urgent, but we should also make sure we keep things in proportion (and don't miss out on easy, impactful actions outside of the digital).
+* [Julie's Bicycle](https://juliesbicycle.com/) has lots of resources for arts organisations especially (not just focused on digital sustainability).
+* [The Networked Condition](https://thenetworkedcondition.com/) is a project about "the environmental impact of the creation and delivery of artworks using digital technology," including a carbon calculator.
+* [Sustainability: A Surprisingly Successful KPI](https://climateaction.tech/blog/sustainability-kpi-greenops-survey-results/).
+* Joe McGrath, ['Cost as a Proxy for Carbon: The Inconvenient Truth'](https://www.kainos.com/insights/blogs/cost-as-a-proxy-for-carbon-the-inconvenient-truth-part-1).
+* From the Green Software Foundation, [The Green Software Maturity Matrix](https://github.com/Green-Software-Foundation/green-software-maturity-matrix) is a self-assessment tool for organisations to "understand the extent to which they have implemented green principles, patterns, and processes for building and operating their software systems."
+* [TOSS](https://github.com/Green-Software-Foundation/toss) is a work-in-progress (as of 2024) from the Green Software Foundation which focuses on organisational change, and seeks to "describe a framework incorporating a method that is focused on a decision tree approach. It would also reveal where voids exist, providing ideas for future initiatives."
+* Carbon Literacy Project offer a variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/).
+* Digital Decarbonisation, [Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a lightweight tool for quickly evaluating the potential carbon impacts of a new data related project
+* Proposal for a [Technology Carbon Standard](https://www.techcarbonstandard.org/).
+* Of course, the digital is not the enemy of the sustainable. Digital technology has a huge role to play in a rapid and just climate transition. [Rasoldier et al. (2023)](https://inria.hal.science/hal-03949261/document) offer some thought-provoking questions we can use to scrutinise the promised benefits of digital innovation.
 
 ## Find levers to drive change {#levers-of-change}
 
 What are the next big digital infrastructure decisions being made within your institutions and are environmental concerns being taken into account? Explore where the decisions are being made, establish collaborative relationships across the institution, and plug into new sources of information. Things may work differently in theory vs. practice, so conversations can be important to build an understanding of how things have been decided in the past.
 
 Sometimes it may be easier to realise impact in less obvious places. Even a committee that does not have climate as part of its core remit still has sustainability and climate risk responsibilities, and will still be making decisions that have implications for your institution’s carbon footprint, climate risk management, and climate justice impact.
-
 
 ## Confront greenwashing and discourses of delay {#greenwashing}
 
