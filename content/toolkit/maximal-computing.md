@@ -63,7 +63,7 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 6. **Minimise use of multi-modal models.** Prefer task-specific models over multi-purpose models to reduce energy consumption. [Luccioni et al. (2023)](https://arxiv.org/pdf/2311.16863.pdf) write, "This is especially the case for text classification (on IMDB, SST 2 and Rotten Tomatoes) and question answering (on SciQ, SQuAD v1 and v2), where the gap between task-specific and zero-shot models is particularly large, and less so for summarization (for CNN-Daily Mail, SamSUM and XSum)."
 7. **Minimise use of decoder-only models.** There is [some evidence](https://arxiv.org/pdf/2311.16863.pdf) suggesting seq2seq models are slightly less energy intensive.
 8. **Try not to overtrain your model.** You don't need to keep teaching the model something it learned 50 steps ago.
-9. **Explore scheduling and grid-aware computing.** It may be possible to train your model when renewable energy is more plentiful.
+9. **Explore scheduling, carbon-aware computing, and grid-aware computing.** It may be possible to train your model when renewable energy is more plentiful.
 10. **Weigh up the pros and cons of doing it in the Cloud vs. on-prem.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 11. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) of this Toolkit.
 12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute, hold big AI companies accountable, and advocate for better regulation of AI.
@@ -72,10 +72,9 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 
 Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
 
-
 **1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
-**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor IT energy use, whether on-prem or in the Cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? 
+**2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor IT energy use, whether on-prem or in the public cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? 
 
 There are often sustainability benefits from outsourcing to the hyperscale data centres of the cloud giants (e.g. Amazon, Google, Microsoft), but a loss of transparency. 
 
@@ -84,7 +83,7 @@ Can you make sure your computation is done in a relatively [green data centre](h
 See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
 
 {{< hint warning >}}
-It's a good rule of thumb to switch to the most environmentally sustainable datacentres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses. 
+It's a good rule of thumb to switch to the most environmentally sustainable data centres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses. 
 
 {{< /hint >}}
 
@@ -128,6 +127,8 @@ techniques" [(Strubell, Ganesh, and McCallum
 Perhaps it's time for some new types of open licenses, that aim to influence the carbon impact of derivative software and applications? We are of course deeply in favour of open practice. Nonetheless, even here there may be negative considerations too. In some cases a project may be justified by its proportionate use of maximal computing, yet if shared inappropriately, will predictably result in unjustifiable variants.
 {{< /hint >}}
 
+Also check out the Foundation Model Transparency Index project.
+
 **10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective? 
 
 {{< hint info >}}
@@ -150,8 +151,7 @@ metrics to consider when planning your AI research projects are:
 Lacoste et al. have been researching environmental
 impacts of AI, and have developed an online open source [Machine
 Learning CO2 impact calculator](https://mlco2.github.io/impact). 
-Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.org/10.1002/advs.202100707) is another useful flexible tool for estimating carbon impacts, with a useful discussion. 
-
+Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.org/10.1002/advs.202100707) is another useful flexible tool for estimating carbon impacts, with a useful discussion. See also Dodge et al. (2022), ['Measuring the Carbon Intensity of AI in Cloud Instances'](https://www.microsoft.com/en-us/research/uploads/prod/2022/06/CO2_azure_paper.pdf) and Verdecchia et al. (2023), ['A Systematic Review of Green AI'](https://doi.org/10.1002/widm.1507). 
 
 ### Red AI and Green AI
 
