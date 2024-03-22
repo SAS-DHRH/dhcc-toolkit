@@ -16,6 +16,7 @@ intensive work**, including working with AI, blockchains, and big data.
 - Develop a clear understanding of when it is appropriate to use AI and blockchain for a humanities research problem.
 - When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapt existing infrastructures.
 - Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
+- Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.
 {{< /hint >}}
 
 ## Problems of Proportionality
@@ -181,7 +182,7 @@ Contrasting with much of the evidence assembled here, [this 2022 preprint](https
 
 ## Understanding Cloud emissions {#understanding-Cloud}
 
-It also makes a big difference where you train your model. Climatiq offers a series of introductory articles to Cloud emissions:
+It also makes a big difference where (and when) you train and deploy your model. Climatiq offers a series of introductory articles to Cloud emissions:
 
 * [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
 * [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
@@ -190,7 +191,7 @@ It also makes a big difference where you train your model. Climatiq offers a ser
 
 Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
-[The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres. 
+[The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres. To get a rough understanding of where the Cloud's emissions fit into ICT emissions as a whole, the order goes (from largest impact to smallest): manufacturing user devices, running user devices, running data networks, running data centres, manufacturing data networks, manufacturing data centres. This doesn't include crypto though. (We'd like to include some more granular recent data here, if you have any to add).
 
 The environmental pledges and policies of the cloud giants (Microsoft, Amazon, and Google/Alphabet) deserve scrutiny. At the time of writing, the differences between them are significant, but none deserves enthusiastic praise.
 
@@ -199,6 +200,8 @@ The environmental pledges and policies of the cloud giants (Microsoft, Amazon, a
 * [Corporate Climate Responsibility Monitor](https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2023) (2023)
 * [Carbon Market Watch](https://carbonmarketwatch.org/)
 * ['Clouds of Carbon' in Jisc, *Exploring Digital Footprints*](https://repository.jisc.ac.uk/8782/1/exploring-digital-carbon-footprints-report.pdf) (2022)
+
+Learning about Cloud emissions will quite quickly take you into the realm of energy generation and the power grid. For example, the [24/7 carbon-free energy](https://www.energymonitor.ai/tech/networks-grids/is-24-7-carbon-free-energy-the-new-gold-standard-of-decarbonisation/?cf-view) approach, supported by a UN compact, appears to be a big improvement on previous highly financialised 'annual matching' approaches. The [grid-aware computing](https://github.com/climateaction-tech/grid-aware-software) approach also seems to improve substantially on carbon-aware computing. 
 
 ### FinOps and GreenOps {#finOps}
 
