@@ -197,9 +197,11 @@ The environmental pledges and policies of the cloud giants (Microsoft, Amazon, a
 
 * [Amazon Employees 4 Climate Justice](https://amazonemployees4climatejustice.medium.com/)
 * [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/assets/pdf/clouded-guide.pdf) and [film](https://www.consciouslyhybrid.com/#film) (2022)
+* [*Clouded II*](https://clouded.tv/) (2024)
 * [Corporate Climate Responsibility Monitor](https://newclimate.org/resources/publications/corporate-climate-responsibility-monitor-2023) (2023)
 * [Carbon Market Watch](https://carbonmarketwatch.org/)
 * ['Clouds of Carbon' in Jisc, *Exploring Digital Footprints*](https://repository.jisc.ac.uk/8782/1/exploring-digital-carbon-footprints-report.pdf) (2022)
+* [News article focusing on Latin America](https://news.mongabay.com/2024/03/critics-fear-catastrophic-energy-crisis-as-ai-is-outsourced-to-latin-america/)
 
 Learning about Cloud emissions will quite quickly take you into the realm of energy generation and the power grid. For example, the [24/7 carbon-free energy](https://www.energymonitor.ai/tech/networks-grids/is-24-7-carbon-free-energy-the-new-gold-standard-of-decarbonisation/?cf-view) approach, supported by a UN compact, appears to be a big improvement on previous highly financialised 'annual matching' approaches. The [grid-aware computing](https://github.com/climateaction-tech/grid-aware-software) approach also seems to improve substantially on carbon-aware computing. 
 
