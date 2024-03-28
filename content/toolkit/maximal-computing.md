@@ -225,8 +225,8 @@ Further reading:
 ](https://blog-idceurope.com/finops-and-greenops-strategies-in-2023/) (2023).
 * Greenspector, [How do you go from DevOps to DevGreenOps?](https://greenspector.com/en/how-do-you-go-from-devops-to-devgreenops/#3-framework-for-implementing-devgreenops-calms-in-green)
 * GreenPixie, [What is GreenOps?](https://greenpixie.dev/pages/about-creative/)
-* Greenly, [FinOps and GreenOps, How Do They Relate?](https://greenly.earth/en-gb/blog/ecology-news/finops-and-greenops-how-do-they-relate]
-* The New Stack, [What is GreenOps? Putting a Sustainable Focus on FinOps](https://thenewstack.io/what-is-greenops-putting-a-sustainable-focus-on-finops/)
+* Greenly, [FinOps and GreenOps, How Do They Relate?](https://greenly.earth/en-gb/blog/ecology-news/finops-and-greenops-how-do-they-relate)
+* The New Stack, [What is GreenOps? Putting a Sustainable Focus on FinOps](https://thenewstack.io/what-is-greenops-putting-a-sustainable-focus-on-finops/) (2023)
 
 ## Quantum computing {#quantum-computing}
 
