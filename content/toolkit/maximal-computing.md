@@ -207,18 +207,26 @@ Learning about Cloud emissions will quite quickly take you into the realm of ene
 
 ### FinOps and GreenOps {#finOps}
 
-Within business, there is already a considerable body of theory and practice around Cloud optimisation, associated with the [FinOps](https://www.finops.org/introduction/what-is-finops/) approach. FinOps actions taken to reduce Cloud spend (e.g. reservation management, data lifecycle management, continuous rightsizing) often have the unintended consequence of reducing carbon emissions too (although that's not *always* the case).
+Within business, there is already a considerable body of theory and practice around cloud optimisation, associated with the [FinOps](https://www.finops.org/introduction/what-is-finops/) approach. FinOps actions taken to reduce cloud spend (e.g. reservation management, data lifecycle management, continuous rightsizing) often have the unintended consequence of reducing carbon emissions too (although that's not *always* the case).
 
 Interestingly, FinOps is also not *just* about cost in a narrow sense, but about multidimensional value (for example, the "Iron Triangle" of fast, cheap, and good service). FinOps practitioners are interested in the various trade-offs and co-benefits of using the Cloud in different ways. 
 
-So it looks like there is potential to integrate sustainability (and even climate justice) into FinOps practice. By bringing together financial, IT, and sustainability teams under a common objective, a FinOps Centre of Sustainable Excellence, or a GreenOps Centre of Excellence, might allow these traditionally siloed disciplines to collaborate and share expertise.
+This means there is good potential to integrate sustainability (and even climate justice) into FinOps practice. By bringing together financial, IT, and sustainability teams under a common objective, a FinOps Centre of Sustainable Excellence, or a GreenOps Centre of Excellence, might allow these traditionally siloed disciplines to collaborate and share expertise.
 
-However, we're certainly not there yet. Sustainability is not a prominent theme in FinOps literature. As you might expect, FinOps also leans techno-solutionist, so there could be tensions with any really transformative thinking.
+However, the GreenOps approach is still emerging. Sustainability is not yet a prominent theme in FinOps literature. As you might expect, FinOps also [leans techno-solutionist](https://medium.com/@jolindsaywalton/what-is-greenops-7eed58db87e1), so there is potential for tensions with perspectives such as digital sobriety, Minimal Computing, or degrowth.
 
-Major Cloud providers offer tools that anticipate a FinOps perspective, including [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/), [Microsoft Azure Cost Management](https://azure.microsoft.com/en-gb/products/cost-management), [GCP Cost Management](https://cloud.google.com/cost-management).
+Major cloud providers offer tools that anticipate a FinOps perspective, including [AWS Trusted Advisor](https://aws.amazon.com/premiumsupport/technology/trusted-advisor/), [Microsoft Azure Cost Management](https://azure.microsoft.com/en-gb/products/cost-management), [GCP Cost Management](https://cloud.google.com/cost-management).
 
-Further reading: Filippo Vanara, [IDC, 'Rise of FinOps and GreenOps -- The Importance of These Strategies in 2023 and Beyond'
+Other terms include DevGreenOps (Greenspector) and DevSustainOps (Eric Zie, *Decarbonise the Digital*).
+
+Further reading: 
+
+* Filippo Vanara, [IDC, 'Rise of FinOps and GreenOps -- The Importance of These Strategies in 2023 and Beyond'
 ](https://blog-idceurope.com/finops-and-greenops-strategies-in-2023/) (2023).
+* Greenspector, [How do you go from DevOps to DevGreenOps?](https://greenspector.com/en/how-do-you-go-from-devops-to-devgreenops/#3-framework-for-implementing-devgreenops-calms-in-green)
+* GreenPixie, [What is GreenOps?](https://greenpixie.dev/pages/about-creative/)
+* Greenly, [FinOps and GreenOps, How Do They Relate?](https://greenly.earth/en-gb/blog/ecology-news/finops-and-greenops-how-do-they-relate]
+* The New Stack, [What is GreenOps? Putting a Sustainable Focus on FinOps](https://thenewstack.io/what-is-greenops-putting-a-sustainable-focus-on-finops/)
 
 ## Quantum computing {#quantum-computing}
 
