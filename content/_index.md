@@ -55,7 +55,7 @@ The Digital Humanities Climate Coalition is a Community Interest Group of the [U
 
 ## Workshops and Talks
 
-Members of the DHCC have given talks and workshops related to this toolkit in various contexts including [DH Benelux](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html), the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, [Jo Lindsay Walton](mailto:j.c.walton@sussex.ac.uk), James Baker, Christopher Ohge, or Lisa Otty.
+Members of the DHCC have given talks and workshops related to this toolkit in various contexts including [DH Benelux](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html), the Norwegian Technical University, the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, [Jo Lindsay Walton](mailto:j.c.walton@sussex.ac.uk), James Baker, [Christopher Ohge](mailto:christopher.ohge@sas.ac.uk), or Lisa Otty.
 
 <--->
 
