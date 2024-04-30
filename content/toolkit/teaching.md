@@ -12,13 +12,13 @@ slug: teaching
 
 ### Materialities of the Digital (University of Cambridge)
 
-This optional module is offered as part of the [MPhil in Digital Humanities](https://www.cdh.cam.ac.uk/mphil/) and taught by [Anne Alexander](https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/) The course explores the materiality of digital culture through an investigation of the ‘things’ that undergird our networked world. It also introduces ways of thinking about how these things are made and connected with each other through networks, systems, infrastructures, and architectures with weekly sessions on topics such as cables and networks, data centres, sensors, drones and autonomous vehicles, borders and categories and crowds. 
+This optional module is offered as part of the [MPhil in Digital Humanities](https://www.cdh.cam.ac.uk/mphil/) and taught by [Anne Alexander](https://www.cdh.cam.ac.uk/about/people/dr-anne-alexander/). The course explores the materiality of digital culture through an investigation of the ‘things’ that undergird our networked world. It also introduces ways of thinking about how these things are made and connected with each other through networks, systems, infrastructures, and architectures with weekly sessions on topics such as cables and networks, data centres, sensors, drones and autonomous vehicles, borders and categories and crowds. 
 
 The overarching framework for the course engages with Andreas’ Malm’s theorisation of [Fossil Capital](https://www.versobooks.com/en-gb/products/135-fossil-capital), paying particular attention to the idea of “seeing power as power”, in other words recognising that the choices made by the designers of machines and systems which convert energy sources into ‘work’ are shaped by capitalist social relations as much as technical constraints and possibilities. 
 
 We explore these themes both in the classroom and through other forms of learning, for example through a walking-tour and field trip to the [West Cambridge Data Centre](https://help.uis.cam.ac.uk/service/network-services/hosting-services/hosting/data-centre), to examine the adiabatic cooling system and experience the heat and noise of the data halls firsthand. Students have also taken up the challenge of relying on a solar battery to charge their mobile phone for a week. This exercise is designed to prompt greater awareness of which types of phone activities consume the most energy and reflection on the relationships between user behaviour, design choices and social processes (such as the desire to be part of an ‘always on’ society). 
 
-> The Battery Game - teachers’ instructions and sample reflections from students in the 2023/4 cohort [link here](https://docs.google.com/document/d/1D_ZZzXqQtjDdvy_Ou-DyF60HNPHKoDpac4IXHx2lb7g/edit#heading=h.ktfqe8rwl3xx) 
+> [The Battery Game](https://docs.google.com/document/d/1D_ZZzXqQtjDdvy_Ou-DyF60HNPHKoDpac4IXHx2lb7g/edit#heading=h.ktfqe8rwl3xx) - teachers’ instructions and sample reflections from students in the 2023/4 cohort
 
 ### Data Environmentalism (University of Southampton)
 
