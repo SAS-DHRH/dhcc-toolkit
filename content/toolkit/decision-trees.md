@@ -81,6 +81,8 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 ## I want to build a piece of software
 * Check out the [Software Development](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#software-development) section, and the resources of the [Green Software Foundation](https://greensoftware.foundation/).
+* Check out Green Coding Solutions' [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/), to measure the energy / CO2 consumption of software, especially containerized software.
+* You might also be interested in [Scaphandre](https://github.com/hubblo-org/scaphandre), another open source tool for measuring energy / CO2 consumption of software.
 * Read about [Minimal Computing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles).
 * Think about how your software will fit into the big picture of climate transition by checking out the toolkit's [Climate Change FAQs](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html).
 
