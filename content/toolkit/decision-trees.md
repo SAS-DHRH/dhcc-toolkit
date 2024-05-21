@@ -51,7 +51,8 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * When it comes to designing your website, you could consider factors such as [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic), [Tips for Sustainable Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) and [Critical Design and Systems Change](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change).
 * Additional guidance on [Minimal Computing Principles](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles) may also be helpful for approaches for sustainable website design. 
 * Think about where to [host your website.](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting)
-* After the conclusion of the research project, it is important to consider how you will dispose of and [archive your data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data). 
+* Consider displaying a certification, e.g. [Neuto's Digital Carbon Rating Scale](https://neuto.dev/guide). 
+* After the conclusion of the research project, it is important to consider how you will dispose of and [archive your data](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data).
 
 ## I want to create a digital edition of a book
 
@@ -68,6 +69,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
 * If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
 * The section on [Tips for Sustainable Website Design](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips) includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.
+* Consider displaying a certification, e.g. [Neuto's Digital Carbon Rating Scale](https://neuto.dev/guide). 
 
 ## I want to create a website for a research network
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). If you require a dynamic website, the section on [Content Management Systems](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems) includes links to tools for creating more lightweight dynamic websites. 
