@@ -41,7 +41,7 @@ Areas we are particularly interested in developing include:
 
 Get involved by [collaborating on Github](https://github.com/SAS-DHRH/dhcc-toolkit), [joining the DHCC](https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition), or contacting [Christopher Ohge](mailto:christopher.ohge@sas.ac.uk), Jo Lindsay Walton, Lisa Otty, James Baker, or Marty Steer with your ideas.
 
-This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![ccby](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![by](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)
 
 
 ## Further reading ##
