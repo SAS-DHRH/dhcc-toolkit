@@ -36,6 +36,8 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
   ## Join the mailing list
   
   If you'd like to be kept in the loop about DHCC activities, [ask to be added to the email list](mailto:cdcs@ed.ac.uk). We are holding regular informal conversations in 2024 to explore further developing the toolkit and other next steps.
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
   
   ### Curated by (in alphabetical order) [Anne Baillot](https://cv.archives-ouvertes.fr/annebaillot), [James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker), [Jenny Bunn](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/jenny-bunn/), Alex Cline, Michael Faerber, Charlotte Feidicker, [Josephine Lethbridge](https://josephinelethbridge.com/), Matthew McConkey, [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/), [Christopher Ohge](https://christopherohge.com/), [Torsten Roeder](http://torstenroeder.de/), Nicolas Seymour-Smith, [Martin Steer](https://github.com/martysteer), [Jo Lindsay Walton](https://www.jolindsaywalton.com/), [Elizabeth Williamson](https://english.exeter.ac.uk/staff/ewilliamson/)
   
@@ -69,8 +71,6 @@ DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Gu
   
 See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
 {{</columns>}}
-
-<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
 
 ---
 
