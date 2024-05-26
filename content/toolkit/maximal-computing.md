@@ -13,8 +13,8 @@ intensive work**, including working with AI, blockchains, and big data.
 
 {{< hint info >}}
 ## Key Recommendations ##
-- Develop a clear understanding of when it is appropriate to use AI and blockchain for a humanities research problem.
-- When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapt existing infrastructures.
+- Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for a humanities research problem.
+- When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.
 - Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
 - Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.
 {{< /hint >}}
@@ -135,6 +135,13 @@ Also check out the Foundation Model Transparency Index project.
 {{< hint info >}}
 There is not yet any standard or certification for responsible UX design for computationally intensive software. Maybe you could be the person to develop one?
 {{< /hint >}}
+
+## Responsible AI Governance
+
+There is a rapidly evolving landscape of frameworks, tools, and platforms for developing and deploying AI responsibly. Most of these have yet to credibly integrate climate and environmental considerations. For example, at present, some Algorithmic Impact Assessment (AIAs) tools encourage assessment of the impacts of automated decision-making on ecosystems, while leaving out the environmental costs of developing and deploying the AI models themselves (or vice-versa); other tools invite reflection on those costs, without offering guidance on how to estimate or measuring these costs.
+
+* [OECD catalogue](https://oecd.ai/en/catalogue/tools?objectiveIds=10&page=1)
+* [AI Standards Hub](https://aistandardshub.org/)
 
 ## Measures of Efficiency
 
