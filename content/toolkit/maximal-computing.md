@@ -16,6 +16,7 @@ intensive work**, including working with AI, blockchains, and big data.
 - Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for a humanities research problem.
 - When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.
 - Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
+- Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.
 - Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.
 {{< /hint >}}
 
@@ -209,6 +210,7 @@ The environmental pledges and policies of the cloud giants (Microsoft, Amazon, a
 * [Carbon Market Watch](https://carbonmarketwatch.org/)
 * ['Clouds of Carbon' in Jisc, *Exploring Digital Footprints*](https://repository.jisc.ac.uk/8782/1/exploring-digital-carbon-footprints-report.pdf) (2022)
 * [News article focusing on Latin America](https://news.mongabay.com/2024/03/critics-fear-catastrophic-energy-crisis-as-ai-is-outsourced-to-latin-america/)
+* [GEC's guide for procurers of cloud services](https://globalelectronicscouncil.org/resources/purchaser-guides/sustainability-cloud-service-procurements/) (2019)
 
 Learning about Cloud emissions will quite quickly take you into the realm of energy generation and the power grid. For example, the [24/7 carbon-free energy](https://www.energymonitor.ai/tech/networks-grids/is-24-7-carbon-free-energy-the-new-gold-standard-of-decarbonisation/?cf-view) approach, supported by a UN compact, appears to be a big improvement on previous highly financialised 'annual matching' approaches. The [grid-aware computing](https://github.com/climateaction-tech/grid-aware-software) approach also seems to improve substantially on carbon-aware computing. 
 
