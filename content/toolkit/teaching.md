@@ -28,6 +28,16 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 
 > Three things stand out from my experience of teaching Data Environmentalism. First, students - in the main - really cared, really wanted to know more, and enjoyed the challenge of working in a multi-disciplinary space. Second, they loved the week hooked around Crawford and Joler's "[Anatomy of an Amazon Echo](https://anatomyof.ai/)": I printed a huge copy for us to pour over in class, and that proved really generative. Third, it was extra work, but making the assessment activist focused - a 'public outcome' and a reflexive essay on producing the public outcome - was a big win, as it enabled the students to express their interests/fear/anger in forms that they felt had the potential to change things - such as a [film on greenwashing in the tech sector](https://vimeo.com/779179478) or a [magazine on NTFs](https://issuu.com/digihums/docs/virtual_downfall-matteus_labiak).
 
+### The Digital Sustainability Game
+
+This is a prototype card-based game, based on the contents of the DHCC Toolkit. The [prototype cards can be viewed here](https://docs.google.com/presentation/d/1T08KqkOaDPCbWX5MuUuceSEbYffDygYGtyKxsM_txZs/edit?usp=sharing), and the [prototype rules here](https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing). Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right. If you'd like your own copy of the card deck, [get in touch](mailto:j.c.walton@sussex.ac.uk). 
+
+These cards can also be used in other learning activities. For example: 
+
+1) Warm-up activity. Deal a selection of random ACTION cards to a small group. Have them arrange these on a matrix, where one axis represents the difficulty of implementing the action, and the other axis the impact the action could have. The participants may want to use their own organisations for reference. Once the cards are arranged, choose one or two that look interesting, and have a discussion about them. Optionally, assign roles (organisation, government, stakeholders) and invite them to roleplay, explaining how the action was implemented and what the challenges were.
+   
+2) Near the end of a workshop. In groups, pairs, or solo, invite participants to browse through the ACTION cards for inspiration of things they could actually do in their organisations. Choose a card, and then write SMART goals inspired by the card. The advice on the card will probably have to be adapted to the real world, and to individual circumstances. 
+
 ## Resources
 
 {{< hint warning >}}This section could use your input. Are you embedding climate and sustainability themes in your teaching?  Please get involved! Meanwhile, here are a handful of links.{{</ hint >}}
