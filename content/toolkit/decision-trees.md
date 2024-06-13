@@ -42,6 +42,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * [The Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md) is a high level framework for scoring a software system's carbon emissions. Now an ISO standard. See also [this Green Software Foundation guidance](https://learn.greensoftware.foundation/measurement) on carbon efficiency, energy efficiency, hardware efficiency, measurement and reporting.
 * Investigate a hosting provider's energy source with the [Green Web Check](https://www.thegreenwebfoundation.org/green-web-check/).
 * Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can estimate a website's carbon impact.
+* [Green Algorithms Calculator](https://calculator.green-algorithms.org/) will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.
 * A variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/) are available from the Carbon Literacy Project.
 * Check out Green Coding Solutions' [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/), to measure the energy / CO2 consumption of software, especially containerized software.
 
