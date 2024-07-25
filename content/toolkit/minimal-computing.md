@@ -70,7 +70,7 @@ _Energy Efficiency across Programming Languages (Pereira et. al. 2017)._
 
 **Minimal maintenance**.
 - Why are you still running it?
-- On demand infrastructure.
+- On demand infrastructure: available upon user request, at specific times, and/or in [specific contexts](https://solar.lowtechmagazine.com/about/the-solar-website). This is a complex area subject to [lots of options and discussion](https://github.com/SAS-DHRH/dhcc-toolkit/issues/29).
 - Creating cost models
 - Infrastructure is declared - a knowledge system to load the YAML file into to get your emissions costs back would be great - instead of the calculators.
 - Get the ICT service catalogue to update with emissions/costs.
