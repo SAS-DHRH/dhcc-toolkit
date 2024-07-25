@@ -249,6 +249,8 @@ Pinto, Karan, ['Quantum Tech for Better Climate: A Thesis']((https://medium.com/
 
 ### **GPT-n workshops case study**
 
+*Jo Lindsay Walton*
+
 In some recent workshops to introduce participants to GPT-n text generators, participants fine-tuned a pre-trained model using texts of their choosing.
 
 There were good pedagogic reasons to let everyone choose their own input text, e.g. from Gutenberg, for the fine tuning: it turns the activity into a more exciting experiment. It also made sense for me to do the activity myself, because (1) it\'s easy to forget details when you\'re describing something from memory and notes, and (2) I know from experience that certain fine-tuning texts will \"work well,\" so we would have at least one interesting output to discuss at the end.
