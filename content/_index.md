@@ -68,8 +68,13 @@ This guide aims to help researchers think through the climate-related implicatio
 DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan (v0.6). Zenodo. [![button](./zenodo.6451499.svg)](https://doi.org/10.5281/zenodo.6451499)
 
 ![Beekeeper](beekeeper.jpg)
-  
+
 See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
+
+## The Cloud and the Climate: Navigating AI-Powered Futures
+
+[A 2024 snapshot of the state of AI and the cloud in relation to climate change](https://doi.org/10.5281/zenodo.13850067). Topics covered include GreenOps, green data centres, sustainable cloud reporting tools, renewable energy procurement, carbon accounting and carbon offsets, the ongoing review of the GHG Protocol, current UK policy on sustainable AI, the use of AI to pursue climate and sustainability goals, and emerging approaches to sustainable AI. The report focuses in particular on Amazon AWS, Microsoft Azure, and Google GCP.
+  
 {{</columns>}}
 
 ---
