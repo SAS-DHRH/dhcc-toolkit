@@ -30,7 +30,9 @@ The module ran for the first time in 2022/23. **[The latest reading list is avai
 
 ### The Digital Sustainability Game
 
-This is a card-based game, based on the contents of the DHCC Toolkit. The [cards can be viewed here](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link), and the [rules here](https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing). Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we've played it with groups of 15-20 too. If you'd like your own copy of the card deck, [get in touch](mailto:j.c.walton@sussex.ac.uk). 
+This is a card-based game, loosely based on the contents of the DHCC Toolkit. The [cards can be viewed here](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link), and the [rules here](https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing). Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we've played it with groups of 15-20 too. If you'd like your own copy of the card deck, [get in touch](mailto:j.c.walton@sussex.ac.uk). 
+
+Please also feel free to contribute to the [Digital Sustainability Game Handbook](https://docs.google.com/document/d/1PSzEE1qd_1yhgVyKkhAp7upH3Mm5eMsmjz_SA2nC6fM/edit?usp=sharing), a work-in-progress.
 
 These cards can also be used in other learning activities. For example: 
 
