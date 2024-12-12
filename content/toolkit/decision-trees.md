@@ -36,12 +36,13 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 * Consider how you might make sensible improvements even before you have measured emissions.
 * The [Project Footprinting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting) section offers an introduction to carbon footprinting and concepts such as Emissions Factors.
+* [The CO2.js Playground](https://observablehq.com/@greenweb/co2-js-playground) is a great introduction to the CO2.js library from the Green Web Foundation, which lets you estimate website carbon intensity.
 * [The Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a light touch tool to help you plan a new data project.
 * [The DIMPACT tool](https://dimpact.org/about) estimates emissions associated with audiovisual streaming and other digital activities. 
 * [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) is an open source tool that provides visibility and tooling to measure your cloud carbon emissions. [Here's a case study from ThoughtWorks](https://cloud.google.com/blog/topics/sustainability/how-thoughtworks-uses-cloud-carbon-footprint-for-sustainability).
 * [The Software Carbon Intensity Specification](https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md) is a high level framework for scoring a software system's carbon emissions. Now an ISO standard. See also [this Green Software Foundation guidance](https://learn.greensoftware.foundation/measurement) on carbon efficiency, energy efficiency, hardware efficiency, measurement and reporting, and the [Impact Framework](https://if.greensoftware.foundation/users/quick-start).
 * Investigate a hosting provider's energy source with the [Green Web Check](https://www.thegreenwebfoundation.org/green-web-check/).
-* Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can estimate a website's carbon impact.
+* Tools like [Website Carbon Calculator](https://websitecarbon.com) and [Ecograder](https://ecograder.com/) can automatically estimate a website's carbon impact.
 * [Green Algorithms Calculator](https://calculator.green-algorithms.org/) will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.
 * A variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/) are available from the Carbon Literacy Project.
 * Check out Green Coding Solutions' [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/), to measure the energy / CO2 consumption of software, especially containerized software.
