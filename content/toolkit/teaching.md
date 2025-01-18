@@ -8,6 +8,21 @@ slug: teaching
 
 # Teaching
 
+## Workshops
+
+
+### The Digital Sustainability Game
+
+This is a card-based game, loosely based on the contents of the DHCC Toolkit. A [guide to running a DHCC Workshop based on the Sustainability Card Game can be viewed here](https://github.com/SAS-DHRH/dhcc-toolkit/blob/main/static/2025-01_DHCC_Sustainability-Card-Game-Workshop.pdf). The [cards can be viewed here](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link), and the [rules here](https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing). Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we've played it with groups of 15-20 too. If you'd like your own copy of the card deck, [get in touch](mailto:j.c.walton@sussex.ac.uk). 
+
+Please also feel free to contribute to the [Digital Sustainability Game Handbook](https://docs.google.com/document/d/1PSzEE1qd_1yhgVyKkhAp7upH3Mm5eMsmjz_SA2nC6fM/edit?usp=sharing), a work-in-progress.
+
+These cards can also be used in other learning activities. For example: 
+
+1) Warm-up activity. Deal a selection of random ACTION cards to a small group. Have them arrange these on a matrix, where one axis represents the difficulty of implementing the action, and the other axis the impact the action could have. The participants may want to use their own organisations for reference. Once the cards are arranged, choose one or two that look interesting, and have a discussion about them. Optionally, assign roles (organisation, government, stakeholders) and invite them to roleplay, explaining how the action was implemented and what the challenges were.
+   
+2) Near the end of a workshop. In groups, pairs, or solo, invite participants to browse through the ACTION cards for inspiration of things they could actually do in their organisations. Choose a card, and then write SMART goals inspired by the card. The advice on the card will probably have to be adapted to the real world, and to individual circumstances.
+
 ## Examples
 
 ### Materialities of the Digital (University of Cambridge)
@@ -24,21 +39,9 @@ We explore these themes both in the classroom and through other forms of learnin
 
 This [second year elective module](https://www.southampton.ac.uk/courses/modules/huma2026) (that is, it can be taken by any Humanities student) run by [James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker) draws on scholarship from digital media studies, environmental history, computer science, science and technology studies, climate science, creative practice, and archival science, to examine the past, present, and future intersections of data and the natural environment. It starts with some simple statements - that data is material, is produced by people, is made possible by resource extraction, needs power to survive, and inhabits and resculpts the landscape - before expanding out into a range of topics ([TESCREALism](https://pod.co/dave-troy/understanding-tescreal-with-dr-timnit-gebru-and-mile-torres) and the '[Californian Ideology](https://doi.org/10.1080/09505439609526455)', the [sacking of Timnit Gebru](https://www.wired.com/story/google-timnit-gebru-ai-what-really-happened/), [pollution as a form of colonialism](https://www-jstor-org.soton.idm.oclc.org/stable/j.ctv1jhvnk1), [energy (dis)proportionality](https://royalsociety.org/topics-policy/projects/digital-technology-and-the-planet/)) that encourage humanities students use their skills and perspectives to illuminate and challenge the ecological impacts of computational technologies.
 
-The module ran for the first time in 2022/23. **[The latest reading list is available here](https://rl.talis.com/3/soton/lists/45E3A339-DB56-467E-BFC2-F9736BDCD5AF.html)**. A few reflections from James:
+The module ran for the first time in 2022/23. **[The latest reading list is available here](https://rl.talis.com/3/soton/lists/87B47A57-5292-D55D-7572-C53FF809891F.html)**. A few reflections from James:
 
-> Three things stand out from my experience of teaching Data Environmentalism. First, students - in the main - really cared, really wanted to know more, and enjoyed the challenge of working in a multi-disciplinary space. Second, they loved the week hooked around Crawford and Joler's "[Anatomy of an Amazon Echo](https://anatomyof.ai/)": I printed a huge copy for us to pour over in class, and that proved really generative. Third, it was extra work, but making the assessment activist focused - a 'public outcome' and a reflexive essay on producing the public outcome - was a big win, as it enabled the students to express their interests/fear/anger in forms that they felt had the potential to change things - such as a [film on greenwashing in the tech sector](https://vimeo.com/779179478) or a [magazine on NTFs](https://issuu.com/digihums/docs/virtual_downfall-matteus_labiak).
-
-### The Digital Sustainability Game
-
-This is a card-based game, loosely based on the contents of the DHCC Toolkit. The [cards can be viewed here](https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link), and the [rules here](https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing). Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we've played it with groups of 15-20 too. If you'd like your own copy of the card deck, [get in touch](mailto:j.c.walton@sussex.ac.uk). 
-
-Please also feel free to contribute to the [Digital Sustainability Game Handbook](https://docs.google.com/document/d/1PSzEE1qd_1yhgVyKkhAp7upH3Mm5eMsmjz_SA2nC6fM/edit?usp=sharing), a work-in-progress.
-
-These cards can also be used in other learning activities. For example: 
-
-1) Warm-up activity. Deal a selection of random ACTION cards to a small group. Have them arrange these on a matrix, where one axis represents the difficulty of implementing the action, and the other axis the impact the action could have. The participants may want to use their own organisations for reference. Once the cards are arranged, choose one or two that look interesting, and have a discussion about them. Optionally, assign roles (organisation, government, stakeholders) and invite them to roleplay, explaining how the action was implemented and what the challenges were.
-   
-2) Near the end of a workshop. In groups, pairs, or solo, invite participants to browse through the ACTION cards for inspiration of things they could actually do in their organisations. Choose a card, and then write SMART goals inspired by the card. The advice on the card will probably have to be adapted to the real world, and to individual circumstances. 
+> Three things stand out from my experience of teaching Data Environmentalism. First, students - in the main - really cared, really wanted to know more, and enjoyed the challenge of working in a multi-disciplinary space. Second, they loved the week hooked around Crawford and Joler's "[Anatomy of an Amazon Echo](https://anatomyof.ai/)": I printed a huge copy for us to pour over in class, and that proved really generative. Third, it was extra work, but making the assessment activist focused - a 'public outcome' and a reflexive essay on producing the public outcome - was a big win, as it enabled the students to express their interests/fear/anger in forms that they felt had the potential to change things - such as a [film on greenwashing in the tech sector](https://vimeo.com/779179478) or a [magazine on NTFs](https://issuu.com/digihums/docs/virtual_downfall-matteus_labiak). 
 
 ## Resources
 
