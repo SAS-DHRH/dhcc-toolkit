@@ -82,7 +82,7 @@ The [**Digital Carbon Footprint**](https://www.digitalemissions.org/dcf) tool fr
 
 New technologies for facilitating **data traffic**, like 5G, come with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
 
-For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a “low” Wifi connection you might need 4g CO2 in total, with a “high” Wifi connection you might need 10g CO2 in total. Source: [The Carbon Footprint of Streamiving Video - Fact-Checking the Headlines](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) 
+For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a 'low' Wifi connection you might need 4g CO2 in total, with a 'high' Wifi connection you might need 10g CO2 in total. Source: [The Carbon Footprint of Streaming Video - Fact-Checking the Headlines](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) 
 
 Best practice around **emailing**, especially storage, remains a subject of debate, and we invite perspectives and evidence to inform future editions of the toolkit. You can minimise the impact of emails by following a few simple rules. First, avoid integrating an image footer as a signature in your emails. Second, avoid emailing large groups of people unless it is necessary. Third, a link to a document, rather than an attachment, may save energy.
 
@@ -284,8 +284,8 @@ In the transition period of the early to mid 2020s, we recommend boldly cutting 
 
 **Slow Research, Slow Travel, Slow Scholarship, Slow Food**
 
-- Conti, Meredith. ‘Slow Academic Travel: An Antidote to “Fly Over” Scholarship in the Age of Climate Crisis’, Theatre Topics 31.1 (2021): [https://muse.jhu.edu/article/786251](https://muse.jhu.edu/article/786251)
-- Mountz, Alison, et al. ‘For slow scholarship: A feminist politics of resistance through collective action in the neoliberal university’. ACME: An International Journal for Critical Geographies 14.4 (2015): 1235-1259. [https://acme-journal.org/index.php/acme/article/view/1058](https://acme-journal.org/index.php/acme/article/view/1058)
+- Conti, Meredith. 'Slow Academic Travel: An Antidote to "Fly Over" Scholarship in the Age of Climate Crisis', Theatre Topics 31.1 (2021): [https://muse.jhu.edu/article/786251](https://muse.jhu.edu/article/786251)
+- Mountz, Alison, et al. 'For slow scholarship: A feminist politics of resistance through collective action in the neoliberal university'. ACME: An International Journal for Critical Geographies 14.4 (2015): 1235-1259. [https://acme-journal.org/index.php/acme/article/view/1058](https://acme-journal.org/index.php/acme/article/view/1058)
 - Günel, Gökçe, Saiba Varma, and Chika Watanabe. “A Manifesto for Patchwork Ethnography.” Fieldsights, June 9, 2020. [https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography](https://culanth.org/fieldsights/a-manifesto-for-patchwork-ethnography)
 - Jungnickel, Katrina. “Getting There… and Back: How Ethnographic Commuting (by Bicycle) Shaped a Study of Australian Backyard Technologists.” Qualitative Research 14, no. 6 (December 1, 2014): 640–55. [https://doi.org/10.1177/1468794113481792](https://doi.org/10.1177/1468794113481792)
 - ‘[Should I Attend the Conference? Air Travel Conference / Meeting Justification Tool](https://www.sustainabilityexchange.ac.uk/files/eauc-scotland_air_travel_justification_tool_version_2.pdf).’ A quiz, scorecard, and suggestions for how to interpret your scores.
