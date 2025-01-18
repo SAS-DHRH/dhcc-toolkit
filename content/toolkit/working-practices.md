@@ -11,11 +11,11 @@ slug: working-practices
 
 The research process represents a long path of decision-making that can and should involve assessment of the project or activity's environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) sections.
 
-{{< hint warning >}}
+{{<hint warning>}}
 ## Key Recommendations ##
 - The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as [iFixit](https://www.ifixit.com/) to investigate their longevity and repairability.
 - Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.
-{{< /hint >}}
+{{</hint>}}
 
 {{<hint info>}}
 **Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
@@ -82,18 +82,11 @@ The [**Digital Carbon Footprint**](https://www.digitalemissions.org/dcf) tool fr
 
 New technologies for facilitating **data traffic**, like 5G, come with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
 
-For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a 'low' Wifi connection you might need 4g CO2 in total, with a 'high' Wifi connection you might need 10g CO2 in total. Source: [The Carbon Footprint of Streaming Video - Fact-Checking the Headlines](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines) 
+For example, let’s imagine you use a smartphone for one hour and you stream something in HD quality. With a 'low' Wifi connection you might need 4g CO2 in total, with a 'high' Wifi connection you might need 10g CO2 in total. Source: [The Carbon Footprint of Streaming Video - Fact-Checking the Headlines](https://www.iea.org/commentaries/the-carbon-footprint-of-streaming-video-fact-checking-the-headlines).
 
 Best practice around **emailing**, especially storage, remains a subject of debate, and we invite perspectives and evidence to inform future editions of the toolkit. You can minimise the impact of emails by following a few simple rules. First, avoid integrating an image footer as a signature in your emails. Second, avoid emailing large groups of people unless it is necessary. Third, a link to a document, rather than an attachment, may save energy.
 
 Emails are stored as long as they are in your inbox or in subfolders, so some savings may be made by clearing them out regularly. You can prioritise emails with attached files. There is a small energy cost associated with deleting emails, although our current understanding is that this is typically outweighed by the benefit. However, it's complex and it varies from case-to-case. After all, your emails could be stored on a server powered by clean energy, while the laptop you use to spend time deleting them could be powered by dirty energy (or vice-versa). You can also make sure you regularly unsubscribe from newsletters etc. you're not opening: although this also seems to be something that is asking for a more automated solution in the long-run.
-
-Further reading:
-* [Luciano Rodrigues Viana et al., 'Can sending fewer emails or emptying your inbox really help fight climate change?'](https://theconversation.com/can-sending-fewer-emails-or-emptying-your-inbox-really-help-fight-climate-change-193822) (2022). "Knowing that 85 per cent of email traffic is actually spam, sending fewer emails at the individual level would have a limited influence on decreasing the amount of email traffic on the web."
-* [Luciano Rodrigues Viana et al., 'Sending fewer emails will not save the planet! An approach to make environmental impacts of ICT tangible for Canadian end users'](https://doi.org/10.1016/j.spc.2022.09.025) (2022). "Overall, the main sources of impacts are, in order of importance, the manufacture of electronic devices, the use of electronic devices, and viewing of video streaming. Some iconic digital activities, such as sending emails, contribute very little to a user's annual impact."
-* [Sarah Walkley, The Carbon Cost of an Email](https://carbonliteracy.com/the-carbon-cost-of-an-email/) (2024). "In the grand scheme of things, the impact of email is not the biggest carbon problem humanity faces, but it is an easy one to tackle. [...] There are a number of things that you can do that not only keep email volumes to a minimum, but are also beneficial to tackle the stress and anxiety that comes from email overload."
-* [Think Before You Thank](https://company.ovo.com/think-before-you-thank-if-every-brit-sent-one-less-thank-you-email-a-day-we-would-save-16433-tonnes-of-carbon-a-year-the-same-as-81152-flights-to-madrid/). This is to be read critically. Are thank-you emails "unnecessary"? Are "unactionable" emails always "unnecessary"? Do thank-you emails convey information? What phatic and emotional functions might they fulfil? How might a thank-you email alter the paper-trail? Might we imagine alternative definitions of "unnecessary"? Does everyone living in the UK send on average 10 unnecessary emails per week? What kind of average? What are the details of the "Censuswide research" methodology that produced this figure? Did it involve self-reporting? Have various selection biases and cognitive biases been adequately addressed? What interest does a company like Ovo Energy have in advocating for people to send fewer thank-you emails?
-* [Email Expiry Date Project](https://www.zerocarbon.email/)
 
 **Sharing files**. You might think about using a download link (e.g. provided by Cloud storage) to share documents instead of sending them via e-mail. It is advisable to use online documents especially when: 1) the shared document has a large file size, 2) you have a high number of recipients. 
 
