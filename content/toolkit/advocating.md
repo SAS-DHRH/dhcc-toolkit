@@ -74,8 +74,8 @@ Approved supplier lists can also take decisions away from researchers. You may h
 
 Or if you are the one who is making a decision? It is also worth remembering that rules don't have to be followed.
 
-{{< hint info >}}
-**Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today.
+{{< hint warning >}}
+<strong>Suggested Reading:</strong> Although it is not specifically focused on technology or sustainability, Moten and Harney’s <a href="https://www.akpress.org/the-undercommons.html"><em>The Undercommons: Fugitive Planning and Black Study</em></a> is a thought-provoking read about what it means to work ethically within the constraints of academia today.
 {{< /hint >}}
 
 ### Empowering Procurement
