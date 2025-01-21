@@ -9,8 +9,7 @@ slug: 'minimal-computing'
 # Minimal Computing
 
 > _‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
-
-> [GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
+[GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
 
 This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.
 
@@ -95,11 +94,9 @@ For the full list of Minimal principles, see Jentery Sayers’s ‘[Minimal Defi
 
 ## Static versus dynamic websites {#static-v-dynamic}
 
-{{< hint info >}}
-_As a society we need to start treating computational resources as finite and precious, to be utilised only when necessary, and as effectively as possible. We need frugal computing: achieving the same results for less energy._
+> _As a society we need to start treating computational resources as finite and precious, to be utilised only when necessary, and as effectively as possible. We need frugal computing: achieving the same results for less energy._
 
 [Wim Vanderbauwhede](https://wimvanderbauwhede.github.io/articles/frugal-computing/)
-{{< /hint >}}
 
 A static website has fixed content which appears the same to every user (until it is manually updated). A dynamic website is generated “on the fly” and is more associated with interactivity. Social media sites are dynamic websites, since they are woven together from a variety of user generated content. 
 
@@ -143,7 +140,6 @@ If you are accustomed to building websites with online CMS platforms like Square
 
 ## Tips for sustainable websites {#tips}
 
-{{< hint warning >}}
 **Minimal web design for beginners**
 
 - Use fewer videos and images. Make the ones you do use really count! Turn off autoplay for videos, and use lazy loading so that images are only loaded if needed. 
@@ -155,8 +151,6 @@ If you are accustomed to building websites with online CMS platforms like Square
 - Use a tools such as [Ecograder](https://ecograder.com/) and [Webvert](https://www.lewebvert.fr/) (in French), to see the carbon impact of your site, and learn more about unnecessary elements (e.g. unused Javascript).
 - If your site is large and/or complex, a search function may help to eliminate unnecessary browsing around.
 - Avoid use of large third-party scripts, such as social media plug-ins or "all-in-one" solutions.
-
-{{< /hint >}}
 
 ### Images and Lazy Loading {#images}
 
@@ -277,11 +271,8 @@ You may also want to investigate the efficiencies of different coding languages.
 
 ## Critical design and system change {#system-change}
 
-{{< hint info >}}
-_‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
-
+> _‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
 [Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
-{{< /hint >}}
 
 Minimal computing can sometimes feel like fighting a losing battle. Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
 
@@ -306,7 +297,6 @@ In this way, the everyday use of digital systems (for research and other purpose
 
 ## Case studies {#case-studies}
 
-{{< hint warning >}}
 * [The Endings Project](https://endings.uvic.ca/): This project offers tools, principles, policies and recommendations for digital scholarship practitioners to create accessible, stable, long-lasting resources in the humanities.
 * _[Low-tech Magazine](https://www.lowtechmagazine.com/)_: This magazine runs a static website on a solar panel. In 2018, they outlined how they built a low-carbon website, ‘[How to Build a Low-tech Website?](https://www.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html)’ which offers some practical suggestions for digital publishing.
 * [The University of Virginia Press website](https://www.upress.virginia.edu/) is a static site made with Gatsby.
@@ -315,8 +305,6 @@ In this way, the everyday use of digital systems (for research and other purpose
 * [Herman Melville Electronic Library](https://melville.electroniclibrary.org/): This project is a good example of a hybrid site; it has minimised its dependencies by hosting most of its web components on a static Jekyll site served through GitHub and Netlify, but it also has a bespoke dynamic tool called [TextLab](https://melville.electroniclibrary.org/textlab.html) rendered through Heroku app. For more information on this process, see [this seminar recording](https://www.youtube.com/watch?v=c0B5RFAjsi0&list=PLSTJ8CQ1p25BM4NF249Gy2ImFKCnKG2ft).
 * [Fast Familiar](https://workroom.fastfamiliar.com/we-made-our-first-carbon-neutral-project/) are a group of artists creating socially and environmentally inclusive artworks and projects. They have written blog posts detailing how they have improved the carbon consumption of their website and projects: ‘[We Made Our First Carbon Neutral Project](https://workroom.fastfamiliar.com/we-made-our-first-carbon-neutral-project/)’ and ‘[How We Made Our Website Use 50% Less Energy](https://workroom.fastfamiliar.com/how-we-made-our-website-use-50-less-energy/).’
 * [Solar Protocol](http://solarprotocol.net/): A platform of small solar-powered servers across different global locations. “The network routes internet traffic according to the logic of the sun, where page requests are sent to whichever server is enjoying the most sunlight at the time.”
-
-{{< /hint >}}
 
 ## Further reading
 
