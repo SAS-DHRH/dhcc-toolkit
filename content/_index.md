@@ -6,9 +6,6 @@ description: 'The Digital Humanities Climate Coalition toolkit for Climate Justi
 ---
 
 ![The Digital Humanities Climate Coalition](DCHH_FINAL_LOWER_CASE_HAZARD.png)
-
-
-{{<columns>}}
   
 ## The Digital Humanities Climate Coalition Toolkit
 
@@ -29,8 +26,8 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
 - [Climate Change FAQs]({{< relref path="./toolkit/climate-change-faqs.md" >}})
 - [I Want To ...]({{< relref path="./toolkit/decision-trees.html" >}})
 
+---
 
-<--->
 [![aerial image of al-basrah](usgs-vbLuKHsYIE4-unsplash.jpg)](https://en.wikipedia.org/wiki/Basra#Climate)
 
   ## Join the mailing list
@@ -40,12 +37,8 @@ If you have a specific question, check if it listed in the [I Want To ...]({{< r
   ### Curated by (in alphabetical order) [Anne Baillot](https://cv.archives-ouvertes.fr/annebaillot), [James Baker](https://www.southampton.ac.uk/people/5yrbp5/doctor-james-baker), [Jenny Bunn](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/jenny-bunn/), Alex Cline, Michael Faerber, Charlotte Feidicker, [Josephine Lethbridge](https://josephinelethbridge.com/), Matthew McConkey, [John Moore](https://www.nationalarchives.gov.uk/about/our-research-and-academic-collaboration/our-research-and-people/staff-profiles/john-moore/), [Christopher Ohge](https://christopherohge.com/), [Torsten Roeder](http://torstenroeder.de/), Nicolas Seymour-Smith, [Martin Steer](https://github.com/martysteer), [Jo Lindsay Walton](https://www.jolindsaywalton.com/), [Elizabeth Williamson](https://english.exeter.ac.uk/staff/ewilliamson/)
 
 This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1) ![cc](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1)![by](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1)
-  
-  {{</columns>}}
 
 ---
-
-{{<columns>}}
 
 ## Digital Humanities and the Climate Crisis: A Manifesto
 
@@ -59,7 +52,7 @@ The Digital Humanities Climate Coalition is a Community Interest Group of the [U
 
 Members of the DHCC have given talks and workshops related to this toolkit in various contexts including [DH Benelux](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html), the Norwegian Technical University, the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, [Jo Lindsay Walton](mailto:j.c.walton@sussex.ac.uk), James Baker, [Christopher Ohge](mailto:christopher.ohge@sas.ac.uk), or Lisa Otty.
 
-<--->
+---
 
 ## A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan
 
@@ -74,8 +67,5 @@ See also [Grant Writing]({{< relref path="./toolkit/grant-writing.md" >}}).
 ## The Cloud and the Climate: Navigating AI-Powered Futures
 
 [A 2024 snapshot of the state of AI and the cloud in relation to climate change](https://doi.org/10.5281/zenodo.13850067). Topics covered include GreenOps, green data centres, sustainable cloud reporting tools, renewable energy procurement, carbon accounting and carbon offsets, the ongoing review of the GHG Protocol, current UK policy on sustainable AI, the use of AI to pursue climate and sustainability goals, and emerging approaches to sustainable AI. The report focuses in particular on Amazon AWS, Microsoft Azure, and Google GCP.
-  
-{{</columns>}}
 
 ---
-
