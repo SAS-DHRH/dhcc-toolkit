@@ -266,11 +266,9 @@ Broadly speaking, it is communities in the Global South who are most exposed to 
 
 ## Techno-optimism
 
-{{< hint info >}}
-_"Solutionists deploy technology to avoid politics; they advocate ‘post-ideological’ measures that keep the wheels of global capitalism turning.”_
+> _"Solutionists deploy technology to avoid politics; they advocate ‘post-ideological’ measures that keep the wheels of global capitalism turning.”_
 
 [Evgeny Mozorov](https://www.theguardian.com/commentisfree/2020/apr/15/tech-coronavirus-surveilance-state-digital-disrupt)
-{{< /hint >}}
 
 Techno-optimism could be seen as a form of greenwashing, or a discourse of delay, but it also deserves its own special category. It is of special significance to arts and humanities researchers who work on and with technology (e.g. the Digital Humanities).
 
@@ -317,8 +315,8 @@ Even small changes add up. Are you aware of any policies or common behaviours at
 
 When advocating for smaller changes, be sure to focus on easy wins and changes which support a general shift in attitude and attention. Use small changes to prefigure larger changes, to raise awareness, and to address feelings of powerlessness. If a small change would involve constant disproportionate effort, or encourage policing of behaviours, it’s probably not a good candidate to focus on. Use small changes to make your institution a better place overall. Use small changes to help people feel good about climate action.
 
-{{< hint info >}}
-**Further reading:** [In Praise of Smaller Actions](https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f).
+{{< hint warning >}}
+<strong>Further reading:</strong> <a href="https://medium.com/@jolindsaywalton/in-praise-of-smaller-actions-acfdbeface7f">In Praise of Smaller Actions</a>.
 {{< /hint >}}
 
 ## Advocate for big changes {#big-changes}
