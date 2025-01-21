@@ -38,10 +38,6 @@ For your old devices that are broken beyond repair or upgrade, you can inquire i
 
 In order to have a precise idea of the environmental footprint of a device, you can consult the corresponding Life-Cycle Assessment ([LCA](https://en.wikipedia.org/wiki/Life-cycle_assessment), [here](https://ecoinfo.cnrs.fr/thematiques/analyse-de-cycle-de-vie/) for an explanation in French) that hardware companies usually provide. LCAs are never fully accurate - some of the information they contain are rough estimates, and the criteria that are communicated are only a handful from a long list. But they remain the best way of assessing the digital footprint of a device or hardware.
 
-
-
-
-
 **Device types**
 
 All in all, the fewer devices you purchase and use, the better. The longer a device is used (maybe getting repaired and upgraded), the better. Thinking through what you need a device to do, and how long you intend to keep it for, can not only extend the lifetime that you use the device for (avoiding unnecessary upgrades), but also give you a more enjoyable experience. Embodied carbon (the carbon emissions associated with manufacturing hardware) is a major component of our global digital footprint. 
@@ -70,7 +66,7 @@ If you're using a laptop, check if your fan is operating at maximum power more t
 Unikernels provide a light-weight alternative to traditional VMs or containers. Technologies such as [MirageOS](https://mirage.io/) offer a declarative way to build statically compiled binaries that can run directly over a hypervisor or even over bare metal. This approach allows minimal systems to be built which contain the exact functionality required for the task, even down to being able to specify what parts of a network stack are required. This not only provides opportunity for improving the security of the running system but also can result in energy savings compared to traditional operating systems such as Linux.
 
 {{< hint info >}}
-**Watch:** [Leaving legacy behind. Reducing carbon footprint of network services with MirageOS unikernels](https://media.ccc.de/v/36c3-11172-leaving_legacy_behind), Hannes Mehnert.
+<strong>Watch:</strong> <a href="https://media.ccc.de/v/36c3-11172-leaving_legacy_behind">Leaving legacy behind. Reducing carbon footprint of network services with MirageOS unikernels, Hannes Mehnert.</a>
 {{< /hint >}}
 {{< video "https://media.ccc.de/v/36c3-11172-leaving_legacy_behind/oembed" >}}
 
