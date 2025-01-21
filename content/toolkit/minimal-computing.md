@@ -8,11 +8,9 @@ slug: 'minimal-computing'
 
 # Minimal Computing
 
-{{< hint info >}}
-_‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
+> _‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
 
-[GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
-{{< /hint >}}
+> [GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
 
 This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.
 
