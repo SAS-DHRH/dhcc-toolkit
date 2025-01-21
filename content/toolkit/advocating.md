@@ -75,7 +75,7 @@ Approved supplier lists can also take decisions away from researchers. You may h
 Or if you are the one who is making a decision? It is also worth remembering that rules don't have to be followed.
 
 {{< hint info >}}
-**Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today).
+**Suggested Reading:** Although it is not specifically focused on technology or sustainability, Moten and Harney’s _[The Undercommons: Fugitive Planning and Black Study](https://www.akpress.org/the-undercommons.html)_ is a thought-provoking read about what it means to work ethically within the constraints of academia today.
 {{< /hint >}}
 
 ### Empowering Procurement
@@ -113,7 +113,6 @@ Here are just a few questions that might help get the conversations started, bot
 | What methodologies are used to calculate carbon footprint and other environmental impacts? What types of uncertainty are present in this data? | Some uncertainties may be impossible to eliminate, but it is good to identify them (and in some cases it may be possible to quantify them). Ask about market-based and location-based carbon accounting. Ideally it's good to have data from both methods. |
 | What are the company's decarbonisation targets? What steps have been taken and will be taken to reduce the CO2e emissions associated with the cloud services being tendered? |    |
 | Does the company purchase Renewable Energy Certificates, and/or use Power Purchase Agreements? How about 24/7 hourly matching?  |    |
-
 | To what extent does the provider use carbon offsetting? | Carbon offsetting should be avoided as much as possible. The planet’s capacity to offset emissions is limited. The remaining carbon budget is tiny, and the strongest moral and pragmatic claims to that budget lie in the Global South. Ask about Beyond Value Chain Mitigation. |
 | Is the data centre’s excess heat redistributed to the district heating network? | Heat may also be captured and used in other ways, i.e. as a supplemental power source. Heat re-use in itself is a good sign, although as a rule of thumb, it might also correlate with situating data centres near denser populations where there is more need for scarce renewable resources ... so it is complicated.  |
 | What are the other local energy needs? | Where the data centre is sited, If the data centre wasn't using the energy, who would be using that energy? |
