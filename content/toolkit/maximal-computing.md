@@ -245,8 +245,6 @@ Pinto, Karan, ['Quantum Tech for Better Climate: A Thesis']((https://medium.com/
 
 ## Mini case study {#case-study}
 
-{{< hint info >}}
-
 ### **GPT-n workshops case study**
 
 *Jo Lindsay Walton*
@@ -281,8 +279,6 @@ I don\'t think that the energy savings will be extensive. When I think of all th
 - Spend the time to articulate what I am trying to do and why (not just "to try it out" or "to see what happens").
 - Whenever possible, combine different purposes (try out an experimental approach in a way that may also contribute to a particular project, etc.).
 - Whenever possible, work in an open and shared way, so that others can benefit from my use of the AI.
-
-{{< /hint >}}
 
 
 ## Adapting existing infrastructures {#adapting-infras}
