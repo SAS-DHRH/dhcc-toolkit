@@ -13,7 +13,7 @@ The research process represents a long path of decision-making that can and shou
 
 {{<hint info>}}
 <h2> Key Recommendations </h2>
-<li> The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as [iFixit](https://www.ifixit.com/) to investigate their longevity and repairability.</li>
+<li> The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as <a href="https://www.ifixit.com/">iFixit</a> to investigate their longevity and repairability.</li>
 <li> Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.</li>
 {{</hint>}}
 
