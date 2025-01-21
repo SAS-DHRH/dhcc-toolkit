@@ -130,7 +130,7 @@ Also check out the Foundation Model Transparency Index project.
 
 **10. What affordances are you creating?**: If you are building something, does it encourage or enforce responsible use? Does your choice architecture and UI seek to maximise user engagement, or does it seek to encourage users to be careful and reflective? 
 
-{{< hint info >}}
+{{< hint warning >}}
 There is not yet any standard or certification for responsible UX design for computationally intensive software. Maybe you could be the person to develop one?
 {{< /hint >}}
 
@@ -161,14 +161,11 @@ Lannelongue et al.'s  [Green Algorithms tool](https://doi-org.sussex.idm.oclc.or
 
 ### Red AI and Green AI
 
-{{< hint info >}}
-*"The vital first step toward more equitable and green AI is the clear
+> *"The vital first step toward more equitable and green AI is the clear
 and transparent reporting of electricity consumption, carbon emissions,
 and cost. You can't improve what you can't measure."*
-
 Jesse Dodge, Allen Institute for AI, coauthor of [Green
 AI](https://cacm.acm.org/magazines/2020/12/248800-green-ai/fulltext).
-{{< /hint >}}
 
 In 2020, the Association for Computing Machinery (ACM) suggested that to
 measure efficiency of AI models we need to report on the amount of

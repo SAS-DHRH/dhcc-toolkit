@@ -9,6 +9,7 @@ slug: 'minimal-computing'
 # Minimal Computing
 
 > _‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, **or other factors**.’_
+
 [GO:DH Minimal Computing group](https://go-dh.github.io/mincomp/about/)
 
 This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.
@@ -272,6 +273,7 @@ You may also want to investigate the efficiencies of different coding languages.
 ## Critical design and system change {#system-change}
 
 > _‘Digital technology has ushered in an age of inconspicuous consumption. It is easy to understand the environmental impact of buying 'stuff' or flying across the Atlantic. It is harder to wrap your head around how much energy it takes to fly data across the web.’_
+
 [Arwa Mahdawi, The Guardian](https://www.theguardian.com/commentisfree/2020/feb/12/real-problem-netflix-addiction-arbon-emissions)
 
 Minimal computing can sometimes feel like fighting a losing battle. Joana Moll’s project _[The Hidden Life of an Amazon User](https://www.janavirgin.com/AMZ/amazon.html)_ seeks to make visible the huge amount of code involved in making one simple purchase from Amazon:
