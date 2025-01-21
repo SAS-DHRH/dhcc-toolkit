@@ -60,7 +60,9 @@ This guide aims to help researchers think through the climate-related implicatio
 DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan (v0.6). Zenodo. <button onclick="window.location.href='https://doi.org/10.5281/zenodo.6451499';">https://doi.org/10.5281/zenodo.6451499</button>
 
 See also <a href="./toolkit/grant-writing.md" >Grant Writing</a>.
-
+<br/>
+<br/>
+<br/>
 <img src="beekeeper.jpg" alt="beekeeper">
 
 {{</columns>}}
