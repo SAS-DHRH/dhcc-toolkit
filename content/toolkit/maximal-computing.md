@@ -12,12 +12,12 @@ This section introduces you to "maximal computing," which refers to any **comput
 intensive work**, including working with AI, blockchains, and big data.
 
 {{< hint info >}}
-## Key Recommendations ##
-- Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for a humanities research problem.
-- When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.
-- Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.
-- Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.
-- Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.
+<h2> Key Recommendations </h2>
+<li> Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for a humanities research problem.</li>
+<li> When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.</li>
+<li> Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.</li>
+<li> Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.</li>
+<li> Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.</li>
 {{< /hint >}}
 
 ## Problems of Proportionality
