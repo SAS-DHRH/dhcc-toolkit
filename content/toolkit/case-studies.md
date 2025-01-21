@@ -16,10 +16,10 @@ The first two case studies in what we hope will be a growing library.
 *Josephine Lethbridge and Jo Lindsay Walton, November 2023*
 
 {{< hint info >}}
-### Highlights ###
-- GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.
-- Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.
-- Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.
+<h3> Highlights </h3>
+<li> GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.</li>
+<li> Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.</li>
+<li> Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.</li>
 {{< /hint >}}
 
 **[Hampshire Cultural Trust](https://www.hampshireculture.org.uk/)** (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.

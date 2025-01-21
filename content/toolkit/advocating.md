@@ -8,13 +8,11 @@ slug: advocating-within-your-institution
 
 # Advocating within your institution
 
-{{< hint info >}}
-_Knowledge will never be able to\
+> _Knowledge will never be able to\
 replace respect in man's dealings\
 with ecological systems._\
 \
  — Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)
-{{< /hint >}}
 
 ## Put your institution in context {#put-your-institution-in-context}
 

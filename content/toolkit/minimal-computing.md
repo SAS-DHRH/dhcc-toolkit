@@ -14,7 +14,7 @@ slug: 'minimal-computing'
 This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.
 
 
-{{< hint warning >}}
+{{< hint info >}}
 <h2>Key Recommendations</h2>
 <li> Consider ways to reduce digital dependencies (software stacks), and in particular whether static websites and minimalist content management systems are appropriate for your project.</li>
 <li> When building and editing websites, use minimal web design principles and try to reduce client-side dynamic features</li>

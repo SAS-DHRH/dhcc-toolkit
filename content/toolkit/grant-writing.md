@@ -8,23 +8,23 @@ slug: 'grant-writing'
 
 # Grant Writing
 
-{{< hint info >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
+{{< hint warning >}}This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. {{</ hint >}}
 
 This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won't change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.
 
-{{< hint warning >}}
-## Key Recommendations ##
+{{< hint info >}}
+<h2>Key Recommendations </h2>
 
-- Researchers should include climate impacts in our funding applications.
-- Where there is no dedicated section to do so, other sections (such as Justification of Resources and Data Management Plan) can be used as a workaround.
-- Funders should update application processes to ensure the research they fund is aligned with climate targets.
-- The timescale is tight, so projects already underway should also review their climate impacts (if this was not done at the application stage).
-- The data, tools and skills to design climate optimal research is not yet widespread. Temporary suspension of carbon intensive activities is recommended as we build capacity.
+<li> Researchers should include climate impacts in our funding applications.</li>
+<li> Where there is no dedicated section to do so, other sections (such as Justification of Resources and Data Management Plan) can be used as a workaround.</li>
+<li> Funders should update application processes to ensure the research they fund is aligned with climate targets.</li>
+<li> The timescale is tight, so projects already underway should also review their climate impacts (if this was not done at the application stage).</li>
+<li> The data, tools and skills to design climate optimal research is not yet widespread. Temporary suspension of carbon intensive activities is recommended as we build capacity.</li>
 {{< /hint >}}
 
 ## Funding Landscape ##
 
-Writing in 2023, our view is that:
+Writing in 2024, our view is that:
 
 - **Requirements will change.** The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
 - **But we don't have to wait.** In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.

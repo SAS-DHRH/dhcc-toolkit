@@ -11,14 +11,14 @@ slug: working-practices
 
 The research process represents a long path of decision-making that can and should involve assessment of the project or activity's environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the [Decision Trees](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html) and [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html) sections.
 
-{{<hint warning>}}
-## Key Recommendations ##
-- The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as [iFixit](https://www.ifixit.com/) to investigate their longevity and repairability.
-- Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.
+{{<hint info>}}
+<h2> Key Recommendations </h2>
+<li> The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as [iFixit](https://www.ifixit.com/) to investigate their longevity and repairability.</li>
+<li> Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.</li>
 {{</hint>}}
 
-{{<hint info>}}
-**Read:** Bibliography and raw ideas can be found in the [Frameapad here](https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en).
+{{<hint warning>}}
+<strong>Read:</strong> Bibliography and raw ideas can be found in this <a href="https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en">Frameapad</a>.
 {{</hint>}}
 
 
