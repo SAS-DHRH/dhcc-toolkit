@@ -22,15 +22,15 @@ This toolkit is a guide to making your research practices more environmentally r
 
 If you have a specific question, check if it listed in the <a href="./toolkit/decision-trees.html">I Want To ...</a> section. Or browse the toolkit in any order. If you'd like a suggested pathway, try this:
 
-<li><a href="./toolkit/introduction.md">Introduction</li></a>
-<li><a href="./toolkit/minimal-computing.md" >Minimal Computing</li></a>
-<li><a href="./toolkit/maximal-computing.md" >Maximal Computing</li></a>
-<li><a href="./toolkit/grant-writing.md" >Grant Writing</li></a>
-<li><a href="./toolkit/working-practices.md" >Working Practices</li></a>
-<li><a href="./toolkit/teaching.md" >Teaching</li></a>
-<li><a href="./toolkit/advocating.md" >Advocating Within Your Institution</li></a>
+<li><a href="./toolkit/introduction.html">Introduction</li></a>
+<li><a href="./toolkit/minimal-computing.html" >Minimal Computing</li></a>
+<li><a href="./toolkit/maximal-computing.html" >Maximal Computing</li></a>
+<li><a href="./toolkit/grant-writing.html" >Grant Writing</li></a>
+<li><a href="./toolkit/working-practices.html" >Working Practices</li></a>
+<li><a href="./toolkit/teaching.html" >Teaching</li></a>
+<li><a href="./toolkit/advocating.html" >Advocating Within Your Institution</li></a>
 <li><a href="./toolkit/case-studies.html" >Case Studies</li></a>
-<li><a href="./toolkit/climate-change-faqs.md" >Climate Change FAQs</li></a>
+<li><a href="./toolkit/climate-change-faqs.html" >Climate Change FAQs</li></a>
 <li><a href="./toolkit/decision-trees.html" >I Want To ...</li></a>
 
 <p>This work is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1">CC BY 4.0</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"></p>
