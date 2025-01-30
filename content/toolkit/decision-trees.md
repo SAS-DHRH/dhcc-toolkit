@@ -67,6 +67,13 @@ Our first step below is to build a list of needs, and to signpost relevant evide
   * [Hosting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting) your digital edition with a green hosting provider.
   * And even [fonts](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#fonts)
 
+## I want to digitise a collection
+
+* Consider [low carbon hosting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting), file formats, what resolution is necessary, whether 3D scans are really necessary, hardware longevity, digital access strategies to ensure the resource is used and to prevent unintentional redundancy, and processes for retiring data that is no longer needed.
+* [The Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a light touch tool to help you plan a new data project.
+* [The DIMPACT tool](https://dimpact.org/about) estimates emissions associated with audiovisual streaming and other digital activities. 
+* Currently most [digitalisation guidelines](https://encodemuse.wp.st-andrews.ac.uk/digitisation-guidelines/) don't address environmental considerations.
+
 ## I want to create a personal website
 
 * First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see [Static Versus Dynamic Websites](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic). 
@@ -94,7 +101,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 ## I am writing a Data Management Plan
 See section on [Grant Writing](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing) and [Data Management Plans](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP) for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.
 
-## I am working with an external partner on their digital sustainability
+## I am an academic working with an external partner on their digital sustainability
 * [Julie's Bicycle](https://juliesbicycle.com/) has a lot of resources for arts and culture organisations. This [briefing report](https://juliesbicycle.com/resource/briefing-report-environmental-sustainability-in-the-digital-age-of-culture/) focuses on digital sustainability. [The Networked Condition](https://thenetworkedcondition.com/) has some interesting case studies and tools focused on artworks and the digital. [Gallery Climate Coalition](https://measure.galleryclimatecoalition.org/) offers a carbon calculater for arts organisations.
 * Check out the [Case Studies](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html) section.
 * Many different parts of the toolkit may be relevant, depending on your focus. It can be challenging for smaller organisations to find the resources to prioritise sustainability. Sometimes it may be helpful to focus on co-benefits (e.g. reducing electricity bills), while keeping in mind the big ethical and political questions - are there ways they can raise awareness through their programming or activities, use their experiences to advocate for better climate policies, and/or link their work to existing climate campaigns?
