@@ -257,6 +257,6 @@ Instead, we focussed our energies on building a collective awareness of the envi
 
 4. We held a workshop for members of the project around environmental ethics in research. This workshop was a great opportunity for us to collectively reflect on the environmental impacts of our research practices, and to share and discuss the results of the survey. Learnings from our Carbon Literacy training course were also shared with the wider team.
 
-### Outcomes available online
+### Outcomes on github
 
-A full write-up of the impact of our work, including results of our internal survey and the workshop, is available to view in [this Google doc](https://docs.google.com/document/d/1Kz0KPTXJx7_5tZ2K8ekhw-T3njDorqR2DFWJjFsEGD0/edit?usp=sharing). 
+A full write-up of the impact of our work, including results of our internal survey and the workshop, is available to view in [the DHCC github](https://github.com/SAS-DHRH/dhcc-toolkit/commits?author=tashakitcher). 
