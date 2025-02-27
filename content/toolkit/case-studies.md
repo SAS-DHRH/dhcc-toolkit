@@ -227,3 +227,36 @@ This work was undertaken as part of a broader analysis of SHL Digital's resource
 
 * Could downsizing our server infrastructure to more closely match our real-terms usage and traffic reduce our carbon impact (by reducing manufacturing related CO2 and basic power requirements) without running us into issues of procesing power? At first glance this seems likely.
 * Whether downsizing could also be accompanied by migration to externally hosted and or shared services could be an interesting follow on.
+
+## Case Study 4: Congruence Engine - raising environmental awareness in an interdisciplinary research project ##
+*Natasha Kitcher, Max Long, and Anna-Maria Sichani, January 2025*
+
+### Overview
+
+[Congruence Engine](https://web.archive.org/web/20241127045938/https:/www.sciencemuseumgroup.org.uk/projects/the-congruence-engine) was a digital humanities project which ran between late 2021 and early 2025. Combining the expertise of museum curators, academic historians, and data scientists, the project explored new ways of linking industrial heritage, focussing on three key strands at the heart of UK industrial history: energy, communications, and textiles. Congruence Engine was based at the Science Museum in London, and involved the collaboration of more than two dozen partner organisations from across the UK. 
+
+We were one of five projects funded by the UK’s Arts and Humanities Research Council (AHRC), as part of its [Towards a National Collection (TaNC)](https://web.archive.org/web/20250104230954/https:/www.nationalcollection.org.uk/) funding stream. The TaNC programme explored opportunities for the development of a ‘UK digital collection’ by forging links between heritage items and expanding access to the nation’s collections. 
+ 
+Although UK Research and Innovation (UKRI) and the AHRC have made substantial [infrastructure investments to achieve carbon-neutral computing by 2040](https://web.archive.org/web/20250109092837/https:/net-zero-dri.ceda.ac.uk/), the TaNC programme did not develop a shared environmental impact strategy across the projects that it funded. It was not until the final year of the project that we were able to take the time to reflect on our own environmental impact as a project and what that might mean for future recommendations for the development of collections-linking digital infrastructure. We also wanted to explore how the Science Museum Group's own approach to environmental ethics, including their decision to accept corporate sponsorship from major energy corporations such as Adani, might affect our own positionality as individual researchers and as a collective (see the [SMG sustainability approach](https://www.sciencemuseumgroup.org.uk/our-work/sustainability-approach/), and blogs [(1)](https://blog.sciencemuseumgroup.org.uk/setting-out-our-approach-to-the-centurys-defining-challenge/) and [(2)](https://blog.sciencemuseumgroup.org.uk/statement-from-dame-mary-archer/) on the topic). 
+
+### Our approach
+
+The decentralised and experimental nature of the project, with over 40 investigations taking place simultaneously made it difficult to establish a united approach to environmental ethics. This was also complicated by the interdisciplinary composition of the team, which included museum curators, academic researchers, data and computer scientists, and administrative and managerial staff. The team included individuals employed directly by the Science Museum, as well as collaborators spread across partner institutions. Each team member arrived with a different set of personal priorities and expectations, and technical expertise, as well as being bound by a range of institutional working practices and policies. 
+
+Over the course of the project there were sporadic and ongoing discussions about the environmental and social impacts of digital research, and particularly of computationally intensive tasks involving machine learning (ML) and Large Language Models (LLMs). In the last year of the project we established an environmental impact working group, led by Natasha Kitcher, Max Long, Anna-Maria Sichani, and Kunika Kono. 
+
+This work was kick-started by Kunika Kono’s decision to investigate her own electricity usage during the project. Kunika used a single board computer to run typical tasks involved in her Congruence Engine work, and recorded the electricity required to perform these tasks using a USB-ammeter (a device for measuring the electrical current in a circuit). The group considered if it would be possible to scale this up for the project as a whole, asking each team member to calculate their usage for a day. The aim of this approach would have been to provide tangible insights into the energy demands of the project’s daily computational activities and to promote greater awareness of the environmental impact associated with their work. But, after investigating a range of hardware and software options, we decided that it would not be feasible to undertake this kind of assessment. We realised that measuring local consumption by a representative sample of the team using an ammeter presented technical challenges, particularly in isolating the consumption associated with individual tasks. Moreover, we were conscious of the fact that some of our largest environmental costs were likely associated with cloud services and other external providers. While numerous tools are available to measure these impacts, their value is principally in awareness-raising, and we found they would not enable us to accurately understand our use of LLMs. 
+
+Instead, we focussed our energies on building a collective awareness of the environmental impact of digital research across the project team. Our approach comprised a set of targeted actions:
+
+1. We established a [Zotero group library](https://www.zotero.org/groups/5443684/digital_tools_and_the_environment_-_congruence_engine) on the environmental impacts of computationally intensive research. This has been mainly used as an initial starting point for our own research and work and gradually developed to a dynamic reference point for the entire project team. The library currently contains 71 resources and is now open to the wider cultural heritage community as a work-in-progress - please feel free to join and add your resources too!
+
+2. We ran a qualitative survey to assess our team’s working practices from an environmental point of view, including research and administrative staff. 
+
+3. Two members of the team participated in a two-day Carbon Literacy training organized by the [Heritage Trust Network](https://heritagetrustnetwork.org.uk/events/) for cultural heritage professionals and researchers. 
+
+4. We held a workshop for members of the project around environmental ethics in research. This workshop was a great opportunity for us to collectively reflect on the environmental impacts of our research practices, and to share and discuss the results of the survey. Learnings from our Carbon Literacy training course were also shared with the wider team.
+
+### Outcomes available online
+
+A full write-up of the impact of our work, including results of our internal survey and the workshop, is available to view in [this Google doc](https://docs.google.com/document/d/1Kz0KPTXJx7_5tZ2K8ekhw-T3njDorqR2DFWJjFsEGD0/edit?usp=sharing). 
