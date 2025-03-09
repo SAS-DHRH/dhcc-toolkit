@@ -13,7 +13,7 @@ intensive work**, including working with AI, blockchains, and big data.
 
 {{< hint info >}}
 <h2> Key Recommendations </h2>
-<li> Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for a humanities research problem.</li>
+<li> Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for your  opportunity, challenge, or research question.</li>
 <li> When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.</li>
 <li> Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.</li>
 <li> Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.</li>
@@ -22,9 +22,9 @@ intensive work**, including working with AI, blockchains, and big data.
 
 ## Problems of Proportionality
 
-Maximal computing systems are everywhere these days. For example, AI 
-is used in speech recognition, translation, Natural Language Processing,
-computer vision, image and video generation, and many other areas. In many parts of the world, AI is
+How do we apply digital sufficiency, or digital sobriety, in an era of intense commercial and geopolitical competition around AI? Maximal computing systems are everywhere these days. For example, AI 
+is used in content generation, search, speech recognition, translation, 
+computer vision, and many other areas. In many parts of the world, AI is
 present within our homes, cars, mobile phones. New applications of AI
 are being implemented with the help of large publicly open datasets,
 available on the web (for example open crawl), which in turn are fed to
@@ -77,6 +77,8 @@ Consider Model Architecture Efficiency: Explore sequence-to-sequence models inst
 **1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
 **2. What is its carbon impact?** Monitoring maximal computing may help to identify where use is suboptimal or disproportionate to what the job is trying to achieve. How does your institution monitor IT energy use, whether on-prem or in the public cloud? What kind of data is collected, and who gets to see it? Maximal computing resources are often denominated in hours of core use. Can it instead be denominated in CO2e? 
+
+The [AI Energy Score Leaderboard](https://tiny.cc/AIEnergy) may help you make decisions, although at the time of writing it doesn't include many of the major AI models out there, because of a lack of data.
 
 There are often sustainability benefits from outsourcing to the hyperscale data centres of the cloud giants (e.g. Amazon, Google, Microsoft), but a loss of transparency. 
 
