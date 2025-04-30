@@ -24,7 +24,7 @@ This section addresses things you might consider when writing a grant, or planni
 
 ## Funding Landscape ##
 
-Writing in 2024, our view is that:
+Writing in early 2025, our view is that:
 
 - **Requirements will change.** The UK funding landscape is set to change, and researchers should collaborate proactively with funders to co-produce the next generation of funding allocation mechanisms.
 - **But we don't have to wait.** In the meanwhile, there is plenty of scope within existing funding application frameworks to propose sustainable research. For example in UKRI applications, the Justification of Resources and the Data Management Plan sections can be used to reflect on digital carbon and wider sustainability and justice issues.
@@ -35,7 +35,9 @@ emissions](https://doi.org/10.1016/j.patter.2021.100340).
 
 However, with the exception of the Wellcome Trust, these funders are not yet explicitly asking applicants about the sustainability or climate justice dimensions of their projects.  Revisions to application processes take time, partly because of justifiable concerns about making applications more onerous: increasing the work that goes into applications can have its own implications for equity and justice.
 
-The Digital Humanities Climate Coalition supports the revision of funding processes to centre sustainability and climate justice. We also argue, however, that existing application frameworks can also accommodate sustainability and climate justice considerations. In this transitional time, these frameworks can be interpreted flexibly to provide reviewers with relevant information, so that they can favour sustainable research and reject unsustainable research.
+The Digital Humanities Climate Coalition supports the revision of funding processes to centre sustainability and climate justice. We also argue, however, that existing application frameworks can also accommodate sustainability and climate justice considerations. In this transitional time, these frameworks can be interpreted flexibly to provide reviewers with relevant information, so that they can favour sustainable research and reject unsustainable research. 
+
+[Interpreting UKRI Environmental Sustainability Guidance for the Digital Humanities](https://zenodo.org/records/15312177) (2025) is a short guide published by the DHCC, consolidating some of the signals that UKRI and other funders have made that they support consideration of digital sustainability in funding applications.
 
 [The Planet Centric Design toolkit](https://planetcentricdesign.com/method-tools/#planet-centric-design-toolkit) was created more for business and innovation contexts, but there are tools and exercises there that could be adapted either for bid development or for the early stages of a project.
 
