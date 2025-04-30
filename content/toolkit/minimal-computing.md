@@ -5,6 +5,7 @@ draft: false
 weight: 2
 slug: 'minimal-computing'
 ---
+{{< search >}}
 
 # Minimal Computing
 

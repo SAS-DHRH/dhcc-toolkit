@@ -5,6 +5,7 @@ draft: false
 weight: 4
 slug: 'grant-writing'
 ---
+{{< search >}}
 
 # Grant Writing
 

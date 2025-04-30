@@ -5,6 +5,7 @@ draft: false
 weight: 5
 slug: working-practices
 ---
+{{< search >}}
 
 
 # Working Practices

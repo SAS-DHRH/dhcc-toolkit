@@ -4,6 +4,13 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="
+
+
+
+
+
+
+
   DHCC Case Studies
   #
 
@@ -17,26 +24,13 @@ The first two case studies in what we hope will be a growing library.
   Case Study 1: Hampshire Cultural Trust and Greenly
   #
 
-Josephine Lethbridge and Jo Lindsay Walton, November 2023
-
-  
- Highlights 
- GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.
- Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.
- Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.
-
-
-
-Hampshire Cultural Trust (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.
-HCT has made a concerted effort to better understand and improve its environmental impact since 2019. Rolling, detailed action plans for the next 12 months have been developed, and a dedicated project team has been set up – 12-14 people from across the organisation, all of whom dedicate half a day per week to HCT’s environmental action.
-With the support of a small HEIF grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform Greenly (see below) as a project partner.">
+Josephine Lethbridge and Jo Lindsay Walton, November 2023">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="//localhost:1313/toolkit/case-studies.html">
   <meta property="og:site_name" content="DHCC">
   <meta property="og:title" content="Case Studies">
-  <meta property="og:description" content="DHCC Case Studies # The first two case studies in what we hope will be a growing library. Case Study 1: Hampshire Cultural Trust and Greenly # Josephine Lethbridge and Jo Lindsay Walton, November 2023
-Highlights GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning. Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen. Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools. Hampshire Cultural Trust (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers. HCT has made a concerted effort to better understand and improve its environmental impact since 2019. Rolling, detailed action plans for the next 12 months have been developed, and a dedicated project team has been set up – 12-14 people from across the organisation, all of whom dedicate half a day per week to HCT’s environmental action. With the support of a small HEIF grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform Greenly (see below) as a project partner.">
+  <meta property="og:description" content="DHCC Case Studies # The first two case studies in what we hope will be a growing library. Case Study 1: Hampshire Cultural Trust and Greenly # Josephine Lethbridge and Jo Lindsay Walton, November 2023">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="toolkit">
@@ -328,7 +322,48 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown book-article"><h1 id="dhcc-case-studies">
+  <article class="markdown book-article">
+<script src="https://unpkg.com/lunr/lunr.js"></script>
+
+
+<input id="search" type="text" placeholder="Search the Toolkit..." style="width: 100%; padding: 0.5em; margin-bottom: 1em;">
+<ul id="results" style="list-style: none; padding-left: 0;"></ul>
+
+<script>
+fetch('/index.json')
+  .then(response => response.json())
+  .then(data => {
+    const idx = lunr(function () {
+      this.ref('url')
+      this.field('title')
+      this.field('content')
+
+      data.forEach(doc => this.add(doc))
+    })
+
+    const documents = {}
+    data.forEach(doc => {
+      documents[doc.url] = doc
+    })
+
+    document.getElementById('search').addEventListener('input', function () {
+      const query = this.value.trim()
+      const resultsList = document.getElementById('results')
+      resultsList.innerHTML = ''
+
+      if (query.length < 2) return
+
+      const results = idx.search(query)
+      results.forEach(r => {
+        const item = documents[r.ref]
+        const li = document.createElement('li')
+        li.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a><br><small>${item.summary}</small>`
+        resultsList.appendChild(li)
+      })
+    })
+  })
+</script>
+<h1 id="dhcc-case-studies">
   DHCC Case Studies
   <a class="anchor" href="#dhcc-case-studies">#</a>
 </h1>

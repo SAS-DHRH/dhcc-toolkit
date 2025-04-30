@@ -5,6 +5,7 @@ draft: false
 weight: 9
 slug: teaching
 ---
+{{< search >}}
 
 # Teaching
 
