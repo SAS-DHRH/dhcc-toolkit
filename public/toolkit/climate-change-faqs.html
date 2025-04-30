@@ -424,60 +424,6 @@ https://github.com/alex-shpak/hugo-book
 <p>Newell, Peter, Shilpi Srivastava, Lars Otto Naess, Gerardo A. Torres Contreras, and Roz Price. 2021. ‘Toward Transformative Climate Justice: An Emerging Research Agenda’. WIREs Climate Change 12 (6): e733. <a href="https://doi.org/10.1002/wcc.733">https://doi.org/10.1002/wcc.733</a>.</p>
 
 
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-
-
-<input id="search" type="text" placeholder="Search the Toolkit..." style="width: 100%; padding: 0.5em;">
-<ul id="results" style="list-style: none; padding-left: 0;"></ul>
-
-<script>
-fetch('\/index.json')
-  .then(response => {
-    if (!response.ok) throw new Error('Index fetch failed')
-    return response.json()
-  })
-  .then(data => {
-    const idx = lunr(function () {
-      this.ref('url')
-      this.field('title')
-      this.field('content')
-
-      data.forEach(doc => this.add(doc))
-    })
-
-    const documents = {}
-    data.forEach(doc => {
-      documents[doc.url] = doc
-    })
-
-    const searchInput = document.getElementById('search')
-    const resultsList = document.getElementById('results')
-
-    searchInput.addEventListener('input', function () {
-      const query = this.value.trim()
-      resultsList.innerHTML = ''
-
-      if (query.length < 2) return
-
-      const results = idx.search(query)
-      results.forEach(r => {
-        const item = documents[r.ref]
-        const li = document.createElement('li')
-        li.innerHTML = `
-          <a href="${item.url}">${item.title}</a><br>
-          <small>${item.summary || item.content.slice(0, 100)}...</small>
-        `
-        resultsList.appendChild(li)
-      })
-    })
-  })
-  .catch(error => {
-    console.error('Search error:', error)
-    document.getElementById('results').innerHTML = '<li>Error loading search index</li>'
-  })
-</script>
-
-
 <iframe src="https://www.wri.org/upload/circlechart2019/circle_state.htm" scrolling="no" style="width: 940px; height: 990px; border: 0"></iframe>
 
 </article>
