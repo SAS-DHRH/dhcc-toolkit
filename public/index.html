@@ -264,77 +264,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown book-article">
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-
-
-<input id="search" type="text" placeholder="Search the Toolkit..." style="width: 100%; padding: 0.5em; margin-bottom: 1em;">
-<ul id="results" style="list-style: none; padding-left: 0;"></ul>
-
-<script>
-
-function highlight(text, words) {
-  words.forEach(word => {
-    const regex = new RegExp(`(${word})`, 'gi'); 
-    text = text.replace(regex, '<mark>$1</mark>');
-  });
-  return text;
-}
-
-
-document.addEventListener('DOMContentLoaded', function () {
-  
-  fetch('/index.json')
-    .then(response => response.json())
-    .then(data => {
-      const idx = lunr(function () {
-        this.ref('url');
-        this.field('title');
-        this.field('content');
-        data.forEach(doc => this.add(doc));
-      });
-
-      const documents = {};
-      data.forEach(doc => {
-        documents[doc.url] = doc;
-      });
-
-      
-      document.getElementById('search').addEventListener('input', function () {
-        const query = this.value.trim();
-        const resultsList = document.getElementById('results');
-        resultsList.innerHTML = ''; 
-
-        if (query.length < 2) return; 
-
-        
-        const terms = query.split(/\s+/);
-        const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); 
-
-        try {
-          
-          const results = idx.search(fuzzyQuery);
-
-          
-          results.forEach(r => {
-            const item = documents[r.ref];
-            const highlightedTitle = highlight(item.title, terms);
-            const highlightedSummary = highlight(item.summary, terms);
-
-            
-            const li = document.createElement('li');
-            li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
-            resultsList.appendChild(li);
-          });
-        } catch (err) {
-          console.warn('Error while searching:', err);
-        }
-      });
-    })
-    .catch(err => console.error('Failed to load index.json:', err));
-});
-</script>
-<p><img src="DCHH_FINAL_LOWER_CASE_HAZARD.png" alt="The Digital Humanities Climate Coalition" /></p>
+  <article class="markdown book-article"><p><img src="DCHH_FINAL_LOWER_CASE_HAZARD.png" alt="The Digital Humanities Climate Coalition" /></p>
 <div class="book-columns flex flex-wrap">
 <div class="flex-even markdown-inner" style="flex-grow: 1;">
     
