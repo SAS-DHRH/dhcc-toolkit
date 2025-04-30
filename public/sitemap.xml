@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/toolkit/introduction.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/introduction.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/decision-trees.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/decision-trees.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/minimal-computing.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/minimal-computing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/maximal-computing.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/maximal-computing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/grant-writing.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/grant-writing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/working-practices.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/working-practices.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/advocating-within-your-institution.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/advocating-within-your-institution.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/climate-change-faqs.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/climate-change-faqs.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/teaching.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/teaching.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit/case-studies.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit/case-studies.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/toolkit.html</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/toolkit.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/</loc>
     <lastmod>2025-04-30T16:02:44+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/search/</loc>
+    <loc>http://localhost:1313/dhcc-toolkit/search/</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url>
 </urlset>
