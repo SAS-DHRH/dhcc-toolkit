@@ -6,8 +6,12 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-fetch('index.json')
-  .then(response => response.json())
+const base = window.location.pathname.replace(/\/[^\/]*$/, '/');
+fetch(base + 'index.json')
+  .then(response => {
+    if (!response.ok) throw new Error('Index fetch failed')
+    return response.json()
+  })
   .then(data => {
     const idx = lunr(function () {
       this.ref('url')
@@ -22,9 +26,11 @@ fetch('index.json')
       documents[doc.url] = doc
     })
 
-    document.getElementById('search').addEventListener('input', function () {
+    const searchInput = document.getElementById('search')
+    const resultsList = document.getElementById('results')
+
+    searchInput.addEventListener('input', function () {
       const query = this.value.trim()
-      const resultsList = document.getElementById('results')
       resultsList.innerHTML = ''
 
       if (query.length < 2) return
@@ -33,9 +39,16 @@ fetch('index.json')
       results.forEach(r => {
         const item = documents[r.ref]
         const li = document.createElement('li')
-        li.innerHTML = `<a href="${item.url}">${item.title}</a><br><small>${item.summary}</small>`
+        li.innerHTML = `
+          <a href="${item.url}">${item.title}</a><br>
+          <small>${item.summary || item.content.slice(0, 100)}...</small>
+        `
         resultsList.appendChild(li)
       })
     })
+  })
+  .catch(error => {
+    console.error('Search error:', error)
+    document.getElementById('results').innerHTML = '<li>Error loading search index</li>'
   })
 </script>
