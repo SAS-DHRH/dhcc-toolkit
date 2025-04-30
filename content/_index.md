@@ -53,13 +53,14 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 <--->
 
-<h2> A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan</h2>
+<h2> DHCC Publications </h2>
 
-This guide aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
+<a href="https://doi.org/10.5281/zenodo.6451499">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a>  offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.
 
-DHCC Information, Measurement and Practice Action Group. (2022). A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan (v0.6). Zenodo. <button onclick="window.location.href='https://doi.org/10.5281/zenodo.6451499';">https://doi.org/10.5281/zenodo.6451499</button>
+<a href="https://doi.org/10.5281/zenodo.13850067">The Cloud and the Climate: Navigating AI-Powered Futures</a> (2024) is a comprehensive overview of the state of AI and the cloud in relation to climate change. 
 
-See also <a href="./toolkit/grant-writing.md" >Grant Writing</a>.
+<a href="https://doi.org/10.5281/zenodo.6451499">A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan</a> (2022) aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
+
 <br/>
 <br/>
 <br/>
@@ -68,12 +69,6 @@ See also <a href="./toolkit/grant-writing.md" >Grant Writing</a>.
 {{</columns>}}
 
 {{<columns>}}
-
-<h2> The Cloud and the Climate: Navigating AI-Powered Futures</h2>
-
-<a href="https://doi.org/10.5281/zenodo.13850067">A 2024 snapshot of the state of AI and the cloud in relation to climate change</a>. Topics covered include GreenOps, green data centres, sustainable cloud reporting tools, renewable energy procurement, carbon accounting and carbon offsets, the ongoing review of the GHG Protocol, current UK policy on sustainable AI, the use of AI to pursue climate and sustainability goals, and emerging approaches to sustainable AI. The report focuses in particular on Amazon AWS, Microsoft Azure, and Google GCP.
-
-<--->
 
 <h2> UK-Ireland Digital Humanities Association</h2>
 
