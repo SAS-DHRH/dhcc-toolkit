@@ -11,14 +11,14 @@ params:
   BookSection: 'toolkit'
   BookCommitPath: 'commit'
   BookEditPath: 'edit/main'
-  BookSearch: false
+  BookSearch: true
   BookComments: false
 
 outputFormats:
   SearchIndex:
     mediaType: application/json
     baseName: index
-    isPlainText: false
+    isPlainText: true
     notAlternative: true
 
 outputs:
