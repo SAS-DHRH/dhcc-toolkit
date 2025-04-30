@@ -6,7 +6,7 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-fetch('/index.json')
+fetch('index.json')
   .then(response => response.json())
   .then(data => {
     const idx = lunr(function () {
