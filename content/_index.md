@@ -55,11 +55,11 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 <h2> DHCC Publications </h2>
 
-<a href="https://doi.org/10.5281/zenodo.6451499">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a>  offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.
+<li><a href="https://doi.org/10.5281/zenodo.6451499">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a> (2025) offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.</li>
 
-<a href="https://doi.org/10.5281/zenodo.13850067">The Cloud and the Climate: Navigating AI-Powered Futures</a> (2024) is a comprehensive overview of the state of AI and the cloud in relation to climate change. 
+<li><a href="https://doi.org/10.5281/zenodo.13850067">The Cloud and the Climate: Navigating AI-Powered Futures</a> (2024) is a comprehensive overview of the state of AI and the cloud in relation to climate change. </li>
 
-<a href="https://doi.org/10.5281/zenodo.6451499">A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan</a> (2022) aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.
+<li><a href="https://doi.org/10.5281/zenodo.6451499">A Researcher Guide to Writing a Climate Justice Oriented Data Management Plan</a> (2022) aims to help researchers think through the climate-related implications of decisions about data management and project planning.  It includes an annotated DMP.</li>
 
 <br/>
 <br/>
@@ -73,7 +73,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 <h2> UK-Ireland Digital Humanities Association</h2>
 
 The Digital Humanities Climate Coalition is a Community Interest Group of the <a href="https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/">UK-Ireland DH Association</a>. "The Association builds on existing research conducted by the partner institutions and brings together different stakeholders to consider and interrogate critically the concepts of sustainability, inclusivity, training, advocacy and career progression, among other key questions. Institutions and individuals engaged with the Association, across the UK and Ireland, will work to further develop a collaborative vision for the field, and create new and sustainable long-term partnerships with the international community."
-
+<br>
 <img src="https://digitalhumanities-uk-ie.org/wp-content/uploads/sites/2/2023/06/UK-IE-DHA-Logo-w-Text-1.png">
 
 {{</columns>}}
