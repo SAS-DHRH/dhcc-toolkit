@@ -9,6 +9,7 @@ node_modules
 
 # Book build output
 _book
+/public/search.html
 
 # eBook build output
 *.epub
