@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/toolkit/introduction.html</loc>
+    <loc>//localhost:1313/toolkit/introduction.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/decision-trees.html</loc>
+    <loc>//localhost:1313/toolkit/decision-trees.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/minimal-computing.html</loc>
+    <loc>//localhost:1313/toolkit/minimal-computing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/maximal-computing.html</loc>
+    <loc>//localhost:1313/toolkit/maximal-computing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/grant-writing.html</loc>
+    <loc>//localhost:1313/toolkit/grant-writing.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/working-practices.html</loc>
+    <loc>//localhost:1313/toolkit/working-practices.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/advocating-within-your-institution.html</loc>
+    <loc>//localhost:1313/toolkit/advocating-within-your-institution.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/climate-change-faqs.html</loc>
+    <loc>//localhost:1313/toolkit/climate-change-faqs.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/teaching.html</loc>
+    <loc>//localhost:1313/toolkit/teaching.html</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url><url>
-    <loc>/toolkit/case-studies.html</loc>
+    <loc>//localhost:1313/toolkit/case-studies.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>/toolkit.html</loc>
+    <loc>//localhost:1313/toolkit.html</loc>
     <lastmod>2025-04-30T16:18:52+01:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2025-04-30T16:02:44+01:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1313/search/</loc>
     <lastmod>2025-04-30T16:15:57+01:00</lastmod>
   </url>
 </urlset>
