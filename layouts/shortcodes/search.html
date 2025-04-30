@@ -6,36 +6,44 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-fetch('/index.json')
-  .then(response => response.json())
-  .then(data => {
-    const idx = lunr(function () {
-      this.ref('url')
-      this.field('title')
-      this.field('content')
+// Highlight function to wrap matching terms in <mark> tags
+function highlight(text, words) {
+  words.forEach(word => {
+    const regex = new RegExp(`(${word})`, 'gi');
+    text = text.replace(regex, '<mark>$1</mark>');
+  });
+  return text;
+}
 
-      data.forEach(doc => this.add(doc))
-    })
+document.getElementById('search').addEventListener('input', function () {
+  const query = this.value.trim();
+  const resultsList = document.getElementById('results');
+  resultsList.innerHTML = '';
 
-    const documents = {}
-    data.forEach(doc => {
-      documents[doc.url] = doc
-    })
+  if (query.length < 2) return;
 
-    document.getElementById('search').addEventListener('input', function () {
-      const query = this.value.trim()
-      const resultsList = document.getElementById('results')
-      resultsList.innerHTML = ''
+  // Split the search query into individual terms
+  const terms = query.split(/\s+/);
+  
+  // Create fuzzy query by adding ~1 to each search term
+  const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); // ~1 for fuzzy search
 
-      if (query.length < 2) return
+  try {
+    // Perform search using Lunr.js with fuzzy query
+    const results = idx.search(fuzzyQuery);
 
-      const results = idx.search(query)
-      results.forEach(r => {
-        const item = documents[r.ref]
-        const li = document.createElement('li')
-        li.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a><br><small>${item.summary}</small>`
-        resultsList.appendChild(li)
-      })
-    })
-  })
+    results.forEach(r => {
+      const item = documents[r.ref];
+      const highlightedTitle = highlight(item.title, terms);
+      const highlightedSummary = highlight(item.summary, terms);
+
+      // Create result item and append to the results list
+      const li = document.createElement('li');
+      li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
+      resultsList.appendChild(li);
+    });
+  } catch (err) {
+    console.warn('Search error:', err);
+  }
+});
 </script>

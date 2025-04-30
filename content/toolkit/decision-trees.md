@@ -5,7 +5,6 @@ draft: false
 weight: 1.5
 slug: decision-trees
 ---
-{{< search >}}
 
 
 # I Want To ...

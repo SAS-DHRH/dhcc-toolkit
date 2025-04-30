@@ -5,7 +5,6 @@ draft: false
 weight: 3
 slug: 'maximal-computing'
 ---
-{{< search >}}
 
 # Maximal Computing
 

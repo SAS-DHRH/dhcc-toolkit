@@ -5,7 +5,6 @@ draft: false
 weight: 8
 slug: 'climate-change-faqs'
 ---
-{{< search >}}
 
 # Climate Change FAQs
 

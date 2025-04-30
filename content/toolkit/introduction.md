@@ -4,7 +4,6 @@ date: 2022-10-25
 draft: false
 weight: 1
 ---
-{{< search >}}
 
 # Introduction
 

@@ -4,13 +4,6 @@
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="
-
-
-
-
-
-
-
   Teaching
   #
 
@@ -205,6 +198,19 @@ https://github.com/alex-shpak/hugo-book
         </li>
       
     
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../search/" class="">Search</a>
+  
+
+        </li>
+      
+    
   </ul>
 
 
@@ -298,48 +304,7 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown book-article">
-<script src="https://unpkg.com/lunr/lunr.js"></script>
-
-
-<input id="search" type="text" placeholder="Search the Toolkit..." style="width: 100%; padding: 0.5em; margin-bottom: 1em;">
-<ul id="results" style="list-style: none; padding-left: 0;"></ul>
-
-<script>
-fetch('/index.json')
-  .then(response => response.json())
-  .then(data => {
-    const idx = lunr(function () {
-      this.ref('url')
-      this.field('title')
-      this.field('content')
-
-      data.forEach(doc => this.add(doc))
-    })
-
-    const documents = {}
-    data.forEach(doc => {
-      documents[doc.url] = doc
-    })
-
-    document.getElementById('search').addEventListener('input', function () {
-      const query = this.value.trim()
-      const resultsList = document.getElementById('results')
-      resultsList.innerHTML = ''
-
-      if (query.length < 2) return
-
-      const results = idx.search(query)
-      results.forEach(r => {
-        const item = documents[r.ref]
-        const li = document.createElement('li')
-        li.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a><br><small>${item.summary}</small>`
-        resultsList.appendChild(li)
-      })
-    })
-  })
-</script>
-<h1 id="teaching">
+  <article class="markdown book-article"><h1 id="teaching">
   Teaching
   <a class="anchor" href="#teaching">#</a>
 </h1>
