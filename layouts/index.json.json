@@ -1,12 +1,12 @@
-{{- $pages := .Site.RegularPages -}}
 [
-{{- range $index, $page := $pages -}}
-  {{- if $index }},{{ end }}
-  {
-    "title": {{ $page.Title | jsonify }},
-    "url": {{ $page.RelPermalink | jsonify }},
-    "content": {{ $page.Plain | jsonify }},
-    "summary": {{ $page.Summary | jsonify }}
-  }
-{{- end -}}
-]
+  {{- $pages := .Site.RegularPages -}}
+  {{- range $i, $page := $pages -}}
+    {{- if gt $i 0 }},{{ end }}
+    {
+      "title": {{ $page.Title | jsonify }},
+      "url": {{ $page.RelPermalink | jsonify }},
+      "content": {{ $page.Plain | jsonify }},
+      "summary": {{ $page.Summary | jsonify }}
+    }
+  {{- end }}
+  ]
