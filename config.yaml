@@ -49,7 +49,6 @@ publishDir: ./public
 languageCode: 'en-uk'
 # googleanalytics: ''
 disableKinds:
-  - RSS
   - taxonomy
 languages:
   en:

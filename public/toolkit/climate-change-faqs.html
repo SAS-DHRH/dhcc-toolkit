@@ -421,8 +421,7 @@ https://github.com/alex-shpak/hugo-book
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-const base = window.location.pathname.replace(/\/[^\/]*$/, '/');
-fetch(base + 'index.json')
+fetch('\/index.json')
   .then(response => {
     if (!response.ok) throw new Error('Index fetch failed')
     return response.json()
@@ -467,7 +466,6 @@ fetch(base + 'index.json')
     document.getElementById('results').innerHTML = '<li>Error loading search index</li>'
   })
 </script>
-
 
 
 <iframe src="https://www.wri.org/upload/circlechart2019/circle_state.htm" scrolling="no" style="width: 940px; height: 990px; border: 0"></iframe>
