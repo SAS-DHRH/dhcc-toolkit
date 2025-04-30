@@ -55,7 +55,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 <h2> DHCC Publications </h2>
 
-<li><a href="https://doi.org/10.5281/zenodo.6451499">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a>  offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.</li>
+<li><a href="https://doi.org/10.5281/zenodo.6451499">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a> (2025) offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.</li>
 
 <li><a href="https://doi.org/10.5281/zenodo.13850067">The Cloud and the Climate: Navigating AI-Powered Futures</a> (2024) is a comprehensive overview of the state of AI and the cloud in relation to climate change. </li>
 
