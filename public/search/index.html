@@ -292,44 +292,66 @@ https://github.com/alex-shpak/hugo-book
 
 function highlight(text, words) {
   words.forEach(word => {
-    const regex = new RegExp(`(${word})`, 'gi');
+    const regex = new RegExp(`(${word})`, 'gi'); 
     text = text.replace(regex, '<mark>$1</mark>');
   });
   return text;
 }
 
-document.getElementById('search').addEventListener('input', function () {
-  const query = this.value.trim();
-  const resultsList = document.getElementById('results');
-  resultsList.innerHTML = '';
 
-  if (query.length < 2) return;
-
+document.addEventListener('DOMContentLoaded', function () {
   
-  const terms = query.split(/\s+/);
-  
-  
-  const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); 
+  fetch('/index.json')
+    .then(response => response.json())
+    .then(data => {
+      const idx = lunr(function () {
+        this.ref('url');
+        this.field('title');
+        this.field('content');
+        data.forEach(doc => this.add(doc));
+      });
 
-  try {
-    
-    const results = idx.search(fuzzyQuery);
-
-    results.forEach(r => {
-      const item = documents[r.ref];
-      const highlightedTitle = highlight(item.title, terms);
-      const highlightedSummary = highlight(item.summary, terms);
+      const documents = {};
+      data.forEach(doc => {
+        documents[doc.url] = doc;
+      });
 
       
-      const li = document.createElement('li');
-      li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
-      resultsList.appendChild(li);
-    });
-  } catch (err) {
-    console.warn('Search error:', err);
-  }
+      document.getElementById('search').addEventListener('input', function () {
+        const query = this.value.trim();
+        const resultsList = document.getElementById('results');
+        resultsList.innerHTML = ''; 
+
+        if (query.length < 2) return; 
+
+        
+        const terms = query.split(/\s+/);
+        const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); 
+
+        try {
+          
+          const results = idx.search(fuzzyQuery);
+
+          
+          results.forEach(r => {
+            const item = documents[r.ref];
+            const highlightedTitle = highlight(item.title, terms);
+            const highlightedSummary = highlight(item.summary, terms);
+
+            
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
+            resultsList.appendChild(li);
+          });
+        } catch (err) {
+          console.warn('Error while searching:', err);
+        }
+      });
+    })
+    .catch(err => console.error('Failed to load index.json:', err));
 });
 </script>
+
 </article>
  
       

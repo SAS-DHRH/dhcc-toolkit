@@ -5,7 +5,6 @@ draft: false
 weight: 6
 slug: advocating-within-your-institution
 ---
-{{< search >}}
 
 # Advocating within your institution
 

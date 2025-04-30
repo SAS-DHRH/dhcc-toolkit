@@ -5,7 +5,6 @@ draft: false
 weight: 10
 slug: case-studies
 ---
-{{< search >}}
 
 # DHCC Case Studies
 

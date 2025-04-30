@@ -6,44 +6,65 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-// Highlight function to wrap matching terms in <mark> tags
+// Function to highlight matching text
 function highlight(text, words) {
   words.forEach(word => {
-    const regex = new RegExp(`(${word})`, 'gi');
+    const regex = new RegExp(`(${word})`, 'gi'); // Case insensitive
     text = text.replace(regex, '<mark>$1</mark>');
   });
   return text;
 }
 
-document.getElementById('search').addEventListener('input', function () {
-  const query = this.value.trim();
-  const resultsList = document.getElementById('results');
-  resultsList.innerHTML = '';
+// Wait for the page to load, then initialize Lunr search
+document.addEventListener('DOMContentLoaded', function () {
+  // Fetch the index file
+  fetch('/index.json')
+    .then(response => response.json())
+    .then(data => {
+      const idx = lunr(function () {
+        this.ref('url');
+        this.field('title');
+        this.field('content');
+        data.forEach(doc => this.add(doc));
+      });
 
-  if (query.length < 2) return;
+      const documents = {};
+      data.forEach(doc => {
+        documents[doc.url] = doc;
+      });
 
-  // Split the search query into individual terms
-  const terms = query.split(/\s+/);
-  
-  // Create fuzzy query by adding ~1 to each search term
-  const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); // ~1 for fuzzy search
+      // Attach the search event listener to the search input field
+      document.getElementById('search').addEventListener('input', function () {
+        const query = this.value.trim();
+        const resultsList = document.getElementById('results');
+        resultsList.innerHTML = ''; // Clear previous results
 
-  try {
-    // Perform search using Lunr.js with fuzzy query
-    const results = idx.search(fuzzyQuery);
+        if (query.length < 2) return; // Minimum 2 characters for search
 
-    results.forEach(r => {
-      const item = documents[r.ref];
-      const highlightedTitle = highlight(item.title, terms);
-      const highlightedSummary = highlight(item.summary, terms);
+        // Split the query into individual words and apply fuzzy search (~1)
+        const terms = query.split(/\s+/);
+        const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); // Add `~1` for fuzzy search
 
-      // Create result item and append to the results list
-      const li = document.createElement('li');
-      li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
-      resultsList.appendChild(li);
-    });
-  } catch (err) {
-    console.warn('Search error:', err);
-  }
+        try {
+          // Perform the search using the fuzzy query
+          const results = idx.search(fuzzyQuery);
+
+          // Display the results
+          results.forEach(r => {
+            const item = documents[r.ref];
+            const highlightedTitle = highlight(item.title, terms);
+            const highlightedSummary = highlight(item.summary, terms);
+
+            // Create a new list item with the highlighted results
+            const li = document.createElement('li');
+            li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
+            resultsList.appendChild(li);
+          });
+        } catch (err) {
+          console.warn('Error while searching:', err);
+        }
+      });
+    })
+    .catch(err => console.error('Failed to load index.json:', err));
 });
 </script>
