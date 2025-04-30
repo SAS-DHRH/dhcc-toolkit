@@ -6,7 +6,7 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
- fetch('/index.json')
+  fetch('{{ "index.json" | relURL }}')
   .then(response => {
     if (!response.ok) throw new Error('Index fetch failed')
     return response.json()

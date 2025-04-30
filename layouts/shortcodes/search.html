@@ -6,65 +6,36 @@
 <ul id="results" style="list-style: none; padding-left: 0;"></ul>
 
 <script>
-// Function to highlight matching text
-function highlight(text, words) {
-  words.forEach(word => {
-    const regex = new RegExp(`(${word})`, 'gi'); // Case insensitive
-    text = text.replace(regex, '<mark>$1</mark>');
-  });
-  return text;
-}
+fetch('{{ "index.json" | relURL }}')
+  .then(response => response.json())
+  .then(data => {
+    const idx = lunr(function () {
+      this.ref('url')
+      this.field('title')
+      this.field('content')
 
-// Wait for the page to load, then initialize Lunr search
-document.addEventListener('DOMContentLoaded', function () {
-  // Fetch the index file
-  fetch('/index.json')
-    .then(response => response.json())
-    .then(data => {
-      const idx = lunr(function () {
-        this.ref('url');
-        this.field('title');
-        this.field('content');
-        data.forEach(doc => this.add(doc));
-      });
-
-      const documents = {};
-      data.forEach(doc => {
-        documents[doc.url] = doc;
-      });
-
-      // Attach the search event listener to the search input field
-      document.getElementById('search').addEventListener('input', function () {
-        const query = this.value.trim();
-        const resultsList = document.getElementById('results');
-        resultsList.innerHTML = ''; // Clear previous results
-
-        if (query.length < 2) return; // Minimum 2 characters for search
-
-        // Split the query into individual words and apply fuzzy search (~1)
-        const terms = query.split(/\s+/);
-        const fuzzyQuery = terms.map(term => `${term}~1`).join(' '); // Add `~1` for fuzzy search
-
-        try {
-          // Perform the search using the fuzzy query
-          const results = idx.search(fuzzyQuery);
-
-          // Display the results
-          results.forEach(r => {
-            const item = documents[r.ref];
-            const highlightedTitle = highlight(item.title, terms);
-            const highlightedSummary = highlight(item.summary, terms);
-
-            // Create a new list item with the highlighted results
-            const li = document.createElement('li');
-            li.innerHTML = `<a href="${item.url}"><strong>${highlightedTitle}</strong></a><br><small>${highlightedSummary}</small>`;
-            resultsList.appendChild(li);
-          });
-        } catch (err) {
-          console.warn('Error while searching:', err);
-        }
-      });
+      data.forEach(doc => this.add(doc))
     })
-    .catch(err => console.error('Failed to load index.json:', err));
-});
+
+    const documents = {}
+    data.forEach(doc => {
+      documents[doc.url] = doc
+    })
+
+    document.getElementById('search').addEventListener('input', function () {
+      const query = this.value.trim()
+      const resultsList = document.getElementById('results')
+      resultsList.innerHTML = ''
+
+      if (query.length < 2) return
+
+      const results = idx.search(query)
+      results.forEach(r => {
+        const item = documents[r.ref]
+        const li = document.createElement('li')
+        li.innerHTML = `<a href="${item.url}"><strong>${item.title}</strong></a><br><small>${item.summary}</small>`
+        resultsList.appendChild(li)
+      })
+    })
+  })
 </script>
