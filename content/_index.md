@@ -4,6 +4,7 @@ type: docs
 bookToc: false
 description: 'The Digital Humanities Climate Coalition toolkit for Climate Justice in humanities research.'
 ---
+{{ partial "search.html" . }}
 
 ![The Digital Humanities Climate Coalition](DCHH_FINAL_LOWER_CASE_HAZARD.png)
 
