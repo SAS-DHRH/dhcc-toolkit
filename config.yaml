@@ -11,7 +11,7 @@ params:
   BookSection: 'toolkit'
   BookCommitPath: 'commit'
   BookEditPath: 'edit/main'
-  BookSearch: true
+  BookSearch: false
   BookComments: false
 
 outputFormats:
