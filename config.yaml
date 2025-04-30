@@ -24,7 +24,8 @@ outputFormats:
 outputs:
   home:
     - HTML
-    - SearchIndex
+    - RSS
+    - JSON
 
 
 # Site menu (add items to generated menu)
