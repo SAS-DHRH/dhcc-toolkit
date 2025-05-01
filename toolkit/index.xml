@@ -157,7 +157,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
  &lt;title>Search DHCC&lt;/title>
  &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
  &lt;/head>
- &lt;body>&lt;form method="get" action="http://www.google.com/search" target="_blank">
+ &lt;body>&lt;form method="get" action="https://www.google.com/search" target="_blank">
  &lt;input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
  &lt;input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
  &lt;/form>
