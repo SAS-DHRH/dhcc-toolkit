@@ -5,6 +5,11 @@ bookToc: false
 description: 'The Digital Humanities Climate Coalition toolkit for Climate Justice in humanities research.'
 ---
 
+<form method="get" action="http://www.google.com/search" target="_blank">
+  <input type="hidden" name="sitesearch" value="css-tricks.com" />
+  <input type="text" name="q" maxlength="255" placeholder="Search with Google" />
+</form>
+
 ![The Digital Humanities Climate Coalition](DCHH_FINAL_LOWER_CASE_HAZARD.png)
 
 {{<columns>}}
