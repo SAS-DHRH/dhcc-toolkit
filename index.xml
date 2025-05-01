@@ -277,4 +277,15 @@ The first two case studies in what we hope will be a growing library.
 
 &lt;p>&lt;strong>&lt;a href="https://www.hampshireculture.org.uk/">Hampshire Cultural Trust&lt;/a>&lt;/strong> (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.
 HCT has made a concerted effort to better understand and improve its environmental impact since 2019. Rolling, detailed action plans for the next 12 months have been developed, and a dedicated project team has been set up – 12-14 people from across the organisation, all of whom dedicate half a day per week to HCT’s environmental action.
-With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/">HEIF&lt;/a> grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong>&lt;a href="https://greenly.earth/en-gb">Greenly&lt;/a>&lt;/strong> (see below) as a project partner.&lt;/p></description></item></channel></rss>
+With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/">HEIF&lt;/a> grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong>&lt;a href="https://greenly.earth/en-gb">Greenly&lt;/a>&lt;/strong> (see below) as a project partner.&lt;/p></description></item><item><title>DHCC Toolkit Search</title><link>/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/search/</guid><description>&lt;!DOCTYPE html>
+&lt;html xmlns="http://www.w3.org/1999/xhtml">
+ &lt;head>
+ &lt;title>Search DHCC&lt;/title>
+ &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+ &lt;/head>
+ &lt;body>&lt;form method="get" action="http://www.google.com/search" target="_blank">
+ &lt;input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
+ &lt;input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
+ &lt;/form>
+ &lt;script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3">&lt;/script>&lt;/body>
+&lt;/html></description></item></channel></rss>
