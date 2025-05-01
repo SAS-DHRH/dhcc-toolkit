@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 May 2025 12:34:54 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 May 2025 12:40:17 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h1>
@@ -150,7 +150,19 @@ Our first step below is to build a list of needs, and to signpost relevant evide
  I am writing a Data Management Plan
  &lt;a class="anchor" href="#i-am-writing-a-data-management-plan">#&lt;/a>
 &lt;/h2>
-&lt;p>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing">Grant Writing&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plans&lt;/a> for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p></description></item><item><title>Minimal Computing</title><link>/toolkit/minimal-computing.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/minimal-computing.html</guid><description>&lt;h1 id="minimal-computing">
+&lt;p>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing">Grant Writing&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plans&lt;/a> for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p></description></item><item><title>Search the Toolkit</title><link>/toolkit/search.html</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>/toolkit/search.html</guid><description>&lt;p>The search form below runs a Google search on the Toolkit in a separate tab. We are working on a better search form to be released soon!&lt;/p>
+&lt;!DOCTYPE html>
+&lt;html xmlns="http://www.w3.org/1999/xhtml">
+ &lt;head>
+ &lt;title>Search DHCC&lt;/title>
+ &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+ &lt;/head>
+ &lt;body>&lt;form method="get" action="http://www.google.com/search" target="_blank">
+ &lt;input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
+ &lt;input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
+ &lt;/form>
+ &lt;script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3">&lt;/script>&lt;/body>
+&lt;/html></description></item><item><title>Minimal Computing</title><link>/toolkit/minimal-computing.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/minimal-computing.html</guid><description>&lt;h1 id="minimal-computing">
  Minimal Computing
  &lt;a class="anchor" href="#minimal-computing">#&lt;/a>
 &lt;/h1>
@@ -277,15 +289,4 @@ The first two case studies in what we hope will be a growing library.
 
 &lt;p>&lt;strong>&lt;a href="https://www.hampshireculture.org.uk/">Hampshire Cultural Trust&lt;/a>&lt;/strong> (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.
 HCT has made a concerted effort to better understand and improve its environmental impact since 2019. Rolling, detailed action plans for the next 12 months have been developed, and a dedicated project team has been set up – 12-14 people from across the organisation, all of whom dedicate half a day per week to HCT’s environmental action.
-With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/">HEIF&lt;/a> grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong>&lt;a href="https://greenly.earth/en-gb">Greenly&lt;/a>&lt;/strong> (see below) as a project partner.&lt;/p></description></item><item><title>DHCC Toolkit Search</title><link>/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/search/</guid><description>&lt;!DOCTYPE html>
-&lt;html xmlns="http://www.w3.org/1999/xhtml">
- &lt;head>
- &lt;title>Search DHCC&lt;/title>
- &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
- &lt;/head>
- &lt;body>&lt;form method="get" action="http://www.google.com/search" target="_blank">
- &lt;input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
- &lt;input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
- &lt;/form>
- &lt;script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3">&lt;/script>&lt;/body>
-&lt;/html></description></item></channel></rss>
+With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/">HEIF&lt;/a> grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong>&lt;a href="https://greenly.earth/en-gb">Greenly&lt;/a>&lt;/strong> (see below) as a project partner.&lt;/p></description></item></channel></rss>
