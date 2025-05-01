@@ -3,18 +3,32 @@
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="DHCC search.">
+<meta name="description" content="The search form below runs a Google search on the Toolkit in a separate tab. We are working on a better search form to be released soon!
+&lt;!DOCTYPE html&gt;
+
+    
+        Search DHCC
+        
+    
+    
+        
+        
+    
+        
+">
 <meta name="theme-color" media="(prefers-color-scheme: light)" content="#ffffff">
 <meta name="theme-color" media="(prefers-color-scheme: dark)" content="#343a40">
 <meta name="color-scheme" content="light dark"><meta property="og:url" content="//localhost:1313/toolkit/search.html">
   <meta property="og:site_name" content="DHCC">
-  <meta property="og:title" content="Search">
-  <meta property="og:description" content="DHCC search.">
+  <meta property="og:title" content="Search the Toolkit">
+  <meta property="og:description" content="The search form below runs a Google search on the Toolkit in a separate tab. We are working on a better search form to be released soon!
+&lt;!DOCTYPE html&gt; Search DHCC">
   <meta property="og:locale" content="en">
   <meta property="og:type" content="article">
     <meta property="article:section" content="toolkit">
+    <meta property="article:published_time" content="2025-05-01T00:00:00+00:00">
     <meta property="article:modified_time" content="2025-04-30T18:58:35+01:00">
-<title>Search | DHCC</title>
+<title>Search the Toolkit | DHCC</title>
 <link rel="icon" href="../favicon.png" >
 <link rel="manifest" href="../manifest.json">
 <link rel="canonical" href="//localhost:1313/toolkit/search.html">
@@ -76,6 +90,19 @@ https://github.com/alex-shpak/hugo-book
 
   
     <a href="../toolkit/decision-trees.html" class="">I Want To ...</a>
+  
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="../toolkit/search.html" class="active">Search the Toolkit</a>
   
 
         </li>
@@ -185,19 +212,6 @@ https://github.com/alex-shpak/hugo-book
         </li>
       
     
-      
-        <li>
-          
-  
-  
-
-  
-    <a href="../toolkit/search.html" class="active">Search</a>
-  
-
-        </li>
-      
-    
   </ul>
 
 
@@ -251,7 +265,7 @@ https://github.com/alex-shpak/hugo-book
     <img src="../svg/menu.svg" class="book-icon" alt="Menu" />
   </label>
 
-  <h3>Search</h3>
+  <h3>Search the Toolkit</h3>
 
   <label for="toc-control">
     
@@ -276,7 +290,19 @@ https://github.com/alex-shpak/hugo-book
 
       
       
-  <article class="markdown book-article"><p>{{ .search }}</p>
+  <article class="markdown book-article"><p>The search form below runs a Google search on the Toolkit in a separate tab. We are working on a better search form to be released soon!</p>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Search DHCC</title>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+    </head>
+    <body><form method="get" action="http://www.google.com/search" target="_blank">
+        <input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
+        <input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
+    </form>
+        <script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3"></script></body>
+</html>
 </article>
  
       
