@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 01 May 2025 18:04:03 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 02 May 2025 14:54:44 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h1>
@@ -150,18 +150,24 @@ Our first step below is to build a list of needs, and to signpost relevant evide
  I am writing a Data Management Plan
  &lt;a class="anchor" href="#i-am-writing-a-data-management-plan">#&lt;/a>
 &lt;/h2>
-&lt;p>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing">Grant Writing&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plans&lt;/a> for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p></description></item><item><title>Search the Toolkit</title><link>/toolkit/search.html</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>/toolkit/search.html</guid><description>&lt;p>The search form below runs a Google search on the Toolkit in a separate tab.&lt;/p>
+&lt;p>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing">Grant Writing&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plans&lt;/a> for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p></description></item><item><title>Search the Toolkit</title><link>/toolkit/search.html</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>/toolkit/search.html</guid><description>&lt;p>The search form below runs a search on the Toolkit in a separate tab using &lt;a href="https://duckduckgo.com/">DuckDuckGo&lt;/a>.&lt;/p>
 &lt;!DOCTYPE html>
 &lt;html xmlns="http://www.w3.org/1999/xhtml">
  &lt;head>
  &lt;title>Search DHCC&lt;/title>
- &lt;link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3" />
+ 
  &lt;/head>
- &lt;body>&lt;form method="get" action="https://www.google.com/search" target="_blank">
- &lt;input type="hidden" name="sitesearch" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
- &lt;input type="text" name="q" maxlength="500" placeholder="Search the Toolkit" />
+ &lt;body>&lt;form action="https://duckduckgo.com">
+ &lt;label for="search">Search the Toolkit:&lt;/label>
+ &lt;input name="q" id="search" />
+ &lt;input type="hidden" name="sites" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
+ &lt;input type="hidden" name="ko" value="-2" />
+ &lt;input type="hidden" name="k1" value="-1" />
+ &lt;input type="hidden" name="kz" value="-1" />
+ &lt;input type="hidden" name="km" value="m" />
+ &lt;input type="hidden" name="k7" value="#fafef5" />
  &lt;/form>
- &lt;script src="https://cdn.jsdelivr.net/npm/@docsearch/js@3">&lt;/script>&lt;/body>
+ &lt;/body>
 &lt;/html></description></item><item><title>Minimal Computing</title><link>/toolkit/minimal-computing.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/minimal-computing.html</guid><description>&lt;h1 id="minimal-computing">
  Minimal Computing
  &lt;a class="anchor" href="#minimal-computing">#&lt;/a>
