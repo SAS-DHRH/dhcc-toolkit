@@ -157,7 +157,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
  &lt;title>Search DHCC&lt;/title>
  
  &lt;/head>
- &lt;body>&lt;form action="https://duckduckgo.com">
+ &lt;body>&lt;form action="https://duckduckgo.com" target="_blank" rel="noopener">
  &lt;label for="search">Search the Toolkit:&lt;/label>
  &lt;input name="q" id="search" />
  &lt;input type="hidden" name="sites" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
