@@ -5,6 +5,6 @@ draft: false
 weight: 2
 slug: 'search'
 ---
-The search form below runs a Google search on the Toolkit in a separate tab.
+The search form below runs a search on the Toolkit in a separate tab using [DuckDuckGo](https://duckduckgo.com/).
 
 {{< search >}}
