@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sat, 03 May 2025 16:44:58 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 23 May 2025 14:12:54 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h1>
@@ -67,6 +67,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 &lt;li>&lt;a href="https://calculator.green-algorithms.org/">Green Algorithms Calculator&lt;/a> will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.&lt;/li>
 &lt;li>A variety of sector-specific &lt;a href="https://carbonliteracy.com/toolkits/">Carbon Literacy Toolkits&lt;/a> are available from the Carbon Literacy Project.&lt;/li>
 &lt;li>Check out Green Coding Solutions&amp;rsquo; &lt;a href="https://www.green-coding.io/projects/green-metrics-tool/">Green Metrics Tool&lt;/a>, to measure the energy / CO2 consumption of software, especially containerized software.&lt;/li>
+&lt;li>Explore &lt;a href="https://www.software.ac.uk/GreenDiSC">Green DISC&lt;/a> certification as a potential rationale for measuring carbon emissions.&lt;/li>
 &lt;/ul>
 &lt;h2 id="i-want-to-create-a-website-for-a-research-project">
  I want to create a website for a research project
