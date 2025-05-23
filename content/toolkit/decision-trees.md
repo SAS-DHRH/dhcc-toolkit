@@ -47,6 +47,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 * [Green Algorithms Calculator](https://calculator.green-algorithms.org/) will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.
 * A variety of sector-specific [Carbon Literacy Toolkits](https://carbonliteracy.com/toolkits/) are available from the Carbon Literacy Project.
 * Check out Green Coding Solutions' [Green Metrics Tool](https://www.green-coding.io/projects/green-metrics-tool/), to measure the energy / CO2 consumption of software, especially containerized software.
+* Explore [Green DISC](https://www.software.ac.uk/GreenDiSC) certification as a potential rationale for measuring carbon emissions.
 
 ## I want to create a website for a research project
 
