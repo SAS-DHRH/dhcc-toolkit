@@ -86,19 +86,16 @@ justice-oriented data management practices can be threaded through the research 
 The [Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) may also be useful to apply. There are nine questions, each answered either green, amber, or red. The output is a score out of nine (lose one point for every red, half a point for every amber). For example, "Size of data asset is less than 2gb (green), 2-3gb (amber), more than 3gb (red)." And, "Data is batch processed (green), data remains static (green), data receives near real-time updates (amber), data received real-time updates (red)." 
 
 {{< hint warning >}}
-**Suggested DMP Citation:** Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, *"This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."*
+<strong>Suggested DMP Citation:</strong> Researchers who have referred to this guidance in developing a DMP may optionally include wording such as, <i>"This DMP is aligned with Digital Humanities Climate Coalition's 2022 recommendations on data management and climate justice."</i>
 {{< /hint >}}
 
 ## Should you footprint your project? {#project-footprinting}
 
 {{< hint info >}}
-*"To give just one example, did you know that the very notion of a personal carbon footprint --- a concept that's completely ubiquitous in discussions about personal responsibility --- was first popularized by BP as part of a \$100 million per year marketing campaign between 2004
-and 2006?"*
+<i>"To give just one example, did you know that the very notion of a personal carbon footprint --- a concept that's completely ubiquitous in discussions about personal responsibility --- was first popularized by BP as part of a \$100 million per year marketing campaign between 2004 and 2006?"</i>
 
-[Tracing Big Oil's PR war to delay action on climate
-change](https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/),
-*Harvard Gazette*, Geoffrey Supran, Sept 2021 (Accessed 4 April
-2022)
+<a href=https://news.harvard.edu/gazette/story/2021/09/oil-companies-discourage-climate-action-study-says/>Tracing Big Oil's PR war to delay action on climate
+change</a> <i>Harvard Gazette</i>, Geoffrey Supran, Sept 2021 (Accessed 4 April 2022)
 {{< /hint >}}
 
 It is not our responsibility, nor our priority, to directly measure the carbon impact of our research. Often we won't even need to make precise estimates. However, we do all urgently need to develop a degree of **carbon literacy,** and carrying out footprinting exercises can be one great way to learn. Whether this is something you might do at the grant-writing stage, and/or include in the resources you are requesting to do on a funded basis, depends on your individual circumstances.
