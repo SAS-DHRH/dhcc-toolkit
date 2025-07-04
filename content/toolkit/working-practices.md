@@ -73,7 +73,7 @@ Unikernels provide a light-weight alternative to traditional VMs or containers. 
 
 ## Day-to-day working and data traffic
 
-The [**Digital Carbon Footprint**](https://www.digitalemissions.org/dcf) tool from Digital Emissions is an interesting calculator that focuses on everyday activities such as emailing, using social media, Zoom, Virtual Learning Environments, etc. 
+The [**Digital Carbon Footprint**](https://www.digitalemissions.org/dcf) tool from Digital Emissions is an interesting calculator that focuses on everyday activities such as emailing, using social media, Zoom, Virtual Learning Environments, etc. Another recent tool is called 'What Uses More'? (https://what-uses-more.com/), which allows you to compare the energy costs of some common tasks.
 
 New technologies for facilitating **data traffic**, like 5G, come with a massive growth of data consumption. In terms of impact, the rule of thumb for least energy intensive to most would be: Wired connection > Wifi > 3G > 4G > 5G. A poor internet connection has a better carbon footprint than a strong one. 
 
