@@ -37,6 +37,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 
 * Consider how you might make sensible improvements even before you have measured emissions.
 * The [Project Footprinting](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting) section offers an introduction to carbon footprinting and concepts such as Emissions Factors.
+* The tool [What Uses More?](https://what-uses-more.com/) allows you to compare the energy costs of AI in relation to other common tasks.
 * [The CO2.js Playground](https://observablehq.com/@greenweb/co2-js-playground) is a great introduction to the CO2.js library from the Green Web Foundation, which lets you estimate website carbon intensity.
 * [The Data Carbon Scorecard](https://digitaldecarb.org/data-carbon-scorecard/) is a light touch tool to help you plan a new data project.
 * [The DIMPACT tool](https://dimpact.org/about) estimates emissions associated with audiovisual streaming and other digital activities. 
