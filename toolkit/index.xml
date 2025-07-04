@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 04 Jul 2025 17:18:57 +0200</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Fri, 04 Jul 2025 17:29:26 +0200</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
  Introduction
  &lt;a class="anchor" href="#introduction">#&lt;/a>
 &lt;/h1>
@@ -57,6 +57,7 @@ Our first step below is to build a list of needs, and to signpost relevant evide
 &lt;ul>
 &lt;li>Consider how you might make sensible improvements even before you have measured emissions.&lt;/li>
 &lt;li>The &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting">Project Footprinting&lt;/a> section offers an introduction to carbon footprinting and concepts such as Emissions Factors.&lt;/li>
+&lt;li>The tool &lt;a href="https://what-uses-more.com/">What Uses More?&lt;/a> allows you to compare the energy costs of AI in relation to other common tasks.&lt;/li>
 &lt;li>&lt;a href="https://observablehq.com/@greenweb/co2-js-playground">The CO2.js Playground&lt;/a> is a great introduction to the CO2.js library from the Green Web Foundation, which lets you estimate website carbon intensity.&lt;/li>
 &lt;li>&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/">The Data Carbon Scorecard&lt;/a> is a light touch tool to help you plan a new data project.&lt;/li>
 &lt;li>&lt;a href="https://dimpact.org/about">The DIMPACT tool&lt;/a> estimates emissions associated with audiovisual streaming and other digital activities.&lt;/li>
