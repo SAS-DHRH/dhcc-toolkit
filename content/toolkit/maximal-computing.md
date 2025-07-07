@@ -70,6 +70,17 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 11. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) of this Toolkit.
 12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute, hold big AI companies accountable, and advocate for better regulation of AI.
 
+## Developing Guidelines for climate-friendly AI use
+
+Emily Simpson hosted a useful webinar Climate Conscious AI Use (Feb 7, 2025) at the University of British Columbia. Simpson posited these helpful questions to help you develop a personalised AI-use philosophy that embodies your environmental values:
+
+1. Is it necessary or fun?
+2. Could you do this on your own?
+3. Does a similar tool already exist?
+4. Does it replace something that has greater impact?
+5. Is speed critical?
+6. Is AI the right tool for your task?
+
 ## Then it gets complicated
 
 Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
