@@ -81,6 +81,8 @@ Emily Simpson hosted a useful webinar Climate Conscious AI Use (Feb 7, 2025) at 
 5. Is speed critical?
 6. Is AI the right tool for your task?
 
+See the [webinar](https://media.bccampus.ca/media/FLO+FridayA+Climate+Conscious+AI+Use+%28Feb.+7%2C+2025%29/0_tktdz35w) for more information (we have also uploaded the transcript.)
+
 ## Then it gets complicated
 
 Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
