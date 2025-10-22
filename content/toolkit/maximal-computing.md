@@ -68,7 +68,7 @@ exponentially since about 2012* (Source: OpenAI, https://openai.com/blog/ai-and-
 9. **Explore scheduling, carbon-aware computing, and grid-aware computing.** It may be possible to train your model when renewable energy is more plentiful. The [Climate-Aware Task Scheduler](https://github.com/GreenScheduler/cats) (or, CATS) is a good community driven example of this.
 10. **Weigh up the pros and cons of doing it in the Cloud vs. on-prem.** Generally speaking, hyperscale datacentres can take advantage of economies of scale and access renewable energy more cheaply. However, if your institution has High Performance Computing (HPC) facilities that you can access, there may be greater opportunities for collaboration and optimisation, compared to renting your compute off Amazon, Google or Microsoft. [Shao et al. (2022)](https://doi.org/10.1016/j.enbuild.2022.112308) review some metrics for data centre energy efficiency. 
 11. **Support responsible use with UX design.** If you are building something, that may mean making it deliberately *less* fascinating and immersive. In this space, user engagement in itself is not a measure of success. For more information on minimal UX design, see the ["Minimal Computing" section](https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html) of this Toolkit.
-12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute, hold big AI companies accountable, and advocate for better regulation of AI.
+12. **[Raise awareness of the issue.](https://arxiv.org/abs/1906.02243)** Normalise responsible use of compute, hold big AI companies accountable, and advocate for better regulation of AI. Explore AI Resistance, AI Abolitionism, and Decomputing.
 
 ## Developing Personal Guidelines for Climate-friendly AI Use
 
@@ -199,14 +199,14 @@ Contrasting with much of the evidence assembled here, [this 2022 preprint](https
 
 ## Understanding Cloud emissions {#understanding-Cloud}
 
-It also makes a big difference where (and when) you train and deploy your model. Climatiq offers a series of introductory articles to Cloud emissions:
+It also makes a difference where (and when) you train and deploy your model. Climatiq offers a series of introductory articles to Cloud emissions:
 
 * [Measuring greenhouse gas emissions in data centres](https://www.climatiq.io/blog/measure-greenhouse-gas-emissions-carbon-data-centres-cloud-computing)
 * [The role of Amazon Web Services, Azure, and Google Cloud Platform](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
 * [Approaches to assessing emissions](https://www.climatiq.io/blog/how-to-measure-carbon-footprint-cloud-computing-onpremise-hybrid-computing-infrastructure)
 * [Approaches to reducing Cloud emissions](https://www.climatiq.io/blog/9-ways-reduce-computing-carbon-footprint)
 
-Datacentre sustainability is strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
+Data centre sustainability metrics are strongly influenced by location, and the local availability of green electricity. [Electricity Maps](https://app.electricitymaps.com/zone/PT) is an open source visualization project to help understand the climate impacts of energy use.
 
 [The Science Based Targets initiative sectoral guidance for ICT](https://sciencebasedtargets.org/sectors/ict) includes a focus on datacentres. To get a rough understanding of where the Cloud's emissions fit into ICT emissions as a whole, the order goes (from largest impact to smallest): manufacturing user devices, running user devices, running data networks, running data centres, manufacturing data networks, manufacturing data centres. This doesn't include crypto though. (We'd like to include some more granular recent data here, if you have any to add).
 
@@ -341,6 +341,8 @@ Shao, Xiaotong, Zhongbin Zhang, Ping Song, Yanzhen Feng, and Xiaolin Wang. 2022.
 Strubell, Emma, Ananya Ganesh, and Andrew McCallum. 2019. ['Energy and Policy Considerations for Deep Learning in NLP'](https://doi.org/10.18653/v1/P19-1355). In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645-50. Florence, Italy: Association for Computational Linguistics. https://doi.org/10.18653/v1/P19-1355.
 
 Tremayne-Pitter, Daniel (dir.) (2022). [*Clouded: Uncovering the Culture of the Cloud*](https://www.consciouslyhybrid.com/) Documentary film.
+
+Walton, Jo Lindsay; Huegler, Natalie; Tiamiyu-Tijani, Faosiyat; Al Sayed, Kinda; Byrne, Olivia; Lethbridge, Josephine; Levontin, Polina; O’Donnell, Kerry; Price, Ben; Seymour-Smith, Nic; Sovacool, Benjamin K. (2024). [*The Cloud and the Climate: Navigating AI-Powered Futures*](https://medium.com/@jolindsaywalton/the-cloud-and-the-climate-7f03f4e11c45). Digital Humanities Climate Coalition & Sussex Digital Humanities Lab. DOI: 10.5281/zenodo.13850067.
 
 Xu, Jingjing, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, and Lei Li. 2021. 'A Survey on Green Deep Learning'. [https://doi.org/10.48550/ARXIV.2111.05193](https://doi.org/10.48550/ARXIV.2111.05193).
 
