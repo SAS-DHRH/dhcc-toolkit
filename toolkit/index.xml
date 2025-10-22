@@ -1,206 +1,208 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Mon, 07 Jul 2025 14:41:55 +0200</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Toolkits on DHCC</title><link>/toolkit/index.html</link><description>Recent content in Toolkits on DHCC</description><generator>Hugo</generator><language>en</language><lastBuildDate>Wed, 22 Oct 2025 17:59:44 +0100</lastBuildDate><atom:link href="/toolkit/index.xml" rel="self" type="application/rss+xml"/><item><title>Introduction</title><link>/toolkit/introduction.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/introduction.html</guid><description>&lt;h1 id="introduction"&gt;
  Introduction
- &lt;a class="anchor" href="#introduction">#&lt;/a>
-&lt;/h1>
-&lt;p>&lt;em>&lt;a href="https://dhc-barnard.github.io/dhclimate/">The Digital Humanities and the Climate Crisis: A Manifesto&lt;/a>&lt;/em> (2021) states:&lt;/p>
-&lt;blockquote>
-&lt;p>The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [&amp;hellip;] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.&lt;/p>&lt;/blockquote>
-&lt;p>To meet climate targets, the world needs to cut net carbon emissions by about half by 2030, and achieve net zero carbon by 2050. Globally, Information Communication Technology (ICT) already contributes 1.8% to 3.9% of greenhouse gas emissions, and is currently projected to grow significantly &lt;a href="https://doi.org/10.1016/j.patter.2021.100340">(Freitag et al. 2021)&lt;/a>. Transport accounts for about 14% &lt;a href="https://tcc-gsr.com/wp-content/uploads/2021/06/1.1-Global-Transport-and-Climate-Change.pdf">(SLOCAT 2021)&lt;/a>, and research often involves heavy travel for conferences, meetings, and fieldwork. What can we do?&lt;/p></description></item><item><title>I Want To ...</title><link>/toolkit/decision-trees.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/decision-trees.html</guid><description>&lt;h1 id="i-want-to-">
+ &lt;a class="anchor" href="#introduction"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href="https://dhc-barnard.github.io/dhclimate/"&gt;The Digital Humanities and the Climate Crisis: A Manifesto&lt;/a&gt;&lt;/em&gt; (2021) states:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The digital is material. As digital humanists, every project we create, every software application we use, every piece of hardware we purchase impacts our environment. [&amp;hellip;] As humanities researchers, it is also our role to probe the values, the power structures, and the future imaginaries that underpin sustainable solutions.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To meet climate targets, the world needs to cut net carbon emissions by about half by 2030, and achieve net zero carbon by 2050. Globally, Information Communication Technology (ICT) already contributes 1.8% to 3.9% of greenhouse gas emissions, and is currently projected to grow significantly &lt;a href="https://doi.org/10.1016/j.patter.2021.100340"&gt;(Freitag et al. 2021)&lt;/a&gt;. Transport accounts for about 14% &lt;a href="https://tcc-gsr.com/wp-content/uploads/2021/06/1.1-Global-Transport-and-Climate-Change.pdf"&gt;(SLOCAT 2021)&lt;/a&gt;, and research often involves heavy travel for conferences, meetings, and fieldwork. What can we do?&lt;/p&gt;</description></item><item><title>I Want To ...</title><link>/toolkit/decision-trees.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/decision-trees.html</guid><description>&lt;h1 id="i-want-to-"&gt;
  I Want To &amp;hellip;
- &lt;a class="anchor" href="#i-want-to-">#&lt;/a>
-&lt;/h1>
-&lt;blockquote class="book-hint warning">
+ &lt;a class="anchor" href="#i-want-to-"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote class="book-hint warning"&gt;
  
-We hope to include some visual decision support tools in this section in the future. These might draw especially on the evidence and recommendations in the Working Practices and Project Planning sections. If you're interested in contributing to this section, please get in touch, or &lt;a href="https://github.com/SAS-DHRH/dhcc-toolkit/issues/35">join the conversation here&lt;/a>.
+We hope to include some visual decision support tools in this section in the future. These might draw especially on the evidence and recommendations in the Working Practices and Project Planning sections. If you're interested in contributing to this section, please get in touch, or &lt;a href="https://github.com/SAS-DHRH/dhcc-toolkit/issues/35"&gt;join the conversation here&lt;/a&gt;.
 
 Our first step below is to build a list of needs, and to signpost relevant evidence and recommendations within the toolkit.
 
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;h2 id="i-want-to-organise-an-online-event">
+&lt;h2 id="i-want-to-organise-an-online-event"&gt;
  I want to organise an online event
- &lt;a class="anchor" href="#i-want-to-organise-an-online-event">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#communication-methods">Communication Methods&lt;/a> for more information on videoconferencing.
-&lt;ul>
-&lt;li>If you are delivering the event as part of a funded project, make sure you include environmental considerations in your application. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html">Grant Writing&lt;/a> for more details.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>As well as videoconferencing, consider what other computing processes will be involved in running your event. These may include:
-&lt;ul>
-&lt;li>Creating a website. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html">Minimal Computing&lt;/a>, and in particular, sections on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-site-generators">Static Site Generators&lt;/a>, &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips">Tips for Sustainable Websites&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change">Critical Design and Systems Change&lt;/a>.&lt;/li>
-&lt;li>Emailing. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#day-to-day-working-and-data-traffic">Day-to-day Working and Data Traffic&lt;/a>.&lt;/li>
-&lt;li>Lastly, you should consider how you will responsibly dispose of project websites, email threads etc., and how you will archive your data. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data">Archiving Your Data&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-organise-a-hybrid-event">
+ &lt;a class="anchor" href="#i-want-to-organise-an-online-event"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#communication-methods"&gt;Communication Methods&lt;/a&gt; for more information on videoconferencing.
+&lt;ul&gt;
+&lt;li&gt;If you are delivering the event as part of a funded project, make sure you include environmental considerations in your application. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html"&gt;Grant Writing&lt;/a&gt; for more details.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;As well as videoconferencing, consider what other computing processes will be involved in running your event. These may include:
+&lt;ul&gt;
+&lt;li&gt;Creating a website. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html"&gt;Minimal Computing&lt;/a&gt;, and in particular, sections on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-site-generators"&gt;Static Site Generators&lt;/a&gt;, &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips"&gt;Tips for Sustainable Websites&lt;/a&gt; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change"&gt;Critical Design and Systems Change&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Emailing. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#day-to-day-working-and-data-traffic"&gt;Day-to-day Working and Data Traffic&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Lastly, you should consider how you will responsibly dispose of project websites, email threads etc., and how you will archive your data. See &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data"&gt;Archiving Your Data&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-organise-a-hybrid-event"&gt;
  I want to organise a hybrid event
- &lt;a class="anchor" href="#i-want-to-organise-a-hybrid-event">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Organising a hybrid event will involve many of the same questions as organising an online event. See above for relevant links.&lt;/li>
-&lt;li>Additionally, you should consider:
-&lt;ul>
-&lt;li>&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#travel">Travel&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#catering-events">Catering&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;li>You may also want to consider the bigger picture of your institution’s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#energy-procurement">energy procurement&lt;/a> strategy.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-measure-carbon-emissions">
+ &lt;a class="anchor" href="#i-want-to-organise-a-hybrid-event"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Organising a hybrid event will involve many of the same questions as organising an online event. See above for relevant links.&lt;/li&gt;
+&lt;li&gt;Additionally, you should consider:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#travel"&gt;Travel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#catering-events"&gt;Catering&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;You may also want to consider the bigger picture of your institution’s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/advocating-within-your-institution.html#energy-procurement"&gt;energy procurement&lt;/a&gt; strategy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-measure-carbon-emissions"&gt;
  I want to measure carbon emissions
- &lt;a class="anchor" href="#i-want-to-measure-carbon-emissions">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Consider how you might make sensible improvements even before you have measured emissions.&lt;/li>
-&lt;li>The &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting">Project Footprinting&lt;/a> section offers an introduction to carbon footprinting and concepts such as Emissions Factors.&lt;/li>
-&lt;li>The tool &lt;a href="https://what-uses-more.com/">What Uses More?&lt;/a> allows you to compare the energy costs of AI in relation to other common tasks.&lt;/li>
-&lt;li>&lt;a href="https://observablehq.com/@greenweb/co2-js-playground">The CO2.js Playground&lt;/a> is a great introduction to the CO2.js library from the Green Web Foundation, which lets you estimate website carbon intensity.&lt;/li>
-&lt;li>&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/">The Data Carbon Scorecard&lt;/a> is a light touch tool to help you plan a new data project.&lt;/li>
-&lt;li>&lt;a href="https://dimpact.org/about">The DIMPACT tool&lt;/a> estimates emissions associated with audiovisual streaming and other digital activities.&lt;/li>
-&lt;li>&lt;a href="https://www.cloudcarbonfootprint.org/">Cloud Carbon Footprint&lt;/a> is an open source tool that provides visibility and tooling to measure your cloud carbon emissions. &lt;a href="https://cloud.google.com/blog/topics/sustainability/how-thoughtworks-uses-cloud-carbon-footprint-for-sustainability">Here&amp;rsquo;s a case study from ThoughtWorks&lt;/a>.&lt;/li>
-&lt;li>&lt;a href="https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md">The Software Carbon Intensity Specification&lt;/a> is a high level framework for scoring a software system&amp;rsquo;s carbon emissions. Now an ISO standard. See also &lt;a href="https://learn.greensoftware.foundation/measurement">this Green Software Foundation guidance&lt;/a> on carbon efficiency, energy efficiency, hardware efficiency, measurement and reporting, and the &lt;a href="https://if.greensoftware.foundation/users/quick-start">Impact Framework&lt;/a>.&lt;/li>
-&lt;li>Investigate a hosting provider&amp;rsquo;s energy source with the &lt;a href="https://www.thegreenwebfoundation.org/green-web-check/">Green Web Check&lt;/a>.&lt;/li>
-&lt;li>Tools like &lt;a href="https://websitecarbon.com">Website Carbon Calculator&lt;/a> and &lt;a href="https://ecograder.com/">Ecograder&lt;/a> can automatically estimate a website&amp;rsquo;s carbon impact.&lt;/li>
-&lt;li>&lt;a href="https://calculator.green-algorithms.org/">Green Algorithms Calculator&lt;/a> will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.&lt;/li>
-&lt;li>A variety of sector-specific &lt;a href="https://carbonliteracy.com/toolkits/">Carbon Literacy Toolkits&lt;/a> are available from the Carbon Literacy Project.&lt;/li>
-&lt;li>Check out Green Coding Solutions&amp;rsquo; &lt;a href="https://www.green-coding.io/projects/green-metrics-tool/">Green Metrics Tool&lt;/a>, to measure the energy / CO2 consumption of software, especially containerized software.&lt;/li>
-&lt;li>Explore &lt;a href="https://www.software.ac.uk/GreenDiSC">Green DISC&lt;/a> certification as a potential rationale for measuring carbon emissions.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-create-a-website-for-a-research-project">
+ &lt;a class="anchor" href="#i-want-to-measure-carbon-emissions"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider how you might make sensible improvements even before you have measured emissions.&lt;/li&gt;
+&lt;li&gt;The &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#project-footprinting"&gt;Project Footprinting&lt;/a&gt; section offers an introduction to carbon footprinting and concepts such as Emissions Factors.&lt;/li&gt;
+&lt;li&gt;The tool &lt;a href="https://what-uses-more.com/"&gt;What Uses More?&lt;/a&gt; allows you to compare the energy costs of AI in relation to other common tasks.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://observablehq.com/@greenweb/co2-js-playground"&gt;The CO2.js Playground&lt;/a&gt; is a great introduction to the CO2.js library from the Green Web Foundation, which lets you estimate website carbon intensity.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/"&gt;The Data Carbon Scorecard&lt;/a&gt; is a light touch tool to help you plan a new data project.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dimpact.org/about"&gt;The DIMPACT tool&lt;/a&gt; estimates emissions associated with audiovisual streaming and other digital activities.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.cloudcarbonfootprint.org/"&gt;Cloud Carbon Footprint&lt;/a&gt; is an open source tool that provides visibility and tooling to measure your cloud carbon emissions. &lt;a href="https://cloud.google.com/blog/topics/sustainability/how-thoughtworks-uses-cloud-carbon-footprint-for-sustainability"&gt;Here&amp;rsquo;s a case study from ThoughtWorks&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Green-Software-Foundation/sci/blob/main/Software_Carbon_Intensity/Software_Carbon_Intensity_Specification.md"&gt;The Software Carbon Intensity Specification&lt;/a&gt; is a high level framework for scoring a software system&amp;rsquo;s carbon emissions. Now an ISO standard. See also &lt;a href="https://learn.greensoftware.foundation/measurement"&gt;this Green Software Foundation guidance&lt;/a&gt; on carbon efficiency, energy efficiency, hardware efficiency, measurement and reporting, and the &lt;a href="https://if.greensoftware.foundation/users/quick-start"&gt;Impact Framework&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Investigate a hosting provider&amp;rsquo;s energy source with the &lt;a href="https://www.thegreenwebfoundation.org/green-web-check/"&gt;Green Web Check&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Tools like &lt;a href="https://websitecarbon.com"&gt;Website Carbon Calculator&lt;/a&gt; and &lt;a href="https://ecograder.com/"&gt;Ecograder&lt;/a&gt; can automatically estimate a website&amp;rsquo;s carbon impact.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://calculator.green-algorithms.org/"&gt;Green Algorithms Calculator&lt;/a&gt; will give you a carbon estimate for a computational process based on runtime, types of cores, number of cores, model, etc.&lt;/li&gt;
+&lt;li&gt;A variety of sector-specific &lt;a href="https://carbonliteracy.com/toolkits/"&gt;Carbon Literacy Toolkits&lt;/a&gt; are available from the Carbon Literacy Project.&lt;/li&gt;
+&lt;li&gt;Check out Green Coding Solutions&amp;rsquo; &lt;a href="https://www.green-coding.io/projects/green-metrics-tool/"&gt;Green Metrics Tool&lt;/a&gt;, to measure the energy / CO2 consumption of software, especially containerized software.&lt;/li&gt;
+&lt;li&gt;Explore &lt;a href="https://www.software.ac.uk/GreenDiSC"&gt;Green DISC&lt;/a&gt; certification as a potential rationale for measuring carbon emissions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-create-a-website-for-a-research-project"&gt;
  I want to create a website for a research project
- &lt;a class="anchor" href="#i-want-to-create-a-website-for-a-research-project">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Begin by factoring consideration of website creation and maintenance in your project proposal’s data management plan. See discussion of &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Energy Proportionality&lt;/a> in the Grant Writing section for more details.&lt;/li>
-&lt;li>When it comes to designing your website, you could consider factors such as &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic">Static Versus Dynamic Websites&lt;/a>, &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips">Tips for Sustainable Websites&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change">Critical Design and Systems Change&lt;/a>.&lt;/li>
-&lt;li>Additional guidance on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles">Minimal Computing Principles&lt;/a> may also be helpful for approaches for sustainable website design.&lt;/li>
-&lt;li>Think about where to &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting">host your website.&lt;/a>&lt;/li>
-&lt;li>Consider displaying a certification, e.g. &lt;a href="https://neuto.dev/guide">Neuto&amp;rsquo;s Digital Carbon Rating Scale&lt;/a>.&lt;/li>
-&lt;li>After the conclusion of the research project, it is important to consider how you will dispose of and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data">archive your data&lt;/a>.&lt;/li>
-&lt;li>Check out these &lt;a href="https://lowwwcarbon.com/case-studies/">low-carbon website case studies&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-create-a-digital-edition-of-a-book">
+ &lt;a class="anchor" href="#i-want-to-create-a-website-for-a-research-project"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Begin by factoring consideration of website creation and maintenance in your project proposal’s data management plan. See discussion of &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP"&gt;Energy Proportionality&lt;/a&gt; in the Grant Writing section for more details.&lt;/li&gt;
+&lt;li&gt;When it comes to designing your website, you could consider factors such as &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic"&gt;Static Versus Dynamic Websites&lt;/a&gt;, &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips"&gt;Tips for Sustainable Websites&lt;/a&gt; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#system-change"&gt;Critical Design and Systems Change&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Additional guidance on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles"&gt;Minimal Computing Principles&lt;/a&gt; may also be helpful for approaches for sustainable website design.&lt;/li&gt;
+&lt;li&gt;Think about where to &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting"&gt;host your website.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Consider displaying a certification, e.g. &lt;a href="https://neuto.dev/guide"&gt;Neuto&amp;rsquo;s Digital Carbon Rating Scale&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;After the conclusion of the research project, it is important to consider how you will dispose of and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data"&gt;archive your data&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out these &lt;a href="https://lowwwcarbon.com/case-studies/"&gt;low-carbon website case studies&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-create-a-digital-edition-of-a-book"&gt;
  I want to create a digital edition of a book
- &lt;a class="anchor" href="#i-want-to-create-a-digital-edition-of-a-book">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Consider what would be the least energy intensive way to produce a digital edition of a book. &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html">Minimal Computing&lt;/a> approaches can have advantages in terms of accessibility and longevity, as well as environmental impact.&lt;/li>
-&lt;li>It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic">Static versus Dynamic Websites&lt;/a>.&lt;/li>
-&lt;li>&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/">The Data Carbon Scorecard&lt;/a> may help to facilitate discussions.&lt;/li>
-&lt;li>Other considerations include:
-&lt;ul>
-&lt;li>&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#images">Images&lt;/a>&lt;/li>
-&lt;li>&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting">Hosting&lt;/a> your digital edition with a green hosting provider.&lt;/li>
-&lt;li>And even &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#fonts">fonts&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-digitise-a-collection">
+ &lt;a class="anchor" href="#i-want-to-create-a-digital-edition-of-a-book"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider what would be the least energy intensive way to produce a digital edition of a book. &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html"&gt;Minimal Computing&lt;/a&gt; approaches can have advantages in terms of accessibility and longevity, as well as environmental impact.&lt;/li&gt;
+&lt;li&gt;It is likely that you can publish a transcribed manuscript or a collection of images on a static website. For details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic"&gt;Static versus Dynamic Websites&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/"&gt;The Data Carbon Scorecard&lt;/a&gt; may help to facilitate discussions.&lt;/li&gt;
+&lt;li&gt;Other considerations include:
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#images"&gt;Images&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting"&gt;Hosting&lt;/a&gt; your digital edition with a green hosting provider.&lt;/li&gt;
+&lt;li&gt;And even &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#fonts"&gt;fonts&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-digitise-a-collection"&gt;
  I want to digitise a collection
- &lt;a class="anchor" href="#i-want-to-digitise-a-collection">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Consider &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting">low carbon hosting&lt;/a>, file formats, what resolution is necessary, whether 3D scans are really necessary, hardware longevity, digital access strategies to ensure the resource is used and to prevent unintentional redundancy, and processes for retiring data that is no longer needed.&lt;/li>
-&lt;li>&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/">The Data Carbon Scorecard&lt;/a> is a light touch tool to help you plan a new data project.&lt;/li>
-&lt;li>&lt;a href="https://dimpact.org/about">The DIMPACT tool&lt;/a> estimates emissions associated with audiovisual streaming and other digital activities.&lt;/li>
-&lt;li>Currently most &lt;a href="https://encodemuse.wp.st-andrews.ac.uk/digitisation-guidelines/">digitalisation guidelines&lt;/a> don&amp;rsquo;t address environmental considerations.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-create-a-personal-website">
+ &lt;a class="anchor" href="#i-want-to-digitise-a-collection"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Consider &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#hosting"&gt;low carbon hosting&lt;/a&gt;, file formats, what resolution is necessary, whether 3D scans are really necessary, hardware longevity, digital access strategies to ensure the resource is used and to prevent unintentional redundancy, and processes for retiring data that is no longer needed.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://digitaldecarb.org/data-carbon-scorecard/"&gt;The Data Carbon Scorecard&lt;/a&gt; is a light touch tool to help you plan a new data project.&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://dimpact.org/about"&gt;The DIMPACT tool&lt;/a&gt; estimates emissions associated with audiovisual streaming and other digital activities.&lt;/li&gt;
+&lt;li&gt;Currently most &lt;a href="https://encodemuse.wp.st-andrews.ac.uk/digitisation-guidelines/"&gt;digitalisation guidelines&lt;/a&gt; don&amp;rsquo;t address environmental considerations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-create-a-personal-website"&gt;
  I want to create a personal website
- &lt;a class="anchor" href="#i-want-to-create-a-personal-website">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic">Static Versus Dynamic Websites&lt;/a>.&lt;/li>
-&lt;li>If you require a dynamic website, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems">Content Management Systems&lt;/a> includes links to tools for creating more lightweight dynamic websites.&lt;/li>
-&lt;li>The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips">Tips for Sustainable Website Design&lt;/a> includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.&lt;/li>
-&lt;li>Consider displaying a certification, e.g. &lt;a href="https://neuto.dev/guide">Neuto&amp;rsquo;s Digital Carbon Rating Scale&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-create-a-website-for-a-research-network">
+ &lt;a class="anchor" href="#i-want-to-create-a-personal-website"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Use these questions to decide what kind of website is the most appropriate for your needs. For more details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic"&gt;Static Versus Dynamic Websites&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If you require a dynamic website, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems"&gt;Content Management Systems&lt;/a&gt; includes links to tools for creating more lightweight dynamic websites.&lt;/li&gt;
+&lt;li&gt;The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips"&gt;Tips for Sustainable Website Design&lt;/a&gt; includes a number of further useful tips, including advice on images, fonts, hosting considerations and more.&lt;/li&gt;
+&lt;li&gt;Consider displaying a certification, e.g. &lt;a href="https://neuto.dev/guide"&gt;Neuto&amp;rsquo;s Digital Carbon Rating Scale&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-create-a-website-for-a-research-network"&gt;
  I want to create a website for a research network
- &lt;a class="anchor" href="#i-want-to-create-a-website-for-a-research-network">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic">Static Versus Dynamic Websites&lt;/a>. If you require a dynamic website, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems">Content Management Systems&lt;/a> includes links to tools for creating more lightweight dynamic websites.&lt;/li>
-&lt;li>Additionally, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips">Tips for Sustainable Website Design&lt;/a> includes useful information about images, fonts, hosting considerations and more.&lt;/li>
-&lt;li>Lastly, you should consider how you will &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data">Archive Your Data&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-train-an-ai">
+ &lt;a class="anchor" href="#i-want-to-create-a-website-for-a-research-network"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;First, consider the purpose of this website. Do you want to share blog posts, display images or include interactivity features such as comments? Next you can decide what kind of website is the most appropriate for your needs. For more details on this, see &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#static-v-dynamic"&gt;Static Versus Dynamic Websites&lt;/a&gt;. If you require a dynamic website, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#content-management-systems"&gt;Content Management Systems&lt;/a&gt; includes links to tools for creating more lightweight dynamic websites.&lt;/li&gt;
+&lt;li&gt;Additionally, the section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#tips"&gt;Tips for Sustainable Website Design&lt;/a&gt; includes useful information about images, fonts, hosting considerations and more.&lt;/li&gt;
+&lt;li&gt;Lastly, you should consider how you will &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/working-practices.html#archiving-your-data"&gt;Archive Your Data&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-train-an-ai"&gt;
  I want to train an AI
- &lt;a class="anchor" href="#i-want-to-train-an-ai">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html">Maximal Computing&lt;/a> provides information on computationally intensive work. In particular, see discussion of &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#problems-of-proportionality">Energy Proportionality&lt;/a>, which will help you to consider your rationale for training an AI; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#measures-of-efficiency">Measures of Efficiency&lt;/a>, which provides information on using more energy efficient models.&lt;/li>
-&lt;li>The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#some-easy-wins">Easy Wins&lt;/a> contains advice on training models for machine learning tasks.&lt;/li>
-&lt;li>Additionally, consider the carbon cost of AI in your project’s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plan&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-want-to-build-a-piece-of-software">
+ &lt;a class="anchor" href="#i-want-to-train-an-ai"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html"&gt;Maximal Computing&lt;/a&gt; provides information on computationally intensive work. In particular, see discussion of &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#problems-of-proportionality"&gt;Energy Proportionality&lt;/a&gt;, which will help you to consider your rationale for training an AI; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#measures-of-efficiency"&gt;Measures of Efficiency&lt;/a&gt;, which provides information on using more energy efficient models.&lt;/li&gt;
+&lt;li&gt;The section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/maximal-computing.html#some-easy-wins"&gt;Easy Wins&lt;/a&gt; contains advice on training models for machine learning tasks.&lt;/li&gt;
+&lt;li&gt;Additionally, consider the carbon cost of AI in your project’s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP"&gt;Data Management Plan&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-want-to-build-a-piece-of-software"&gt;
  I want to build a piece of software
- &lt;a class="anchor" href="#i-want-to-build-a-piece-of-software">#&lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Check out the &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#software-development">Software Development&lt;/a> section, and the resources of the &lt;a href="https://greensoftware.foundation/">Green Software Foundation&lt;/a>.&lt;/li>
-&lt;li>Check out Green Coding Solutions&amp;rsquo; &lt;a href="https://www.green-coding.io/projects/green-metrics-tool/">Green Metrics Tool&lt;/a>, to measure the energy / CO2 consumption of software, especially containerized software.&lt;/li>
-&lt;li>You might also be interested in &lt;a href="https://github.com/hubblo-org/scaphandre">Scaphandre&lt;/a>, another open source tool for measuring energy / CO2 consumption of software.&lt;/li>
-&lt;li>Read about &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles">Minimal Computing&lt;/a>.&lt;/li>
-&lt;li>Think about how your software will fit into the big picture of climate transition by checking out the toolkit&amp;rsquo;s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html">Climate Change FAQs&lt;/a>.&lt;/li>
-&lt;/ul>
-&lt;h2 id="i-am-writing-a-data-management-plan">
+ &lt;a class="anchor" href="#i-want-to-build-a-piece-of-software"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Check out the &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#software-development"&gt;Software Development&lt;/a&gt; section, and the resources of the &lt;a href="https://greensoftware.foundation/"&gt;Green Software Foundation&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Check out Green Coding Solutions&amp;rsquo; &lt;a href="https://www.green-coding.io/projects/green-metrics-tool/"&gt;Green Metrics Tool&lt;/a&gt;, to measure the energy / CO2 consumption of software, especially containerized software.&lt;/li&gt;
+&lt;li&gt;You might also be interested in &lt;a href="https://github.com/hubblo-org/scaphandre"&gt;Scaphandre&lt;/a&gt;, another open source tool for measuring energy / CO2 consumption of software.&lt;/li&gt;
+&lt;li&gt;Read about &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/minimal-computing.html#minicomp-principles"&gt;Minimal Computing&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Think about how your software will fit into the big picture of climate transition by checking out the toolkit&amp;rsquo;s &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/climate-change-faqs.html"&gt;Climate Change FAQs&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="i-am-writing-a-data-management-plan"&gt;
  I am writing a Data Management Plan
- &lt;a class="anchor" href="#i-am-writing-a-data-management-plan">#&lt;/a>
-&lt;/h2>
-&lt;p>See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing">Grant Writing&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP">Data Management Plans&lt;/a> for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p></description></item><item><title>Search the Toolkit</title><link>/toolkit/search.html</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>/toolkit/search.html</guid><description>&lt;!DOCTYPE html>
-&lt;html xmlns="http://www.w3.org/1999/xhtml">
- &lt;head>
- &lt;title>Search DHCC&lt;/title>
+ &lt;a class="anchor" href="#i-am-writing-a-data-management-plan"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;See section on &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#grant-writing"&gt;Grant Writing&lt;/a&gt; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html#DMP"&gt;Data Management Plans&lt;/a&gt; for specific advice on energy proportionality, identifying relevant standards and frameworks, and more.&lt;/p&gt;</description></item><item><title>Search the Toolkit</title><link>/toolkit/search.html</link><pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate><guid>/toolkit/search.html</guid><description>&lt;!DOCTYPE html&gt;
+&lt;html xmlns="http://www.w3.org/1999/xhtml"&gt;
+ &lt;head&gt;
+ &lt;title&gt;Search DHCC&lt;/title&gt;
  
  
- &lt;/head>
- &lt;body>
- &lt;form action="https://duckduckgo.com" target="_blank" rel="noopener">
- &lt;label for="search">Search the Toolkit:&lt;/label>
- &lt;input name="q" id="search" />
- &lt;input type="hidden" name="sites" value="https://sas-dhrh.github.io/dhcc-toolkit/" />
- &lt;input type="hidden" name="ko" value="-2" />
- &lt;input type="hidden" name="k1" value="-1" />
- &lt;input type="hidden" name="kz" value="-1" />
- &lt;input type="hidden" name="km" value="m" />
- &lt;input type="hidden" name="k7" value="#fafef5" />
- &lt;/form>
- &lt;/body>
-&lt;/html>
-&lt;p>Powered by &lt;a href="https://duckduckgo.com/">DuckDuckGo&lt;/a>.&lt;/p></description></item><item><title>Minimal Computing</title><link>/toolkit/minimal-computing.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/minimal-computing.html</guid><description>&lt;h1 id="minimal-computing">
+ &lt;/head&gt;
+ &lt;body&gt;
+ &lt;form action="https://duckduckgo.com" target="_blank" rel="noopener"&gt;
+ &lt;label for="search"&gt;Search the Toolkit:&lt;/label&gt;
+ &lt;input name="q" id="search" /&gt;
+ &lt;input type="hidden" name="sites" value="https://sas-dhrh.github.io/dhcc-toolkit/" /&gt;
+ &lt;input type="hidden" name="ko" value="-2" /&gt;
+ &lt;input type="hidden" name="k1" value="-1" /&gt;
+ &lt;input type="hidden" name="kz" value="-1" /&gt;
+ &lt;input type="hidden" name="km" value="m" /&gt;
+ &lt;input type="hidden" name="k7" value="#fafef5" /&gt;
+ &lt;/form&gt;
+ &lt;/body&gt;
+&lt;/html&gt;
+&lt;p&gt;Powered by &lt;a href="https://duckduckgo.com/"&gt;DuckDuckGo&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Minimal Computing</title><link>/toolkit/minimal-computing.html</link><pubDate>Tue, 17 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/minimal-computing.html</guid><description>&lt;h1 id="minimal-computing"&gt;
  Minimal Computing
- &lt;a class="anchor" href="#minimal-computing">#&lt;/a>
-&lt;/h1>
-&lt;blockquote>
-&lt;p>&lt;em>‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, &lt;strong>or other factors&lt;/strong>.’&lt;/em>&lt;/p>&lt;/blockquote>
-&lt;p>&lt;a href="https://go-dh.github.io/mincomp/about/">GO:DH Minimal Computing group&lt;/a>&lt;/p>
-&lt;p>This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.&lt;/p></description></item><item><title>Maximal Computing</title><link>/toolkit/maximal-computing.html</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>/toolkit/maximal-computing.html</guid><description>&lt;h1 id="maximal-computing">
+ &lt;a class="anchor" href="#minimal-computing"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;‘We use “minimal computing” to refer to computing done under some set of significant constraints of hardware, software, education, network capacity, power, &lt;strong&gt;or other factors&lt;/strong&gt;.’&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a href="https://go-dh.github.io/mincomp/about/"&gt;GO:DH Minimal Computing group&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;This section introduces you to minimal computing principles. Minimal computing is a set of principles and practices that aim to reduce both environmental impact and barriers to access and engagement. It offers an important set of thinking tools to make responsible, frugal, and nuanced digital decisions.&lt;/p&gt;</description></item><item><title>Maximal Computing</title><link>/toolkit/maximal-computing.html</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>/toolkit/maximal-computing.html</guid><description>&lt;h1 id="maximal-computing"&gt;
  Maximal Computing
- &lt;a class="anchor" href="#maximal-computing">#&lt;/a>
-&lt;/h1>
-&lt;p>This section introduces you to &amp;ldquo;maximal computing,&amp;rdquo; which refers to any &lt;strong>computationally
-intensive work&lt;/strong>, including working with AI, blockchains, and big data.&lt;/p>
-&lt;blockquote class="book-hint info">
+ &lt;a class="anchor" href="#maximal-computing"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;This section introduces you to &amp;ldquo;maximal computing,&amp;rdquo; which refers to any &lt;strong&gt;computationally
+intensive work&lt;/strong&gt;, including working with AI, blockchains, and big data.&lt;/p&gt;
+&lt;blockquote class="book-hint info"&gt;
  
-&lt;h2> Key Recommendations &lt;/h2>
-&lt;li> Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for your opportunity, challenge, or research question.&lt;/li>
-&lt;li> When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.&lt;/li>
-&lt;li> Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.&lt;/li>
-&lt;li> Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.&lt;/li>
-&lt;li> Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.&lt;/li>
+&lt;h2&gt; Key Recommendations &lt;/h2&gt;
+&lt;li&gt; Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for your opportunity, challenge, or research question.&lt;/li&gt;
+&lt;li&gt; When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.&lt;/li&gt;
+&lt;li&gt; Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.&lt;/li&gt;
+&lt;li&gt; Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.&lt;/li&gt;
+&lt;li&gt; Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.&lt;/li&gt;
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;h2 id="problems-of-proportionality">
+&lt;h2 id="problems-of-proportionality"&gt;
  Problems of Proportionality
- &lt;a class="anchor" href="#problems-of-proportionality">#&lt;/a>
-&lt;/h2>
-&lt;p>How do we apply digital sufficiency, or digital sobriety, in an era of intense commercial and geopolitical competition around AI? Maximal computing systems are everywhere these days. For example, AI
+ &lt;a class="anchor" href="#problems-of-proportionality"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;How do we apply digital sufficiency, or digital sobriety, in an era of intense commercial and geopolitical competition around AI? Maximal computing systems are everywhere these days. For example, AI
 is used in content generation, search, speech recognition, translation,
 computer vision, and many other areas. In many parts of the world, AI is
 present within our homes, cars, mobile phones. New applications of AI
@@ -208,95 +210,96 @@ are being implemented with the help of large publicly open datasets,
 available on the web (for example open crawl), which in turn are fed to
 models trained with huge hardware capabilities (training on GPUs and
 TPUs). Such maximal computing may help with adaptation to climate
-change; Gordon S. Blair gives the example of flooding resilience:&lt;/p></description></item><item><title>Grant Writing</title><link>/toolkit/grant-writing.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/grant-writing.html</guid><description>&lt;h1 id="grant-writing">
+change; Gordon S. Blair gives the example of flooding resilience:&lt;/p&gt;</description></item><item><title>Grant Writing</title><link>/toolkit/grant-writing.html</link><pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate><guid>/toolkit/grant-writing.html</guid><description>&lt;h1 id="grant-writing"&gt;
  Grant Writing
- &lt;a class="anchor" href="#grant-writing">#&lt;/a>
-&lt;/h1>
-&lt;blockquote class="book-hint warning">
+ &lt;a class="anchor" href="#grant-writing"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote class="book-hint warning"&gt;
  This section is currently very UK-centric. We would welcome collaborators who can comment on other national and regional contexts. 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;p>This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won&amp;rsquo;t change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.&lt;/p></description></item><item><title>Working Practices</title><link>/toolkit/working-practices.html</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>/toolkit/working-practices.html</guid><description>&lt;h1 id="working-practices">
+&lt;p&gt;This section addresses things you might consider when writing a grant, or planning a project from an internal budget. Our research cultures won&amp;rsquo;t change by themselves: we have to make it happen. By planning our projects responsibly now (rather than waiting for funders to ask for environmental impact statements), we can model the change we want to see in the world.&lt;/p&gt;</description></item><item><title>Working Practices</title><link>/toolkit/working-practices.html</link><pubDate>Wed, 09 Nov 2022 00:00:00 +0000</pubDate><guid>/toolkit/working-practices.html</guid><description>&lt;h1 id="working-practices"&gt;
  Working Practices
- &lt;a class="anchor" href="#working-practices">#&lt;/a>
-&lt;/h1>
-&lt;p>The research process represents a long path of decision-making that can and should involve assessment of the project or activity&amp;rsquo;s environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html">Decision Trees&lt;/a> and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html">Grant Writing&lt;/a> sections.&lt;/p>
-&lt;blockquote class="book-hint info">
+ &lt;a class="anchor" href="#working-practices"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;p&gt;The research process represents a long path of decision-making that can and should involve assessment of the project or activity&amp;rsquo;s environmental footprint. This section is intended to help you make informed decisions about the research process as a whole, from using devices to communicating with your team. See also the &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/decision-trees.html"&gt;Decision Trees&lt;/a&gt; and &lt;a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/grant-writing.html"&gt;Grant Writing&lt;/a&gt; sections.&lt;/p&gt;
+&lt;blockquote class="book-hint info"&gt;
  
-&lt;h2> Key Recommendations &lt;/h2>
-&lt;li> The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as &lt;a href="https://www.ifixit.com/">iFixit&lt;/a> to investigate their longevity and repairability.&lt;/li>
-&lt;li> Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.&lt;/li>
+&lt;h2&gt; Key Recommendations &lt;/h2&gt;
+&lt;li&gt; The easiest way to reduce your devices' impact on the enviroment is to use them longer, so use a resource such as &lt;a href="https://www.ifixit.com/"&gt;iFixit&lt;/a&gt; to investigate their longevity and repairability.&lt;/li&gt;
+&lt;li&gt; Many new convenient technologies, such as 5G and videoconferencing, come with increased data traffic, which means more carbon cost.&lt;/li&gt;
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;blockquote class="book-hint warning">
+&lt;blockquote class="book-hint warning"&gt;
  
-&lt;strong>Read:&lt;/strong> Bibliography and raw ideas can be found in this &lt;a href="https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en">Frameapad&lt;/a>.
+&lt;strong&gt;Read:&lt;/strong&gt; Bibliography and raw ideas can be found in this &lt;a href="https://semestriel.framapad.org/p/toolkit_decisiontree-9tho?lang=en"&gt;Frameapad&lt;/a&gt;.
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;h2 id="using-digital-devices-in-general">
+&lt;h2 id="using-digital-devices-in-general"&gt;
  Using digital devices in general
- &lt;a class="anchor" href="#using-digital-devices-in-general">#&lt;/a>
-&lt;/h2>
-&lt;p>&lt;strong>Device lifecycles&lt;/strong>&lt;/p></description></item><item><title>Advocating within your Institution</title><link>/toolkit/advocating-within-your-institution.html</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/advocating-within-your-institution.html</guid><description>&lt;h1 id="advocating-within-your-institution">
+ &lt;a class="anchor" href="#using-digital-devices-in-general"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Device lifecycles&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>Advocating within your Institution</title><link>/toolkit/advocating-within-your-institution.html</link><pubDate>Wed, 18 May 2022 00:00:00 +0000</pubDate><guid>/toolkit/advocating-within-your-institution.html</guid><description>&lt;h1 id="advocating-within-your-institution"&gt;
  Advocating within your institution
- &lt;a class="anchor" href="#advocating-within-your-institution">#&lt;/a>
-&lt;/h1>
-&lt;blockquote>
-&lt;p>&lt;em>Knowledge will never be able to&lt;br>
-replace respect in man&amp;rsquo;s dealings&lt;br>
-with ecological systems.&lt;/em>&lt;br>
-&lt;br>
-— Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)&lt;/p>&lt;/blockquote>
-&lt;h2 id="put-your-institution-in-context">
+ &lt;a class="anchor" href="#advocating-within-your-institution"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Knowledge will never be able to&lt;br&gt;
+replace respect in man&amp;rsquo;s dealings&lt;br&gt;
+with ecological systems.&lt;/em&gt;&lt;br&gt;
+&lt;br&gt;
+— Roy Rappaport, quoted in Steward Brand’s Cybernetic Frontiers (1974)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="put-your-institution-in-context"&gt;
  Put your institution in context
- &lt;a class="anchor" href="#put-your-institution-in-context">#&lt;/a>
-&lt;/h2>
-&lt;p>Our institutions are taking action. Most European universities have now set net zero targets and milestones, as part of broader sustainability strategies. They are integrating climate risks and opportunities into governance and strategy, and embedding climate change across their curriculums. Within institutions like these, advocacy is not about putting climate change on the agenda.&lt;/p></description></item><item><title>Climate Change FAQs</title><link>/toolkit/climate-change-faqs.html</link><pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate><guid>/toolkit/climate-change-faqs.html</guid><description>&lt;h1 id="climate-change-faqs">
+ &lt;a class="anchor" href="#put-your-institution-in-context"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Our institutions are taking action. Most European universities have now set net zero targets and milestones, as part of broader sustainability strategies. They are integrating climate risks and opportunities into governance and strategy, and embedding climate change across their curriculums. Within institutions like these, advocacy is not about putting climate change on the agenda.&lt;/p&gt;</description></item><item><title>Climate Change FAQs</title><link>/toolkit/climate-change-faqs.html</link><pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate><guid>/toolkit/climate-change-faqs.html</guid><description>&lt;h1 id="climate-change-faqs"&gt;
  Climate Change FAQs
- &lt;a class="anchor" href="#climate-change-faqs">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="1-how-does-climate-change-work">
+ &lt;a class="anchor" href="#climate-change-faqs"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="1-how-does-climate-change-work"&gt;
  1. How does climate change work?
- &lt;a class="anchor" href="#1-how-does-climate-change-work">#&lt;/a>
-&lt;/h2>
-&lt;p>Carbon and other greenhouse gases are released into the atmosphere (especially from burning fossil fuels like oil, gas, and coal). Some emissions are then safely removed again (e.g. absorbed by trees), but some hang around in the atmosphere. This traps the sun&amp;rsquo;s energy in our planetary climate, causing average planetary temperatures to rise (called global warming or global heating). The consequences already include wildfires, droughts, loss of soil moisture, famines, disease, heatwaves, loss of arctic ice and rising sea levels, ocean acidification, storms, floods, wildlife extinction, and more.&lt;/p></description></item><item><title>Teaching</title><link>/toolkit/teaching.html</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>/toolkit/teaching.html</guid><description>&lt;h1 id="teaching">
+ &lt;a class="anchor" href="#1-how-does-climate-change-work"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Carbon and other greenhouse gases are released into the atmosphere (especially from burning fossil fuels like oil, gas, and coal). Some emissions are then safely removed again (e.g. absorbed by trees), but some hang around in the atmosphere. This traps the sun&amp;rsquo;s energy in our planetary climate, causing average planetary temperatures to rise (called global warming or global heating). The consequences already include wildfires, droughts, loss of soil moisture, famines, disease, heatwaves, loss of arctic ice and rising sea levels, ocean acidification, storms, floods, wildlife extinction, and more.&lt;/p&gt;</description></item><item><title>Teaching</title><link>/toolkit/teaching.html</link><pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate><guid>/toolkit/teaching.html</guid><description>&lt;h1 id="teaching"&gt;
  Teaching
- &lt;a class="anchor" href="#teaching">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="workshops">
+ &lt;a class="anchor" href="#teaching"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;h2 id="workshops"&gt;
  Workshops
- &lt;a class="anchor" href="#workshops">#&lt;/a>
-&lt;/h2>
-&lt;h3 id="the-digital-sustainability-game">
+ &lt;a class="anchor" href="#workshops"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;h3 id="the-digital-sustainability-game"&gt;
  The Digital Sustainability Game
- &lt;a class="anchor" href="#the-digital-sustainability-game">#&lt;/a>
-&lt;/h3>
-&lt;p>This is a card-based game, loosely based on the contents of the DHCC Toolkit. A &lt;a href="https://github.com/SAS-DHRH/dhcc-toolkit/blob/main/static/2025-01_DHCC_Sustainability-Card-Game-Workshop.pdf">guide to running a DHCC Workshop based on the Sustainability Card Game can be viewed here&lt;/a>. The &lt;a href="https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link">cards can be viewed here&lt;/a>, and the &lt;a href="https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing">rules here&lt;/a>. Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we&amp;rsquo;ve played it with groups of 15-20 too. If you&amp;rsquo;d like your own copy of the card deck, &lt;a href="mailto:j.c.walton@sussex.ac.uk">get in touch&lt;/a>.&lt;/p></description></item><item><title>Case Studies</title><link>/toolkit/case-studies.html</link><pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><guid>/toolkit/case-studies.html</guid><description>&lt;h1 id="dhcc-case-studies">
+ &lt;a class="anchor" href="#the-digital-sustainability-game"&gt;#&lt;/a&gt;
+&lt;/h3&gt;
+&lt;p&gt;This is a card-based game, loosely based on the contents of the DHCC Toolkit. A &lt;a href="https://github.com/SAS-DHRH/dhcc-toolkit/blob/main/static/2025-01_DHCC_Sustainability-Card-Game-Workshop.pdf"&gt;guide to running a DHCC Workshop based on the Sustainability Card Game can be viewed here&lt;/a&gt;. The &lt;a href="https://drive.google.com/file/d/1VFoeZn7GrryuSp2gGgEWF4S6ALlhueNu/view?usp=drive_link"&gt;cards can be viewed here&lt;/a&gt;, and the &lt;a href="https://docs.google.com/document/d/1Wc1cLBB-Pwl8qLGnZ9X0qvcul0hCGmWxQf0iQAtJqCs/edit?usp=sharing"&gt;rules here&lt;/a&gt;. Players take the roles of organisations competing (and perhaps collaborating) to become more digitally sustainable. Two hours, and 3-10 participants, is about right, although it is flexible: we&amp;rsquo;ve played it with groups of 15-20 too. If you&amp;rsquo;d like your own copy of the card deck, &lt;a href="mailto:j.c.walton@sussex.ac.uk"&gt;get in touch&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Case Studies</title><link>/toolkit/case-studies.html</link><pubDate>Tue, 12 Dec 2023 00:00:00 +0000</pubDate><guid>/toolkit/case-studies.html</guid><description>&lt;h1 id="dhcc-case-studies"&gt;
  DHCC Case Studies
- &lt;a class="anchor" href="#dhcc-case-studies">#&lt;/a>
-&lt;/h1>
-&lt;blockquote class="book-hint warning">
+ &lt;a class="anchor" href="#dhcc-case-studies"&gt;#&lt;/a&gt;
+&lt;/h1&gt;
+&lt;blockquote class="book-hint warning"&gt;
  
 The first two case studies in what we hope will be a growing library.
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;h2 id="Hampshire-Cultural-Trust">
+&lt;h2 id="Hampshire-Cultural-Trust"&gt;
  Case Study 1: Hampshire Cultural Trust and Greenly
- &lt;a class="anchor" href="#Hampshire-Cultural-Trust">#&lt;/a>
-&lt;/h2>
-&lt;p>&lt;em>Josephine Lethbridge and Jo Lindsay Walton, November 2023&lt;/em>&lt;/p>
-&lt;blockquote class="book-hint info">
+ &lt;a class="anchor" href="#Hampshire-Cultural-Trust"&gt;#&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Josephine Lethbridge and Jo Lindsay Walton, November 2023&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote class="book-hint info"&gt;
  
-&lt;h3> Highlights &lt;/h3>
-&lt;li> GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.&lt;/li>
-&lt;li> Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.&lt;/li>
-&lt;li> Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.&lt;/li>
+&lt;h3&gt; Highlights &lt;/h3&gt;
+&lt;li&gt; GLAM sector organisations face many challenges in decarbonisation, including need for financial support to decarbonise, and expertise in carbon accounting and management planning.&lt;/li&gt;
+&lt;li&gt; Carbon accounting and management support needs to be offered accessibly and at scale, and there is a role for automated approaches to help this happen.&lt;/li&gt;
+&lt;li&gt; Interdisciplinary academic expertise, including fields like the digital humanities, AI ethics, critical data studies, and political ecology, can usefully inform the further development of carbon accounting platforms and tools.&lt;/li&gt;
 
-&lt;/blockquote>
+&lt;/blockquote&gt;
 
-&lt;p>&lt;strong>&lt;a href="https://www.hampshireculture.org.uk/">Hampshire Cultural Trust&lt;/a>&lt;/strong> (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.
+&lt;p&gt;&lt;strong&gt;&lt;a href="https://www.hampshireculture.org.uk/"&gt;Hampshire Cultural Trust&lt;/a&gt;&lt;/strong&gt; (HCT) is an independent charity that manages and supports visitor attractions, museums, art galleries and arts centres across the UK county of Hampshire. The trust runs a wide variety of workshops, classes, events and exhibitions, welcomes over 15,000 children every year to its immersive education programme, and runs projects with individuals, groups and communities that would otherwise not have access to culture. In addition, the trust cares for 2.5 million objects relating to Hampshire’s rich history. It employs around 140 staff and has over 400 volunteers.
 HCT has made a concerted effort to better understand and improve its environmental impact since 2019. Rolling, detailed action plans for the next 12 months have been developed, and a dedicated project team has been set up – 12-14 people from across the organisation, all of whom dedicate half a day per week to HCT’s environmental action.
-With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/">HEIF&lt;/a> grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong>&lt;a href="https://greenly.earth/en-gb">Greenly&lt;/a>&lt;/strong> (see below) as a project partner.&lt;/p></description></item></channel></rss>
+With the support of a small &lt;a href="https://www.ukri.org/what-we-do/our-main-funds-and-areas-of-support/browse-our-areas-of-investment-and-support/higher-education-innovation-fund/"&gt;HEIF&lt;/a&gt; grant via the University of Sussex, we — Josephine Lethbridge and Jo Lindsay Walton, with support from other DHCC members — were able to engage with HCT in 2023 to find out about their approach to decarbonisation and to offer support. This support included bringing in the carbon accounting platform &lt;strong&gt;&lt;a href="https://greenly.earth/en-gb"&gt;Greenly&lt;/a&gt;&lt;/strong&gt; (see below) as a project partner.&lt;/p&gt;</description></item></channel></rss>
