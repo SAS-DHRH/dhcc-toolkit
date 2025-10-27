@@ -99,6 +99,12 @@ Can you make sure your computation is done in a relatively [green data centre](h
 
 See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
 
+Here's an interesting very pretty checklist from the consulting firm Deloitte: [https://www.deloitte.com/uk/en/services/consulting/content/ai-carbon-footprint-calculator.html](AI Carbon Footprint Calculator)
+
+[CodeCarbon](https://codecarbon.io/) is a lightweight Python package that estimates CO₂ emissions from running code. It tracks CPU/GPU usage and grid carbon intensity automatically and integrates easily with machine-learning frameworks.
+
+See also: [experiment-impact-tracker](https://github.com/Breakend/experiment-impact-tracker/blob/master/README.md).
+
 Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
 
 >It's a good rule of thumb to switch to the most environmentally sustainable data centres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses.
