@@ -15,8 +15,8 @@ intensive work**, including working with AI, blockchains, and big data.
 <h2> Key Recommendations </h2>
 <li> Develop a clear understanding of when it is appropriate to use AI and distributed systems (e.g. blockchain) for your  opportunity, challenge, or research question.</li>
 <li> When you do need to use maximal computing, consider using less-intensive processes like using smaller models and adapting existing infrastructures.</li>
-<li> Understand how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.</li>
-<li> Consider doing an Algorithmic Impact Assessment before developing or making substantial use of an AI tool.</li>
+<li> Engage with sustainable software engineering best practices (e.g. Green Software Foundation, Green Web Foundation), and learn how to use efficiency metrics like T-scores, confusion matrices, accuracy, recall, Area under the ROC curve, LOGLOSS.</li>
+<li> Consider doing an AI Impact Assessment before developing or making substantial use of an AI tool.</li>
 <li> Engage critically with Big Tech, and examine the sustainability implications of mainstreaming deep learning AI in the future.</li>
 {{< /hint >}}
 
@@ -85,7 +85,7 @@ See the [webinar](https://media.bccampus.ca/media/FLO+FridayA+Climate+Conscious+
 
 ## Then it gets complicated
 
-Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
+There are various software engineer best practices resources out there, many of which are collected in [this repository by ITU](https://github.com/sustainable-software-guidelines/Sustainable-Software-Development/blob/main/README.md). They include resources from the Green Software Foundation and Green Web Foundation, as well as resources from AI giants themselves (e.g. Azure Well-Architected Framework).
 
 **1. Can it be deferred?**: Does this computational process really have to be done now? Could it be done in five years' time, when (if all goes according to plan) much more energy will be generated from renewable sources? Of course, research is often about winning the race, but maybe that's an attitude that needs to shift.
 
@@ -98,6 +98,8 @@ There are often sustainability benefits from outsourcing to the hyperscale data 
 Can you make sure your computation is done in a relatively [green data centre](https://www.thegreengrid.org/)? 
 
 See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
+
+Consider Model Architecture Efficiency: Explore sequence-to-sequence models instead of decoder-only models for similar tasks, as they tend to be slightly less energy- and carbon-intensive.
 
 >It's a good rule of thumb to switch to the most environmentally sustainable data centres you can. Of course, this is a complicated issue: as with any finite resource, when you use this clean energy, you may be preventing someone else from using it. The standard, upbeat answer is that switching to green data centres stimulates demand for more green data centres and more green energy to power and cool them. Yet the relationship between demand for green cloud services and global GHG emissions is far from straightforward. Green data centres don't pop up overnight in response to extra demand. Then there is the fact that the actual carbon intensity of a given datacentre can vary significantly based on time of day and the season of the year. Jevons' paradox might also be applicable: when technological progress increases the efficiency with which a resource is used, the rate of consumption of that resource sometimes increases, rather than decreasing. More broadly, degrowth and postgrowth may prove useful analytic lenses.
 
