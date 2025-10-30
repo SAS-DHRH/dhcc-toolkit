@@ -99,7 +99,7 @@ Can you make sure your computation is done in a relatively [green data centre](h
 
 See also the open source [Cloud Carbon Footprint](https://www.cloudcarbonfootprint.org/) tool and associated resources.
 
-Here's an interesting very pretty checklist from the consulting firm Deloitte: [https://www.deloitte.com/uk/en/services/consulting/content/ai-carbon-footprint-calculator.html](AI Carbon Footprint Calculator)
+Here's an interesting very pretty checklist from the consulting firm Deloitte: [AI Carbon Footprint Calculator](https://www.deloitte.com/uk/en/services/consulting/content/ai-carbon-footprint-calculator.html)
 
 [CodeCarbon](https://codecarbon.io/) is a lightweight Python package that estimates CO₂ emissions from running code. It tracks CPU/GPU usage and grid carbon intensity automatically and integrates easily with machine-learning frameworks.
 
