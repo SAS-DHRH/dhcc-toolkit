@@ -23,6 +23,8 @@ These cards can also be used in other learning activities. For example:
    
 2) Near the end of a workshop. In groups, pairs, or solo, invite participants to browse through the ACTION cards for inspiration of things they could actually do in their organisations. Choose a card, and then write SMART goals inspired by the card. The advice on the card will probably have to be adapted to the real world, and to individual circumstances.
 
+There is also now a beta version of the ['digital Digital' Sustainability Game](https://franciscrot.github.io/sustainability_game/).
+
 ## Examples
 
 ### Materialities of the Digital (University of Cambridge)
