@@ -41,7 +41,7 @@ If you have a specific question, check if it listed in the <a href="./toolkit/de
 
 <h2>Join the mailing list</h2>
   
-  If you'd like to be kept in the loop about DHCC activities, <a href="mailto:cdcs@ed.ac.uk">ask to be added to the email list</a>. We are holding regular informal conversations in 2024 to explore further developing the toolkit and other next steps.
+  If you'd like to be kept in the loop about DHCC activities, <a href="mailto:cdcs@ed.ac.uk">ask to be added to the email list</a>. We hold regular informal conversations in our community calls to explore further developments in the toolkit and other next steps.
 
 <h2> Digital Humanities and the Climate Crisis: A Manifesto</h2>
 
