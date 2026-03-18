@@ -77,7 +77,7 @@ The Digital Humanities Climate Coalition is a Community Interest Group of the <a
 
 <--->
 
-<img src="https://digitalhumanities-uk-ie.org/wp-content/uploads/sites/2/2023/06/UK-IE-DHA-Logo-w-Text-1.png" style="width: 50%;">
+<img src="https://digitalhumanities-uk-ie.org/wp-content/uploads/sites/2/2023/06/UK-IE-DHA-Logo-w-Text-1.png" style="width: 75%;">
 
 {{</columns>}}
 
