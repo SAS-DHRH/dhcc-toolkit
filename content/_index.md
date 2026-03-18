@@ -74,7 +74,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 The Digital Humanities Climate Coalition is a Community Interest Group of the <a href="https://digitalhumanities-uk-ie.org/community-interest-groups/digital-humanities-climate-coalition/">UK-Ireland DH Association</a>. "The Association builds on existing research conducted by the partner institutions and brings together different stakeholders to consider and interrogate critically the concepts of sustainability, inclusivity, training, advocacy and career progression, among other key questions. Institutions and individuals engaged with the Association, across the UK and Ireland, will work to further develop a collaborative vision for the field, and create new and sustainable long-term partnerships with the international community."
 <br>
-<img src="https://digitalhumanities-uk-ie.org/wp-content/uploads/sites/2/2023/06/UK-IE-DHA-Logo-w-Text-1.png">
+<img src="https://digitalhumanities-uk-ie.org/wp-content/uploads/sites/2/2023/06/UK-IE-DHA-Logo-w-Text-1.png" style="width: 50%;">
 
 {{</columns>}}
 
