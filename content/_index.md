@@ -55,9 +55,9 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 
 <h2> DHCC Publications </h2>
 
-<li><a href="https://zenodo.org/records/19001739">DHCC Project Self-Assessment Tool (v1.0)</a> (2026) supports Digital Humanities practitioners, researchers, technicians, curators, software engineers, and related professionals seeking to embed environmental sustainability into their project design, delivery, and reporting.</li>
+<li><a href="https://zenodo.org/records/19004251">DHCC Project Self-Assessment Tool (v1.0)</a> (2026) supports Digital Humanities practitioners, researchers, technicians, curators, software engineers, and related professionals seeking to embed environmental sustainability into their project design, delivery, and reporting.</li>
 
-<li><a href="https://zenodo.org/records/15312177">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a> (2025; updated 2026) offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.</li>
+<li><a href="https://zenodo.org/records/19001739">Intepreting UKRI Guidance on Environmental Sustainability for the Digital Humanities</a> (2026; see the <a href=" https://zenodo.org/records/15312177">2025 version here</a>) offers a series of interpretations of existing guidance on research practice and points to advice on how to operationalise sustainable practice in Digital Humanities research.</li>
 
 <li><a href="https://doi.org/10.5281/zenodo.13850067">The Cloud and the Climate: Navigating AI-Powered Futures</a> (2024) is a comprehensive overview of the state of AI and the cloud in relation to climate change. </li>
 
@@ -66,7 +66,7 @@ Members of the DHCC have given talks and workshops related to this toolkit in va
 <br/>
 <br/>
 <br/>
-<img src="beekeeper.jpg" alt="beekeeper">
+<img src="beekeeper.jpg" style="width: 75%;" alt="beekeeper">
 
 {{</columns>}}
 
