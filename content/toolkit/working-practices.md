@@ -253,7 +253,7 @@ If you are passing on the outputs of your work to a different steward (or reposi
   
 ## Travel {#travel}
 
-Travel is a huge topic. There is plenty of guidance for academics out there, such as the [Flying Less in Academia Resource Guide](http://flyinglessresourceguide.info/). More resources are linked to below. The carbon cost of flying is notorious, so it is worth putting it in perspective: globally, flying makes a far smaller impact than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easy to cut down on. 
+Travel is a huge topic. There is plenty of guidance for academics out there, such as the [Flying Less in Academia Resource Guide](https://flyingless.de/en/). More resources are linked to below. The carbon cost of flying is notorious, so it is worth putting it in perspective: globally, flying makes a far smaller impact than agriculture and forestry, or heating and lighting buildings, or road transport. But it is not insignificant, and it is an area that is comparatively easy to cut down on. 
 
 Moratoriums on non-essential travel can be a good way for an institution to show how serious they are on climate transition. The more boldly they define 'non-essential,' the more serious they are.
 
