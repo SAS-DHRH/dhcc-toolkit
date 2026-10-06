@@ -33,7 +33,7 @@ menu:
   # before: []
   after:
     - name: "About DHCC ->"
-      url: "https://www.cdcs.ed.ac.uk/digital-humanities-climate-coalition"
+      url: "https://efi.ed.ac.uk/ecosystem/digital-humanities-climate-coalition/"
       weight: 10
     - name: "Github"
       url: "https://github.com/SAS-DHRH/dhcc-toolkit"
