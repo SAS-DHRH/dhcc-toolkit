@@ -41,7 +41,7 @@ If you have a specific question, check if it listed in the <a href="./toolkit/de
 
 <h2>Join the mailing list</h2>
   
-  If you'd like to be kept in the loop about DHCC activities, <a href="mailto:cdcs@ed.ac.uk">ask to be added to the email list</a>. We hold regular informal conversations in our community calls to explore further developments in the toolkit and other next steps.
+  If you'd like to be kept in the loop about DHCC activities, <a href="mailto:efi.innovation@ed.ac.uk">ask to be added to the email list</a>. We hold regular informal conversations in our community calls to explore further developments in the toolkit and other next steps.
 
 <h2> Digital Humanities and the Climate Crisis: A Manifesto</h2>
 
@@ -49,7 +49,7 @@ If you have a specific question, check if it listed in the <a href="./toolkit/de
 
 <h2> Workshops and Talks</h2>
 
-Members of the DHCC have given talks and workshops related to this toolkit in various contexts including <a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html">DH Benelux</a>, the Norwegian Technical University, the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, <a href="mailto:j.c.walton@sussex.ac.uk">Jo Lindsay Walton</a>, James Baker, <a href="mailto:christopher.ohge@sas.ac.uk">Christopher Ohge</a>, or Lisa Otty.
+Members of the DHCC have given talks and workshops related to this toolkit in various contexts including <a href="https://sas-dhrh.github.io/dhcc-toolkit/toolkit/case-studies.html">DH Benelux</a>, the Norwegian Technical University, the British Library, National Library of Scotland, the Canadian Health Libraries Association, and the National Archives. If your organisation is interested in finding out more, contact one of the coordinators, <a href="mailto:j.c.walton@sussex.ac.uk">Jo Lindsay Walton</a>, <a href="mailto:j.w.baker@soton.ac.uk">James Baker</a>, <a href="mailto:christopher.ohge@sas.ac.uk">Christopher Ohge</a>, or Lisa Otty.
 
 <--->
 
